@@ -7,7 +7,7 @@
  */
 import { ApiError } from './api.js';
 
-const TIMEOUT_MS = 20_000;
+const TIMEOUT_MS = 60_000;
 
 async function request(path, { method = 'GET', body, signal } = {}) {
   const controller = new AbortController();

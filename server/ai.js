@@ -14,7 +14,7 @@ export const MAX_HISTORY = 12;
 export const MAX_MESSAGE_CHARS = 1200;
 export const MAX_SCENARIO_CHARS = 160;
 export const MAX_REPLY_CHARS = 1500;
-export const REQUEST_TIMEOUT_MS = 15_000;
+export const REQUEST_TIMEOUT_MS = 45_000;
 
 // Explicit delimiters for untrusted learner scenario text. The scenario is
 // quoted data, never instructions. Angle brackets are stripped from the input
