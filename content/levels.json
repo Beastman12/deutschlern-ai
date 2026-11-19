@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-11-13",
+  "levels": [
+    {
+      "id": "a1",
+      "code": "A1",
+      "name": "Beginner",
+      "title": "First Words, First Confidence",
+      "tagline": "Introduce yourself, ask simple questions and master the everyday basics.",
+      "color": "indigo",
+      "hours": 90
+    },
+    {
+      "id": "a2",
+      "code": "A2",
+      "name": "Elementary",
+      "title": "Everyday Life in German",
+      "tagline": "Talk about your past, make appointments and handle daily situations.",
+      "color": "sky",
+      "hours": 110
+    },
+    {
+      "id": "b1",
+      "code": "B1",
+      "name": "Intermediate",
+      "title": "Independent and Understood",
+      "tagline": "Share opinions, tell stories and cope confidently with most situations.",
+      "color": "teal",
+      "hours": 130
+    },
+    {
+      "id": "b2",
+      "code": "B2",
+      "name": "Upper Intermediate",
+      "title": "Argue, Present, Persuade",
+      "tagline": "Work, study and debate in German with fluency and nuance.",
+      "color": "amber",
+      "hours": 150
+    },
+    {
+      "id": "c1",
+      "code": "C1",
+      "name": "Advanced",
+      "title": "Fluent, Flexible, Precise",
+      "tagline": "Use German academically and professionally with control and style.",
+      "color": "rose",
+      "hours": 170
+    },
+    {
+      "id": "c2",
+      "code": "C2",
+      "name": "Proficiency",
+      "title": "German at Its Full Range",
+      "tagline": "Move between registers, irony and precision like a native speaker.",
+      "color": "violet",
+      "hours": 190
+    }
+  ]
+}

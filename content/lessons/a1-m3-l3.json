@@ -1,0 +1,652 @@
+{
+  "id": "a1-m3-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "a1-m3-l3-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "a1-m3-l3",
+      "prompt": "Say three things that are not yours, then one thing that is.",
+      "items": [
+        "Das ist nicht mein Schlüssel.",
+        "nicht",
+        "kein",
+        "mein"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "a1-m3-l3-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "a1-m3-l3",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "a1-m3-l3-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "a1-m3-l3",
+      "lede": "German has two common ways to say no: nicht and kein.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Use nicht to negate a verb, an adjective or a whole statement: Ich arbeite nicht. Das ist nicht mein Schlüssel. Use kein before a noun that has ein or no article: Ich habe kein Geld."
+        },
+        {
+          "kind": "p",
+          "text": "Possessive articles work like ein: mein, dein, sein and ihr take the same endings. Before a feminine noun they add -e (meine Schwester), and before a plural noun they add -e as well (meine Bücher)."
+        },
+        {
+          "kind": "note",
+          "title": "Quick decision",
+          "text": "If the noun would use ein, negate it with kein. If you are negating anything else, use nicht."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l3-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "a1-m3-l3",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "nicht + verb/adjective",
+              "Ich komme nicht. Das ist nicht teuer."
+            ],
+            [
+              "kein before a noun with ein",
+              "Ich habe keinen Hund."
+            ],
+            [
+              "mein / dein + noun",
+              "Das ist mein Schlüssel."
+            ],
+            [
+              "meine / deine + feminine or plural",
+              "Meine Schwester ist hier."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "kein takes the same endings as ein: kein, keine, keinen.",
+            "Nicht usually goes near the end of the sentence, before an adjective or infinitive.",
+            "Mein and dein belong to the speaker and the person spoken to."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l3-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "a1-m3-l3",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "nicht",
+          "en": "not",
+          "example": "Das ist nicht mein Schlüssel.",
+          "exampleEn": "That is not my key."
+        },
+        {
+          "de": "kein",
+          "en": "no / not a",
+          "example": "Ich habe kein Geld.",
+          "exampleEn": "I have no money."
+        },
+        {
+          "de": "mein",
+          "en": "my",
+          "example": "Mein Bruder wohnt in Berlin.",
+          "exampleEn": "My brother lives in Berlin."
+        },
+        {
+          "de": "dein",
+          "en": "your (informal)",
+          "example": "Ist das dein Handy?",
+          "exampleEn": "Is that your phone?"
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l3-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "a1-m3-l3",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Das ist nicht mein Schlüssel.",
+          "en": "That is not my key.",
+          "note": "Nicht negates the whole identification."
+        },
+        {
+          "de": "Ich habe keine Zeit.",
+          "en": "I have no time.",
+          "note": "Zeit is feminine, so kein becomes keine."
+        },
+        {
+          "de": "Meine Schwester ist Lehrerin.",
+          "en": "My sister is a teacher.",
+          "note": "Meine agrees with the feminine noun."
+        },
+        {
+          "de": "Ist das dein Buch?",
+          "en": "Is that your book?",
+          "note": "Buch is neuter, so dein has no ending."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l3-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "a1-m3-l3",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "nicht",
+          "hint": "The ch is soft after i. Keep the vowel short."
+        },
+        {
+          "de": "kein",
+          "hint": "The ei sounds like \"eye\": kine."
+        },
+        {
+          "de": "meine",
+          "hint": "Two syllables: MY-ne, with a clear final -e."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l3-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "a1-m3-l3",
+      "heading": "Saying no politely",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A bare \"Nein\" can sound abrupt in shops and offices. A short explanation softens it: \"Nein, danke\" or \"Das habe ich leider nicht\"."
+        },
+        {
+          "kind": "p",
+          "text": "In Germany, directness is often valued, but politeness still matters. Adding \"leider\" (unfortunately) makes a refusal feel less personal."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l3-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "a1-m3-l3",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "At the lost-property desk, Ben cannot find his key.",
+      "lines": [
+        {
+          "speaker": "Ben",
+          "de": "Guten Tag, ich habe meinen Schlüssel verloren.",
+          "en": "Hello, I have lost my key."
+        },
+        {
+          "speaker": "Mitarbeiterin",
+          "de": "Ist das Ihr Schlüssel?",
+          "en": "Is this your key?"
+        },
+        {
+          "speaker": "Ben",
+          "de": "Nein, das ist nicht mein Schlüssel.",
+          "en": "No, that is not my key."
+        },
+        {
+          "speaker": "Mitarbeiterin",
+          "de": "Kein Problem. Wir haben noch einen anderen.",
+          "en": "No problem. We have another one."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l3-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "a1-m3-l3",
+      "heading": "Nicht or kein?",
+      "lede": "Choose the negation that matches what you are saying no to.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "nicht",
+              "Negates a verb, adjective or statement: Ich schlafe nicht."
+            ],
+            [
+              "kein",
+              "Negates a noun with ein or no article: Ich habe kein Auto."
+            ],
+            [
+              "mein / dein",
+              "Possessive before masculine or neuter nouns: mein Hund, dein Buch."
+            ],
+            [
+              "meine / deine",
+              "Possessive before feminine or plural nouns: meine Tasche, deine Bücher."
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "The negative article kein changes in the accusative just like ein: Ich habe keinen Hund."
+        }
+      ],
+      "tip": "Do not use \"nicht ein\". German says kein: Ich habe kein Geld, not Ich habe nicht ein Geld."
+    },
+    {
+      "id": "a1-m3-l3-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "a1-m3-l3",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "a1-m3-l3-p-m1",
+          "type": "mcq",
+          "prompt": "Ich habe ___ Zeit.",
+          "options": [
+            "nicht",
+            "kein",
+            "keine",
+            "nichten"
+          ],
+          "answer": 2,
+          "explanation": "Zeit is feminine, so the negative article is keine."
+        },
+        {
+          "id": "a1-m3-l3-p-m2",
+          "type": "mcq",
+          "prompt": "Das ist ___ mein Schlüssel.",
+          "options": [
+            "kein",
+            "nicht",
+            "keine",
+            "nein"
+          ],
+          "answer": 1,
+          "explanation": "Here you are negating the statement, not a noun with ein, so use nicht."
+        },
+        {
+          "id": "a1-m3-l3-p-m3",
+          "type": "mcq",
+          "prompt": "___ Schwester wohnt in Hamburg.",
+          "options": [
+            "Mein",
+            "Meine",
+            "Meinen",
+            "Meines"
+          ],
+          "answer": 1,
+          "explanation": "Schwester is feminine, so mein takes the ending -e."
+        },
+        {
+          "id": "a1-m3-l3-p-m4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Ich habe nicht Auto.",
+            "Ich habe kein Auto.",
+            "Ich habe keine Auto.",
+            "Ich habe nicht ein Auto."
+          ],
+          "answer": 1,
+          "explanation": "Auto is neuter and has no article here, so use kein Auto."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l3-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "a1-m3-l3",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "a1-m3-l3-p-g1",
+          "type": "gap",
+          "prompt": "Ich habe ___ Geld.",
+          "answers": [
+            "kein"
+          ],
+          "explanation": "Geld is neuter, so the negative article is kein."
+        },
+        {
+          "id": "a1-m3-l3-p-g2",
+          "type": "gap",
+          "prompt": "Das ist ___ mein Handy.",
+          "answers": [
+            "nicht"
+          ],
+          "explanation": "The statement is negated, so use nicht."
+        },
+        {
+          "id": "a1-m3-l3-p-g3",
+          "type": "gap",
+          "prompt": "___ Bruder ist zehn Jahre alt.",
+          "answers": [
+            "Mein"
+          ],
+          "explanation": "Bruder is masculine, so mein has no ending."
+        },
+        {
+          "id": "a1-m3-l3-p-g4",
+          "type": "gap",
+          "prompt": "Ist das ___ Tasche? (your)",
+          "answers": [
+            "deine"
+          ],
+          "explanation": "Tasche is feminine, so dein becomes deine."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l3-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "a1-m3-l3",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "a1-m3-l3-p-o1",
+          "type": "order",
+          "prompt": "Build: “That is not my key.”",
+          "tokens": [
+            "nicht",
+            "Das",
+            "mein",
+            "ist",
+            "Schlüssel"
+          ],
+          "answer": "Das ist nicht mein Schlüssel.",
+          "explanation": "Nicht comes after the verb and before the possessive phrase."
+        },
+        {
+          "id": "a1-m3-l3-p-o2",
+          "type": "order",
+          "prompt": "Build: “I have no time.”",
+          "tokens": [
+            "keine",
+            "habe",
+            "Ich",
+            "Zeit"
+          ],
+          "answer": "Ich habe keine Zeit.",
+          "explanation": "Keine agrees with the feminine noun Zeit."
+        },
+        {
+          "id": "a1-m3-l3-p-o3",
+          "type": "order",
+          "prompt": "Build: “Is that your book?”",
+          "tokens": [
+            "dein",
+            "das",
+            "Ist",
+            "Buch"
+          ],
+          "answer": "Ist das dein Buch?",
+          "explanation": "A yes/no question begins with the verb."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l3-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "a1-m3-l3",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Im Büro",
+      "script": [
+        {
+          "speaker": "Frau Klein",
+          "de": "Haben Sie meinen Schlüssel gesehen?",
+          "en": "Have you seen my key?"
+        },
+        {
+          "speaker": "Herr Lang",
+          "de": "Nein, leider nicht. Ist das Ihr Schlüssel?",
+          "en": "No, unfortunately not. Is this your key?"
+        },
+        {
+          "speaker": "Frau Klein",
+          "de": "Nein, das ist nicht mein Schlüssel.",
+          "en": "No, that is not my key."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a1-m3-l3-l1",
+          "type": "mcq",
+          "prompt": "What is Frau Klein looking for?",
+          "options": [
+            "Her phone",
+            "Her key",
+            "Her bag",
+            "Her book"
+          ],
+          "answer": 1,
+          "explanation": "She asks about \"meinen Schlüssel\", her key."
+        },
+        {
+          "id": "a1-m3-l3-l2",
+          "type": "mcq",
+          "prompt": "Does the key belong to her?",
+          "options": [
+            "Yes",
+            "No",
+            "She is not sure",
+            "It belongs to Herr Lang"
+          ],
+          "answer": 1,
+          "explanation": "She says \"Das ist nicht mein Schlüssel\", so it is not hers."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l3-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "a1-m3-l3",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Say two things you do not have and one thing that is yours.",
+      "model": {
+        "de": "Ich habe kein Auto. Ich habe keine Zeit. Das ist mein Fahrrad.",
+        "en": "I have no car. I have no time. That is my bicycle."
+      },
+      "tips": [
+        "Use kein before the noun and check its gender.",
+        "Use nicht when you negate a verb: Ich arbeite nicht.",
+        "Say the three sentences without stopping, then listen to the model."
+      ]
+    },
+    {
+      "id": "a1-m3-l3-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "a1-m3-l3",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Ich habe nicht Zeit.",
+          "right": "Ich habe keine Zeit.",
+          "why": "Zeit is a noun with no article, so negate it with keine."
+        },
+        {
+          "wrong": "Ich habe nicht ein Auto.",
+          "right": "Ich habe kein Auto.",
+          "why": "German uses kein, not nicht ein."
+        },
+        {
+          "wrong": "Mein Schwester ist hier.",
+          "right": "Meine Schwester ist hier.",
+          "why": "Schwester is feminine, so mein needs the ending -e."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l3-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "a1-m3-l3",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "a1-m3-l3-a1",
+          "type": "mcq",
+          "prompt": "Ich habe ___ Zeit.",
+          "options": [
+            "nicht",
+            "kein",
+            "keine",
+            "nichten"
+          ],
+          "answer": 2,
+          "explanation": "Zeit is feminine, so the negative article is keine."
+        },
+        {
+          "id": "a1-m3-l3-a2",
+          "type": "mcq",
+          "prompt": "Das ist ___ mein Schlüssel.",
+          "options": [
+            "kein",
+            "nicht",
+            "keine",
+            "nein"
+          ],
+          "answer": 1,
+          "explanation": "Here you are negating the statement, not a noun with ein, so use nicht."
+        },
+        {
+          "id": "a1-m3-l3-a3",
+          "type": "mcq",
+          "prompt": "___ Schwester wohnt in Hamburg.",
+          "options": [
+            "Mein",
+            "Meine",
+            "Meinen",
+            "Meines"
+          ],
+          "answer": 1,
+          "explanation": "Schwester is feminine, so mein takes the ending -e."
+        },
+        {
+          "id": "a1-m3-l3-a4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Ich habe nicht Auto.",
+            "Ich habe kein Auto.",
+            "Ich habe keine Auto.",
+            "Ich habe nicht ein Auto."
+          ],
+          "answer": 1,
+          "explanation": "Auto is neuter and has no article here, so use kein Auto."
+        },
+        {
+          "id": "a1-m3-l3-a5",
+          "type": "gap",
+          "prompt": "Ich habe ___ Geld.",
+          "answers": [
+            "kein"
+          ],
+          "explanation": "Geld is neuter, so the negative article is kein."
+        },
+        {
+          "id": "a1-m3-l3-a6",
+          "type": "gap",
+          "prompt": "Das ist ___ mein Handy.",
+          "answers": [
+            "nicht"
+          ],
+          "explanation": "The statement is negated, so use nicht."
+        },
+        {
+          "id": "a1-m3-l3-a7",
+          "type": "gap",
+          "prompt": "___ Bruder ist zehn Jahre alt.",
+          "answers": [
+            "Mein"
+          ],
+          "explanation": "Bruder is masculine, so mein has no ending."
+        },
+        {
+          "id": "a1-m3-l3-a8",
+          "type": "gap",
+          "prompt": "Ist das ___ Tasche? (your)",
+          "answers": [
+            "deine"
+          ],
+          "explanation": "Tasche is feminine, so dein becomes deine."
+        },
+        {
+          "id": "a1-m3-l3-a9",
+          "type": "order",
+          "prompt": "Build: “That is not my key.”",
+          "tokens": [
+            "nicht",
+            "Das",
+            "mein",
+            "ist",
+            "Schlüssel"
+          ],
+          "answer": "Das ist nicht mein Schlüssel.",
+          "explanation": "Nicht comes after the verb and before the possessive phrase."
+        },
+        {
+          "id": "a1-m3-l3-a10",
+          "type": "order",
+          "prompt": "Build: “I have no time.”",
+          "tokens": [
+            "keine",
+            "habe",
+            "Ich",
+            "Zeit"
+          ],
+          "answer": "Ich habe keine Zeit.",
+          "explanation": "Keine agrees with the feminine noun Zeit."
+        }
+      ]
+    }
+  ]
+}

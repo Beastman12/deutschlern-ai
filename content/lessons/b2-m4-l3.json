@@ -1,0 +1,718 @@
+{
+  "id": "b2-m4-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "b2-m4-l3-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "b2-m4-l3",
+      "prompt": "Turn “the progress of science is important” into one compact noun phrase in German.",
+      "items": [
+        "Die Bedeutung des wissenschaftlichen Fortschritts ist unumstritten.",
+        "die Bedeutung des Fortschritts",
+        "der Betroffene",
+        "die Studierenden"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "b2-m4-l3-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "b2-m4-l3",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "b2-m4-l3-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "b2-m4-l3",
+      "lede": "Genitive phrases and nominalised adjectives compress information — useful in reports, dangerous in excess.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "The genitive shows possession or a close relationship: die Bedeutung des Fortschritts, die Ergebnisse der Studie. In formal German, genitive chains can become long: die Bedeutung des wissenschaftlichen Fortschritts für die Gesellschaft."
+        },
+        {
+          "kind": "p",
+          "text": "Adjectives can be used as nouns: der Betroffene, die Studierenden, das Wichtigste. They take adjective endings and are written with a capital letter. Learn the plural forms, because they are common in reports and official texts."
+        },
+        {
+          "kind": "note",
+          "title": "Compression has a cost",
+          "text": "A long noun phrase can be precise, but it hides the action. If the reader needs to know who does what, use a verb."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l3-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "b2-m4-l3",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "genitive",
+              "die Bedeutung des Fortschritts"
+            ],
+            [
+              "genitive plural",
+              "die Ergebnisse der Studien"
+            ],
+            [
+              "adjective noun",
+              "der Betroffene, die Studierenden"
+            ],
+            [
+              "formal preposition",
+              "aufgrund der Ergebnisse"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Masculine and neuter nouns take -s or -es in the genitive: des Fortschritts, des Projekts.",
+            "Feminine and plural nouns have no genitive ending: der Studie, der Studien.",
+            "Adjective nouns follow adjective endings: ein Betroffener, die Betroffenen."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l3-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "b2-m4-l3",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "die Bedeutung des Fortschritts",
+          "en": "the significance of progress",
+          "article": "die",
+          "example": "Die Bedeutung des wissenschaftlichen Fortschritts ist unumstritten.",
+          "exampleEn": "The significance of scientific progress is undisputed."
+        },
+        {
+          "de": "der Betroffene",
+          "en": "the person affected",
+          "article": "der",
+          "plural": "die Betroffenen",
+          "example": "Die Betroffenen erhalten Unterstützung.",
+          "exampleEn": "The people affected receive support."
+        },
+        {
+          "de": "die Studierenden",
+          "en": "students",
+          "article": "die",
+          "example": "Die Studierenden haben Zugang zur Bibliothek.",
+          "exampleEn": "The students have access to the library."
+        },
+        {
+          "de": "aufgrund",
+          "en": "because of, on the basis of",
+          "example": "Aufgrund der Ergebnisse wird die Maßnahme verlängert.",
+          "exampleEn": "Because of the results, the measure is extended."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l3-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "b2-m4-l3",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Die Bedeutung des wissenschaftlichen Fortschritts ist unumstritten.",
+          "en": "The significance of scientific progress is undisputed.",
+          "note": "Genitive chain: des wissenschaftlichen Fortschritts."
+        },
+        {
+          "de": "Die Ergebnisse der Studie wurden veröffentlicht.",
+          "en": "The results of the study were published.",
+          "note": "Feminine genitive: der Studie."
+        },
+        {
+          "de": "Die Betroffenen erhalten finanzielle Unterstützung.",
+          "en": "The people affected receive financial support.",
+          "note": "Betroffene is an adjective used as a noun."
+        },
+        {
+          "de": "Aufgrund der neuen Regelung müssen wir den Plan ändern.",
+          "en": "Because of the new regulation, we have to change the plan.",
+          "note": "Aufgrund is a formal preposition with the genitive."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l3-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "b2-m4-l3",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "des Fortschritts",
+          "hint": "The tt is short and sharp: des FORT-shrits."
+        },
+        {
+          "de": "die Studierenden",
+          "hint": "Stress the second syllable: shtu-DEE-ren-den."
+        },
+        {
+          "de": "aufgrund",
+          "hint": "The au sounds like “ow”: OWF-grunt."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l3-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "b2-m4-l3",
+      "heading": "Nominal style in German",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German official and academic texts use nominal style heavily: “die Durchführung der Maßnahme”, “die Berücksichtigung der Ergebnisse”. Learners often find it dense, but recognising the pattern makes long texts manageable."
+        },
+        {
+          "kind": "p",
+          "text": "Good writers balance noun phrases with verbs. A report that contains only nominalisations is hard to read, even for native speakers."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l3-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "b2-m4-l3",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "Two researchers discuss a report sentence.",
+      "lines": [
+        {
+          "speaker": "Forscherin",
+          "de": "Dieser Satz ist zu lang. Können wir ihn teilen?",
+          "en": "This sentence is too long. Can we split it?"
+        },
+        {
+          "speaker": "Kollege",
+          "de": "Ja. Die Bedeutung des Fortschritts ist der Kern.",
+          "en": "Yes. The significance of progress is the core."
+        },
+        {
+          "speaker": "Forscherin",
+          "de": "Und wer sind die Betroffenen?",
+          "en": "And who are the people affected?"
+        },
+        {
+          "speaker": "Kollege",
+          "de": "Die von der Reform betroffenen Personen. Das ist präziser.",
+          "en": "The people affected by the reform. That is more precise."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l3-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "b2-m4-l3",
+      "heading": "Genitive and adjective nouns",
+      "lede": "Genitive phrases and nominalised adjectives compress information.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "des Fortschritts",
+              "masculine genitive with -s"
+            ],
+            [
+              "der Studie",
+              "feminine genitive, no ending"
+            ],
+            [
+              "der Betroffene",
+              "adjective noun, masculine"
+            ],
+            [
+              "die Studierenden",
+              "adjective noun, plural"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Adjective nouns are declined like adjectives: ein Betroffener (nominative), den Betroffenen (accusative), der Betroffenen (genitive plural)."
+        }
+      ],
+      "tip": "Decode long noun phrases from the last noun backwards: die Bedeutung [des wissenschaftlichen Fortschritts] → the significance of scientific progress."
+    },
+    {
+      "id": "b2-m4-l3-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "b2-m4-l3",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "b2-m4-l3-p-m1",
+          "type": "mcq",
+          "prompt": "Die Bedeutung ___ Fortschritts ist unumstritten.",
+          "options": [
+            "der",
+            "des",
+            "dem",
+            "den"
+          ],
+          "answer": 1,
+          "explanation": "Fortschritt is masculine, so the genitive article is des."
+        },
+        {
+          "id": "b2-m4-l3-p-m2",
+          "type": "mcq",
+          "prompt": "Die Ergebnisse ___ Studie wurden veröffentlicht.",
+          "options": [
+            "der",
+            "des",
+            "die",
+            "den"
+          ],
+          "answer": 0,
+          "explanation": "Studie is feminine, so the genitive article is der."
+        },
+        {
+          "id": "b2-m4-l3-p-m3",
+          "type": "mcq",
+          "prompt": "Die ___ erhalten Unterstützung.",
+          "options": [
+            "Betroffene",
+            "Betroffenen",
+            "Betroffener",
+            "Betroffenes"
+          ],
+          "answer": 1,
+          "explanation": "The plural adjective noun after die takes -en."
+        },
+        {
+          "id": "b2-m4-l3-p-m4",
+          "type": "mcq",
+          "prompt": "Which sentence uses a genitive phrase?",
+          "options": [
+            "Die Studie ist wichtig.",
+            "Die Ergebnisse der Studie sind wichtig.",
+            "Die Studie hat Ergebnisse.",
+            "Wir lesen die Studie."
+          ],
+          "answer": 1,
+          "explanation": "Der Studie is a genitive phrase modifying Ergebnisse."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l3-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "b2-m4-l3",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "b2-m4-l3-p-g1",
+          "type": "gap",
+          "prompt": "Die Bedeutung ___ Fortschritts ist unumstritten.",
+          "answers": [
+            "des"
+          ],
+          "explanation": "Fortschritt is masculine, so the genitive article is des."
+        },
+        {
+          "id": "b2-m4-l3-p-g2",
+          "type": "gap",
+          "prompt": "Die Ergebnisse ___ Studie wurden veröffentlicht.",
+          "answers": [
+            "der"
+          ],
+          "explanation": "Studie is feminine, so the genitive article is der."
+        },
+        {
+          "id": "b2-m4-l3-p-g3",
+          "type": "gap",
+          "prompt": "Die ___ erhalten Unterstützung. (affected people)",
+          "answers": [
+            "Betroffenen"
+          ],
+          "explanation": "The plural adjective noun after die takes -en."
+        },
+        {
+          "id": "b2-m4-l3-p-g4",
+          "type": "gap",
+          "prompt": "___ der Ergebnisse wird die Maßnahme verlängert.",
+          "answers": [
+            "Aufgrund"
+          ],
+          "explanation": "Aufgrund means because of and takes the genitive."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l3-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "b2-m4-l3",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "b2-m4-l3-p-o1",
+          "type": "order",
+          "prompt": "Build: “The significance of scientific progress is undisputed.”",
+          "tokens": [
+            "des",
+            "Die",
+            "wissenschaftlichen",
+            "Bedeutung",
+            "Fortschritts",
+            "ist",
+            "unumstritten."
+          ],
+          "answer": "Die Bedeutung des wissenschaftlichen Fortschritts ist unumstritten.",
+          "explanation": "The genitive phrase sits between the noun and the verb."
+        },
+        {
+          "id": "b2-m4-l3-p-o2",
+          "type": "order",
+          "prompt": "Build: “The results of the study were published.”",
+          "tokens": [
+            "der",
+            "Die",
+            "Studie",
+            "Ergebnisse",
+            "wurden",
+            "veröffentlicht."
+          ],
+          "answer": "Die Ergebnisse der Studie wurden veröffentlicht.",
+          "explanation": "Der Studie is the feminine genitive."
+        },
+        {
+          "id": "b2-m4-l3-p-o3",
+          "type": "order",
+          "prompt": "Build: “The people affected receive support.”",
+          "tokens": [
+            "Unterstützung.",
+            "Die",
+            "Betroffenen",
+            "erhalten"
+          ],
+          "answer": "Die Betroffenen erhalten Unterstützung.",
+          "explanation": "Betroffenen is an adjective noun in the plural."
+        },
+        {
+          "id": "b2-m4-l3-p-o4",
+          "type": "order",
+          "prompt": "Build: “Because of the new regulation, we must change the plan.”",
+          "tokens": [
+            "der",
+            "Aufgrund",
+            "neuen",
+            "Regelung",
+            "müssen",
+            "wir",
+            "den",
+            "Plan",
+            "ändern."
+          ],
+          "answer": "Aufgrund der neuen Regelung müssen wir den Plan ändern.",
+          "explanation": "Aufgrund takes the genitive, and the main verb follows the fronted phrase."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l3-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "b2-m4-l3",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Eine Zusammenfassung im Radio",
+      "script": [
+        {
+          "speaker": "Sprecher",
+          "de": "Die Bedeutung des wissenschaftlichen Fortschritts ist unumstritten.",
+          "en": "The significance of scientific progress is undisputed."
+        },
+        {
+          "speaker": "Sprecher",
+          "de": "Die Ergebnisse der Studie wurden heute veröffentlicht.",
+          "en": "The results of the study were published today."
+        },
+        {
+          "speaker": "Sprecher",
+          "de": "Aufgrund der neuen Regelung müssen Unternehmen ihre Prozesse anpassen.",
+          "en": "Because of the new regulation, companies must adapt their processes."
+        },
+        {
+          "speaker": "Sprecher",
+          "de": "Die Betroffenen erhalten finanzielle Unterstützung.",
+          "en": "The people affected receive financial support."
+        }
+      ],
+      "questions": [
+        {
+          "id": "b2-m4-l3-l1",
+          "type": "mcq",
+          "prompt": "What was published today?",
+          "options": [
+            "A new regulation",
+            "The results of the study",
+            "A support programme",
+            "A company report"
+          ],
+          "answer": 1,
+          "explanation": "The second line says the results of the study were published today."
+        },
+        {
+          "id": "b2-m4-l3-l2",
+          "type": "mcq",
+          "prompt": "Why must companies adapt their processes?",
+          "options": [
+            "Because of the study",
+            "Because of the new regulation",
+            "Because of the support programme",
+            "Because of the weather"
+          ],
+          "answer": 1,
+          "explanation": "The report says companies must adapt because of the new regulation."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l3-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "b2-m4-l3",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Describe a report or article using one genitive phrase and one adjective noun.",
+      "model": {
+        "de": "Die Ergebnisse der Studie sind klar. Die Betroffenen erhalten Unterstützung. Aufgrund der neuen Regelung müssen wir den Plan ändern.",
+        "en": "The results of the study are clear. The people affected receive support. Because of the new regulation, we must change the plan."
+      },
+      "tips": [
+        "Build the genitive phrase from the last noun backwards.",
+        "Capitalise adjective nouns: der Betroffene, die Studierenden.",
+        "Do not chain more than two genitives in one phrase."
+      ]
+    },
+    {
+      "id": "b2-m4-l3-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "b2-m4-l3",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Die Bedeutung des Fortschritt ist klar.",
+          "right": "Die Bedeutung des Fortschritts ist klar.",
+          "why": "Masculine nouns take -s in the genitive."
+        },
+        {
+          "wrong": "Die Ergebnisse der Studie wurden veröffentlichen.",
+          "right": "Die Ergebnisse der Studie wurden veröffentlicht.",
+          "why": "The passive needs the past participle veröffentlicht."
+        },
+        {
+          "wrong": "Die betroffenen erhalten Unterstützung.",
+          "right": "Die Betroffenen erhalten Unterstützung.",
+          "why": "An adjective used as a noun is capitalised."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l3-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "b2-m4-l3",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "b2-m4-l3-a1",
+          "type": "mcq",
+          "prompt": "Die Bedeutung ___ Fortschritts ist unumstritten.",
+          "options": [
+            "der",
+            "des",
+            "dem",
+            "den"
+          ],
+          "answer": 1,
+          "explanation": "Fortschritt is masculine, so the genitive article is des."
+        },
+        {
+          "id": "b2-m4-l3-a2",
+          "type": "mcq",
+          "prompt": "Die Ergebnisse ___ Studie wurden veröffentlicht.",
+          "options": [
+            "der",
+            "des",
+            "die",
+            "den"
+          ],
+          "answer": 0,
+          "explanation": "Studie is feminine, so the genitive article is der."
+        },
+        {
+          "id": "b2-m4-l3-a3",
+          "type": "mcq",
+          "prompt": "Die ___ erhalten Unterstützung.",
+          "options": [
+            "Betroffene",
+            "Betroffenen",
+            "Betroffener",
+            "Betroffenes"
+          ],
+          "answer": 1,
+          "explanation": "The plural adjective noun after die takes -en."
+        },
+        {
+          "id": "b2-m4-l3-a4",
+          "type": "mcq",
+          "prompt": "Which sentence uses a genitive phrase?",
+          "options": [
+            "Die Studie ist wichtig.",
+            "Die Ergebnisse der Studie sind wichtig.",
+            "Die Studie hat Ergebnisse.",
+            "Wir lesen die Studie."
+          ],
+          "answer": 1,
+          "explanation": "Der Studie is a genitive phrase modifying Ergebnisse."
+        },
+        {
+          "id": "b2-m4-l3-a5",
+          "type": "gap",
+          "prompt": "Die Bedeutung ___ Fortschritts ist unumstritten.",
+          "answers": [
+            "des"
+          ],
+          "explanation": "Fortschritt is masculine, so the genitive article is des."
+        },
+        {
+          "id": "b2-m4-l3-a6",
+          "type": "gap",
+          "prompt": "Die Ergebnisse ___ Studie wurden veröffentlicht.",
+          "answers": [
+            "der"
+          ],
+          "explanation": "Studie is feminine, so the genitive article is der."
+        },
+        {
+          "id": "b2-m4-l3-a7",
+          "type": "gap",
+          "prompt": "Die ___ erhalten Unterstützung. (affected people)",
+          "answers": [
+            "Betroffenen"
+          ],
+          "explanation": "The plural adjective noun after die takes -en."
+        },
+        {
+          "id": "b2-m4-l3-a8",
+          "type": "gap",
+          "prompt": "___ der Ergebnisse wird die Maßnahme verlängert.",
+          "answers": [
+            "Aufgrund"
+          ],
+          "explanation": "Aufgrund means because of and takes the genitive."
+        },
+        {
+          "id": "b2-m4-l3-a9",
+          "type": "order",
+          "prompt": "Build: “The significance of scientific progress is undisputed.”",
+          "tokens": [
+            "des",
+            "Die",
+            "wissenschaftlichen",
+            "Bedeutung",
+            "Fortschritts",
+            "ist",
+            "unumstritten."
+          ],
+          "answer": "Die Bedeutung des wissenschaftlichen Fortschritts ist unumstritten.",
+          "explanation": "The genitive phrase sits between the noun and the verb."
+        },
+        {
+          "id": "b2-m4-l3-a10",
+          "type": "order",
+          "prompt": "Build: “The results of the study were published.”",
+          "tokens": [
+            "der",
+            "Die",
+            "Studie",
+            "Ergebnisse",
+            "wurden",
+            "veröffentlicht."
+          ],
+          "answer": "Die Ergebnisse der Studie wurden veröffentlicht.",
+          "explanation": "Der Studie is the feminine genitive."
+        },
+        {
+          "id": "b2-m4-l3-a11",
+          "type": "order",
+          "prompt": "Build: “The people affected receive support.”",
+          "tokens": [
+            "Unterstützung.",
+            "Die",
+            "Betroffenen",
+            "erhalten"
+          ],
+          "answer": "Die Betroffenen erhalten Unterstützung.",
+          "explanation": "Betroffenen is an adjective noun in the plural."
+        },
+        {
+          "id": "b2-m4-l3-a12",
+          "type": "order",
+          "prompt": "Build: “Because of the new regulation, we must change the plan.”",
+          "tokens": [
+            "der",
+            "Aufgrund",
+            "neuen",
+            "Regelung",
+            "müssen",
+            "wir",
+            "den",
+            "Plan",
+            "ändern."
+          ],
+          "answer": "Aufgrund der neuen Regelung müssen wir den Plan ändern.",
+          "explanation": "Aufgrund takes the genitive, and the main verb follows the fronted phrase."
+        }
+      ]
+    }
+  ]
+}

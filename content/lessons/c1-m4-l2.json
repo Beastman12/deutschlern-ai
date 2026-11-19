@@ -1,0 +1,685 @@
+{
+  "id": "c1-m4-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "c1-m4-l2-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "c1-m4-l2",
+      "prompt": "Describe one trend in a chart you have seen recently. What does it suggest, and what does it not prove?",
+      "items": [
+        "Die Ergebnisse legen nahe, dass …",
+        "die Daten",
+        "der Trend",
+        "nahelegen"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "c1-m4-l2-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "c1-m4-l2",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "c1-m4-l2-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "c1-m4-l2",
+      "lede": "Research presentations describe data precisely, interpret cautiously and acknowledge limits honestly.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Describe data before interpreting it. “Die Zahl der Teilnehmenden ist von 120 auf 180 gestiegen” is description. “Das legt nahe, dass die Maßnahme wirkt” is interpretation. Keeping the two separate lets the audience judge your conclusion."
+        },
+        {
+          "kind": "p",
+          "text": "Use precise trend language: “ein leichter Anstieg”, “ein deutlicher Rückgang”, “stagnieren”, “sich verdoppeln”. For interpretation, use “legen nahe”, “deuten auf … hin”, “lässt vermuten”. For limitations, name the sample, period, method or missing data."
+        },
+        {
+          "kind": "note",
+          "title": "Correlation is not causation",
+          "text": "If two numbers move together, say “Es besteht ein Zusammenhang”. Do not say “A verursacht B” unless the design supports that claim."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l2-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "c1-m4-l2",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "description",
+              "Die Zahl ist von 120 auf 180 gestiegen."
+            ],
+            [
+              "trend",
+              "Es gibt einen leichten Anstieg."
+            ],
+            [
+              "interpretation",
+              "Die Ergebnisse legen nahe, dass …"
+            ],
+            [
+              "limitation",
+              "Die Aussagekraft ist begrenzt, weil …"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "“Steigen” and “sinken” are strong verbs; “leicht” and “deutlich” qualify them.",
+            "“Die Aussagekraft” means explanatory power or validity.",
+            "Name the time period for every trend: im Vergleich zum Vorjahr."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l2-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "c1-m4-l2",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "die Daten",
+          "en": "data",
+          "article": "die",
+          "example": "Die Daten zeigen einen klaren Trend.",
+          "exampleEn": "The data show a clear trend."
+        },
+        {
+          "de": "der Trend",
+          "en": "trend",
+          "article": "der",
+          "plural": "die Trends",
+          "example": "Der Trend ist seit drei Jahren steigend.",
+          "exampleEn": "The trend has been rising for three years."
+        },
+        {
+          "de": "nahelegen",
+          "en": "to suggest",
+          "example": "Die Ergebnisse legen nahe, dass die Maßnahme wirkt.",
+          "exampleEn": "The results suggest that the measure works."
+        },
+        {
+          "de": "die Aussagekraft",
+          "en": "validity, explanatory power",
+          "article": "die",
+          "example": "Die Aussagekraft der Studie ist begrenzt.",
+          "exampleEn": "The validity of the study is limited."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l2-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "c1-m4-l2",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Die Zahl der Teilnehmenden ist von 120 auf 180 gestiegen.",
+          "en": "The number of participants rose from 120 to 180.",
+          "note": "A precise description with numbers."
+        },
+        {
+          "de": "Die Ergebnisse legen nahe, dass die Maßnahme wirkt.",
+          "en": "The results suggest that the measure works.",
+          "note": "A cautious interpretation."
+        },
+        {
+          "de": "Die Aussagekraft ist begrenzt, weil die Stichprobe klein ist.",
+          "en": "The validity is limited because the sample is small.",
+          "note": "A specific limitation."
+        },
+        {
+          "de": "Es besteht ein Zusammenhang, aber keine Kausalität.",
+          "en": "There is a correlation, but not causation.",
+          "note": "A precise distinction."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l2-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "c1-m4-l2",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Aussagekraft",
+          "hint": "Stress the first syllable: OWS-sa-ge-kraft."
+        },
+        {
+          "de": "nahelegen",
+          "hint": "Stress the first syllable: NA-he-le-gen."
+        },
+        {
+          "de": "der Trend",
+          "hint": "The d is soft at the end: trent."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l2-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "c1-m4-l2",
+      "heading": "Data in public debate",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German media often cite statistics from official sources such as Destatis. A good presentation names the source and the period, not just the number."
+        },
+        {
+          "kind": "p",
+          "text": "Percentages and percentage points are frequently confused. “Die Arbeitslosigkeit stieg um zwei Prozent” is different from “um zwei Prozentpunkte”."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l2-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "c1-m4-l2",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A researcher presents survey results.",
+      "lines": [
+        {
+          "speaker": "Forscherin",
+          "de": "Die Zahl der Teilnehmenden ist von 120 auf 180 gestiegen.",
+          "en": "The number of participants rose from 120 to 180."
+        },
+        {
+          "speaker": "Koautor",
+          "de": "Das legt nahe, dass die Kampagne erfolgreich war.",
+          "en": "That suggests the campaign was successful."
+        },
+        {
+          "speaker": "Forscherin",
+          "de": "Vorsichtig: Es besteht ein Zusammenhang, aber keine Kausalität.",
+          "en": "Careful: there is a correlation, but not causation."
+        },
+        {
+          "speaker": "Koautor",
+          "de": "Und die Aussagekraft?",
+          "en": "And the validity?"
+        },
+        {
+          "speaker": "Forscherin",
+          "de": "Sie ist begrenzt, weil wir nur eine Stadt untersucht haben.",
+          "en": "It is limited because we studied only one city."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l2-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "c1-m4-l2",
+      "heading": "Describing and interpreting data",
+      "lede": "Keep description, interpretation and limitation in separate sentences.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Die Zahl ist von … auf … gestiegen.",
+              "precise change"
+            ],
+            [
+              "Es gibt einen leichten Anstieg.",
+              "qualified trend"
+            ],
+            [
+              "Die Ergebnisse legen nahe, dass …",
+              "cautious interpretation"
+            ],
+            [
+              "Die Aussagekraft ist begrenzt, weil …",
+              "explicit limitation"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Use “im Vergleich zu” for comparisons: Im Vergleich zum Vorjahr ist die Zahl um 15 Prozent gestiegen. Name the baseline, or the number means little."
+        }
+      ],
+      "tip": "For every chart, say three things: what changed, by how much, and over what period."
+    },
+    {
+      "id": "c1-m4-l2-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "c1-m4-l2",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "c1-m4-l2-p-m1",
+          "type": "mcq",
+          "prompt": "Die Zahl ist von 120 ___ 180 gestiegen.",
+          "options": [
+            "auf",
+            "zu",
+            "bis",
+            "in"
+          ],
+          "answer": 0,
+          "explanation": "The pattern is von … auf … steigen."
+        },
+        {
+          "id": "c1-m4-l2-p-m2",
+          "type": "mcq",
+          "prompt": "Die Ergebnisse ___ nahe, dass die Maßnahme wirkt.",
+          "options": [
+            "legen",
+            "liegt",
+            "legt",
+            "liegen"
+          ],
+          "answer": 0,
+          "explanation": "The plural subject Ergebnisse takes legen."
+        },
+        {
+          "id": "c1-m4-l2-p-m3",
+          "type": "mcq",
+          "prompt": "Which sentence expresses causation carefully?",
+          "options": [
+            "A verursacht B.",
+            "Es besteht ein Zusammenhang zwischen A und B.",
+            "B ist die einzige Folge von A.",
+            "A beweist B."
+          ],
+          "answer": 1,
+          "explanation": "It states a correlation without claiming causation."
+        },
+        {
+          "id": "c1-m4-l2-p-m4",
+          "type": "mcq",
+          "prompt": "“Die Aussagekraft ist begrenzt” means …",
+          "options": [
+            "The data are complete",
+            "The validity is limited",
+            "The trend is rising",
+            "The sample is large"
+          ],
+          "answer": 1,
+          "explanation": "Aussagekraft means validity or explanatory power."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l2-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m4-l2",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "c1-m4-l2-p-g1",
+          "type": "gap",
+          "prompt": "Die Zahl ist von 120 ___ 180 gestiegen.",
+          "answers": [
+            "auf"
+          ],
+          "explanation": "The pattern is von … auf … steigen."
+        },
+        {
+          "id": "c1-m4-l2-p-g2",
+          "type": "gap",
+          "prompt": "Die Ergebnisse ___ nahe, dass die Maßnahme wirkt.",
+          "answers": [
+            "legen"
+          ],
+          "explanation": "The plural subject takes legen."
+        },
+        {
+          "id": "c1-m4-l2-p-g3",
+          "type": "gap",
+          "prompt": "Die ___ der Studie ist begrenzt.",
+          "answers": [
+            "Aussagekraft"
+          ],
+          "explanation": "Aussagekraft means validity."
+        },
+        {
+          "id": "c1-m4-l2-p-g4",
+          "type": "gap",
+          "prompt": "Es besteht ein Zusammenhang, aber keine ___.",
+          "answers": [
+            "Kausalität"
+          ],
+          "explanation": "Kausalität means causation."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l2-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m4-l2",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "c1-m4-l2-p-o1",
+          "type": "order",
+          "prompt": "Build: “The number rose from 120 to 180.”",
+          "tokens": [
+            "von",
+            "Die",
+            "ist",
+            "Zahl",
+            "120",
+            "auf",
+            "180",
+            "gestiegen."
+          ],
+          "answer": "Die Zahl ist von 120 auf 180 gestiegen.",
+          "explanation": "The perfect tense puts the participle at the end."
+        },
+        {
+          "id": "c1-m4-l2-p-o2",
+          "type": "order",
+          "prompt": "Build: “The results suggest that the measure works.”",
+          "tokens": [
+            "nahe,",
+            "Die",
+            "Ergebnisse",
+            "dass",
+            "legen",
+            "die",
+            "Maßnahme",
+            "wirkt."
+          ],
+          "answer": "Die Ergebnisse legen nahe, dass die Maßnahme wirkt.",
+          "explanation": "Nahelegen separates: legen … nahe."
+        },
+        {
+          "id": "c1-m4-l2-p-o3",
+          "type": "order",
+          "prompt": "Build: “The validity is limited because the sample is small.”",
+          "tokens": [
+            "die",
+            "Die",
+            "Aussagekraft",
+            "ist",
+            "begrenzt,",
+            "weil",
+            "Stichprobe",
+            "klein",
+            "ist."
+          ],
+          "answer": "Die Aussagekraft ist begrenzt, weil die Stichprobe klein ist.",
+          "explanation": "The weil-clause ends with the verb ist."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l2-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "c1-m4-l2",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Ein Forschungsvortrag",
+      "script": [
+        {
+          "speaker": "Forscher",
+          "de": "Die Zahl der Teilnehmenden ist von 120 auf 180 gestiegen.",
+          "en": "The number of participants rose from 120 to 180."
+        },
+        {
+          "speaker": "Forscher",
+          "de": "Das legt nahe, dass die Kampagne bekannter geworden ist.",
+          "en": "That suggests the campaign has become better known."
+        },
+        {
+          "speaker": "Forscher",
+          "de": "Die Aussagekraft ist jedoch begrenzt, weil wir nur eine Stadt untersucht haben.",
+          "en": "However, the validity is limited because we studied only one city."
+        },
+        {
+          "speaker": "Forscher",
+          "de": "Es besteht ein Zusammenhang, aber keine Kausalität.",
+          "en": "There is a correlation, but not causation."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c1-m4-l2-l1",
+          "type": "mcq",
+          "prompt": "How did the number of participants change?",
+          "options": [
+            "From 120 to 180",
+            "From 180 to 120",
+            "From 100 to 120",
+            "It stayed the same"
+          ],
+          "answer": 0,
+          "explanation": "The researcher says it rose from 120 to 180."
+        },
+        {
+          "id": "c1-m4-l2-l2",
+          "type": "mcq",
+          "prompt": "Why is the validity limited?",
+          "options": [
+            "The sample is too large",
+            "Only one city was studied",
+            "The campaign was too short",
+            "The data are missing"
+          ],
+          "answer": 1,
+          "explanation": "The study only examined one city."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l2-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "c1-m4-l2",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Describe a trend, interpret it cautiously and name one limitation.",
+      "model": {
+        "de": "Die Zahl der Teilnehmenden ist von 120 auf 180 gestiegen. Das legt nahe, dass die Kampagne bekannter geworden ist. Die Aussagekraft ist jedoch begrenzt, weil nur eine Stadt untersucht wurde.",
+        "en": "The number of participants rose from 120 to 180. That suggests the campaign has become better known. However, the validity is limited because only one city was studied."
+      },
+      "tips": [
+        "Give the numbers and the period.",
+        "Use legen nahe for interpretation.",
+        "Name one concrete limitation, not a general caveat."
+      ]
+    },
+    {
+      "id": "c1-m4-l2-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "c1-m4-l2",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Die Zahl ist von 120 auf 180 gestiegen auf.",
+          "right": "Die Zahl ist von 120 auf 180 gestiegen.",
+          "why": "Steigen does not take a separable prefix here; auf belongs to the von … auf phrase."
+        },
+        {
+          "wrong": "Die Ergebnisse legt nahe, dass …",
+          "right": "Die Ergebnisse legen nahe, dass …",
+          "why": "The plural subject takes the plural verb legen."
+        },
+        {
+          "wrong": "Das beweist, dass die Kampagne wirkt.",
+          "right": "Das legt nahe, dass die Kampagne wirkt.",
+          "why": "A correlation does not prove causation."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l2-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "c1-m4-l2",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "c1-m4-l2-a1",
+          "type": "mcq",
+          "prompt": "Die Zahl ist von 120 ___ 180 gestiegen.",
+          "options": [
+            "auf",
+            "zu",
+            "bis",
+            "in"
+          ],
+          "answer": 0,
+          "explanation": "The pattern is von … auf … steigen."
+        },
+        {
+          "id": "c1-m4-l2-a2",
+          "type": "mcq",
+          "prompt": "Die Ergebnisse ___ nahe, dass die Maßnahme wirkt.",
+          "options": [
+            "legen",
+            "liegt",
+            "legt",
+            "liegen"
+          ],
+          "answer": 0,
+          "explanation": "The plural subject Ergebnisse takes legen."
+        },
+        {
+          "id": "c1-m4-l2-a3",
+          "type": "mcq",
+          "prompt": "Which sentence expresses causation carefully?",
+          "options": [
+            "A verursacht B.",
+            "Es besteht ein Zusammenhang zwischen A und B.",
+            "B ist die einzige Folge von A.",
+            "A beweist B."
+          ],
+          "answer": 1,
+          "explanation": "It states a correlation without claiming causation."
+        },
+        {
+          "id": "c1-m4-l2-a4",
+          "type": "mcq",
+          "prompt": "“Die Aussagekraft ist begrenzt” means …",
+          "options": [
+            "The data are complete",
+            "The validity is limited",
+            "The trend is rising",
+            "The sample is large"
+          ],
+          "answer": 1,
+          "explanation": "Aussagekraft means validity or explanatory power."
+        },
+        {
+          "id": "c1-m4-l2-a5",
+          "type": "gap",
+          "prompt": "Die Zahl ist von 120 ___ 180 gestiegen.",
+          "answers": [
+            "auf"
+          ],
+          "explanation": "The pattern is von … auf … steigen."
+        },
+        {
+          "id": "c1-m4-l2-a6",
+          "type": "gap",
+          "prompt": "Die Ergebnisse ___ nahe, dass die Maßnahme wirkt.",
+          "answers": [
+            "legen"
+          ],
+          "explanation": "The plural subject takes legen."
+        },
+        {
+          "id": "c1-m4-l2-a7",
+          "type": "gap",
+          "prompt": "Die ___ der Studie ist begrenzt.",
+          "answers": [
+            "Aussagekraft"
+          ],
+          "explanation": "Aussagekraft means validity."
+        },
+        {
+          "id": "c1-m4-l2-a8",
+          "type": "gap",
+          "prompt": "Es besteht ein Zusammenhang, aber keine ___.",
+          "answers": [
+            "Kausalität"
+          ],
+          "explanation": "Kausalität means causation."
+        },
+        {
+          "id": "c1-m4-l2-a9",
+          "type": "order",
+          "prompt": "Build: “The number rose from 120 to 180.”",
+          "tokens": [
+            "von",
+            "Die",
+            "ist",
+            "Zahl",
+            "120",
+            "auf",
+            "180",
+            "gestiegen."
+          ],
+          "answer": "Die Zahl ist von 120 auf 180 gestiegen.",
+          "explanation": "The perfect tense puts the participle at the end."
+        },
+        {
+          "id": "c1-m4-l2-a10",
+          "type": "order",
+          "prompt": "Build: “The results suggest that the measure works.”",
+          "tokens": [
+            "nahe,",
+            "Die",
+            "Ergebnisse",
+            "dass",
+            "legen",
+            "die",
+            "Maßnahme",
+            "wirkt."
+          ],
+          "answer": "Die Ergebnisse legen nahe, dass die Maßnahme wirkt.",
+          "explanation": "Nahelegen separates: legen … nahe."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1214 @@
+{
+  "schemaVersion": 1,
+  "description": "Per-topic grammar reference tables and drills. Every drill uses the same question contract as lesson practice, so the same renderer and validator apply.",
+  "topics": [
+    {
+      "id": "a1-sein-haben",
+      "tables": [
+        {
+          "title": "sein and haben in the present",
+          "headers": ["Pronoun", "sein", "haben"],
+          "rows": [
+            ["ich", "bin", "habe"],
+            ["du", "bist", "hast"],
+            ["er / sie / es", "ist", "hat"],
+            ["wir", "sind", "haben"],
+            ["ihr", "seid", "habt"],
+            ["sie / Sie", "sind", "haben"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-a1-sein-haben-1",
+          "type": "gap",
+          "prompt": "Ich ___ Student.",
+          "answers": ["bin"],
+          "explanation": "sein is irregular: ich bin. Use sein for identity and origin."
+        },
+        {
+          "id": "gd-a1-sein-haben-2",
+          "type": "gap",
+          "prompt": "Du ___ heute Zeit?",
+          "answers": ["hast"],
+          "explanation": "haben is irregular: du hast. Use haben for possession."
+        },
+        {
+          "id": "gd-a1-sein-haben-3",
+          "type": "mcq",
+          "prompt": "Wir ___ müde.",
+          "options": ["bin", "bist", "sind", "seid"],
+          "answer": 2,
+          "explanation": "wir takes sind: Wir sind müde."
+        }
+      ]
+    },
+    {
+      "id": "a1-present-regular",
+      "tables": [
+        {
+          "title": "Regular present endings",
+          "headers": ["Pronoun", "wohnen", "arbeiten"],
+          "rows": [
+            ["ich", "wohne", "arbeite"],
+            ["du", "wohnst", "arbeitest"],
+            ["er / sie / es", "wohnt", "arbeitet"],
+            ["wir", "wohnen", "arbeiten"],
+            ["ihr", "wohnt", "arbeitet"],
+            ["sie / Sie", "wohnen", "arbeiten"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-a1-present-regular-1",
+          "type": "gap",
+          "prompt": "Du ___ in Berlin.",
+          "answers": ["wohnst"],
+          "explanation": "The stem is wohn- and du adds -st: du wohnst."
+        },
+        {
+          "id": "gd-a1-present-regular-2",
+          "type": "gap",
+          "prompt": "Er ___ jeden Tag.",
+          "answers": ["arbeitet"],
+          "explanation": "Stems ending in -t add an extra e before the ending: er arbeitet."
+        },
+        {
+          "id": "gd-a1-present-regular-3",
+          "type": "mcq",
+          "prompt": "Ihr ___ Deutsch.",
+          "options": ["lerne", "lernst", "lernt", "lernen"],
+          "answer": 2,
+          "explanation": "ihr takes the ending -t: ihr lernt."
+        }
+      ]
+    },
+    {
+      "id": "a1-gender-articles",
+      "tables": [
+        {
+          "title": "Definite and indefinite articles",
+          "headers": ["", "Masculine", "Feminine", "Neuter", "Plural"],
+          "rows": [
+            ["Definite", "der", "die", "das", "die"],
+            ["Indefinite", "ein", "eine", "ein", "—"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-a1-gender-articles-1",
+          "type": "mcq",
+          "prompt": "___ Tisch ist groß.",
+          "options": ["Der", "Die", "Das", "Den"],
+          "answer": 0,
+          "explanation": "der Tisch is masculine, so the nominative definite article is der."
+        },
+        {
+          "id": "gd-a1-gender-articles-2",
+          "type": "gap",
+          "prompt": "Das ist ___ Tür.",
+          "answers": ["eine"],
+          "explanation": "die Tür is feminine, so the indefinite article is eine."
+        },
+        {
+          "id": "gd-a1-gender-articles-3",
+          "type": "mcq",
+          "prompt": "___ Wohnung ist klein.",
+          "options": ["Der", "Die", "Das", "Den"],
+          "answer": 1,
+          "explanation": "die Wohnung is feminine. The nominative definite article is die."
+        }
+      ]
+    },
+    {
+      "id": "a1-accusative",
+      "tables": [
+        {
+          "title": "Nominative to accusative",
+          "headers": ["Article type", "Masculine", "Feminine", "Neuter", "Plural"],
+          "rows": [
+            ["Definite", "der → den", "die → die", "das → das", "die → die"],
+            ["Indefinite", "ein → einen", "eine → eine", "ein → ein", "—"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-a1-accusative-1",
+          "type": "mcq",
+          "prompt": "Ich sehe ___ Hund.",
+          "options": ["der", "den", "dem", "des"],
+          "answer": 1,
+          "explanation": "Hund is the direct object and masculine, so der becomes den."
+        },
+        {
+          "id": "gd-a1-accusative-2",
+          "type": "gap",
+          "prompt": "Ich kaufe ___ Apfel.",
+          "answers": ["einen"],
+          "explanation": "Apfel is masculine and the direct object, so ein becomes einen."
+        },
+        {
+          "id": "gd-a1-accusative-3",
+          "type": "mcq",
+          "prompt": "Wir besuchen ___ Stadt.",
+          "options": ["der", "den", "die", "dem"],
+          "answer": 2,
+          "explanation": "Stadt is feminine. Feminine articles do not change in the accusative: die Stadt."
+        }
+      ]
+    },
+    {
+      "id": "a1-questions-negation",
+      "tables": [
+        {
+          "title": "nicht or kein?",
+          "headers": ["Word", "Use", "Example"],
+          "rows": [
+            ["nicht", "verbs, adjectives, names and specific nouns", "Ich wohne nicht in Berlin."],
+            ["kein", "indefinite nouns, with the ending of the article", "Ich habe kein Auto."]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-a1-questions-negation-1",
+          "type": "order",
+          "prompt": "Build: “Do you live in Berlin?”",
+          "tokens": ["du", "in", "Wohnst", "Berlin"],
+          "answer": "Wohnst du in Berlin?",
+          "explanation": "Yes/no questions start with the conjugated verb: Wohnst du …?"
+        },
+        {
+          "id": "gd-a1-questions-negation-2",
+          "type": "gap",
+          "prompt": "Ich habe ___ Auto.",
+          "answers": ["kein"],
+          "explanation": "Auto is neuter and indefinite, so kein takes the neuter form: kein Auto."
+        },
+        {
+          "id": "gd-a1-questions-negation-3",
+          "type": "mcq",
+          "prompt": "___ wohnst du?",
+          "options": ["Was", "Wo", "Wer", "Wie"],
+          "answer": 1,
+          "explanation": "Wo asks about place: Wo wohnst du? = Where do you live?"
+        }
+      ]
+    },
+    {
+      "id": "a2-dative",
+      "tables": [
+        {
+          "title": "Dative articles and pronouns",
+          "headers": ["", "Masculine", "Feminine", "Neuter", "Plural"],
+          "rows": [
+            ["Definite", "dem", "der", "dem", "den + -n"],
+            ["Indefinite", "einem", "einer", "einem", "keinen + -n"],
+            ["Pronouns", "mir", "dir", "ihm / ihr / ihm", "uns / euch / ihnen"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-a2-dative-1",
+          "type": "mcq",
+          "prompt": "Ich helfe ___ Kind.",
+          "options": ["das", "dem", "den", "der"],
+          "answer": 1,
+          "explanation": "helfen takes the dative. Kind is neuter, so the dative article is dem."
+        },
+        {
+          "id": "gd-a2-dative-2",
+          "type": "gap",
+          "prompt": "Ich danke ___ Lehrerin.",
+          "answers": ["der"],
+          "explanation": "danken takes the dative. Lehrerin is feminine, so die becomes der."
+        },
+        {
+          "id": "gd-a2-dative-3",
+          "type": "mcq",
+          "prompt": "Das Buch gehört ___.",
+          "options": ["ich", "mich", "mir", "meiner"],
+          "answer": 2,
+          "explanation": "gehören takes the dative, and the dative pronoun for ich is mir."
+        }
+      ]
+    },
+    {
+      "id": "a2-perfekt",
+      "tables": [
+        {
+          "title": "Building the Perfekt",
+          "headers": ["Verb", "Auxiliary", "Participle", "English"],
+          "rows": [
+            ["lernen", "haben", "gelernt", "to learn"],
+            ["gehen", "sein", "gegangen", "to go"],
+            ["sehen", "haben", "gesehen", "to see"],
+            ["essen", "haben", "gegessen", "to eat"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-a2-perfekt-1",
+          "type": "gap",
+          "prompt": "Ich ___ gestern einen Film gesehen.",
+          "answers": ["habe"],
+          "explanation": "sehen takes haben in the Perfekt: ich habe gesehen."
+        },
+        {
+          "id": "gd-a2-perfekt-2",
+          "type": "gap",
+          "prompt": "Wir ___ nach Hause gegangen.",
+          "answers": ["sind"],
+          "explanation": "gehen expresses movement, so the auxiliary is sein: wir sind gegangen."
+        },
+        {
+          "id": "gd-a2-perfekt-3",
+          "type": "mcq",
+          "prompt": "Which participle is correct for essen?",
+          "options": ["gegessen", "geessen", "geesst"],
+          "answer": 0,
+          "explanation": "essen is irregular: gegessen."
+        }
+      ]
+    },
+    {
+      "id": "a2-modal-verbs",
+      "tables": [
+        {
+          "title": "können and müssen",
+          "headers": ["Pronoun", "können", "müssen"],
+          "rows": [
+            ["ich", "kann", "muss"],
+            ["du", "kannst", "musst"],
+            ["er / sie / es", "kann", "muss"],
+            ["wir", "können", "müssen"],
+            ["ihr", "könnt", "müsst"],
+            ["sie / Sie", "können", "müssen"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-a2-modal-verbs-1",
+          "type": "gap",
+          "prompt": "Ich ___ heute länger arbeiten.",
+          "answers": ["muss"],
+          "explanation": "müssen has no ending in the ich form: ich muss. The main verb arbeiten goes to the end."
+        },
+        {
+          "id": "gd-a2-modal-verbs-2",
+          "type": "order",
+          "prompt": "Build: “I can come tomorrow.”",
+          "tokens": ["kann", "Ich", "morgen", "kommen"],
+          "answer": "Ich kann morgen kommen.",
+          "explanation": "The modal verb is in position two and the infinitive is at the end."
+        },
+        {
+          "id": "gd-a2-modal-verbs-3",
+          "type": "mcq",
+          "prompt": "Er ___ nicht rauchen.",
+          "options": ["darf", "darfst", "dürfen", "dürft"],
+          "answer": 0,
+          "explanation": "dürfen expresses permission. The er form has no ending: er darf."
+        }
+      ]
+    },
+    {
+      "id": "a2-subordinate-clauses",
+      "tables": [
+        {
+          "title": "Common subordinating conjunctions",
+          "headers": ["Conjunction", "Meaning", "Example"],
+          "rows": [
+            ["weil", "because", "Ich bleibe zu Hause, weil ich krank bin."],
+            ["dass", "that", "Ich hoffe, dass du kommst."],
+            ["wenn", "if / when", "Wenn es regnet, bleibe ich zu Hause."],
+            ["obwohl", "although", "Obwohl es regnet, gehe ich spazieren."]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-a2-subordinate-clauses-1",
+          "type": "order",
+          "prompt": "Build: “I am learning German because I want to study in Germany.”",
+          "tokens": ["Deutsch,", "lerne", "Ich", "weil", "ich", "in", "Deutschland", "studieren", "möchte"],
+          "answer": "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.",
+          "explanation": "In a weil-clause the conjugated verb moves to the end: … weil ich … studieren möchte."
+        },
+        {
+          "id": "gd-a2-subordinate-clauses-2",
+          "type": "gap",
+          "prompt": "Ich bleibe zu Hause, ___ es regnet.",
+          "answers": ["weil"],
+          "explanation": "weil introduces a reason and sends the verb to the end: weil es regnet."
+        },
+        {
+          "id": "gd-a2-subordinate-clauses-3",
+          "type": "mcq",
+          "prompt": "Which word order is correct?",
+          "options": [
+            "…, weil ich habe keine Zeit.",
+            "…, weil ich keine Zeit habe.",
+            "…, weil keine Zeit ich habe."
+          ],
+          "answer": 1,
+          "explanation": "The subordinate clause is verb-final: weil ich keine Zeit habe."
+        }
+      ]
+    },
+    {
+      "id": "a2-two-way-prepositions",
+      "tables": [
+        {
+          "title": "Position or direction?",
+          "headers": ["Question", "Case", "Example"],
+          "rows": [
+            ["Wo? (position)", "dative", "Das Buch liegt auf dem Tisch."],
+            ["Wohin? (direction)", "accusative", "Ich lege das Buch auf den Tisch."],
+            ["Wo? (position)", "dative", "Die Kinder spielen in dem Garten."],
+            ["Wohin? (direction)", "accusative", "Die Kinder gehen in den Garten."]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-a2-two-way-prepositions-1",
+          "type": "mcq",
+          "prompt": "Das Buch liegt ___ dem Tisch.",
+          "options": ["auf", "für", "ohne", "gegen"],
+          "answer": 0,
+          "explanation": "Position with a two-way preposition takes the dative: auf dem Tisch."
+        },
+        {
+          "id": "gd-a2-two-way-prepositions-2",
+          "type": "gap",
+          "prompt": "Ich lege das Buch ___ den Tisch.",
+          "answers": ["auf"],
+          "explanation": "legen expresses direction, so auf takes the accusative: auf den Tisch."
+        },
+        {
+          "id": "gd-a2-two-way-prepositions-3",
+          "type": "mcq",
+          "prompt": "Wir gehen ___ die Schule.",
+          "options": ["in", "im", "am", "beim"],
+          "answer": 0,
+          "explanation": "Direction into a building uses in + accusative: in die Schule."
+        }
+      ]
+    },
+    {
+      "id": "b1-relative-clauses",
+      "tables": [
+        {
+          "title": "Relative pronouns",
+          "headers": ["Gender", "Nominative", "Accusative", "Dative", "Genitive"],
+          "rows": [
+            ["Masculine", "der", "den", "dem", "dessen"],
+            ["Feminine", "die", "die", "der", "deren"],
+            ["Neuter", "das", "das", "dem", "dessen"],
+            ["Plural", "die", "die", "denen", "deren"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-b1-relative-clauses-1",
+          "type": "gap",
+          "prompt": "Das ist der Kollege, ___ mir geholfen hat.",
+          "answers": ["der"],
+          "explanation": "The relative pronoun is the subject of the clause, so masculine der stays der."
+        },
+        {
+          "id": "gd-b1-relative-clauses-2",
+          "type": "mcq",
+          "prompt": "Die Frau, ___ ich kenne, ist meine Nachbarin.",
+          "options": ["der", "den", "die", "dem"],
+          "answer": 2,
+          "explanation": "Frau is feminine and the relative pronoun is the direct object, but feminine stays die in the accusative."
+        },
+        {
+          "id": "gd-b1-relative-clauses-3",
+          "type": "order",
+          "prompt": "Build: “That is the colleague who helped me.”",
+          "tokens": ["der", "Das", "Kollege,", "der", "ist", "mir", "geholfen", "hat"],
+          "answer": "Das ist der Kollege, der mir geholfen hat.",
+          "explanation": "The relative pronoun opens the clause and the conjugated verb hat moves to the end."
+        }
+      ]
+    },
+    {
+      "id": "b1-konjunktiv-ii",
+      "tables": [
+        {
+          "title": "Useful Konjunktiv II forms",
+          "headers": ["Infinitive", "ich", "du", "er / sie / es", "wir", "ihr", "sie / Sie"],
+          "rows": [
+            ["haben", "hätte", "hättest", "hätte", "hätten", "hättet", "hätten"],
+            ["sein", "wäre", "wärst", "wäre", "wären", "wärt", "wären"],
+            ["können", "könnte", "könntest", "könnte", "könnten", "könntet", "könnten"],
+            ["werden", "würde", "würdest", "würde", "würden", "würdet", "würden"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-b1-konjunktiv-ii-1",
+          "type": "gap",
+          "prompt": "Wenn ich Zeit ___, würde ich mitkommen.",
+          "answers": ["hätte"],
+          "explanation": "An unreal condition uses Konjunktiv II: wenn ich Zeit hätte."
+        },
+        {
+          "id": "gd-b1-konjunktiv-ii-2",
+          "type": "mcq",
+          "prompt": "___ Sie mir bitte helfen?",
+          "options": ["Können", "Könnten", "Konnten", "Kann"],
+          "answer": 1,
+          "explanation": "Könnten is the polite Konjunktiv II form. It makes the request less direct."
+        },
+        {
+          "id": "gd-b1-konjunktiv-ii-3",
+          "type": "gap",
+          "prompt": "Ich ___ gern nach Berlin fahren.",
+          "answers": ["würde"],
+          "explanation": "würde + infinitive expresses a wish or hypothetical plan: ich würde fahren."
+        }
+      ]
+    },
+    {
+      "id": "b1-passive",
+      "tables": [
+        {
+          "title": "Passive with werden",
+          "headers": ["Tense", "Example", "English"],
+          "rows": [
+            ["Present", "Die Rechnung wird bezahlt.", "The invoice is being paid."],
+            ["Past", "Die Rechnung wurde bezahlt.", "The invoice was paid."],
+            ["Perfect", "Die Rechnung ist bezahlt worden.", "The invoice has been paid."],
+            ["Future", "Die Rechnung wird bezahlt werden.", "The invoice will be paid."]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-b1-passive-1",
+          "type": "gap",
+          "prompt": "Die Rechnung ___ morgen bezahlt.",
+          "answers": ["wird"],
+          "explanation": "The present passive is werden + past participle. Rechnung is singular: wird bezahlt."
+        },
+        {
+          "id": "gd-b1-passive-2",
+          "type": "mcq",
+          "prompt": "Which sentence is passive?",
+          "options": [
+            "Der Kunde bezahlt die Rechnung.",
+            "Die Rechnung wird vom Kunden bezahlt.",
+            "Die Rechnung bezahlt den Kunden."
+          ],
+          "answer": 1,
+          "explanation": "werden + past participle marks the passive. The agent is introduced with von."
+        },
+        {
+          "id": "gd-b1-passive-3",
+          "type": "gap",
+          "prompt": "Die Fenster ___ gestern geöffnet.",
+          "answers": ["wurden"],
+          "explanation": "The past passive uses wurde/wurden. Fenster is plural: wurden geöffnet."
+        }
+      ]
+    },
+    {
+      "id": "b1-connectors",
+      "tables": [
+        {
+          "title": "Connector types and word order",
+          "headers": ["Type", "Examples", "Word order"],
+          "rows": [
+            ["Coordinating", "und, aber, oder, denn", "normal order, position 0"],
+            ["Adverbial", "deshalb, trotzdem, außerdem", "verb in position two"],
+            ["Subordinating", "weil, obwohl, dass, wenn", "verb at the end"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-b1-connectors-1",
+          "type": "mcq",
+          "prompt": "Es regnet, ___ gehe ich spazieren.",
+          "options": ["deshalb", "weil", "dass", "obwohl"],
+          "answer": 0,
+          "explanation": "deshalb introduces a consequence and occupies position one, so the verb follows immediately: deshalb gehe ich."
+        },
+        {
+          "id": "gd-b1-connectors-2",
+          "type": "gap",
+          "prompt": "Ich bleibe zu Hause, ___ ich krank bin.",
+          "answers": ["weil"],
+          "explanation": "weil introduces a reason and sends the conjugated verb to the end."
+        },
+        {
+          "id": "gd-b1-connectors-3",
+          "type": "order",
+          "prompt": "Build: “I am tired, but I am going to work.”",
+          "tokens": ["aber", "Ich", "müde,", "bin", "ich", "gehe", "zur", "Arbeit"],
+          "answer": "Ich bin müde, aber ich gehe zur Arbeit.",
+          "explanation": "aber is coordinating, so the word order after it stays normal: aber ich gehe …"
+        }
+      ]
+    },
+    {
+      "id": "b1-adjective-declension",
+      "tables": [
+        {
+          "title": "Adjective endings after articles",
+          "headers": ["Context", "Masculine", "Feminine", "Neuter", "Plural"],
+          "rows": [
+            ["After der/die/das (nominative)", "der neue Film", "die neue Wohnung", "das neue Haus", "die neuen Filme"],
+            ["After ein/eine (nominative)", "ein neuer Film", "eine neue Wohnung", "ein neues Haus", "keine neuen Filme"],
+            ["Accusative masculine", "den neuen Film", "die neue Wohnung", "das neue Haus", "die neuen Filme"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-b1-adjective-declension-1",
+          "type": "gap",
+          "prompt": "Ich habe einen ___ Film gesehen.",
+          "answers": ["neuen"],
+          "explanation": "After einen in the accusative masculine, the adjective takes -en: einen neuen Film."
+        },
+        {
+          "id": "gd-b1-adjective-declension-2",
+          "type": "mcq",
+          "prompt": "Das ist eine ___ Wohnung.",
+          "options": ["neu", "neue", "neuen", "neuer"],
+          "answer": 1,
+          "explanation": "After eine in the nominative feminine, the adjective takes -e: eine neue Wohnung."
+        },
+        {
+          "id": "gd-b1-adjective-declension-3",
+          "type": "gap",
+          "prompt": "Der ___ Film war gut.",
+          "answers": ["neue"],
+          "explanation": "After the definite article der, the nominative masculine adjective takes the weak ending -e: der neue Film."
+        }
+      ]
+    },
+    {
+      "id": "b2-konjunktiv-i",
+      "tables": [
+        {
+          "title": "Konjunktiv I forms",
+          "headers": ["Infinitive", "ich", "du", "er / sie / es", "wir", "ihr", "sie / Sie"],
+          "rows": [
+            ["sein", "sei", "seiest", "sei", "seien", "seiet", "seien"],
+            ["haben", "habe", "habest", "habe", "haben", "habet", "haben"],
+            ["kommen", "komme", "kommest", "komme", "kommen", "kommet", "kommen"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-b2-konjunktiv-i-1",
+          "type": "gap",
+          "prompt": "Die Ministerin sagte, die Reform ___ notwendig.",
+          "answers": ["sei"],
+          "explanation": "Reported speech uses Konjunktiv I. The form of sein for die Reform is sei."
+        },
+        {
+          "id": "gd-b2-konjunktiv-i-2",
+          "type": "mcq",
+          "prompt": "Reported speech typically uses…",
+          "options": ["Konjunktiv I", "Konjunktiv II only", "Präteritum", "Futur II"],
+          "answer": 0,
+          "explanation": "Konjunktiv I signals that the speaker is reporting someone else's words without endorsing them."
+        },
+        {
+          "id": "gd-b2-konjunktiv-i-3",
+          "type": "gap",
+          "prompt": "Er sagte, er ___ keine Zeit.",
+          "answers": ["habe"],
+          "explanation": "The Konjunktiv I form of haben for er is habe: er habe keine Zeit."
+        }
+      ]
+    },
+    {
+      "id": "b2-nominalisation",
+      "tables": [
+        {
+          "title": "Common nominalising suffixes",
+          "headers": ["Suffix", "Example", "Meaning"],
+          "rows": [
+            ["-ung", "die Entscheidung", "the decision"],
+            ["-heit", "die Freiheit", "freedom"],
+            ["-keit", "die Möglichkeit", "the possibility"],
+            ["infinitive", "das Lesen", "reading"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-b2-nominalisation-1",
+          "type": "mcq",
+          "prompt": "Which noun comes from entscheiden?",
+          "options": ["die Entscheidung", "die Entscheid", "die Entscheidheit", "die Entscheidnis"],
+          "answer": 0,
+          "explanation": "The suffix -ung forms die Entscheidung from the verb entscheiden."
+        },
+        {
+          "id": "gd-b2-nominalisation-2",
+          "type": "gap",
+          "prompt": "Das ___ (lesen) macht mir Freude.",
+          "answers": ["Lesen"],
+          "explanation": "An infinitive used as a noun is neuter and capitalised: das Lesen."
+        },
+        {
+          "id": "gd-b2-nominalisation-3",
+          "type": "mcq",
+          "prompt": "Which suffix forms a noun from frei?",
+          "options": ["-ung", "-heit", "-keit", "-nis"],
+          "answer": 1,
+          "explanation": "frei + -heit gives die Freiheit (freedom)."
+        }
+      ]
+    },
+    {
+      "id": "b2-participle-constructions",
+      "tables": [
+        {
+          "title": "Participle as an adjective",
+          "headers": ["Form", "Example", "Meaning"],
+          "rows": [
+            ["Present participle", "die steigenden Kosten", "the costs that are rising"],
+            ["Past participle", "die betroffenen Personen", "the people affected"],
+            ["Extended attribute", "die zu erledigenden Aufgaben", "the tasks to be completed"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-b2-participle-constructions-1",
+          "type": "gap",
+          "prompt": "Die ___ Kosten (steigen) beunruhigen uns.",
+          "answers": ["steigenden"],
+          "explanation": "The present participle steigend takes the plural adjective ending -en: die steigenden Kosten."
+        },
+        {
+          "id": "gd-b2-participle-constructions-2",
+          "type": "mcq",
+          "prompt": "die betroffenen Personen means…",
+          "options": [
+            "the people who affect",
+            "the people affected",
+            "the people affecting",
+            "the affecting people"
+          ],
+          "answer": 1,
+          "explanation": "The past participle betroffen is passive in meaning: the people who are affected."
+        },
+        {
+          "id": "gd-b2-participle-constructions-3",
+          "type": "gap",
+          "prompt": "Die zu ___ Aufgaben (erledigen) sind im Anhang.",
+          "answers": ["erledigenden"],
+          "explanation": "zu + present participle + adjective ending: die zu erledigenden Aufgaben."
+        }
+      ]
+    },
+    {
+      "id": "b2-advanced-subordination",
+      "tables": [
+        {
+          "title": "Precise connectors",
+          "headers": ["Connector", "Meaning", "Example"],
+          "rows": [
+            ["sobald", "as soon as", "Sobald die Ergebnisse vorliegen, informieren wir Sie."],
+            ["während", "while / whereas", "Während ich lese, hört sie Musik."],
+            ["sodass", "so that / with the result that", "Er sprach leise, sodass niemand ihn hörte."],
+            ["indem", "by doing so", "Sie lernt, indem sie jeden Tag schreibt."]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-b2-advanced-subordination-1",
+          "type": "mcq",
+          "prompt": "Sobald means…",
+          "options": ["as soon as", "although", "because", "while"],
+          "answer": 0,
+          "explanation": "sobald marks the point in time when something happens: as soon as."
+        },
+        {
+          "id": "gd-b2-advanced-subordination-2",
+          "type": "gap",
+          "prompt": "___ die Ergebnisse vorliegen, informieren wir Sie.",
+          "answers": ["Sobald"],
+          "explanation": "Sobald opens a subordinate clause and the verb vorliegen goes to the end."
+        },
+        {
+          "id": "gd-b2-advanced-subordination-3",
+          "type": "mcq",
+          "prompt": "Which connector means “by doing so”?",
+          "options": ["indem", "sodass", "während", "sobald"],
+          "answer": 0,
+          "explanation": "indem introduces the means by which something is achieved."
+        }
+      ]
+    },
+    {
+      "id": "b2-verb-prepositions",
+      "tables": [
+        {
+          "title": "Verb + fixed preposition",
+          "headers": ["Verb phrase", "Case", "Example"],
+          "rows": [
+            ["warten auf", "accusative", "Ich warte auf eine Antwort."],
+            ["sich interessieren für", "accusative", "Ich interessiere mich für Sprachen."],
+            ["teilnehmen an", "dative", "Ich nehme an dem Kurs teil."],
+            ["sich beschäftigen mit", "dative", "Sie beschäftigt sich mit dem Thema."]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-b2-verb-prepositions-1",
+          "type": "gap",
+          "prompt": "Ich warte ___ eine Antwort.",
+          "answers": ["auf"],
+          "explanation": "warten auf + accusative is a fixed combination: warten auf eine Antwort."
+        },
+        {
+          "id": "gd-b2-verb-prepositions-2",
+          "type": "gap",
+          "prompt": "Ich interessiere mich ___ Sprachen.",
+          "answers": ["für"],
+          "explanation": "sich interessieren für + accusative: sich für Sprachen interessieren."
+        },
+        {
+          "id": "gd-b2-verb-prepositions-3",
+          "type": "mcq",
+          "prompt": "Worauf wartest du? refers to…",
+          "options": ["a thing", "a person", "a place", "a time"],
+          "answer": 0,
+          "explanation": "wo- compounds refer to things. For people you would ask Auf wen wartest du?"
+        }
+      ]
+    },
+    {
+      "id": "c1-modal-particles",
+      "tables": [
+        {
+          "title": "Particles and their tone",
+          "headers": ["Particle", "Effect", "Example"],
+          "rows": [
+            ["ja", "shared knowledge or emphasis", "Das ist ja interessant."],
+            ["doch", "gentle contradiction or encouragement", "Komm doch mit!"],
+            ["halt / eben", "inevitability, resignation", "Es ist halt nicht einfach."],
+            ["wohl", "probability, assumption", "Er ist wohl schon da."]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-c1-modal-particles-1",
+          "type": "mcq",
+          "prompt": "Das ist ___ interessant.",
+          "options": ["ja", "halt", "eben", "wohl"],
+          "answer": 0,
+          "explanation": "ja signals shared knowledge or emphasis without changing the factual meaning."
+        },
+        {
+          "id": "gd-c1-modal-particles-2",
+          "type": "gap",
+          "prompt": "Es ist ___ nicht ganz einfach.",
+          "answers": ["halt"],
+          "explanation": "halt expresses inevitability or resignation: it is just not that simple."
+        },
+        {
+          "id": "gd-c1-modal-particles-3",
+          "type": "mcq",
+          "prompt": "Which particle can soften a request or add gentle contradiction?",
+          "options": ["doch", "halt", "eben", "ja"],
+          "answer": 0,
+          "explanation": "doch can soften a request (Komm doch mit) or gently contradict, depending on tone."
+        }
+      ]
+    },
+    {
+      "id": "c1-concessive",
+      "tables": [
+        {
+          "title": "Concession by register",
+          "headers": ["Connector", "Register", "Example"],
+          "rows": [
+            ["obwohl", "neutral", "Obwohl es regnet, gehe ich spazieren."],
+            ["wenngleich", "formal / literary", "Wenngleich die Maßnahme teuer ist, bleibt sie sinnvoll."],
+            ["zwar … aber / jedoch", "neutral to formal", "Zwar ist es teuer, aber es lohnt sich."],
+            ["auch wenn", "neutral", "Auch wenn es schwer ist, versuche ich es."]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-c1-concessive-1",
+          "type": "mcq",
+          "prompt": "Zwar ist die Maßnahme teuer, ___ ist sie langfristig wirtschaftlicher.",
+          "options": ["aber", "jedoch", "weil", "dass"],
+          "answer": 1,
+          "explanation": "jedoch fits the formal zwar … jedoch pattern and keeps the verb in position two."
+        },
+        {
+          "id": "gd-c1-concessive-2",
+          "type": "gap",
+          "prompt": "___ es regnet, gehe ich spazieren.",
+          "answers": ["Obwohl"],
+          "explanation": "Obwohl introduces a concessive subordinate clause: although it is raining."
+        },
+        {
+          "id": "gd-c1-concessive-3",
+          "type": "mcq",
+          "prompt": "Which is the most formal concession?",
+          "options": ["obwohl", "wenngleich", "aber", "trotzdem"],
+          "answer": 1,
+          "explanation": "wenngleich is formal or literary; obwohl and trotzdem are neutral."
+        }
+      ]
+    },
+    {
+      "id": "c1-register",
+      "tables": [
+        {
+          "title": "The same message in two registers",
+          "headers": ["Feature", "Informal", "Formal"],
+          "rows": [
+            ["Address", "du / ihr", "Sie"],
+            ["Request", "Melde dich bitte.", "Bitte melden Sie sich."],
+            ["Style", "short clauses, particles", "nominal style, passive, impersonal"],
+            ["Vocabulary", "Meld mal.", "Wir bitten um Rückmeldung."]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-c1-register-1",
+          "type": "mcq",
+          "prompt": "Which is appropriate in a formal email?",
+          "options": ["Melde dich bitte.", "Bitte melden Sie sich.", "Meld mal.", "Schreib zurück!"],
+          "answer": 1,
+          "explanation": "Formal correspondence uses Sie and a complete, polite request."
+        },
+        {
+          "id": "gd-c1-register-2",
+          "type": "mcq",
+          "prompt": "Formal German tends to use…",
+          "options": ["short clauses and particles", "nominal style and passive", "slang", "ellipsis"],
+          "answer": 1,
+          "explanation": "Formal written German favours nominalisation, passive constructions and impersonal phrasing."
+        },
+        {
+          "id": "gd-c1-register-3",
+          "type": "gap",
+          "prompt": "Wir bitten ___ eine Rückmeldung.",
+          "answers": ["um"],
+          "explanation": "bitten um + accusative is the formal phrase: Wir bitten um eine Rückmeldung."
+        }
+      ]
+    },
+    {
+      "id": "c1-funktionsverbgefuege",
+      "tables": [
+        {
+          "title": "Function verb phrases",
+          "headers": ["Phrase", "Meaning"],
+          "rows": [
+            ["zur Anwendung kommen", "to be applied"],
+            ["in Betracht ziehen", "to take into consideration"],
+            ["zur Verfügung stellen", "to make available"],
+            ["eine Entscheidung treffen", "to make a decision"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-c1-funktionsverbgefuege-1",
+          "type": "gap",
+          "prompt": "Wir werden Ihren Vorschlag in Betracht ___.",
+          "answers": ["ziehen"],
+          "explanation": "The fixed phrase is in Betracht ziehen: to take into consideration."
+        },
+        {
+          "id": "gd-c1-funktionsverbgefuege-2",
+          "type": "mcq",
+          "prompt": "zur Verfügung stellen means…",
+          "options": ["to make available", "to take into account", "to carry out", "to put in question"],
+          "answer": 0,
+          "explanation": "zur Verfügung stellen = to make something available."
+        },
+        {
+          "id": "gd-c1-funktionsverbgefuege-3",
+          "type": "mcq",
+          "prompt": "Which is a function verb phrase?",
+          "options": ["eine Entscheidung treffen", "schnell laufen", "laut sprechen", "gern lesen"],
+          "answer": 0,
+          "explanation": "In eine Entscheidung treffen, the verb treffen carries little meaning; the noun carries the content."
+        }
+      ]
+    },
+    {
+      "id": "c1-complex-attributes",
+      "tables": [
+        {
+          "title": "Attribute types",
+          "headers": ["Type", "Example", "Meaning"],
+          "rows": [
+            ["Genitive attribute", "die Bedeutung des Fortschritts", "the meaning of progress"],
+            ["Participial attribute", "die von der Kommission beschlossene Reform", "the reform passed by the commission"],
+            ["Prepositional attribute", "die Arbeit an dem Projekt", "the work on the project"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-c1-complex-attributes-1",
+          "type": "mcq",
+          "prompt": "die von der Kommission beschlossene Reform means…",
+          "options": [
+            "the reform that decided the commission",
+            "the reform passed by the commission",
+            "the commission's reform decision",
+            "the reform about the commission"
+          ],
+          "answer": 1,
+          "explanation": "beschlossene is a past participle attribute: the reform that was passed by the commission."
+        },
+        {
+          "id": "gd-c1-complex-attributes-2",
+          "type": "gap",
+          "prompt": "die Bedeutung ___ Fortschritts",
+          "answers": ["des"],
+          "explanation": "Fortschritt is masculine, so the genitive article is des: die Bedeutung des Fortschritts."
+        },
+        {
+          "id": "gd-c1-complex-attributes-3",
+          "type": "mcq",
+          "prompt": "Genitive attributes usually come…",
+          "options": ["before the noun", "after the noun", "at the start", "at the end of the sentence"],
+          "answer": 1,
+          "explanation": "Genitive attributes follow the noun they describe: die Bedeutung des Fortschritts."
+        }
+      ]
+    },
+    {
+      "id": "c2-subjunctive-nuance",
+      "tables": [
+        {
+          "title": "Choosing the subjunctive",
+          "headers": ["Form", "Use", "Example"],
+          "rows": [
+            ["Konjunktiv I", "reported speech, neutrality", "Sie sagte, sie sei bereit."],
+            ["Konjunktiv II", "unreality, politeness, hypotheticals", "Wenn ich Zeit hätte, käme ich."],
+            ["Double infinitive", "modal in the perfect subjunctive", "Ich hätte kommen können."],
+            ["Past subjunctive", "counterfactual past", "Hätte man früher gehandelt, wäre das vermeidbar gewesen."]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-c2-subjunctive-nuance-1",
+          "type": "gap",
+          "prompt": "Hätte man früher gehandelt, ___ das vermieden werden können.",
+          "answers": ["hätte"],
+          "explanation": "The counterfactual past uses hätte + past participle + modal infinitive: hätte vermieden werden können."
+        },
+        {
+          "id": "gd-c2-subjunctive-nuance-2",
+          "type": "mcq",
+          "prompt": "Konjunktiv I primarily signals…",
+          "options": ["reported speech", "commands", "future", "past habit"],
+          "answer": 0,
+          "explanation": "Konjunktiv I marks reported speech and keeps the reporter neutral."
+        },
+        {
+          "id": "gd-c2-subjunctive-nuance-3",
+          "type": "gap",
+          "prompt": "Er sagte, er ___ gekommen, wenn er Zeit gehabt hätte.",
+          "answers": ["wäre"],
+          "explanation": "The unreal past conditional uses wäre gekommen: he would have come."
+        }
+      ]
+    },
+    {
+      "id": "c2-word-order",
+      "tables": [
+        {
+          "title": "Positions and effects",
+          "headers": ["Position", "Typical function", "Example"],
+          "rows": [
+            ["First", "topic, emphasis, contrast", "Diesen Vorschlag halte ich für problematisch."],
+            ["Second", "conjugated verb", "… halte ich …"],
+            ["End", "new or heavy information", "… für problematisch."],
+            ["After the verb", "objects and adverbials", "… halte ich für problematisch."]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-c2-word-order-1",
+          "type": "order",
+          "prompt": "Build: “This suggestion I consider problematic.”",
+          "tokens": ["Diesen", "Vorschlag", "halte", "ich", "für", "problematisch."],
+          "answer": "Diesen Vorschlag halte ich für problematisch.",
+          "explanation": "Fronting the object creates focus, but the verb still occupies position two: Diesen Vorschlag halte ich …"
+        },
+        {
+          "id": "gd-c2-word-order-2",
+          "type": "mcq",
+          "prompt": "Fronting an object usually creates…",
+          "options": ["focus", "a question", "passive", "a subordinate clause"],
+          "answer": 0,
+          "explanation": "Fronting moves emphasis to the element in position one."
+        },
+        {
+          "id": "gd-c2-word-order-3",
+          "type": "gap",
+          "prompt": "Nicht die Kosten sind das Problem, ___ die fehlende Zeit.",
+          "answers": ["sondern"],
+          "explanation": "nicht … sondern contrasts two alternatives: not the costs, but the lack of time."
+        }
+      ]
+    },
+    {
+      "id": "c2-regional-variation",
+      "tables": [
+        {
+          "title": "Regional vocabulary",
+          "headers": ["Germany", "Austria", "Switzerland", "English"],
+          "rows": [
+            ["Januar", "Jänner", "Januar", "January"],
+            ["Brötchen", "Semmel", "Brötli", "bread roll"],
+            ["Tüte", "Sackerl", "Tasche", "bag"],
+            ["Fahrrad", "Fahrrad", "Velo", "bicycle"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-c2-regional-variation-1",
+          "type": "mcq",
+          "prompt": "Austrian German for January is…",
+          "options": ["Januar", "Jänner", "Jenner"],
+          "answer": 1,
+          "explanation": "Austrian German uses Jänner; Germany and most of Switzerland use Januar."
+        },
+        {
+          "id": "gd-c2-regional-variation-2",
+          "type": "mcq",
+          "prompt": "Swiss German writes…",
+          "options": ["ß", "ss", "sz", "s"],
+          "answer": 1,
+          "explanation": "Switzerland and Liechtenstein do not use ß; they write ss instead."
+        },
+        {
+          "id": "gd-c2-regional-variation-3",
+          "type": "mcq",
+          "prompt": "Velo is Swiss German for…",
+          "options": ["bicycle", "car", "train", "tram"],
+          "answer": 0,
+          "explanation": "das Velo is the Swiss German word for bicycle."
+        }
+      ]
+    },
+    {
+      "id": "c2-literary-tenses",
+      "tables": [
+        {
+          "title": "Narrative tenses",
+          "headers": ["Tense", "Use", "Example"],
+          "rows": [
+            ["Präteritum", "default written narrative", "Sie ging nach Hause."],
+            ["Plusquamperfekt", "action before the narrative present", "Sie hatte das Haus verlassen."],
+            ["Präsens", "historical present, immediacy", "Er öffnet die Tür und sieht …"],
+            ["Perfekt", "spoken past, summary", "Sie hat das Haus verlassen."]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-c2-literary-tenses-1",
+          "type": "mcq",
+          "prompt": "The default narrative tense in written fiction is…",
+          "options": ["Präsens", "Präteritum", "Perfekt", "Futur I"],
+          "answer": 1,
+          "explanation": "Written fiction normally narrates in the Präteritum; the Perfekt is more typical of speech."
+        },
+        {
+          "id": "gd-c2-literary-tenses-2",
+          "type": "gap",
+          "prompt": "Sie ___ das Haus verlassen, bevor der Regen begann.",
+          "answers": ["hatte"],
+          "explanation": "The Plusquamperfekt marks the earlier action: sie hatte verlassen."
+        },
+        {
+          "id": "gd-c2-literary-tenses-3",
+          "type": "mcq",
+          "prompt": "Historical present creates…",
+          "options": ["distance", "immediacy", "formality", "uncertainty"],
+          "answer": 1,
+          "explanation": "The historical present pulls the reader into the scene and creates immediacy."
+        }
+      ]
+    },
+    {
+      "id": "c2-precision",
+      "tables": [
+        {
+          "title": "Connotation and collocation",
+          "headers": ["Word or phrase", "Connotation", "Example"],
+          "rows": [
+            ["günstig", "neutral: good value", "Die Wohnung ist günstig."],
+            ["billig", "can sound dismissive: cheap", "Das wirkt billig."],
+            ["eine Entscheidung treffen", "natural collocation", "Wir müssen eine Entscheidung treffen."],
+            ["eine Entscheidung machen", "not idiomatic", "—"]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "id": "gd-c2-precision-1",
+          "type": "mcq",
+          "prompt": "Which word is neutral for “cheap” in the sense of good value?",
+          "options": ["billig", "günstig", "preiswert", "kostengünstig"],
+          "answer": 1,
+          "explanation": "günstig is neutral and positive. billig can sound dismissive; preiswert is also positive but more explicit."
+        },
+        {
+          "id": "gd-c2-precision-2",
+          "type": "mcq",
+          "prompt": "Which collocation is natural?",
+          "options": [
+            "eine Entscheidung machen",
+            "eine Entscheidung treffen",
+            "eine Entscheidung tun",
+            "eine Entscheidung nehmen"
+          ],
+          "answer": 1,
+          "explanation": "German collocates Entscheidung with treffen: eine Entscheidung treffen."
+        },
+        {
+          "id": "gd-c2-precision-3",
+          "type": "gap",
+          "prompt": "Die Entscheidung war schwierig, aber letztlich ___.",
+          "answers": ["tragfähig"],
+          "explanation": "tragfähig means sustainable or viable and fits a considered decision."
+        }
+      ]
+    }
+  ]
+}

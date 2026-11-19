@@ -1,0 +1,654 @@
+{
+  "id": "c2-m1-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 3,
+      "prompt": "Read these sentences aloud. Listen for the difference between a reported claim and a counterfactual.",
+      "items": [
+        "Hätte man früher gehandelt, wäre das vermeidbar gewesen.",
+        "Sie sagte, sie habe den Bericht bereits geprüft.",
+        "Sofern die Angaben stimmen, dürfte die Prognose zutreffen."
+      ],
+      "lede": "Three sentences, three different jobs for the subjunctive: unreality, reported speech and cautious probability."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to make these distinctions consciously."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 5,
+      "lede": "At C2 the question is rarely whether a sentence is grammatical. It is whether the chosen form says exactly what you mean.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German offers several near-synonymous ways to mark time, distance and possibility. The differences are small but audible: a newspaper report sounds different from a novel, a polite request different from a demand, a cautious assessment different from a confident one. Choosing between these forms is the last mile of grammar."
+        },
+        {
+          "kind": "de",
+          "text": "Hätte man früher gehandelt, wäre das vermeidbar gewesen.",
+          "en": "Had action been taken earlier, that would have been avoidable."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Präteritum and Perfekt both refer to the past, but in writing the Präteritum carries the narrative while the Perfekt usually reports a result in speech.",
+            "Konjunktiv I marks reported speech and keeps the reporter neutral; Konjunktiv II marks unreality, hypothesis or politeness.",
+            "Past counterfactuals use hätte or wäre plus the past participle. With modal verbs the double infinitive replaces the participle: hätte kommen können.",
+            "Sofern is a conditional conjunction like wenn or falls, but it sounds more formal and often treats the condition as already assumed.",
+            "Dürfte can express polite permission, but it also expresses cautious probability: Das dürfte stimmen."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "A useful test",
+          "text": "Read the sentence with the plain indicative and ask what disappears: a fact, a hypothesis or a piece of polite distance. That tells you what the subjunctive is doing."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "Five forms cover most of the distinctions you need at this level.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Form", "Function", "Example", "English"],
+          "rows": [
+            ["Präteritum", "narrative past in writing", "Er ging hinaus.", "He went out."],
+            ["Perfekt", "spoken past or present result", "Er ist hinausgegangen.", "He has gone out."],
+            ["Konjunktiv I", "reported speech, neutral distance", "Sie sagt, sie sei krank.", "She says she is ill."],
+            ["Konjunktiv II", "unreality, hypothesis, politeness", "Wenn ich Zeit hätte, käme ich.", "If I had time, I would come."],
+            ["Plusquamperfekt", "what happened before the narrative past", "Er hatte gegessen, bevor er ging.", "He had eaten before he left."],
+            ["Double infinitive", "counterfactual with a modal verb", "Ich hätte kommen können.", "I could have come."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "In journalism, Konjunktiv I signals “this is what was claimed, not what I confirm”. Where the Konjunktiv I form looks exactly like the indicative, writers switch to Konjunktiv II or to soll so that the distance stays visible.",
+            "Do not use würde with sein or haben: say wäre and hätte, not würde sein and würde haben.",
+            "The double infinitive is obligatory with modal verbs in the perfect subjunctive: hätte machen können, never hätte machen gekonnt.",
+            "Sofern introduces a condition. Unlike falls, it suggests the condition is plausible or already taken for granted, which is why it is common in contracts, reports and formal argument.",
+            "The Plusquamperfekt is not simply “more past”. It establishes a reference point before another past event, and without that second event it usually sounds unmotivated."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These are the words you need to talk about the distinctions themselves.",
+      "items": [
+        {
+          "de": "die Feinheit",
+          "en": "the subtlety, fine distinction",
+          "article": "die",
+          "plural": "die Feinheiten",
+          "pronunciation": "ˈfaɪ̯nhaɪ̯t",
+          "example": "Die Feinheit der Unterscheidung erschließt sich erst beim zweiten Lesen.",
+          "exampleEn": "The subtlety of the distinction only becomes clear on a second reading."
+        },
+        {
+          "de": "der Konjunktiv",
+          "en": "the subjunctive",
+          "article": "der",
+          "plural": "die Konjunktive",
+          "pronunciation": "ˈkɔnjʊŋktiːf",
+          "example": "Der Konjunktiv II macht aus einer Behauptung eine Hypothese.",
+          "exampleEn": "The Konjunktiv II turns a statement into a hypothesis."
+        },
+        {
+          "de": "die Vorzeitigkeit",
+          "en": "anteriority, the state of happening earlier",
+          "article": "die",
+          "plural": "—",
+          "pronunciation": "ˈfoːɐ̯tsaɪ̯tɪçkaɪ̯t",
+          "example": "Die Vorzeitigkeit wird im Plusquamperfekt ausgedrückt.",
+          "exampleEn": "Anteriority is expressed with the past perfect."
+        },
+        {
+          "de": "die Wahrscheinlichkeit",
+          "en": "the probability",
+          "article": "die",
+          "plural": "die Wahrscheinlichkeiten",
+          "pronunciation": "vaːɐ̯ˈʃaɪ̯nlɪçkaɪ̯t",
+          "example": "Das dürfte mit hoher Wahrscheinlichkeit zutreffen.",
+          "exampleEn": "That is very probably correct."
+        },
+        {
+          "de": "sofern",
+          "en": "provided that, insofar as",
+          "pronunciation": "zoˈfɛʁn",
+          "example": "Sofern keine Einwände bestehen, halten wir den Termin.",
+          "exampleEn": "Provided there are no objections, we will keep the appointment."
+        },
+        {
+          "de": "die Hypothese",
+          "en": "the hypothesis",
+          "article": "die",
+          "plural": "die Hypothesen",
+          "pronunciation": "hypoˈteːzə",
+          "example": "Die Hypothese lässt sich mit den vorliegenden Daten prüfen.",
+          "exampleEn": "The hypothesis can be tested with the available data."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 5,
+      "lede": "Each sentence makes a different kind of claim. Name the form before you translate.",
+      "items": [
+        {
+          "de": "Hätte man früher gehandelt, wäre das vermeidbar gewesen.",
+          "en": "Had action been taken earlier, that would have been avoidable.",
+          "note": "A past counterfactual: hätte + participle, wäre + participle."
+        },
+        {
+          "de": "Sie sagte, sie habe den Bericht bereits geprüft; ihr Kollege dürfte anderer Meinung sein.",
+          "en": "She said she had already checked the report; her colleague is probably of a different opinion.",
+          "note": "Konjunktiv I reports her claim; dürfte adds cautious probability."
+        },
+        {
+          "de": "Sofern die Daten vollständig sind, lässt sich der Trend belastbar beschreiben.",
+          "en": "Provided the data are complete, the trend can be described reliably.",
+          "note": "Sofern sounds more formal than wenn and presents the condition as assumed."
+        },
+        {
+          "de": "Es wäre unklug, das Angebot anzunehmen, ohne die Bedingungen zu prüfen.",
+          "en": "It would be unwise to accept the offer without checking the terms.",
+          "note": "Wäre marks a hypothetical judgement, not a past event."
+        },
+        {
+          "de": "Wenn sie früher informiert worden wäre, hätte sie die Frist einhalten können.",
+          "en": "If she had been informed earlier, she would have been able to meet the deadline.",
+          "note": "Passive plus double infinitive: worden wäre … hätte … können."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 4,
+      "lede": "The subjunctive is carried by a few vowel contrasts. Keep them clean.",
+      "items": [
+        {
+          "de": "hätte",
+          "hint": "Short, open ä as in English “bet”; the double t keeps the vowel short. Do not rhyme it with “hate”.",
+          "en": "would have"
+        },
+        {
+          "de": "wäre",
+          "hint": "Long, open ä, then a light final -e. Keep it clearly distinct from würde.",
+          "en": "would be"
+        },
+        {
+          "de": "dürfte",
+          "hint": "Round the lips for ü, then a crisp rft cluster. The vowel is short and the final -e is weak.",
+          "en": "might, would be allowed"
+        },
+        {
+          "de": "sofern",
+          "hint": "Voiced s at the start, stress on the second syllable: zo-FERN.",
+          "en": "provided that"
+        },
+        {
+          "de": "vermeidbar",
+          "hint": "The prefix ver- is unvoiced; stress the second syllable and keep the final -bar light: fer-MEIT-bar.",
+          "en": "avoidable"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 3,
+      "heading": "The subjunctive in the newspaper",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German news writing uses the Konjunktiv I to keep a clear line between the paper's own reporting and a claim made by someone else. A sentence such as „Der Minister sagte, die Reform sei notwendig“ reports the minister's position without endorsing it. The reader can see where the paper stops and the source begins."
+        },
+        {
+          "kind": "p",
+          "text": "Because some Konjunktiv I forms look exactly like the indicative, journalists often switch to Konjunktiv II or to the modal verb sollen. This is a stylistic convention rather than a grammatical law; the aim is to keep the distance visible. In everyday speech the same distance is usually signalled by „er sagt, dass …“ or by tone of voice."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "Two colleagues review a delayed delivery. Listen for how each form changes the blame.",
+      "setting": "Project meeting in an office",
+      "lines": [
+        {
+          "speaker": "Nadja",
+          "de": "Hätte man den Lieferanten früher informiert, wäre die Verzögerung vermeidbar gewesen.",
+          "en": "If the supplier had been informed earlier, the delay would have been avoidable."
+        },
+        {
+          "speaker": "Tobias",
+          "de": "Das stimmt. Allerdings sagte der Lieferant, er habe die E-Mail erst am Montag gesehen.",
+          "en": "That's true. However, the supplier said he had only seen the email on Monday."
+        },
+        {
+          "speaker": "Nadja",
+          "de": "Dann dürfte die Zustellung diese Woche kaum noch zu schaffen sein.",
+          "en": "Then delivery this week is probably hardly achievable."
+        },
+        {
+          "speaker": "Tobias",
+          "de": "Wir hätten die Bestellung eben früher auslösen müssen.",
+          "en": "We should simply have triggered the order earlier."
+        },
+        {
+          "speaker": "Nadja",
+          "de": "Sofern wir die Kundin heute informieren, bleibt uns wenigstens Zeit für eine Alternative.",
+          "en": "Provided we inform the client today, we will at least have time for an alternative."
+        },
+        {
+          "speaker": "Tobias",
+          "de": "Einverstanden. Ich übernehme den Anruf.",
+          "en": "Agreed. I'll make the call."
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Konjunktiv II: present, past and tone",
+      "lede": "One mood, three jobs. The form tells the listener which job is meant.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Function", "Form", "Example", "English"],
+          "rows": [
+            ["Present unreality", "hätte/wäre or würde + infinitive", "Wenn ich Zeit hätte, käme ich.", "If I had time, I would come."],
+            ["Past unreality", "hätte/wäre + past participle", "Wenn ich Zeit gehabt hätte, wäre ich gekommen.", "If I had had time, I would have come."],
+            ["Modal past", "hätte + double infinitive", "Ich hätte mitkommen können.", "I could have come along."],
+            ["Polite request", "dürfte, könnte, würde", "Dürfte ich kurz stören?", "Might I interrupt briefly?"],
+            ["Cautious claim", "dürfte, müsste", "Das dürfte stimmen.", "That is probably right."],
+            ["Reported speech", "Konjunktiv I", "Sie sagte, sie sei krank.", "She said she was ill."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use wäre and hätte, not würde sein and würde haben.",
+            "The past subjunctive of a modal verb takes the double infinitive: hätte … können, not hätte … gekonnt.",
+            "Konjunktiv I reports; Konjunktiv II evaluates. Mixing them changes the claim, even when the English translation stays the same.",
+            "A counterfactual normally has two halves: the condition with hätte/wäre and the consequence with hätte/wäre or würde. Keep the auxiliaries parallel."
+          ]
+        }
+      ],
+      "tip": "When you edit a formal text, mark every subjunctive and write in the margin whether it means reported, unreal or polite. If you cannot label it, the reader probably cannot either."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 5,
+      "lede": "Identify the form and the job it does.",
+      "exercises": [
+        {
+          "id": "c2m1l1-p1",
+          "type": "mcq",
+          "prompt": "Which sentence is a past counterfactual?",
+          "options": ["Wenn ich Zeit habe, komme ich.", "Wenn ich Zeit hätte, käme ich.", "Wenn ich Zeit gehabt hätte, wäre ich gekommen.", "Ich bin gekommen, weil ich Zeit hatte."],
+          "answer": 2,
+          "explanation": "Hätte gehabt + wäre gekommen marks a past event that did not happen. The other sentences describe a real present, a hypothetical present or a real past."
+        },
+        {
+          "id": "c2m1l1-p2",
+          "type": "mcq",
+          "prompt": "Which sentence correctly reports someone else's claim with distance?",
+          "options": ["Er sagte, er ist krank.", "Er sagte, er sei krank.", "Er sagte, er wäre krank gewesen.", "Er sagte, er wird krank."],
+          "answer": 1,
+          "explanation": "Indirect speech takes the Konjunktiv I: er sei krank. The plain indicative er ist krank would present the claim as fact."
+        },
+        {
+          "id": "c2m1l1-p3",
+          "type": "mcq",
+          "prompt": "Which sentence uses the correct double infinitive?",
+          "options": ["Ich hätte kommen gekonnt.", "Ich hätte kommen können.", "Ich würde kommen können gehabt.", "Ich hätte gekonnt kommen."],
+          "answer": 1,
+          "explanation": "Modal verbs in the perfect subjunctive use the double infinitive: hätte … kommen können. The participle gekonnt is not used here."
+        },
+        {
+          "id": "c2m1l1-p4",
+          "type": "mcq",
+          "prompt": "What does „Das dürfte stimmen“ express?",
+          "options": ["complete certainty", "cautious probability", "a direct command", "a past event"],
+          "answer": 1,
+          "explanation": "Dürfte here is a cautious assessment: it is probably right, but the speaker leaves room for doubt."
+        },
+        {
+          "id": "c2m1l1-p5",
+          "type": "mcq",
+          "prompt": "Which sentence is grammatically correct?",
+          "options": ["Ich würde müde sein.", "Ich wäre müde.", "Ich würde sein müde.", "Ich wäre sein müde."],
+          "answer": 1,
+          "explanation": "Sein forms its own subjunctive as wäre. German does not use würde sein."
+        },
+        {
+          "id": "c2m1l1-p6",
+          "type": "mcq",
+          "prompt": "What does „sofern“ introduce?",
+          "options": ["a concession", "a condition", "a comparison", "a consequence"],
+          "answer": 1,
+          "explanation": "Sofern means provided that and introduces a condition, usually one the speaker treats as plausible or assumed."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 5,
+      "lede": "Type the missing form. Watch the auxiliary and the mood.",
+      "exercises": [
+        {
+          "id": "c2m1l1-g1",
+          "type": "gap",
+          "prompt": "Hätte man früher ___, wäre das vermeidbar gewesen.",
+          "answers": ["gehandelt"],
+          "explanation": "The past counterfactual needs the participle gehandelt after hätte."
+        },
+        {
+          "id": "c2m1l1-g2",
+          "type": "gap",
+          "prompt": "Sie sagte, sie ___ den Bericht bereits geprüft.",
+          "answers": ["habe"],
+          "explanation": "Reported speech takes Konjunktiv I: sie habe geprüft."
+        },
+        {
+          "id": "c2m1l1-g3",
+          "type": "gap",
+          "prompt": "Sofern die Daten vollständig ___, lässt sich der Trend beschreiben.",
+          "answers": ["sind"],
+          "explanation": "The condition is presented as plausible, so the indicative sind is normal after sofern."
+        },
+        {
+          "id": "c2m1l1-g4",
+          "type": "gap",
+          "prompt": "Ich ___ mitkommen können, wenn ich Zeit gehabt hätte.",
+          "answers": ["hätte"],
+          "explanation": "The modal counterfactual uses hätte + double infinitive: hätte mitkommen können."
+        },
+        {
+          "id": "c2m1l1-g5",
+          "type": "gap",
+          "prompt": "Das ___ stimmen, aber ich bin nicht ganz sicher.",
+          "answers": ["dürfte"],
+          "explanation": "Dürfte expresses cautious probability: it is probably true."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 4,
+      "lede": "Arrange the tokens. In a conditional sentence, the verb comes first in the condition clause when wenn is omitted.",
+      "exercises": [
+        {
+          "id": "c2m1l1-o1",
+          "type": "order",
+          "prompt": "Build: “Had action been taken earlier, that would have been avoidable.”",
+          "tokens": ["gewesen", "man", "wäre", "Hätte", "vermeidbar", "früher", "gehandelt", "das"],
+          "answer": "Hätte man früher gehandelt, wäre das vermeidbar gewesen.",
+          "explanation": "Without wenn, the condition clause begins with the verb Hätte; the consequence clause begins with wäre."
+        },
+        {
+          "id": "c2m1l1-o2",
+          "type": "order",
+          "prompt": "Build: “She said she had no time.”",
+          "tokens": ["keine", "sagte", "sie", "Sie", "habe", "Zeit"],
+          "answer": "Sie sagte, sie habe keine Zeit.",
+          "explanation": "Reported speech uses Konjunktiv I habe, and the subordinate clause keeps the verb at the end of its clause."
+        },
+        {
+          "id": "c2m1l1-o3",
+          "type": "order",
+          "prompt": "Build: “Provided there are no objections, we will keep the appointment.”",
+          "tokens": ["wir", "keine", "Sofern", "den", "Einwände", "halten", "bestehen", "Termin"],
+          "answer": "Sofern keine Einwände bestehen, halten wir den Termin.",
+          "explanation": "Sofern introduces the subordinate clause with the verb at the end; the main clause then starts with its verb."
+        },
+        {
+          "id": "c2m1l1-o4",
+          "type": "order",
+          "prompt": "Build: “I could have come along.”",
+          "tokens": ["mitkommen", "hätte", "Ich", "können"],
+          "answer": "Ich hätte mitkommen können.",
+          "explanation": "The modal infinitive können stands at the end, after the separable infinitive mitkommen."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 5,
+      "lede": "Listen twice. The first time, note only who says what; the second time, listen for the mood.",
+      "speaker": "Two colleagues in an office",
+      "script": [
+        {
+          "speaker": "Lea",
+          "de": "Hast du den Bericht schon gelesen? Der Autor schreibt, die Zahlen seien unvollständig.",
+          "en": "Have you read the report yet? The author writes that the figures are incomplete."
+        },
+        {
+          "speaker": "Mira",
+          "de": "Dann dürfte die Schlussfolgerung kaum haltbar sein.",
+          "en": "Then the conclusion is probably hardly tenable."
+        },
+        {
+          "speaker": "Lea",
+          "de": "Er hätte die fehlenden Daten leicht nachreichen können.",
+          "en": "He could easily have supplied the missing data."
+        },
+        {
+          "speaker": "Mira",
+          "de": "Sofern er das bis Freitag tut, können wir die Fassung noch korrigieren.",
+          "en": "Provided he does that by Friday, we can still correct the version."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2m1l1-lq1",
+          "type": "mcq",
+          "prompt": "What does the author claim about the figures?",
+          "options": ["They are complete.", "They are incomplete.", "They are irrelevant.", "They are confidential."],
+          "answer": 1,
+          "explanation": "Lea reports: „die Zahlen seien unvollständig“ — the figures are incomplete."
+        },
+        {
+          "id": "c2m1l1-lq2",
+          "type": "mcq",
+          "prompt": "What does Mira say about the conclusion?",
+          "options": ["It is certainly correct.", "It is probably untenable.", "It has already been published.", "It needs no data."],
+          "answer": 1,
+          "explanation": "Mira uses dürfte … kaum haltbar: the conclusion is probably hardly tenable."
+        },
+        {
+          "id": "c2m1l1-lq3",
+          "type": "mcq",
+          "prompt": "What condition does Mira set?",
+          "options": ["The author must apologise.", "The missing data must arrive by Friday.", "The report must be shortened.", "Lea must write a new conclusion."],
+          "answer": 1,
+          "explanation": "Sofern er das bis Freitag tut refers to supplying the missing data by Friday."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 5,
+      "lede": "Tell the story of a decision you would make differently now. Keep the counterfactual forms parallel.",
+      "prompt": "Describe a decision from your work or studies that you would have made differently. Use at least two past counterfactuals and one cautious claim with dürfte.",
+      "model": {
+        "de": "Rückblickend hätte ich früher um Rückmeldung gebeten. Hätte ich die Bedenken ernst genommen, wäre das Projekt schneller vorangekommen. Die Verzögerung dürfte vor allem an der unklaren Zuständigkeit gelegen haben. Sofern wir das nächste Mal klare Rollen festlegen, lässt sich das vermeiden.",
+        "en": "In hindsight I would have asked for feedback earlier. Had I taken the concerns seriously, the project would have progressed faster. The delay was probably mainly due to the unclear allocation of responsibility. Provided we define clear roles next time, that can be avoided."
+      },
+      "tips": [
+        "Build each counterfactual around hätte or wäre plus the participle; do not add würde to a past participle.",
+        "Use dürfte for a claim you cannot prove. It signals precision rather than weakness.",
+        "Pause after the condition clause so the listener can follow the hypothesis before the consequence."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 3,
+      "lede": "These errors survive to C2 because the English translation hides them.",
+      "items": [
+        {
+          "wrong": "Wenn ich das gewusst hätte, würde ich anders reagiert haben.",
+          "right": "Wenn ich das gewusst hätte, hätte ich anders reagiert.",
+          "why": "A past counterfactual uses hätte + past participle. Würde + participle is not a German tense."
+        },
+        {
+          "wrong": "Er sagte, er ist krank.",
+          "right": "Er sagte, er sei krank.",
+          "why": "Reported speech takes Konjunktiv I to mark the claim as someone else's. The indicative turns it into a fact."
+        },
+        {
+          "wrong": "Ich hätte kommen gekonnt.",
+          "right": "Ich hätte kommen können.",
+          "why": "Modal verbs in the perfect subjunctive take the double infinitive, not the participle."
+        },
+        {
+          "wrong": "Ich würde müde sein.",
+          "right": "Ich wäre müde.",
+          "why": "Sein and haben use their own subjunctive forms, wäre and hätte. Würde sein is not standard German."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions. Score 70% or more to complete the lesson check.",
+      "questions": [
+        {
+          "id": "c2m1l1-a1",
+          "type": "mcq",
+          "prompt": "Which sentence expresses a past counterfactual?",
+          "options": ["Wenn ich Zeit hätte, käme ich.", "Wenn ich Zeit gehabt hätte, wäre ich gekommen.", "Ich komme, weil ich Zeit habe.", "Ich bin gekommen, obwohl ich keine Zeit hatte."],
+          "answer": 1,
+          "explanation": "Hätte gehabt and wäre gekommen place the unreal condition and its consequence in the past."
+        },
+        {
+          "id": "c2m1l1-a2",
+          "type": "mcq",
+          "prompt": "Which sentence marks a claim as reported rather than confirmed?",
+          "options": ["Sie sagt, sie ist krank.", "Sie sagt, sie sei krank.", "Sie sagt, sie war krank.", "Sie sagt, sie wird krank."],
+          "answer": 1,
+          "explanation": "Konjunktiv I sei signals reported speech and keeps the reporter neutral."
+        },
+        {
+          "id": "c2m1l1-a3",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": ["Ich hätte kommen gekonnt.", "Ich hätte kommen können.", "Ich würde kommen gekonnt haben.", "Ich hätte gekonnt kommen."],
+          "answer": 1,
+          "explanation": "The modal verb appears as an infinitive at the end: hätte … kommen können."
+        },
+        {
+          "id": "c2m1l1-a4",
+          "type": "mcq",
+          "prompt": "What does „sofern“ mean?",
+          "options": ["although", "provided that", "as soon as", "because"],
+          "answer": 1,
+          "explanation": "Sofern introduces a condition and is more formal than wenn."
+        },
+        {
+          "id": "c2m1l1-a5",
+          "type": "mcq",
+          "prompt": "Which sentence uses wäre correctly?",
+          "options": ["Wenn ich reich wäre, würde ich reisen.", "Wenn ich reich würde sein, reise ich.", "Wenn ich wäre reich, würde ich reisen.", "Wenn ich reich wäre sein, reise ich."],
+          "answer": 0,
+          "explanation": "Wäre is the subjunctive of sein and stands in second position in the condition clause; no würde sein is needed."
+        },
+        {
+          "id": "c2m1l1-a6",
+          "type": "mcq",
+          "prompt": "What nuance does „Das dürfte stimmen“ add?",
+          "options": ["The speaker is certain.", "The speaker considers it probable.", "The speaker forbids it.", "The speaker refers to the past."],
+          "answer": 1,
+          "explanation": "Dürfte expresses cautious probability, not certainty."
+        },
+        {
+          "id": "c2m1l1-a7",
+          "type": "gap",
+          "prompt": "Hätte man früher ___, wäre das vermeidbar gewesen.",
+          "answers": ["gehandelt"],
+          "explanation": "The past counterfactual requires the participle gehandelt."
+        },
+        {
+          "id": "c2m1l1-a8",
+          "type": "gap",
+          "prompt": "Sie sagte, sie ___ keine Zeit.",
+          "answers": ["habe"],
+          "explanation": "Reported speech uses Konjunktiv I: sie habe keine Zeit."
+        },
+        {
+          "id": "c2m1l1-a9",
+          "type": "gap",
+          "prompt": "Ich ___ mitkommen können, wenn ich Zeit gehabt hätte.",
+          "answers": ["hätte"],
+          "explanation": "The modal counterfactual is built with hätte and the double infinitive."
+        },
+        {
+          "id": "c2m1l1-a10",
+          "type": "gap",
+          "prompt": "Sofern die Angaben ___, dürfte die Prognose zutreffen.",
+          "answers": ["stimmen"],
+          "explanation": "The condition is treated as plausible, so the indicative stimmen follows sofern."
+        },
+        {
+          "id": "c2m1l1-a11",
+          "type": "order",
+          "prompt": "Build: “Had action been taken earlier, that would have been avoidable.”",
+          "tokens": ["gewesen", "man", "wäre", "Hätte", "vermeidbar", "früher", "gehandelt", "das"],
+          "answer": "Hätte man früher gehandelt, wäre das vermeidbar gewesen.",
+          "explanation": "The condition clause begins with Hätte because wenn is omitted; the consequence begins with wäre."
+        },
+        {
+          "id": "c2m1l1-a12",
+          "type": "order",
+          "prompt": "Build: “That is very probably correct.”",
+          "tokens": ["zutreffen", "mit", "dürfte", "Das", "hoher", "Wahrscheinlichkeit"],
+          "answer": "Das dürfte mit hoher Wahrscheinlichkeit zutreffen.",
+          "explanation": "Dürfte carries the cautious probability; the prepositional phrase mit hoher Wahrscheinlichkeit modifies zutreffen."
+        }
+      ]
+    }
+  ]
+}

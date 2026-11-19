@@ -1,0 +1,632 @@
+{
+  "id": "b1-m2-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Read each sentence and stop briefly at the comma. The zu-infinitive at the end should stay connected to the first half.",
+      "prompt": "Read the sentences aloud. Then say which one describes a plan and which one describes a purpose.",
+      "items": [
+        "Ich habe vor, im Sommer nach Wien zu fahren.",
+        "Ich habe vergessen, die Rechnung zu bezahlen.",
+        "Sie versucht, jeden Tag Deutsch zu lernen.",
+        "Ich lerne Deutsch, um in Wien zu studieren."
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "German uses zu + infinitive where English often uses “to” or a full second clause.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Many German verbs and expressions cannot take a normal object when the second action has no subject of its own. They take a zu-infinitive instead: Ich habe vor, nach Wien zu fahren. The subject of fahren is the same as the subject of habe vor, so it does not need to be repeated."
+        },
+        {
+          "kind": "de",
+          "text": "Ich habe vor, im Sommer nach Wien zu fahren.",
+          "en": "I plan to go to Vienna in the summer."
+        },
+        {
+          "kind": "p",
+          "text": "There are two main patterns. The first is a verb or expression plus zu-infinitive: vorhaben, vergessen, versuchen, anfangen, aufhören, hoffen, es ist wichtig. The second is um … zu, which expresses a purpose: Ich lerne Deutsch, um in Wien zu studieren. If the two clauses have different subjects, use damit instead."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The zu-infinitive goes to the end: Ich versuche, pünktlich zu sein.",
+            "With a separable verb, zu goes inside the verb: anzurufen, einzukaufen, aufzustehen.",
+            "After a modal verb there is no zu: Ich muss einkaufen. But brauchen + zu is possible with nicht: Du brauchst nicht zu kommen.",
+            "Use um … zu only when both actions share the same subject. Otherwise use damit."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "A comma helps",
+          "text": "A comma normally separates the main clause from the zu-infinitive: Ich hoffe, dich bald zu sehen. With short expressions the comma is optional, but using it makes the structure easier to read."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "The verb on the left decides whether you need zu, um … zu, or damit.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Pattern", "Example", "English"],
+          "rows": [
+            ["vorhaben, … zu …", "Ich habe vor, früher anzufangen.", "I plan to start earlier."],
+            ["vergessen, … zu …", "Ich habe vergessen, sie anzurufen.", "I forgot to call her."],
+            ["versuchen, … zu …", "Wir versuchen, das Problem zu lösen.", "We are trying to solve the problem."],
+            ["anfangen / aufhören, … zu …", "Er hört auf, so spät zu arbeiten.", "He is stopping working so late."],
+            ["es ist wichtig, … zu …", "Es ist wichtig, die Frist zu beachten.", "It is important to observe the deadline."],
+            ["um … zu …", "Ich stehe früh auf, um den Zug zu erreichen.", "I get up early in order to catch the train."],
+            ["damit + clause", "Ich spreche langsam, damit du mich verstehst.", "I speak slowly so that you understand me."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The finite verb stays in the main clause; the zu-infinitive closes the sentence: Ich versuche, mehr zu lesen.",
+            "Separable verbs: anrufen → anzurufen; einkaufen → einzukaufen; aufstehen → aufzustehen.",
+            "Reflexive verbs keep the reflexive pronoun: Ich habe vor, mich zu bewerben.",
+            "um … zu answers the question Wozu? It names the purpose, not the result.",
+            "damit introduces a full clause with its own subject and a final verb: …, damit du mich verstehst."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Two common traps",
+          "text": "Do not say “Ich habe vor, nach Wien fahren” — the zu is obligatory. Do not say “Ich habe vor, zu nach Wien fahren” — zu belongs directly before the infinitive at the end."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These six items are the backbone of plans, intentions and purposes.",
+      "items": [
+        {
+          "de": "vorhaben",
+          "en": "to plan, to intend",
+          "pronunciation": "ˈfoːɐ̯haːbn̩",
+          "example": "Ich habe vor, im Sommer einen Kurs zu machen.",
+          "exampleEn": "I plan to take a course in the summer."
+        },
+        {
+          "de": "vergessen",
+          "en": "to forget",
+          "pronunciation": "fɛɐ̯ˈɡɛsn̩",
+          "example": "Ich habe vergessen, die Rechnung zu bezahlen.",
+          "exampleEn": "I forgot to pay the invoice."
+        },
+        {
+          "de": "versuchen",
+          "en": "to try",
+          "pronunciation": "fɛɐ̯ˈzuːxn̩",
+          "example": "Sie versucht, jeden Tag Deutsch zu lernen.",
+          "exampleEn": "She tries to learn German every day."
+        },
+        {
+          "de": "aufhören",
+          "en": "to stop, to give up",
+          "pronunciation": "ˈaʊ̯fhøːʁən",
+          "example": "Er hört auf, so spät zu arbeiten.",
+          "exampleEn": "He is stopping working so late."
+        },
+        {
+          "de": "die Absicht",
+          "en": "the intention",
+          "article": "die",
+          "plural": "die Absichten",
+          "pronunciation": "ˈapzɪçt",
+          "example": "Meine Absicht ist es, die Prüfung zu bestehen.",
+          "exampleEn": "My intention is to pass the exam."
+        },
+        {
+          "de": "der Zweck",
+          "en": "the purpose",
+          "article": "der",
+          "plural": "die Zwecke",
+          "pronunciation": "tsvɛk",
+          "example": "Der Zweck des Kurses ist, sicher zu sprechen.",
+          "exampleEn": "The purpose of the course is to speak confidently."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Name the pattern before you translate: plan, attempt, purpose or omission.",
+      "items": [
+        {
+          "de": "Ich habe vor, im Sommer nach Wien zu fahren.",
+          "en": "I plan to go to Vienna in the summer.",
+          "note": "vorhaben + zu-infinitive; the comma separates the two parts."
+        },
+        {
+          "de": "Ich habe vergessen, die Rechnung zu bezahlen.",
+          "en": "I forgot to pay the invoice.",
+          "note": "The perfect tense habe vergessen stays in the main clause."
+        },
+        {
+          "de": "Sie versucht, jeden Tag Deutsch zu lernen.",
+          "en": "She tries to learn German every day.",
+          "note": "versuchen + zu; the infinitive closes the sentence."
+        },
+        {
+          "de": "Wir treffen uns früher, um noch einen Kaffee zu trinken.",
+          "en": "We are meeting earlier in order to have another coffee.",
+          "note": "um … zu names the purpose of meeting earlier."
+        },
+        {
+          "de": "Ich spreche langsam, damit du mich verstehst.",
+          "en": "I speak slowly so that you understand me.",
+          "note": "damit is needed because the subjects are different: ich and du."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "The zu-infinitive is unstressed at the end, but the prefix must remain audible.",
+      "items": [
+        {
+          "de": "vorhaben",
+          "hint": "v sounds like f, and the o is long: FOR-ha-ben.",
+          "en": "to plan"
+        },
+        {
+          "de": "vergessen",
+          "hint": "fer-GESS-sen. Keep the e short and the double s sharp.",
+          "en": "to forget"
+        },
+        {
+          "de": "versuchen",
+          "hint": "The s between vowels sounds like z: fer-ZOO-khen. The final ch is soft.",
+          "en": "to try"
+        },
+        {
+          "de": "anzurufen",
+          "hint": "The zu is a separate syllable in the middle: AN-tsoo-ROO-fen.",
+          "en": "to call (separable)"
+        },
+        {
+          "de": "Zweck",
+          "hint": "Start with “ts”, then a short open e: tsvek. The final ck is a clean k.",
+          "en": "purpose"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Plans are usually stated explicitly",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German emails and conversations often name the purpose of an action directly: Ich schreibe Ihnen, um einen Termin zu vereinbaren. This is not impoliteness; it saves the reader time and makes the request easy to answer. The same pattern appears in job applications, instructions and project updates."
+        },
+        {
+          "kind": "p",
+          "text": "In spoken German, vorhaben and versuchen are common in the first person: Ich habe vor, … and Ich versuche, …. They signal that a plan is not yet fixed, which leaves room for a reply. For a firm decision, use Ich werde … rather than Ich habe vor …."
+        },
+        {
+          "kind": "note",
+          "title": "Register tip",
+          "text": "Ich habe vor, … is neutral and works in both formal and informal writing. Ich will … is direct and can sound determined; in a formal email, Ich möchte … or Ich habe vor … is usually the safer choice."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "Two friends talk about a summer plan. Every second sentence contains a zu-infinitive.",
+      "setting": "Two friends in a café, planning the summer",
+      "lines": [
+        { "speaker": "Nora", "de": "Hast du schon Pläne für den Sommer?", "en": "Do you already have plans for the summer?" },
+        { "speaker": "Elif", "de": "Ja, ich habe vor, einen Deutschkurs in Wien zu machen.", "en": "Yes, I plan to take a German course in Vienna." },
+        { "speaker": "Nora", "de": "Schön. Warum gerade Wien?", "en": "Nice. Why Vienna in particular?" },
+        { "speaker": "Elif", "de": "Ich möchte dort studieren. Deshalb lerne ich Deutsch, um die Prüfung zu bestehen.", "en": "I want to study there. That is why I am learning German in order to pass the exam." },
+        { "speaker": "Nora", "de": "Und wie bezahlst du den Kurs?", "en": "And how are you paying for the course?" },
+        { "speaker": "Elif", "de": "Ich versuche, nebenbei zu arbeiten. Außerdem habe ich vor, bei einer Familie zu wohnen.", "en": "I am trying to work on the side. I also plan to live with a family." },
+        { "speaker": "Nora", "de": "Vergiss nicht, rechtzeitig ein Zimmer zu suchen.", "en": "Do not forget to look for a room in good time." },
+        { "speaker": "Elif", "de": "Danke, das habe ich schon erledigt. Ich habe vor, nächste Woche den Vertrag zu unterschreiben.", "en": "Thanks, I have already taken care of that. I plan to sign the contract next week." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Where does “zu” go?",
+      "lede": "The position of zu is regular, including with separable verbs.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Verb type", "Infinitive", "With zu", "Example"],
+          "rows": [
+            ["simple verb", "lernen", "zu lernen", "Ich versuche, jeden Tag zu lernen."],
+            ["separable verb", "anrufen", "anzurufen", "Ich habe vergessen, dich anzurufen."],
+            ["separable verb", "einkaufen", "einzukaufen", "Ich habe vor, heute einzukaufen."],
+            ["reflexive verb", "sich bewerben", "sich zu bewerben", "Ich habe vor, mich zu bewerben."],
+            ["modal verb", "müssen", "no zu", "Ich muss heute einkaufen."],
+            ["brauchen + negation", "kommen", "zu kommen", "Du brauchst nicht zu kommen."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "um … zu is split: um introduces the purpose, zu stands directly before the infinitive at the end.",
+            "If the purpose clause has a different subject, use damit + final verb: Ich rufe an, damit du Bescheid weißt.",
+            "With a separable verb in an um … zu clause, zu still goes inside: …, um früher aufzustehen.",
+            "Do not use zu after a modal verb: Ich kann heute nicht kommen, not “zu kommen”.",
+            "The comma before a zu-infinitive is standard when the main clause is long."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Test the subject",
+          "text": "Ask: who performs the second action? If it is the same person as in the main clause, um … zu works. If it is someone else, you need damit: Ich spreche langsam, damit du mich verstehst — du, not ich, does the understanding."
+        }
+      ],
+      "tip": "When you learn a new verb, learn its pattern at the same time: versuchen + zu, vorhaben + zu, aufhören + zu. The preposition is part of the verb's identity."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Check the pattern, the position of zu and the subject.",
+      "exercises": [
+        {
+          "id": "b1m2l2-p1",
+          "type": "mcq",
+          "prompt": "Complete: “Ich habe vor, im Sommer nach Wien ___.”",
+          "options": ["zu fahren", "fahren", "gefahren", "fahre"],
+          "answer": 0,
+          "explanation": "vorhaben takes a zu-infinitive at the end: … nach Wien zu fahren."
+        },
+        {
+          "id": "b1m2l2-p2",
+          "type": "mcq",
+          "prompt": "Complete: “Ich versuche, mehr ___.”",
+          "options": ["zu lesen", "lesen", "gelesen", "lese"],
+          "answer": 0,
+          "explanation": "versuchen + zu-infinitive: Ich versuche, mehr zu lesen."
+        },
+        {
+          "id": "b1m2l2-p3",
+          "type": "mcq",
+          "prompt": "Which sentence is correct for a separable verb?",
+          "options": ["Ich habe vergessen, dich anzurufen.", "Ich habe vergessen, dich zu anrufen.", "Ich habe vergessen, anzurufen dich.", "Ich habe vergessen, dich angerufen."],
+          "answer": 0,
+          "explanation": "With separable verbs, zu goes between the prefix and the stem: an + zu + rufen."
+        },
+        {
+          "id": "b1m2l2-p4",
+          "type": "mcq",
+          "prompt": "Complete: “Ich lerne Deutsch, ___ in Wien zu studieren.”",
+          "options": ["um", "damit", "weil", "dass"],
+          "answer": 0,
+          "explanation": "um … zu expresses a purpose with the same subject: um in Wien zu studieren."
+        },
+        {
+          "id": "b1m2l2-p5",
+          "type": "mcq",
+          "prompt": "Complete: “Ich spreche langsam, ___ du mich verstehst.”",
+          "options": ["um", "damit", "zu", "ohne"],
+          "answer": 1,
+          "explanation": "The subjects are different (ich, du), so a damit-clause is needed."
+        },
+        {
+          "id": "b1m2l2-p6",
+          "type": "mcq",
+          "prompt": "Complete: “Du brauchst heute nicht ___ kommen.”",
+          "options": ["zu", "um", "damit", "dass"],
+          "answer": 0,
+          "explanation": "brauchen + nicht takes a zu-infinitive: Du brauchst nicht zu kommen."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing word. One gap needs a whole separable infinitive.",
+      "exercises": [
+        {
+          "id": "b1m2l2-g1",
+          "type": "gap",
+          "prompt": "Ich habe vor, nach Berlin ___ fahren.",
+          "answers": ["zu"],
+          "explanation": "vorhaben requires zu before the infinitive: … nach Berlin zu fahren."
+        },
+        {
+          "id": "b1m2l2-g2",
+          "type": "gap",
+          "prompt": "Ich habe vergessen, die Rechnung ___ bezahlen.",
+          "answers": ["zu"],
+          "explanation": "vergessen + zu-infinitive: … die Rechnung zu bezahlen."
+        },
+        {
+          "id": "b1m2l2-g3",
+          "type": "gap",
+          "prompt": "Sie versucht, jeden Tag Deutsch ___ lernen.",
+          "answers": ["zu"],
+          "explanation": "versuchen + zu-infinitive: … Deutsch zu lernen."
+        },
+        {
+          "id": "b1m2l2-g4",
+          "type": "gap",
+          "prompt": "Ich lerne Deutsch, ___ in Wien zu studieren.",
+          "answers": ["um"],
+          "explanation": "The purpose frame is um … zu: um in Wien zu studieren."
+        },
+        {
+          "id": "b1m2l2-g5",
+          "type": "gap",
+          "prompt": "Ich habe vergessen, dich ___ . (anrufen)",
+          "answers": ["anzurufen"],
+          "explanation": "Separable verb + zu: an + zu + rufen = anzurufen."
+        },
+        {
+          "id": "b1m2l2-g6",
+          "type": "gap",
+          "prompt": "Ich spreche langsam, ___ du mich verstehst.",
+          "answers": ["damit"],
+          "explanation": "Different subjects (ich, du) need damit, not um … zu."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Build the sentence and check that zu stands directly before the infinitive.",
+      "exercises": [
+        {
+          "id": "b1m2l2-o1",
+          "type": "order",
+          "prompt": "Build: “I plan to go to Vienna in the summer.”",
+          "tokens": ["vor", "im", "habe", "Ich", "Sommer", "Wien", "nach", "zu", "fahren"],
+          "answer": "Ich habe vor, im Sommer nach Wien zu fahren.",
+          "explanation": "vorhaben is separable in the main clause: Ich habe vor; the zu-infinitive closes the sentence."
+        },
+        {
+          "id": "b1m2l2-o2",
+          "type": "order",
+          "prompt": "Build: “I forgot to pay the invoice.”",
+          "tokens": ["vergessen", "die", "habe", "Ich", "Rechnung", "zu", "bezahlen"],
+          "answer": "Ich habe vergessen, die Rechnung zu bezahlen.",
+          "explanation": "The perfect auxiliary habe stays in the main clause; zu bezahlen is final."
+        },
+        {
+          "id": "b1m2l2-o3",
+          "type": "order",
+          "prompt": "Build: “We are meeting earlier in order to have a coffee.”",
+          "tokens": ["früher", "Wir", "treffen", "uns", "um", "einen", "Kaffee", "zu", "trinken"],
+          "answer": "Wir treffen uns früher, um einen Kaffee zu trinken.",
+          "explanation": "um introduces the purpose; zu trinken stands at the end."
+        },
+        {
+          "id": "b1m2l2-o4",
+          "type": "order",
+          "prompt": "Build: “She tries to learn German every day.”",
+          "tokens": ["versucht", "Sie", "jeden", "Tag", "Deutsch", "zu", "lernen"],
+          "answer": "Sie versucht, jeden Tag Deutsch zu lernen.",
+          "explanation": "versuchen + zu-infinitive at the end of the clause."
+        },
+        {
+          "id": "b1m2l2-o5",
+          "type": "order",
+          "prompt": "Build: “I speak slowly so that you understand me.”",
+          "tokens": ["langsam", "Ich", "spreche", "damit", "du", "mich", "verstehst"],
+          "answer": "Ich spreche langsam, damit du mich verstehst.",
+          "explanation": "damit introduces a full clause with the verb verstehst at the end."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen for the plan, the purpose and the thing that must not be forgotten.",
+      "speaker": "Two friends, Clara and Ben",
+      "script": [
+        { "speaker": "Clara", "de": "Hallo Ben, hier ist Clara. Ich habe vor, am Samstag einen Kurs zu machen. Kommst du mit?", "en": "Hello Ben, this is Clara. I plan to do a course on Saturday. Are you coming along?" },
+        { "speaker": "Ben", "de": "Hallo Clara. Ja, gern. Worum geht es denn?", "en": "Hello Clara. Yes, gladly. What is it about, then?" },
+        { "speaker": "Clara", "de": "Um einen Kochkurs. Ich möchte lernen, besser zu kochen.", "en": "A cooking course. I want to learn to cook better." },
+        { "speaker": "Ben", "de": "Gute Idee. Vergiss nicht, dich vorher anzumelden.", "en": "Good idea. Do not forget to register beforehand." },
+        { "speaker": "Clara", "de": "Das habe ich schon gemacht. Ich habe vor, um neun Uhr dort zu sein.", "en": "I have already done that. I plan to be there at nine." },
+        { "speaker": "Ben", "de": "Alles klar. Ich versuche, pünktlich zu kommen. Bis Samstag!", "en": "All right. I will try to come on time. See you Saturday!" }
+      ],
+      "questions": [
+        {
+          "id": "b1m2l2-lq1",
+          "type": "mcq",
+          "prompt": "What kind of course is Clara taking?",
+          "options": ["A language course", "A cooking course", "A photography course", "A dance course"],
+          "answer": 1,
+          "explanation": "Clara says: Um einen Kochkurs."
+        },
+        {
+          "id": "b1m2l2-lq2",
+          "type": "mcq",
+          "prompt": "What has Clara already done?",
+          "options": ["Paid the course fee", "Registered for the course", "Bought the ingredients", "Called the teacher"],
+          "answer": 1,
+          "explanation": "Ben says she should not forget to register, and she replies: Das habe ich schon gemacht."
+        },
+        {
+          "id": "b1m2l2-lq3",
+          "type": "mcq",
+          "prompt": "When does Clara plan to be there?",
+          "options": ["At eight", "At nine", "At ten", "At noon"],
+          "answer": 1,
+          "explanation": "Ich habe vor, um neun Uhr dort zu sein."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Use at least two zu-infinitives and one um … zu purpose. Speak for about forty seconds.",
+      "prompt": "Talk about your plans for next year. Mention one thing you intend to do, one thing you are trying to improve and one purpose behind your plan.",
+      "model": {
+        "de": "Ich habe vor, nächstes Jahr einen Sprachkurs in Deutschland zu machen. Ich versuche, vorher jeden Tag zwanzig Minuten zu üben, um sicherer zu sprechen. Außerdem habe ich vor, mich für eine Prüfung anzumelden. Ich hoffe, sie im Sommer zu bestehen.",
+        "en": "I plan to take a language course in Germany next year. I am trying to practise twenty minutes every day beforehand in order to speak more confidently. I also plan to register for an exam. I hope to pass it in the summer."
+      },
+      "tips": [
+        "Keep the zu-infinitive at the end of its clause; do not insert the object after it.",
+        "Use um … zu only when you are the person doing both actions. Otherwise switch to damit.",
+        "Build one sentence at a time. A clear plan plus a clear purpose is enough for a strong B1 answer."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "Two errors are about omitting zu; two are about putting it in the wrong place.",
+      "items": [
+        {
+          "wrong": "Ich habe vor, nach Berlin fahren.",
+          "right": "Ich habe vor, nach Berlin zu fahren.",
+          "why": "vorhaben requires a zu-infinitive. Without zu, the sentence is incomplete."
+        },
+        {
+          "wrong": "Ich versuche, zu lernen Deutsch.",
+          "right": "Ich versuche, Deutsch zu lernen.",
+          "why": "The object comes before the zu-infinitive, which closes the clause."
+        },
+        {
+          "wrong": "Ich habe vergessen, dich zu anrufen.",
+          "right": "Ich habe vergessen, dich anzurufen.",
+          "why": "With separable verbs, zu goes between the prefix and the stem: an + zu + rufen."
+        },
+        {
+          "wrong": "Ich lerne Deutsch, damit in Wien zu studieren.",
+          "right": "Ich lerne Deutsch, um in Wien zu studieren.",
+          "why": "damit introduces a clause with its own subject and verb. A purpose with the same subject uses um … zu."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 3,
+      "passScore": 70,
+      "lede": "Ten questions. Score 70% or more to unlock the next lesson.",
+      "questions": [
+        {
+          "id": "b1m2l2-a1",
+          "type": "mcq",
+          "prompt": "Which verb pattern is correct after “Ich habe vor”?",
+          "options": ["…, nach Wien zu fahren.", "…, nach Wien fahren.", "…, nach Wien gefahren.", "…, zu nach Wien fahren."],
+          "answer": 0,
+          "explanation": "vorhaben takes a zu-infinitive: Ich habe vor, nach Wien zu fahren."
+        },
+        {
+          "id": "b1m2l2-a2",
+          "type": "gap",
+          "prompt": "Ich habe vergessen, die Rechnung ___ bezahlen.",
+          "answers": ["zu"],
+          "explanation": "vergessen + zu-infinitive: … die Rechnung zu bezahlen."
+        },
+        {
+          "id": "b1m2l2-a3",
+          "type": "mcq",
+          "prompt": "How do you form the zu-infinitive of “anrufen”?",
+          "options": ["zu anrufen", "anzurufen", "anrufen zu", "angerufen"],
+          "answer": 1,
+          "explanation": "For separable verbs, zu goes inside: an + zu + rufen = anzurufen."
+        },
+        {
+          "id": "b1m2l2-a4",
+          "type": "gap",
+          "prompt": "Ich lerne Deutsch, ___ in Wien zu studieren.",
+          "answers": ["um"],
+          "explanation": "The purpose frame is um … zu; the same subject performs both actions."
+        },
+        {
+          "id": "b1m2l2-a5",
+          "type": "order",
+          "prompt": "Build: “I plan to go to Vienna in the summer.”",
+          "tokens": ["vor", "im", "habe", "Ich", "Sommer", "Wien", "nach", "zu", "fahren"],
+          "answer": "Ich habe vor, im Sommer nach Wien zu fahren.",
+          "explanation": "Ich habe vor + zu-infinitive at the end: … nach Wien zu fahren."
+        },
+        {
+          "id": "b1m2l2-a6",
+          "type": "mcq",
+          "prompt": "When do you need “damit” instead of “um … zu”?",
+          "options": ["When the purpose clause has a different subject", "When the sentence is in the past", "When the verb is separable", "When the purpose is negative"],
+          "answer": 0,
+          "explanation": "um … zu requires the same subject in both parts. A different subject needs a damit-clause."
+        },
+        {
+          "id": "b1m2l2-a7",
+          "type": "gap",
+          "prompt": "Ich habe vergessen, dich ___ . (anrufen)",
+          "answers": ["anzurufen"],
+          "explanation": "Separable verb + zu: an + zu + rufen."
+        },
+        {
+          "id": "b1m2l2-a8",
+          "type": "order",
+          "prompt": "Build: “We are meeting earlier in order to have a coffee.”",
+          "tokens": ["früher", "Wir", "treffen", "uns", "um", "einen", "Kaffee", "zu", "trinken"],
+          "answer": "Wir treffen uns früher, um einen Kaffee zu trinken.",
+          "explanation": "um + … + zu + infinitive at the end expresses the purpose."
+        },
+        {
+          "id": "b1m2l2-a9",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": ["Ich muss heute einkaufen.", "Ich muss heute zu einkaufen.", "Ich muss heute einzukaufen.", "Ich muss zu heute einkaufen."],
+          "answer": 0,
+          "explanation": "After a modal verb there is no zu: Ich muss heute einkaufen."
+        },
+        {
+          "id": "b1m2l2-a10",
+          "type": "gap",
+          "prompt": "Ich spreche langsam, ___ du mich verstehst.",
+          "answers": ["damit"],
+          "explanation": "Different subjects require damit: ich spreche, du verstehst."
+        }
+      ]
+    }
+  ]
+}

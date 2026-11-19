@@ -1,0 +1,35 @@
+# Render Blueprint for DeutschLern AI v1.0.0 (free web service).
+#
+# Render supplies PORT. The free plan has no persistent disk, so DATA_DIR points
+# at an ephemeral writable directory: accounts and synced progress reset on
+# restart/redeploy. AI_API_KEY is intentionally sync:false: set it in the Render
+# Dashboard/API at deploy time; it is never stored here or sent to the browser.
+services:
+  - type: web
+    name: deutschlern-ai
+    runtime: node
+    plan: free
+    region: oregon
+    buildCommand: npm ci --omit=dev
+    startCommand: npm start
+    healthCheckPath: /api/health/ready
+    autoDeployTrigger: commit
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: NODE_VERSION
+        value: "20"
+      - key: TRUST_PROXY
+        value: "1"
+      - key: DATA_DIR
+        value: /tmp/deutschlern-data
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: AI_PROVIDER
+        value: compatible
+      - key: AI_BASE_URL
+        value: https://generativelanguage.googleapis.com/v1beta/openai
+      - key: AI_API_KEY
+        sync: false
+      - key: AI_MODEL
+        value: gemini-3.5-flash-lite

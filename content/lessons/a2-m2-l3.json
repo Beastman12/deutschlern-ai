@@ -1,0 +1,640 @@
+{
+  "id": "a2-m2-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Read each pair aloud and listen for the article.",
+      "prompt": "Say these sentences aloud. In each pair the preposition stays the same, but the article changes.",
+      "items": [
+        "Die Katze springt auf den Tisch.",
+        "Die Katze sitzt auf dem Tisch.",
+        "Ich hänge das Bild an die Wand.",
+        "Das Bild hängt an der Wand."
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 5,
+      "lede": "Nine prepositions can take either case. The question decides.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "The two-way prepositions are an, auf, hinter, in, neben, über, unter, vor and zwischen. They take the dative when they describe a position — Wo? — and the accusative when they describe a direction or a movement towards a place — Wohin?"
+        },
+        {
+          "kind": "de",
+          "text": "Das Buch liegt auf dem Tisch, aber ich lege es auf den Tisch.",
+          "en": "The book is lying on the table, but I put it onto the table."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Wo? asks about a position: auf dem Tisch, in der Tasche, an der Wand.",
+            "Wohin? asks about a destination: auf den Tisch, in die Tasche, an die Wand.",
+            "The preposition does not change. Only the article shows the case.",
+            "Contractions are common: in das → ins, an das → ans, auf das → aufs, in dem → im, an dem → am."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Let the verb help you",
+          "text": "Position verbs such as liegen, stehen, sitzen, hängen and stecken take the dative. Movement verbs such as legen, stellen, setzen and hängen take the accusative."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 6,
+      "lede": "Learn the nine prepositions in pairs, not as a list.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Preposition", "Position: Wo? + dative", "Direction: Wohin? + accusative"],
+          "rows": [
+            ["an", "an der Wand", "an die Wand"],
+            ["auf", "auf dem Tisch", "auf den Tisch"],
+            ["hinter", "hinter dem Haus", "hinter das Haus"],
+            ["in", "in der Tasche", "in die Tasche"],
+            ["neben", "neben dem Sofa", "neben das Sofa"],
+            ["über", "über dem Bett", "über das Bett"],
+            ["unter", "unter dem Stuhl", "unter den Stuhl"],
+            ["vor", "vor der Tür", "vor die Tür"],
+            ["zwischen", "zwischen den Stühlen", "zwischen die Stühle"]
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Verb pair", "Position (dative)", "Movement (accusative)"],
+          "rows": [
+            ["liegen / legen", "Das Buch liegt auf dem Tisch.", "Ich lege das Buch auf den Tisch."],
+            ["stehen / stellen", "Die Flasche steht im Kühlschrank.", "Ich stelle die Flasche in den Kühlschrank."],
+            ["sitzen / setzen", "Sie sitzt auf dem Stuhl.", "Sie setzt sich auf den Stuhl."],
+            ["hängen / hängen", "Das Bild hängt an der Wand.", "Ich hänge das Bild an die Wand."],
+            ["stecken / stecken", "Der Schlüssel steckt in der Tasche.", "Ich stecke den Schlüssel in die Tasche."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Dative masculine and neuter both become dem: auf dem Tisch, in dem Haus.",
+            "Accusative masculine becomes den: auf den Tisch. Feminine and neuter do not change: in die Tasche, auf das Sofa.",
+            "Dative plural adds -n to the noun: zwischen den Stühlen.",
+            "Set phrases follow the same logic: im Kino (position) but ins Kino (direction)."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Feminine is invisible",
+          "text": "In the feminine, die looks the same in both cases: Das Bild hängt an der Wand (dative), but Ich hänge das Bild an die Wand (accusative). The article der/die is your only signal."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "Four prepositions and two useful nouns for describing rooms.",
+      "items": [
+        {
+          "de": "auf",
+          "en": "on / onto",
+          "pronunciation": "owf",
+          "example": "Das Buch liegt auf dem Tisch.",
+          "exampleEn": "The book is lying on the table."
+        },
+        {
+          "de": "unter",
+          "en": "under / underneath",
+          "pronunciation": "OON-ter",
+          "example": "Die Schuhe stehen unter dem Schrank.",
+          "exampleEn": "The shoes are under the wardrobe."
+        },
+        {
+          "de": "neben",
+          "en": "next to / beside",
+          "pronunciation": "NAY-ben",
+          "example": "Das Sofa steht neben dem Fenster.",
+          "exampleEn": "The sofa is next to the window."
+        },
+        {
+          "de": "zwischen",
+          "en": "between",
+          "pronunciation": "TSVISH-en",
+          "example": "Der Tisch steht zwischen den Stühlen.",
+          "exampleEn": "The table is between the chairs."
+        },
+        {
+          "de": "die Wand",
+          "en": "the wall",
+          "article": "die",
+          "plural": "die Wände",
+          "pronunciation": "vant",
+          "example": "Das Bild hängt an der Wand.",
+          "exampleEn": "The picture hangs on the wall."
+        },
+        {
+          "de": "der Schrank",
+          "en": "the wardrobe / cupboard",
+          "article": "der",
+          "plural": "die Schränke",
+          "pronunciation": "shrank",
+          "example": "Die Jacke hängt im Schrank.",
+          "exampleEn": "The jacket is hanging in the wardrobe."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 5,
+      "lede": "Each pair shows the same scene from two angles.",
+      "items": [
+        {
+          "de": "Die Katze springt auf den Tisch.",
+          "en": "The cat jumps onto the table.",
+          "note": "Movement towards the table → accusative den."
+        },
+        {
+          "de": "Die Katze sitzt auf dem Tisch.",
+          "en": "The cat is sitting on the table.",
+          "note": "Position on the table → dative dem."
+        },
+        {
+          "de": "Ich stelle die Flasche in den Kühlschrank.",
+          "en": "I put the bottle into the fridge.",
+          "note": "in + direction → in den Kühlschrank."
+        },
+        {
+          "de": "Die Flasche steht im Kühlschrank.",
+          "en": "The bottle is standing in the fridge.",
+          "note": "im = in dem, dative because it describes a position."
+        },
+        {
+          "de": "Ich hänge das Bild an die Wand.",
+          "en": "I hang the picture on the wall.",
+          "note": "The direction is towards the wall, so an die Wand."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "These prepositions are short. Do not swallow them.",
+      "items": [
+        {
+          "de": "auf",
+          "hint": "Say “ow” and finish with a clean f: owf.",
+          "en": "on"
+        },
+        {
+          "de": "zwischen",
+          "hint": "Begin with ts + v: TSVISH-en. The final -en is soft.",
+          "en": "between"
+        },
+        {
+          "de": "neben",
+          "hint": "Long first vowel: NAY-ben, with a soft b.",
+          "en": "next to"
+        },
+        {
+          "de": "Wand",
+          "hint": "The w sounds like English v, and the a is short: vant.",
+          "en": "wall"
+        },
+        {
+          "de": "Kühlschrank",
+          "hint": "Round your lips for ü, then a clear “sh” in the second part: KOOL-shrank.",
+          "en": "fridge"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "zu Hause or nach Hause?",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German keeps position and direction apart even in fixed phrases. Ich bin zu Hause describes where you are; Ich gehe nach Hause describes where you are going. English uses “home” for both, so this pair needs deliberate practice."
+        },
+        {
+          "kind": "p",
+          "text": "The same contrast appears with public places. Ich bin im Kino means you are inside watching a film; Ich gehe ins Kino means you are on your way there. The preposition stays in, and the case tells the listener which one you mean."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "Two friends arrange furniture in a new flat.",
+      "setting": "A new flat with boxes everywhere",
+      "lines": [
+        { "speaker": "Lena", "de": "Wo sollen wir das Sofa hinstellen?", "en": "Where should we put the sofa?" },
+        { "speaker": "Jonas", "de": "Stell es bitte an die Wand, neben das Fenster.", "en": "Please put it against the wall, next to the window." },
+        { "speaker": "Lena", "de": "Und wohin kommt der Tisch?", "en": "And where is the table going?" },
+        { "speaker": "Jonas", "de": "Der Tisch kommt in die Küche. Er passt gut unter das Fenster.", "en": "The table goes into the kitchen. It fits well under the window." },
+        { "speaker": "Lena", "de": "Wo sind eigentlich die Bilder?", "en": "Where are the pictures, actually?" },
+        { "speaker": "Jonas", "de": "Sie liegen noch auf dem Boden. Wir hängen sie später an die Wand.", "en": "They are still lying on the floor. We will hang them on the wall later." },
+        { "speaker": "Lena", "de": "Und die Lampe?", "en": "And the lamp?" },
+        { "speaker": "Jonas", "de": "Die Lampe hängt schon an der Decke. Siehst du sie nicht?", "en": "The lamp is already hanging on the ceiling. Don't you see it?" }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 5,
+      "heading": "Wo? or Wohin?",
+      "lede": "The question word is the fastest way to choose the case.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Question", "Case", "Example", "English"],
+          "rows": [
+            ["Wo?", "dative", "Das Buch liegt auf dem Tisch.", "The book is on the table."],
+            ["Wohin?", "accusative", "Ich lege das Buch auf den Tisch.", "I put the book on the table."],
+            ["Wo?", "dative", "Die Kinder spielen im Garten.", "The children are playing in the garden."],
+            ["Wohin?", "accusative", "Die Kinder gehen in den Garten.", "The children go into the garden."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "If the sentence answers Wo?, the noun after the preposition is dative.",
+            "If it answers Wohin?, the noun after the preposition is accusative.",
+            "Wo-compounds with a preposition are a useful check: Worauf liegt das Buch? Auf dem Tisch.",
+            "With the verb sein, you almost always describe a position: Das Buch ist auf dem Tisch."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "The same verb, two cases",
+          "text": "hängen can be both: Das Bild hängt an der Wand (position, dative) and Ich hänge das Bild an die Wand (movement, accusative). Only the article tells you who is doing what."
+        }
+      ],
+      "tip": "Before you choose the article, ask the question out loud: Wo? or Wohin? If the answer contains a destination, use the accusative."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Decide between position and direction, then choose the article.",
+      "exercises": [
+        {
+          "id": "m2l3-p1",
+          "type": "mcq",
+          "prompt": "Complete: Das Buch liegt ___ Tisch.",
+          "options": ["auf dem", "auf den", "auf der", "auf die"],
+          "answer": 0,
+          "explanation": "liegen describes a position, so the dative is needed: auf dem Tisch."
+        },
+        {
+          "id": "m2l3-p2",
+          "type": "mcq",
+          "prompt": "Complete: Ich lege das Buch ___ Tisch.",
+          "options": ["auf dem", "auf den", "auf der", "auf die"],
+          "answer": 1,
+          "explanation": "legen describes movement towards the table, so the accusative is needed: auf den Tisch."
+        },
+        {
+          "id": "m2l3-p3",
+          "type": "mcq",
+          "prompt": "Complete: Die Katze springt ___ Stuhl.",
+          "options": ["auf dem", "auf den", "auf der", "auf die"],
+          "answer": 1,
+          "explanation": "springen expresses movement towards the chair, so use the accusative: auf den Stuhl."
+        },
+        {
+          "id": "m2l3-p4",
+          "type": "mcq",
+          "prompt": "Complete: Wir wohnen ___ Stadt.",
+          "options": ["in der", "in die", "in den", "ins"],
+          "answer": 0,
+          "explanation": "wohnen describes a position: in der Stadt."
+        },
+        {
+          "id": "m2l3-p5",
+          "type": "mcq",
+          "prompt": "Which verb signals a position and therefore the dative?",
+          "options": ["legen", "stellen", "liegen", "setzen"],
+          "answer": 2,
+          "explanation": "liegen describes where something lies. legen, stellen and setzen describe movement and take the accusative."
+        },
+        {
+          "id": "m2l3-p6",
+          "type": "mcq",
+          "prompt": "Complete: Ich gehe ___ Kino.",
+          "options": ["im", "in den", "ins", "in der"],
+          "answer": 2,
+          "explanation": "gehen expresses direction, and in das contracts to ins: Ich gehe ins Kino."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 5,
+      "lede": "Type the article or the contracted form.",
+      "exercises": [
+        {
+          "id": "m2l3-g1",
+          "type": "gap",
+          "prompt": "Die Katze sitzt ___ Sofa.",
+          "answers": ["auf dem"],
+          "explanation": "sitzen describes a position, and das Sofa is neuter: auf dem Sofa."
+        },
+        {
+          "id": "m2l3-g2",
+          "type": "gap",
+          "prompt": "Ich stelle die Flasche ___ Kühlschrank.",
+          "answers": ["in den"],
+          "explanation": "stellen expresses movement, and der Kühlschrank becomes den in the accusative."
+        },
+        {
+          "id": "m2l3-g3",
+          "type": "gap",
+          "prompt": "Das Bild hängt ___ Wand.",
+          "answers": ["an der"],
+          "explanation": "hängen here describes a position, and die Wand is feminine dative: an der Wand."
+        },
+        {
+          "id": "m2l3-g4",
+          "type": "gap",
+          "prompt": "Wir gehen ___ Park.",
+          "answers": ["in den"],
+          "explanation": "gehen expresses direction: in den Park."
+        },
+        {
+          "id": "m2l3-g5",
+          "type": "gap",
+          "prompt": "Der Schlüssel liegt ___ Tasche.",
+          "answers": ["in der"],
+          "explanation": "liegen describes a position, and die Tasche is feminine dative: in der Tasche."
+        },
+        {
+          "id": "m2l3-g6",
+          "type": "gap",
+          "prompt": "Sie legt das Handy ___ Tisch.",
+          "answers": ["auf den"],
+          "explanation": "legen expresses movement towards the table: auf den Tisch."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 4,
+      "lede": "Build each sentence and watch the article after the preposition.",
+      "exercises": [
+        {
+          "id": "m2l3-o1",
+          "type": "order",
+          "prompt": "Build: “The cat jumps onto the table.”",
+          "tokens": ["Tisch", "springt", "Die", "den", "Katze", "auf"],
+          "answer": "Die Katze springt auf den Tisch.",
+          "explanation": "springen expresses movement towards the table, so the accusative den is correct."
+        },
+        {
+          "id": "m2l3-o2",
+          "type": "order",
+          "prompt": "Build: “The book is lying on the table.”",
+          "tokens": ["auf", "Tisch", "Das", "dem", "liegt", "Buch"],
+          "answer": "Das Buch liegt auf dem Tisch.",
+          "explanation": "liegen describes a position, so the dative dem is correct."
+        },
+        {
+          "id": "m2l3-o3",
+          "type": "order",
+          "prompt": "Build: “I hang the picture on the wall.”",
+          "tokens": ["die", "Bild", "Ich", "Wand", "das", "hänge", "an"],
+          "answer": "Ich hänge das Bild an die Wand.",
+          "explanation": "The picture moves towards the wall, so an die Wand takes the accusative."
+        },
+        {
+          "id": "m2l3-o4",
+          "type": "order",
+          "prompt": "Build: “The bottle is standing in the fridge.”",
+          "tokens": ["Kühlschrank", "Die", "im", "Flasche", "steht"],
+          "answer": "Die Flasche steht im Kühlschrank.",
+          "explanation": "im = in dem, dative because it describes a position."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice, then answer from memory.",
+      "speaker": "A mother and her son at home",
+      "script": [
+        { "speaker": "Mutter", "de": "Tim, wo ist deine Jacke?", "en": "Tim, where is your jacket?" },
+        { "speaker": "Tim", "de": "Sie hängt im Flur an der Tür.", "en": "It is hanging in the hallway on the door." },
+        { "speaker": "Mutter", "de": "Und deine Schuhe?", "en": "And your shoes?" },
+        { "speaker": "Tim", "de": "Sie stehen unter dem Schrank.", "en": "They are under the wardrobe." },
+        { "speaker": "Mutter", "de": "Bitte stell sie in den Flur, nicht in die Küche.", "en": "Please put them in the hallway, not in the kitchen." },
+        { "speaker": "Tim", "de": "Okay, ich stelle sie neben die Tür.", "en": "Okay, I will put them next to the door." }
+      ],
+      "questions": [
+        {
+          "id": "m2l3-lq1",
+          "type": "mcq",
+          "prompt": "Where is Tim's jacket?",
+          "options": ["under the wardrobe", "in the kitchen", "in the hallway on the door", "next to the window"],
+          "answer": 2,
+          "explanation": "He says: Sie hängt im Flur an der Tür."
+        },
+        {
+          "id": "m2l3-lq2",
+          "type": "mcq",
+          "prompt": "Where are the shoes at the moment?",
+          "options": ["under the wardrobe", "next to the door", "in the hallway", "on the table"],
+          "answer": 0,
+          "explanation": "He says: Sie stehen unter dem Schrank."
+        },
+        {
+          "id": "m2l3-lq3",
+          "type": "mcq",
+          "prompt": "Where does Tim put the shoes in the end?",
+          "options": ["in the kitchen", "next to the door", "under the bed", "in the wardrobe"],
+          "answer": 1,
+          "explanation": "He says: Ich stelle sie neben die Tür."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 5,
+      "lede": "Describe a room, then change it.",
+      "prompt": "Describe where four things are in your room, then say where you would move one of them. Use at least three two-way prepositions.",
+      "model": {
+        "de": "Mein Schreibtisch steht an der Wand, neben dem Fenster. Das Regal hängt über dem Schreibtisch. Meine Tasche liegt auf dem Boden unter dem Stuhl. Ich möchte das Regal an die andere Wand hängen, weil dort mehr Platz ist.",
+        "en": "My desk is against the wall, next to the window. The shelf hangs above the desk. My bag is lying on the floor under the chair. I would like to hang the shelf on the other wall because there is more space there."
+      },
+      "tips": [
+        "Ask Wo? for the first three sentences and Wohin? for the change you describe.",
+        "Use the verb pairs: liegen/legen, stehen/stellen and hängen/hängen.",
+        "Listen to your article endings. dem signals a position, den signals a movement towards something."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 3,
+      "lede": "The preposition is rarely the problem; the case after it usually is.",
+      "items": [
+        {
+          "wrong": "Das Buch liegt auf den Tisch.",
+          "right": "Das Buch liegt auf dem Tisch.",
+          "why": "liegen describes a position, so the dative dem is required."
+        },
+        {
+          "wrong": "Ich lege das Buch auf dem Tisch.",
+          "right": "Ich lege das Buch auf den Tisch.",
+          "why": "legen describes movement towards the table, so the accusative den is required."
+        },
+        {
+          "wrong": "Ich gehe in der Stadt.",
+          "right": "Ich gehe in die Stadt.",
+          "why": "gehen expresses a direction, so in takes the accusative: in die Stadt."
+        },
+        {
+          "wrong": "Ich bin nach Hause.",
+          "right": "Ich bin zu Hause.",
+          "why": "Position uses zu Hause; nach Hause is for movement towards home."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 5,
+      "passScore": 70,
+      "lede": "Twelve questions on position, direction and the nine prepositions. Score 70% or more to pass.",
+      "questions": [
+        {
+          "id": "m2l3-a1",
+          "type": "mcq",
+          "prompt": "Complete: Das Buch liegt ___ Tisch.",
+          "options": ["auf dem", "auf den", "auf die", "an den"],
+          "answer": 0,
+          "explanation": "liegen describes a position, so the dative auf dem is correct."
+        },
+        {
+          "id": "m2l3-a2",
+          "type": "mcq",
+          "prompt": "Complete: Ich hänge das Bild ___ Wand.",
+          "options": ["an der", "an die", "an dem", "in der"],
+          "answer": 1,
+          "explanation": "The picture moves towards the wall, so the accusative an die Wand is correct."
+        },
+        {
+          "id": "m2l3-a3",
+          "type": "mcq",
+          "prompt": "Complete: Die Kinder spielen ___ Garten.",
+          "options": ["im", "ins", "in den", "in der"],
+          "answer": 0,
+          "explanation": "spielen describes a position, and im = in dem: Die Kinder spielen im Garten."
+        },
+        {
+          "id": "m2l3-a4",
+          "type": "mcq",
+          "prompt": "Complete: Wir fahren ___ Berge.",
+          "options": ["in die", "im", "in der", "in den"],
+          "answer": 0,
+          "explanation": "fahren expresses direction. die Berge is plural and stays die in the accusative: in die Berge."
+        },
+        {
+          "id": "m2l3-a5",
+          "type": "mcq",
+          "prompt": "Which verb describes a position and takes the dative?",
+          "options": ["legen", "stellen", "liegen", "setzen"],
+          "answer": 2,
+          "explanation": "liegen describes where something lies: Das Buch liegt auf dem Tisch."
+        },
+        {
+          "id": "m2l3-a6",
+          "type": "gap",
+          "prompt": "Die Katze springt ___ Tisch.",
+          "answers": ["auf den"],
+          "explanation": "springen is movement towards the table, so the accusative auf den is needed."
+        },
+        {
+          "id": "m2l3-a7",
+          "type": "gap",
+          "prompt": "Der Schlüssel liegt ___ Tasche.",
+          "answers": ["in der"],
+          "explanation": "liegen describes a position, and die Tasche is feminine dative: in der Tasche."
+        },
+        {
+          "id": "m2l3-a8",
+          "type": "gap",
+          "prompt": "Ich stelle die Flasche ___ Kühlschrank.",
+          "answers": ["in den"],
+          "explanation": "stellen expresses movement, so der Kühlschrank becomes den."
+        },
+        {
+          "id": "m2l3-a9",
+          "type": "gap",
+          "prompt": "Das Bild hängt ___ Wand.",
+          "answers": ["an der"],
+          "explanation": "hängen here describes a position, and die Wand is feminine dative: an der Wand."
+        },
+        {
+          "id": "m2l3-a10",
+          "type": "order",
+          "prompt": "Build: “The cat jumps onto the table.”",
+          "tokens": ["Tisch", "springt", "Die", "den", "Katze", "auf"],
+          "answer": "Die Katze springt auf den Tisch.",
+          "explanation": "Movement towards the table takes the accusative den."
+        },
+        {
+          "id": "m2l3-a11",
+          "type": "order",
+          "prompt": "Build: “The book is lying on the table.”",
+          "tokens": ["auf", "Tisch", "Das", "dem", "liegt", "Buch"],
+          "answer": "Das Buch liegt auf dem Tisch.",
+          "explanation": "A position takes the dative dem."
+        },
+        {
+          "id": "m2l3-a12",
+          "type": "order",
+          "prompt": "Build: “I hang the picture on the wall.”",
+          "tokens": ["die", "Bild", "Ich", "Wand", "das", "hänge", "an"],
+          "answer": "Ich hänge das Bild an die Wand.",
+          "explanation": "The direction towards the wall takes the accusative an die Wand."
+        }
+      ]
+    }
+  ]
+}

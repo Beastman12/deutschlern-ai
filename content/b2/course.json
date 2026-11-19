@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "id": "b2",
+  "code": "B2",
+  "name": "Upper Intermediate",
+  "title": "Argue, Present, Persuade",
+  "tagline": "Work, study and debate in German with fluency and nuance.",
+  "overview": "B2 is about control. You will move beyond correct sentences into well-built texts: nominalisation, participial attributes, reported speech and structured argument. The lessons train the German used in job interviews, university presentations and professional meetings, with register and style treated as part of grammar.",
+  "levelGoal": "By the end of B2 you can understand complex texts, present a structured argument, take part in professional discussions and write formal texts with a clear line of reasoning.",
+  "hours": 150,
+  "color": "amber",
+  "canDo": [
+    "Follow complex articles, lectures and professional discussions.",
+    "Present and defend an argument with counterarguments.",
+    "Write formal reports, essays and application documents.",
+    "Communicate effectively in job interviews and meetings."
+  ],
+  "modules": [
+    {
+      "id": "b2-m1",
+      "number": 1,
+      "title": "Advanced Syntax",
+      "titleDe": "Fortgeschrittene Syntax",
+      "summary": "Dense, precise German: subordinate structures, nominal style and participial attributes.",
+      "lessons": [
+        {
+          "id": "b2-m1-l1",
+          "number": 1,
+          "title": "Advanced Subordinate Clauses",
+          "titleDe": "Fortgeschrittene Nebensätze",
+          "summary": "Add precision with während, sobald, sodass, indem and anstatt … zu.",
+          "minutes": 28,
+          "skills": ["Grammar", "Reading"],
+          "objectives": [
+            "Use temporal, consecutive and modal subordinate clauses.",
+            "Maintain verb-final word order in longer clauses.",
+            "Combine several clauses without losing clarity."
+          ],
+          "vocab": ["während", "sobald", "sodass", "indem"],
+          "keyPhrase": { "de": "Sobald ich die Ergebnisse habe, melde ich mich.", "en": "As soon as I have the results, I will get in touch." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "b2-m1-l2",
+          "number": 2,
+          "title": "Nominalisation",
+          "titleDe": "Nominalisierung",
+          "summary": "Turn verbs into nouns to write compactly — without making your text unreadable.",
+          "minutes": 26,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Form nouns from verbs and adjectives.",
+            "Convert verbal sentences into nominal phrases.",
+            "Recognise when nominal style helps and when it obscures meaning."
+          ],
+          "vocab": ["die Durchführung", "die Entscheidung", "die Entwicklung", "die Möglichkeit"],
+          "keyPhrase": { "de": "Die Durchführung des Projekts wurde verschoben.", "en": "The implementation of the project was postponed." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "b2-m1-l3",
+          "number": 3,
+          "title": "Participial Constructions",
+          "titleDe": "Partizipialkonstruktionen",
+          "summary": "Compress relative clauses into elegant extended attributes.",
+          "minutes": 28,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Form present and past participles as adjectives.",
+            "Build extended participial attributes before a noun.",
+            "Decide when a relative clause is clearer.",
+            "Understand the difference between -end and ge- forms."
+          ],
+          "vocab": ["die zu erledigenden Aufgaben", "der geschriebene Text", "die steigenden Kosten", "die betroffenen Personen"],
+          "keyPhrase": { "de": "Die zu erledigenden Aufgaben sind klar.", "en": "The tasks to be completed are clear." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "b2-m2",
+      "number": 2,
+      "title": "Argument & Perspective",
+      "titleDe": "Argument und Perspektive",
+      "summary": "Report what others say, explore hypotheticals and build a convincing essay.",
+      "lessons": [
+        {
+          "id": "b2-m2-l1",
+          "number": 1,
+          "title": "Konjunktiv I & Reported Speech",
+          "titleDe": "Konjunktiv I und indirekte Rede",
+          "summary": "Report statements neutrally in journalism and academic writing.",
+          "minutes": 28,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Form Konjunktiv I in all relevant persons.",
+            "Report statements without committing to their truth.",
+            "Use the replacement Konjunktiv II forms where needed."
+          ],
+          "vocab": ["er sagt, er sei", "sie habe", "laut Angaben", "angeblich"],
+          "keyPhrase": { "de": "Er sagt, er sei krank.", "en": "He says that he is ill." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "b2-m2-l2",
+          "number": 2,
+          "title": "Hypotheses with Konjunktiv II",
+          "titleDe": "Hypothesen mit Konjunktiv II",
+          "summary": "Discuss what would happen if things were different.",
+          "minutes": 26,
+          "skills": ["Grammar", "Speaking"],
+          "objectives": [
+            "Build conditional sentences with wenn and Konjunktiv II.",
+            "Use hätte, wäre and würde accurately in hypotheticals.",
+            "Distinguish realistic conditions from unreal ones."
+          ],
+          "vocab": ["wenn ich hätte", "wäre", "würde", "unter der Bedingung"],
+          "keyPhrase": { "de": "Wenn ich mehr Zeit hätte, würde ich öfter lesen.", "en": "If I had more time, I would read more often." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "b2-m2-l3",
+          "number": 3,
+          "title": "Argumentative Essays & Connectors",
+          "titleDe": "Argumentative Texte und Konnektoren",
+          "summary": "Structure a thesis, body and conclusion with contrast and consequence.",
+          "minutes": 30,
+          "skills": ["Writing", "Reading"],
+          "objectives": [
+            "Write a clear thesis statement and a logical conclusion.",
+            "Use einerseits/andererseits, dennoch and folglich effectively.",
+            "Integrate counterarguments and refute them politely."
+          ],
+          "vocab": ["einerseits", "andererseits", "dennoch", "folglich"],
+          "keyPhrase": { "de": "Einerseits spart es Zeit, andererseits ist es teuer.", "en": "On the one hand it saves time; on the other hand it is expensive." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "b2-m3",
+      "number": 3,
+      "title": "Professional German",
+      "titleDe": "Berufliches Deutsch",
+      "summary": "Applications, meetings and presentations where clarity matters most.",
+      "lessons": [
+        {
+          "id": "b2-m3-l1",
+          "number": 1,
+          "title": "Job Interviews & Applications",
+          "titleDe": "Vorstellungsgespräche und Bewerbungen",
+          "summary": "Present your experience, strengths and motivation in a German interview.",
+          "minutes": 30,
+          "skills": ["Speaking", "Writing"],
+          "objectives": [
+            "Introduce your professional background concisely.",
+            "Give concrete examples of strengths and challenges.",
+            "Write a short cover letter with an appropriate tone."
+          ],
+          "vocab": ["die Bewerbung", "die Erfahrung", "die Stärke", "die Stelle"],
+          "keyPhrase": { "de": "Ich bringe zwei Jahre Erfahrung im Bereich Marketing mit.", "en": "I bring two years of experience in marketing." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "b2-m3-l2",
+          "number": 2,
+          "title": "Meetings & Negotiations",
+          "titleDe": "Besprechungen und Verhandlungen",
+          "summary": "Propose, clarify, disagree and find a compromise professionally.",
+          "minutes": 26,
+          "skills": ["Speaking", "Listening"],
+          "objectives": [
+            "Set an agenda and keep a meeting on track.",
+            "Make, accept and reject proposals diplomatically.",
+            "Summarise decisions and next steps."
+          ],
+          "vocab": ["die Tagesordnung", "der Vorschlag", "der Kompromiss", "das Ergebnis"],
+          "keyPhrase": { "de": "Ich schlage vor, dass wir einen Kompromiss finden.", "en": "I suggest that we find a compromise." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "b2-m3-l3",
+          "number": 3,
+          "title": "Presentations & Academic Vocabulary",
+          "titleDe": "Präsentationen und Wissenschaftssprache",
+          "summary": "Signpost a presentation clearly and sound credible in academic German.",
+          "minutes": 28,
+          "skills": ["Speaking", "Writing"],
+          "objectives": [
+            "Introduce, structure and conclude a presentation.",
+            "Use signposting phrases for transitions and emphasis.",
+            "Apply common academic nouns and verbs accurately."
+          ],
+          "vocab": ["zusammenfassend", "im Folgenden", "die Studie", "die Ergebnisse"],
+          "keyPhrase": { "de": "Zusammenfassend lässt sich sagen, dass …", "en": "In summary, it can be said that …" },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "b2-m4",
+      "number": 4,
+      "title": "Style & Nuance",
+      "titleDe": "Stil und Nuance",
+      "summary": "Idioms, academic structures and the fine art of sounding natural.",
+      "lessons": [
+        {
+          "id": "b2-m4-l1",
+          "number": 1,
+          "title": "Idioms & Collocations",
+          "titleDe": "Redewendungen und Kollokationen",
+          "summary": "Learn which words naturally go together — and a few idioms worth knowing.",
+          "minutes": 26,
+          "skills": ["Vocabulary", "Speaking"],
+          "objectives": [
+            "Recognise high-frequency noun–verb collocations.",
+            "Use common idioms in appropriate contexts.",
+            "Avoid literal translations that sound unnatural."
+          ],
+          "vocab": ["eine Rolle spielen", "ins Auge fallen", "in Kauf nehmen", "zur Verfügung stehen"],
+          "keyPhrase": { "de": "Diese Entscheidung spielt eine wichtige Rolle.", "en": "This decision plays an important role." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "b2-m4-l2",
+          "number": 2,
+          "title": "Formal Writing Workshop",
+          "titleDe": "Werkstatt: formelles Schreiben",
+          "summary": "Rewrite clunky texts into clear, cohesive formal German.",
+          "minutes": 30,
+          "skills": ["Writing"],
+          "objectives": [
+            "Improve cohesion with pronouns and connectors.",
+            "Replace vague verbs and repeated words.",
+            "Edit register, tone and sentence length."
+          ],
+          "vocab": ["der Zusammenhang", "die Kohärenz", "präzisieren", "überarbeiten"],
+          "keyPhrase": { "de": "Aus den genannten Gründen befürworte ich …", "en": "For the reasons mentioned, I support …" },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "b2-m4-l3",
+          "number": 3,
+          "title": "Complex Adjective & Noun Structures",
+          "titleDe": "Komplexe Adjektiv- und Nominalstrukturen",
+          "summary": "Genitive phrases and adjective nouns: the compressed language of reports.",
+          "minutes": 26,
+          "skills": ["Grammar", "Reading"],
+          "objectives": [
+            "Use the genitive for possession and formal relationships.",
+            "Decline adjectives used as nouns.",
+            "Decode long noun phrases in academic texts."
+          ],
+          "vocab": ["die Bedeutung des Fortschritts", "der Betroffene", "die Studierenden", "aufgrund"],
+          "keyPhrase": { "de": "Die Bedeutung des wissenschaftlichen Fortschritts ist unumstritten.", "en": "The importance of scientific progress is undisputed." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        }
+      ]
+    }
+  ],
+  "scenarios": [
+    { "title": "Job interviews", "titleDe": "Vorstellungsgespräche" },
+    { "title": "University presentations", "titleDe": "Präsentationen an der Uni" },
+    { "title": "Professional meetings", "titleDe": "Berufliche Besprechungen" },
+    { "title": "Debates", "titleDe": "Debatten" },
+    { "title": "Complex discussions", "titleDe": "Komplexe Diskussionen" },
+    { "title": "Arguments & counterarguments", "titleDe": "Argumente und Gegenargumente" }
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "id": "c1-m1-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Four sentences, four different tones. Read them aloud before you analyse anything.",
+      "prompt": "Read the sentences aloud. They contain similar information, but each one sounds different. Listen for the small unstressed words that carry the attitude.",
+      "items": [
+        "Das ist ja interessant.",
+        "Das ist halt nicht so einfach.",
+        "Das dürfte wohl kaum der Fall sein.",
+        "Kommen Sie doch bitte etwas später wieder."
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "At C1 the sentence is rarely the problem; the tone is.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German marks attitude with small unstressed words — Modalpartikeln — and with hedges that adjust how certain a claim sounds. Neither changes what is factually said. They tell the listener how to take it: as shared knowledge, as a mild objection, as resignation, as a probability."
+        },
+        {
+          "kind": "de",
+          "text": "Das ist ja interessant, aber es ist halt nicht ganz einfach.",
+          "en": "That is interesting, but it is just not quite that simple."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Modal particles (doch, ja, halt, eben, wohl, denn, eigentlich) belong to spoken German. They are almost never stressed.",
+            "Hedging works with modal verbs (dürfte, könnte, mag), adverbs (vermutlich, womöglich, tendenziell) and phrases (es spricht einiges dafür, dass ...).",
+            "Register is a package: particles, contractions, sentence length, pronoun choice (du/Sie) and vocabulary all move together.",
+            "One particle can turn a neutral statement into a friendly nudge, a reproach or a shared joke. Context decides which."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Careful",
+          "text": "Particles are not decoration. Two or three in one short sentence sound overloaded; one well-placed particle sounds natural."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "These six particles cover most of the tone you will hear in conversation.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Particle", "Typical function", "Example", "English"],
+          "rows": [
+            ["doch", "gentle contradiction, urging, “after all”", "Komm doch mit.", "Do come along."],
+            ["ja", "shared knowledge or mild surprise", "Das ist ja bekannt.", "That is well known, as you know."],
+            ["halt / eben", "inevitability, resignation", "Das ist halt so.", "That is just how it is."],
+            ["wohl", "assumption, probability", "Er ist wohl krank.", "He is probably ill."],
+            ["denn", "interest, softening a question", "Was ist denn los?", "What is going on, then?"],
+            ["eigentlich", "the question behind the question", "Wie ist das eigentlich geregelt?", "How is that actually regulated?"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Particles usually follow the verb or the pronoun: Das ist ja ..., Komm doch ....",
+            "They are unstressed. If you stress ja or doch, it becomes a full adverb with its original meaning (yes / nevertheless).",
+            "halt is more southern, eben more northern; both are colloquial and rare in formal writing.",
+            "wohl before an opinion verb sounds wrong: Ich bin wohl der Meinung ... is not a hedge, it is a mistake."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Register check",
+          "text": "In an email to a client, write Daran lässt sich derzeit nichts ändern rather than Das ist halt so. Same message, different distance."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These words let you talk about tone instead of just producing it.",
+      "items": [
+        {
+          "de": "die Modalpartikel",
+          "en": "the modal particle",
+          "article": "die",
+          "plural": "die Modalpartikeln",
+          "pronunciation": "mo-DAHL-par-TEE-kl",
+          "example": "„Doch“ ist eine Modalpartikel.",
+          "exampleEn": "“Doch” is a modal particle."
+        },
+        {
+          "de": "die Nuance",
+          "en": "the nuance",
+          "article": "die",
+          "plural": "die Nuancen",
+          "pronunciation": "nü-AN-se",
+          "example": "Die Partikel verändert die Nuance des Satzes.",
+          "exampleEn": "The particle changes the nuance of the sentence."
+        },
+        {
+          "de": "die Zurückhaltung",
+          "en": "restraint, reticence",
+          "article": "die",
+          "pronunciation": "tsu-RÜCK-hal-tung",
+          "example": "In formellen Texten ist sprachliche Zurückhaltung angebracht.",
+          "exampleEn": "Linguistic restraint is appropriate in formal texts."
+        },
+        {
+          "de": "andeuten",
+          "en": "to hint at",
+          "pronunciation": "AN-doy-ten",
+          "example": "Er deutete an, dass er mit dem Vorschlag nicht einverstanden sei.",
+          "exampleEn": "He hinted that he did not agree with the proposal."
+        },
+        {
+          "de": "die Umgangssprache",
+          "en": "colloquial language",
+          "article": "die",
+          "plural": "die Umgangssprachen",
+          "pronunciation": "OOM-gangs-shpra-khe",
+          "example": "Partikeln sind typisch für die Umgangssprache.",
+          "exampleEn": "Particles are typical of colloquial language."
+        },
+        {
+          "de": "die Ebene",
+          "en": "the level, layer",
+          "article": "die",
+          "plural": "die Ebenen",
+          "pronunciation": "AY-buh-nuh",
+          "example": "Man kann den Satz auf zwei Ebenen lesen.",
+          "exampleEn": "You can read the sentence on two levels."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Read each pair aloud. The difference is not in the facts, but in the distance between speaker and claim.",
+      "items": [
+        {
+          "de": "Das ist ja interessant – das wusste ich noch nicht.",
+          "en": "That is interesting — I did not know that yet.",
+          "note": "ja presents the information as something the listener can share or confirm."
+        },
+        {
+          "de": "Das dürfte wohl kaum der Fall sein.",
+          "en": "That is hardly likely to be the case.",
+          "note": "dürfte, wohl and kaum hedge on three levels at once: it sounds firm but stays polite."
+        },
+        {
+          "de": "Komm doch einfach später noch mal vorbei.",
+          "en": "Just drop by again later.",
+          "note": "doch makes the invitation friendly rather than commanding."
+        },
+        {
+          "de": "Es wäre durchaus denkbar, dass sich die Frist verlängert.",
+          "en": "It is quite conceivable that the deadline will be extended.",
+          "note": "Konjunktiv II plus durchaus is a common formal hedge."
+        },
+        {
+          "de": "Sag mal, hast du das eigentlich schon erledigt?",
+          "en": "By the way, have you actually sorted that out yet?",
+          "note": "eigentlich turns a yes/no question into a request for the real state of things."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "Particles are short and unstressed. Keep them light or they stop being particles.",
+      "items": [
+        {
+          "de": "doch",
+          "hint": "Short o, then the ach-sound. Keep it to one syllable and do not add a vowel between d and ch.",
+          "en": "after all / but"
+        },
+        {
+          "de": "eben",
+          "hint": "Long, closed e in the first syllable; the second syllable is a weak -bn. Stress the first syllable.",
+          "en": "just / simply"
+        },
+        {
+          "de": "dürfte",
+          "hint": "Round the lips for ü, then a short r and a schwa at the end: DÜRF-te.",
+          "en": "would probably"
+        },
+        {
+          "de": "wohl",
+          "hint": "Long o; the h is silent. Do not turn it into an English w.",
+          "en": "probably / indeed"
+        },
+        {
+          "de": "Umgangssprache",
+          "hint": "Stress on UM; ng is one sound, and spr is pronounced “shpr”.",
+          "en": "colloquial language"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Why particles give you away — and win you over",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Modal particles are one of the clearest signals of spoken-native rhythm. Learners often understand every word of Das ist ja interessant and still miss the tone: mild surprise, shared knowledge, or a polite way of saying that the other person should already know. Particles are frequent in conversation, chat and journalism, but they are usually avoided in reports, contracts and academic prose."
+        },
+        {
+          "kind": "p",
+          "text": "Regional preferences exist: halt is common in southern Germany and Austria, eben in the north. Neither is wrong, but mixing several particles in one sentence sounds contrived. When in doubt in writing, cut the particle and add a precise adverb instead."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lede": "Two colleagues meet in the corridor five minutes before a meeting.",
+      "setting": "An office corridor, shortly before a team meeting",
+      "lines": [
+        { "speaker": "Kollegin", "de": "Sag mal, hast du den Bericht eigentlich schon fertig?", "en": "By the way, have you actually finished the report yet?" },
+        { "speaker": "Kollege", "de": "Der ist ja fast fertig – ich muss halt noch die Zahlen prüfen.", "en": "It is almost done, as you know — I just still have to check the figures." },
+        { "speaker": "Kollegin", "de": "Das dürfte wohl bis Freitag reichen, oder?", "en": "That should probably be enough by Friday, shouldn't it?" },
+        { "speaker": "Kollege", "de": "Vermutlich schon. Ich will mich da aber nicht zu weit aus dem Fenster lehnen.", "en": "Probably. But I don't want to stick my neck out too far." },
+        { "speaker": "Kollegin", "de": "Kein Problem. Schick ihn doch einfach rüber, sobald du durch bist.", "en": "No problem. Just send it over once you are done." },
+        { "speaker": "Kollege", "de": "Mach ich. Danke dir.", "en": "Will do. Thanks." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Hedging: saying less so you can be more precise",
+      "lede": "A hedge lowers the commitment of a claim without making it vague. German has a scale from blunt certainty to open possibility.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Level of certainty", "German", "English"],
+          "rows": [
+            ["certain", "Die Zahlen sind korrekt.", "The figures are correct."],
+            ["probable, formal", "Die Zahlen dürften korrekt sein.", "The figures are probably correct."],
+            ["possible", "Die Zahlen könnten korrekt sein.", "The figures could be correct."],
+            ["conceded", "Die Zahlen mögen korrekt sein, erklären aber nicht alles.", "The figures may be correct, but they do not explain everything."],
+            ["open", "Es spricht einiges dafür, dass die Zahlen korrekt sind.", "There is much to suggest that the figures are correct."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "dürfte is the standard formal hedge for a well-founded assumption; könnte is weaker and more speculative.",
+            "mögen ... aber is a concessive pattern: you accept a point in order to limit it.",
+            "Adverbs such as vermutlich, womöglich, tendenziell and kaum fine-tune the same scale.",
+            "Do not stack hedges. Das könnte eventuell möglicherweise so sein sounds evasive, not careful."
+          ]
+        }
+      ],
+      "tip": "In a presentation, hedge the interpretation, not the data: Die Zahlen sind eindeutig; die Ursache dürfte komplexer sein."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Decide what the particle or hedge is doing, not just what the sentence means.",
+      "exercises": [
+        {
+          "id": "l1-p1",
+          "type": "mcq",
+          "prompt": "Which particle presents a fact as something the other person already knows or should recognise?",
+          "options": ["doch", "ja", "halt", "wohl"],
+          "answer": 1,
+          "explanation": "ja signals shared knowledge: Das ist ja bekannt."
+        },
+        {
+          "id": "l1-p2",
+          "type": "mcq",
+          "prompt": "Which sentence is the most appropriate hedge in a formal report?",
+          "options": ["Das ist halt falsch.", "Das dürfte wohl nicht ganz korrekt sein.", "Das ist ja mal völlig daneben.", "Das kannste vergessen."],
+          "answer": 1,
+          "explanation": "dürfte plus wohl hedges the judgement and keeps the tone formal; the other options are colloquial or blunt."
+        },
+        {
+          "id": "l1-p3",
+          "type": "mcq",
+          "prompt": "What does halt typically express?",
+          "options": ["a polite request", "inevitability or resignation", "shared knowledge", "a direct contradiction"],
+          "answer": 1,
+          "explanation": "halt presents the situation as something that cannot easily be changed: Das ist halt so."
+        },
+        {
+          "id": "l1-p4",
+          "type": "mcq",
+          "prompt": "Which version is the best formal equivalent of „Kannst du mir kurz helfen?“",
+          "options": ["Hilf mir mal schnell.", "Könnten Sie mir kurz behilflich sein?", "Du hilfst mir jetzt, ja?", "Ich brauche Hilfe, und zwar sofort."],
+          "answer": 1,
+          "explanation": "Konjunktiv II plus a formal verb and Sie creates distance without sounding commanding."
+        },
+        {
+          "id": "l1-p5",
+          "type": "mcq",
+          "prompt": "Which sentence overuses particles?",
+          "options": ["Das ist ja interessant.", "Komm doch mit.", "Das ist ja halt eben auch nicht so einfach.", "Er ist wohl krank."],
+          "answer": 2,
+          "explanation": "ja, halt and eben all signal stance in one short clause; one would be enough."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing particle or verb form. Keep the register in mind.",
+      "exercises": [
+        {
+          "id": "l1-g1",
+          "type": "gap",
+          "prompt": "Das ist ___ bekannt – wir haben es doch erst gestern besprochen.",
+          "answers": ["ja"],
+          "explanation": "ja marks the fact as shared knowledge."
+        },
+        {
+          "id": "l1-g2",
+          "type": "gap",
+          "prompt": "Komm ___ mit, wenn du Zeit hast.",
+          "answers": ["doch"],
+          "explanation": "doch turns the invitation into a friendly nudge."
+        },
+        {
+          "id": "l1-g3",
+          "type": "gap",
+          "prompt": "So ist das ___; daran lässt sich im Moment nichts ändern.",
+          "answers": ["halt", "eben"],
+          "explanation": "halt or eben expresses inevitability or resignation."
+        },
+        {
+          "id": "l1-g4",
+          "type": "gap",
+          "prompt": "Die Besprechung ___ wohl bis 16 Uhr dauern.",
+          "answers": ["dürfte"],
+          "explanation": "dürfte plus wohl is a formal way of saying that something is probable."
+        },
+        {
+          "id": "l1-g5",
+          "type": "gap",
+          "prompt": "Es ___ denkbar, dass wir den Termin verschieben müssen.",
+          "answers": ["wäre"],
+          "explanation": "Konjunktiv II wäre keeps the possibility open and sounds cautious."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Put the words in order, then read the sentence with the right melody.",
+      "exercises": [
+        {
+          "id": "l1-o1",
+          "type": "order",
+          "prompt": "Build: “That is hardly likely to be the case.”",
+          "tokens": ["kaum", "Das", "der", "Fall", "dürfte", "wohl", "sein"],
+          "answer": "Das dürfte wohl kaum der Fall sein.",
+          "explanation": "The modal verb dürfte sits in second position; wohl and kaum follow it."
+        },
+        {
+          "id": "l1-o2",
+          "type": "order",
+          "prompt": "Build: “That is interesting, but it is just not quite that simple.”",
+          "tokens": ["Das", "ist", "ja", "interessant", "aber", "es", "ist", "halt", "nicht", "ganz", "einfach"],
+          "answer": "Das ist ja interessant, aber es ist halt nicht ganz einfach.",
+          "explanation": "Both clauses keep the verb in second position; ja and halt stay unstressed."
+        },
+        {
+          "id": "l1-o3",
+          "type": "order",
+          "prompt": "Build: “Could you explain that in more detail if necessary?”",
+          "tokens": ["näher", "Könnten", "gegebenenfalls", "das", "Sie", "erläutern"],
+          "answer": "Könnten Sie das gegebenenfalls näher erläutern?",
+          "explanation": "Könnten opens the yes/no question; the infinitive erläutern goes to the end."
+        },
+        {
+          "id": "l1-o4",
+          "type": "order",
+          "prompt": "Build: “In a report, however, such a formulation sounds too colloquial.”",
+          "tokens": ["eine", "wirkt", "In", "jedoch", "einem", "solche", "Bericht", "Formulierung", "zu", "umgangssprachlich"],
+          "answer": "In einem Bericht wirkt eine solche Formulierung jedoch zu umgangssprachlich.",
+          "explanation": "The fronted adverbial takes position one, so the verb wirkt comes second."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice. The words are easy; the tone is the task.",
+      "speaker": "Voicemail from a project lead",
+      "script": [
+        { "speaker": "Martin", "de": "Hallo, hier ist Martin.", "en": "Hello, this is Martin." },
+        { "speaker": "Martin", "de": "Ich wollte nur kurz Bescheid geben, dass die Besprechung morgen wohl etwas später beginnt.", "en": "I just wanted to let you know that tomorrow's meeting will probably start a little later." },
+        { "speaker": "Martin", "de": "Genau kann ich es noch nicht sagen – vermutlich gegen zehn Uhr.", "en": "I cannot say exactly yet — probably around ten." },
+        { "speaker": "Martin", "de": "Es wäre gut, wenn du die Folien trotzdem bis neun fertig hättest.", "en": "It would be good if you had the slides finished by nine anyway." },
+        { "speaker": "Martin", "de": "Das dürfte ja machbar sein. Melde dich doch bitte kurz, falls nicht.", "en": "That should be doable, as you know. Please get back to me briefly if not." }
+      ],
+      "questions": [
+        {
+          "id": "l1-lq1",
+          "type": "mcq",
+          "prompt": "What does Martin suggest about the start time?",
+          "options": ["It is fixed at nine.", "It will probably be later, around ten.", "It has been cancelled.", "It will start earlier than planned."],
+          "answer": 1,
+          "explanation": "Er sagt: wohl etwas später ... vermutlich gegen zehn Uhr."
+        },
+        {
+          "id": "l1-lq2",
+          "type": "mcq",
+          "prompt": "What does doch mainly do in „Melde dich doch bitte kurz“?",
+          "options": ["It marks the request as a contradiction.", "It makes the request sound friendly rather than commanding.", "It states that the listener already knows.", "It turns the sentence into a question."],
+          "answer": 1,
+          "explanation": "In a request, doch softens the instruction and makes it sound like a friendly reminder."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "The same content, two registers. Record both versions and compare them.",
+      "prompt": "React to a colleague's suggestion in two registers: first in a short chat message, then in a formal email. Use one modal particle in the chat and one hedge in the email.",
+      "model": {
+        "de": "Chat: „Das klingt ja spannend – ich melde mich halt erst morgen, okay?“ E-Mail: „Der Vorschlag erscheint uns interessant; eine Rückmeldung dürfte bis morgen möglich sein.“",
+        "en": "Chat: “That sounds interesting — I'll just get back to you tomorrow, okay?” Email: “The proposal seems interesting to us; a response should be possible by tomorrow.”"
+      },
+      "tips": [
+        "Keep the particle in the chat and remove it from the email; the hedge moves in the opposite direction.",
+        "Use Sie consistently in the email and du in the chat; mixing them is the most noticeable register error.",
+        "Record both versions and compare the melody: particles are unstressed, hedges carry normal stress."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "These errors are about calibration, not grammar rules.",
+      "items": [
+        {
+          "wrong": "Das ist halt so.",
+          "right": "Daran lässt sich derzeit nichts ändern.",
+          "why": "halt belongs to conversation. A formal report needs a neutral paraphrase of the same idea."
+        },
+        {
+          "wrong": "Ich bin wohl der Meinung, dass wir warten sollten.",
+          "right": "Ich bin der Auffassung, dass wir warten sollten.",
+          "why": "wohl marks probability, not opinion. With bin der Meinung it creates a contradiction in tone."
+        },
+        {
+          "wrong": "Das könnte eventuell möglicherweise klappen.",
+          "right": "Das dürfte machbar sein.",
+          "why": "Stacked hedges weaken the statement and sound evasive. One precise hedge is enough."
+        },
+        {
+          "wrong": "Das ist ja wohl kaum zu glauben, oder?",
+          "right": "Das ist kaum zu glauben.",
+          "why": "ja, wohl and oder pile up three signals of stance. Formal prose usually needs none of them."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions on particles, hedging and register. Score 70% or more to complete the lesson check.",
+      "questions": [
+        {
+          "id": "l1-a1",
+          "type": "mcq",
+          "prompt": "Which particle signals that something is already known or obvious?",
+          "options": ["doch", "ja", "eben", "denn"],
+          "answer": 1,
+          "explanation": "ja presents the content as shared knowledge: Das ist ja bekannt."
+        },
+        {
+          "id": "l1-a2",
+          "type": "mcq",
+          "prompt": "What does „Das dürfte wohl kaum der Fall sein“ mean?",
+          "options": ["That is certainly the case.", "That is hardly likely to be the case.", "That must be the case.", "That is not the case, and I am angry about it."],
+          "answer": 1,
+          "explanation": "dürfte and wohl hedge, kaum negates strongly: it is hardly likely."
+        },
+        {
+          "id": "l1-a3",
+          "type": "mcq",
+          "prompt": "Which sentence is the best formal hedge of a conclusion?",
+          "options": ["Die Ergebnisse beweisen alles.", "Die Ergebnisse dürften auf einen Zusammenhang hindeuten.", "Die Ergebnisse sind ja wohl der Hammer.", "Die Ergebnisse sagen halt nichts."],
+          "answer": 1,
+          "explanation": "dürften ... hindeuten is cautious and formal; the others overstate or use colloquial register."
+        },
+        {
+          "id": "l1-a4",
+          "type": "mcq",
+          "prompt": "What do halt and eben mainly add to a statement?",
+          "options": ["politeness", "inevitability", "shared knowledge", "a direct question"],
+          "answer": 1,
+          "explanation": "Both present the situation as something that simply is the case."
+        },
+        {
+          "id": "l1-a5",
+          "type": "mcq",
+          "prompt": "Which sentence would be out of place in an email to a client?",
+          "options": ["Wir prüfen Ihren Vorschlag derzeit.", "Das ist halt blöd gelaufen.", "Eine Rückmeldung erfolgt bis Freitag.", "Für Rückfragen stehen wir zur Verfügung."],
+          "answer": 1,
+          "explanation": "halt and blöd gelaufen are colloquial; the other sentences are neutral or formal."
+        },
+        {
+          "id": "l1-a6",
+          "type": "gap",
+          "prompt": "Er ___ wohl erst gegen Abend eintreffen.",
+          "answers": ["dürfte"],
+          "explanation": "dürfte plus wohl expresses a well-founded assumption."
+        },
+        {
+          "id": "l1-a7",
+          "type": "gap",
+          "prompt": "Das ist ___ klar – wir haben es oft genug besprochen.",
+          "answers": ["ja"],
+          "explanation": "ja marks the point as shared knowledge."
+        },
+        {
+          "id": "l1-a8",
+          "type": "gap",
+          "prompt": "Es ___ sinnvoll, den Vorschlag noch einmal zu prüfen.",
+          "answers": ["wäre"],
+          "explanation": "Konjunktiv II wäre makes the recommendation sound cautious and polite."
+        },
+        {
+          "id": "l1-a9",
+          "type": "gap",
+          "prompt": "Die Partikel verändert nicht den Inhalt, sondern die ___.",
+          "answers": ["Nuance"],
+          "explanation": "die Nuance = the nuance; it is the word for a fine difference in tone."
+        },
+        {
+          "id": "l1-a10",
+          "type": "order",
+          "prompt": "Build: “That is just how it is; there is nothing to be done about it.”",
+          "tokens": ["ist", "So", "eben", "das", "daran", "lässt", "sich", "nichts", "ändern"],
+          "answer": "So ist das eben, daran lässt sich nichts ändern.",
+          "explanation": "eben marks inevitability; the second clause front-loads daran and keeps lässt in second position."
+        },
+        {
+          "id": "l1-a11",
+          "type": "order",
+          "prompt": "Build: “A cautious formulation would probably be more appropriate here.”",
+          "tokens": ["hier", "Eine", "dürfte", "Formulierung", "angemessener", "vorsichtige", "sein"],
+          "answer": "Eine vorsichtige Formulierung dürfte hier angemessener sein.",
+          "explanation": "dürfte hedges the judgement; the infinitive sein closes the sentence."
+        },
+        {
+          "id": "l1-a12",
+          "type": "order",
+          "prompt": "Build: “In conversation the particle sounds friendly.”",
+          "tokens": ["die", "Im", "freundlich", "klingt", "Partikel", "Gespräch"],
+          "answer": "Im Gespräch klingt die Partikel freundlich.",
+          "explanation": "The fronted adverbial Im Gespräch occupies position one, so klingt comes second."
+        }
+      ]
+    }
+  ]
+}

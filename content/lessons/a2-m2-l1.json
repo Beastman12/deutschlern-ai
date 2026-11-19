@@ -1,0 +1,634 @@
+{
+  "id": "a2-m2-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Read aloud and listen for the person who receives something.",
+      "prompt": "Say these sentences aloud. In each one, someone is helped, thanked or pleased.",
+      "items": [
+        "Kannst du mir bitte helfen?",
+        "Ich danke dir für die Hilfe.",
+        "Das Geschenk gefällt meiner Mutter.",
+        "Wir fahren mit dem Bus."
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "The dative marks the person something is done for, given to or said to.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "The dative is the case of the indirect object: the person who receives something or benefits from an action. It is also the case required by a group of very common verbs and by a small set of prepositions. You find it by asking Wem? — to whom?"
+        },
+        {
+          "kind": "de",
+          "text": "Kannst du mir bitte helfen?",
+          "en": "Can you help me, please?"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Definite articles: dem (masculine), der (feminine), dem (neuter), den + -n (plural).",
+            "Indefinite articles: einem, einer, einem, and keinen + -n in the plural.",
+            "The pronoun changes too: mich becomes mir, dich becomes dir.",
+            "The dative plural adds -n to the noun unless the plural already ends in -n or -s: mit den Kindern, mit den Autos.",
+            "A few masculine nouns also add -n in the dative: dem Nachbarn, dem Kollegen."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Word order stays familiar",
+          "text": "The dative object normally comes after the verb, just like an accusative object. Ich helfe dem Mann is the same shape as Ich sehe den Mann."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "Three tables cover most of the dative you will need at A2.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Gender", "Nominative", "Dative", "Example"],
+          "rows": [
+            ["masculine", "der Mann", "dem Mann", "Ich helfe dem Mann."],
+            ["feminine", "die Frau", "der Frau", "Ich danke der Frau."],
+            ["neuter", "das Kind", "dem Kind", "Das Buch gehört dem Kind."],
+            ["plural", "die Kinder", "den Kindern", "Ich helfe den Kindern."]
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Person", "Accusative", "Dative"],
+          "rows": [
+            ["ich", "mich", "mir"],
+            ["du", "dich", "dir"],
+            ["er", "ihn", "ihm"],
+            ["sie", "sie", "ihr"],
+            ["es", "es", "ihm"],
+            ["wir", "uns", "uns"],
+            ["ihr", "euch", "euch"],
+            ["sie / Sie", "sie / Sie", "ihnen / Ihnen"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Dative verbs: helfen, danken, gefallen, gehören, passen, schmecken, antworten, gratulieren, folgen.",
+            "Dative prepositions: aus, bei, mit, nach, seit, von, zu.",
+            "Contractions are common: zu dem → zum, zu der → zur, bei dem → beim, von dem → vom.",
+            "Some masculine nouns add -n in the dative: dem Nachbarn, dem Kollegen, dem Studenten."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Memory hook",
+          "text": "Think of the dative as the “give” case. If you can imagine handing something to the person, or doing something for them, the dative is likely."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These verbs and nouns appear with the dative again and again.",
+      "items": [
+        {
+          "de": "helfen",
+          "en": "to help",
+          "pronunciation": "HEL-fen",
+          "example": "Kannst du mir bitte helfen?",
+          "exampleEn": "Can you help me, please?"
+        },
+        {
+          "de": "danken",
+          "en": "to thank",
+          "pronunciation": "DAN-ken",
+          "example": "Ich danke dir für die Hilfe.",
+          "exampleEn": "I thank you for the help."
+        },
+        {
+          "de": "gefallen",
+          "en": "to please / to appeal to",
+          "pronunciation": "ge-FAL-len",
+          "example": "Das Geschenk gefällt meiner Mutter.",
+          "exampleEn": "My mother likes the gift."
+        },
+        {
+          "de": "mir",
+          "en": "me (dative)",
+          "pronunciation": "meer",
+          "example": "Mir ist kalt.",
+          "exampleEn": "I am cold."
+        },
+        {
+          "de": "der Nachbar",
+          "en": "the neighbour",
+          "article": "der",
+          "plural": "die Nachbarn",
+          "pronunciation": "NAHKH-bar",
+          "example": "Ich helfe meinem Nachbarn.",
+          "exampleEn": "I help my neighbour."
+        },
+        {
+          "de": "das Geschenk",
+          "en": "the gift / present",
+          "article": "das",
+          "plural": "die Geschenke",
+          "pronunciation": "ge-SHENK",
+          "example": "Das Geschenk gefällt dem Kind.",
+          "exampleEn": "The child likes the gift."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Every sentence contains a dative form. Find it before you read the note.",
+      "items": [
+        {
+          "de": "Kannst du mir bitte helfen?",
+          "en": "Can you help me, please?",
+          "note": "helfen takes the dative: mir, not mich."
+        },
+        {
+          "de": "Ich danke dir für deine Hilfe.",
+          "en": "I thank you for your help.",
+          "note": "danken takes the dative; für takes the accusative, so deine Hilfe stays accusative."
+        },
+        {
+          "de": "Das Geschenk gefällt meiner Mutter sehr.",
+          "en": "My mother really likes the gift.",
+          "note": "gefallen takes the dative: meiner Mutter. The gift is the subject."
+        },
+        {
+          "de": "Wir fahren mit dem Bus zum Bahnhof.",
+          "en": "We are going to the station by bus.",
+          "note": "mit and zu always take the dative; zum = zu dem."
+        },
+        {
+          "de": "Sie wohnt seit einem Jahr bei ihren Eltern.",
+          "en": "She has been living with her parents for a year.",
+          "note": "seit and bei take the dative; the plural noun keeps its -n."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "Short dative pronouns are easy to swallow. Give them full value.",
+      "items": [
+        {
+          "de": "mir",
+          "hint": "Long ee, then a soft vowel-like r: meer. Do not reduce it to “ma”.",
+          "en": "me"
+        },
+        {
+          "de": "dir",
+          "hint": "Long ee as well: deer. Keep it distinct from der.",
+          "en": "you"
+        },
+        {
+          "de": "ihm",
+          "hint": "Long ee followed by m: eem. It sounds close to ihm in Ihnen.",
+          "en": "him / it"
+        },
+        {
+          "de": "gefällt",
+          "hint": "Short open ä and a clear double l: ge-FELT.",
+          "en": "pleases"
+        },
+        {
+          "de": "Nachbar",
+          "hint": "The ch after a is the rough sound of Bach, then a short second syllable: NAHKH-bar.",
+          "en": "neighbour"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "The dative of experience",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German often puts the person in the dative when describing a sensation or a state: Mir ist kalt, Mir ist schlecht, Mir geht es gut. English uses “I am cold” or “I feel sick”, with the person as subject; German presents the sensation as happening to the person."
+        },
+        {
+          "kind": "p",
+          "text": "The same pattern explains Wie geht es dir? and the formal Wie geht es Ihnen? The question is literally “how is it going to you?”, and the answer keeps the dative: Danke, mir geht es gut."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "A wardrobe has to get through a doorway.",
+      "setting": "In the hallway of an apartment building",
+      "lines": [
+        { "speaker": "Frau Yilmaz", "de": "Guten Tag, Herr Braun. Können Sie mir kurz helfen?", "en": "Good day, Mr Braun. Can you help me for a moment?" },
+        { "speaker": "Herr Braun", "de": "Natürlich. Was ist denn los?", "en": "Of course. What is going on?" },
+        { "speaker": "Frau Yilmaz", "de": "Der Schrank passt nicht durch die Tür. Mein Sohn braucht ihn für sein Zimmer.", "en": "The wardrobe does not fit through the door. My son needs it for his room." },
+        { "speaker": "Herr Braun", "de": "Kein Problem. Ich helfe Ihnen.", "en": "No problem. I will help you." },
+        { "speaker": "Frau Yilmaz", "de": "Vielen Dank! Das gefällt meinem Sohn sicher.", "en": "Many thanks! My son will certainly like that." },
+        { "speaker": "Herr Braun", "de": "Der Schrank gehört also ihm?", "en": "So the wardrobe belongs to him?" },
+        { "speaker": "Frau Yilmaz", "de": "Ja, er hat lange dafür gespart.", "en": "Yes, he saved up for it for a long time." },
+        { "speaker": "Herr Braun", "de": "Dann tragen wir ihn zusammen.", "en": "Then we will carry it together." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Wem? — finding the dative object",
+      "lede": "Ask Wem? instead of Wen? and the article changes.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Question", "Case", "Example", "English"],
+          "rows": [
+            ["Wen oder was?", "accusative", "Ich sehe den Mann.", "I see the man."],
+            ["Wem?", "dative", "Ich helfe dem Mann.", "I help the man."],
+            ["Wem?", "dative", "Ich danke der Lehrerin.", "I thank the teacher."],
+            ["Wem gehört das?", "dative", "Das gehört dem Kind.", "That belongs to the child."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "In the dative, masculine and neuter share dem; feminine is der; plural is den plus -n on the noun.",
+            "The indefinite article follows the same pattern: einem, einer, einem, keinen + -n.",
+            "The pronoun mir is both “to me” and the dative in phrases such as Mir ist kalt.",
+            "Verbs like helfen, danken, gefallen, gehören, passen and schmecken never take a direct accusative object."
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Accusative sentence", "Dative sentence"],
+          "rows": [
+            ["Ich sehe den Nachbarn.", "Ich helfe dem Nachbarn."],
+            ["Ich frage die Kollegin.", "Ich danke der Kollegin."],
+            ["Ich kenne das Kind.", "Das Buch gehört dem Kind."],
+            ["Ich besuche die Freunde.", "Ich antworte den Freunden."]
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Weak masculine nouns",
+          "text": "Nouns such as der Nachbar, der Kollege and der Student add -n or -en in the dative and accusative: dem Nachbarn, den Kollegen, den Studenten."
+        }
+      ],
+      "tip": "When you learn a new verb, learn its case at the same time. Write helfen + Dativ on the card, not just helfen = to help."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Pick the correct dative form.",
+      "exercises": [
+        {
+          "id": "m2l1-p1",
+          "type": "mcq",
+          "prompt": "Complete: Ich helfe ___.",
+          "options": ["der Mann", "den Mann", "dem Mann", "des Mannes"],
+          "answer": 2,
+          "explanation": "helfen takes the dative, and der Mann becomes dem Mann."
+        },
+        {
+          "id": "m2l1-p2",
+          "type": "mcq",
+          "prompt": "Complete the formal question: Wie geht es ___?",
+          "options": ["dich", "dir", "Ihnen", "Sie"],
+          "answer": 2,
+          "explanation": "The formal dative pronoun is Ihnen. dir is informal."
+        },
+        {
+          "id": "m2l1-p3",
+          "type": "mcq",
+          "prompt": "Complete: Das Buch gefällt ___.",
+          "options": ["mich", "mir", "ich", "mein"],
+          "answer": 1,
+          "explanation": "gefallen takes the dative, so “I like it” is Es gefällt mir."
+        },
+        {
+          "id": "m2l1-p4",
+          "type": "mcq",
+          "prompt": "Which preposition always takes the dative?",
+          "options": ["für", "ohne", "mit", "gegen"],
+          "answer": 2,
+          "explanation": "mit is one of the dative prepositions: mit dem Bus. für, ohne and gegen take the accusative."
+        },
+        {
+          "id": "m2l1-p5",
+          "type": "mcq",
+          "prompt": "Complete: Ich fahre mit ___ Bus.",
+          "options": ["der", "den", "dem", "das"],
+          "answer": 2,
+          "explanation": "der Bus is masculine, and the dative of der is dem."
+        },
+        {
+          "id": "m2l1-p6",
+          "type": "mcq",
+          "prompt": "Complete: Ich danke ___ Lehrerin.",
+          "options": ["die", "der", "den", "dem"],
+          "answer": 1,
+          "explanation": "die Lehrerin is feminine, and the dative of die is der."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing dative form.",
+      "exercises": [
+        {
+          "id": "m2l1-g1",
+          "type": "gap",
+          "prompt": "Kannst du ___ bitte helfen? (me)",
+          "answers": ["mir"],
+          "explanation": "helfen + dative: mir."
+        },
+        {
+          "id": "m2l1-g2",
+          "type": "gap",
+          "prompt": "Das Geschenk gefällt ___ Mutter. (my)",
+          "answers": ["meiner"],
+          "explanation": "die Mutter is feminine, so mein becomes meiner in the dative."
+        },
+        {
+          "id": "m2l1-g3",
+          "type": "gap",
+          "prompt": "Wir wohnen seit ___ Jahr in Berlin. (a)",
+          "answers": ["einem"],
+          "explanation": "das Jahr is neuter: seit einem Jahr."
+        },
+        {
+          "id": "m2l1-g4",
+          "type": "gap",
+          "prompt": "Ich danke ___ für die Hilfe. (you, informal)",
+          "answers": ["dir"],
+          "explanation": "danken + dative: dir."
+        },
+        {
+          "id": "m2l1-g5",
+          "type": "gap",
+          "prompt": "Er hilft ___ Nachbarn. (the)",
+          "answers": ["dem"],
+          "explanation": "der Nachbar is masculine and takes the dative dem; the noun also adds -n."
+        },
+        {
+          "id": "m2l1-g6",
+          "type": "gap",
+          "prompt": "Sie fährt mit ___ Fahrrad. (the)",
+          "answers": ["dem"],
+          "explanation": "das Fahrrad is neuter, and the dative of das is dem."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Build each sentence and keep the dative object after the verb.",
+      "exercises": [
+        {
+          "id": "m2l1-o1",
+          "type": "order",
+          "prompt": "Build: “Can you help me, please?”",
+          "tokens": ["helfen", "mir", "du", "Kannst", "bitte"],
+          "answer": "Kannst du mir bitte helfen?",
+          "explanation": "A yes/no question starts with the verb; mir is the dative object and the infinitive is last."
+        },
+        {
+          "id": "m2l1-o2",
+          "type": "order",
+          "prompt": "Build: “My mother likes the gift.”",
+          "tokens": ["meiner", "Das", "Mutter", "gefällt", "Geschenk"],
+          "answer": "Das Geschenk gefällt meiner Mutter.",
+          "explanation": "Das Geschenk is the subject; meiner Mutter is the dative object."
+        },
+        {
+          "id": "m2l1-o3",
+          "type": "order",
+          "prompt": "Build: “I thank you for your help.”",
+          "tokens": ["deine", "dir", "Ich", "Hilfe", "für", "danke"],
+          "answer": "Ich danke dir für deine Hilfe.",
+          "explanation": "dir is dative because of danken; für takes the accusative, so deine Hilfe."
+        },
+        {
+          "id": "m2l1-o4",
+          "type": "order",
+          "prompt": "Build: “We are going to the station by bus.”",
+          "tokens": ["Bus", "zum", "Wir", "mit", "Bahnhof", "dem", "fahren"],
+          "answer": "Wir fahren mit dem Bus zum Bahnhof.",
+          "explanation": "mit dem Bus and zum Bahnhof are both dative phrases."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice, then answer from memory.",
+      "speaker": "A neighbour on the phone",
+      "script": [
+        { "speaker": "Frau Klein", "de": "Hallo Tom, hier ist Frau Klein. Hast du kurz Zeit?", "en": "Hello Tom, this is Mrs Klein. Do you have a moment?" },
+        { "speaker": "Tom", "de": "Ja, natürlich. Was kann ich für Sie tun?", "en": "Yes, of course. What can I do for you?" },
+        { "speaker": "Frau Klein", "de": "Kannst du mir morgen beim Umzug helfen?", "en": "Can you help me with the move tomorrow?" },
+        { "speaker": "Tom", "de": "Klar. Wann brauchst du mich denn?", "en": "Sure. When do you need me, then?" },
+        { "speaker": "Frau Klein", "de": "Um neun. Mein Bruder bringt den Transporter.", "en": "At nine. My brother is bringing the van." },
+        { "speaker": "Tom", "de": "Gut. Ich bringe meinen Freund mit. Er hilft dir auch.", "en": "Good. I will bring my friend along. He will help you too." }
+      ],
+      "questions": [
+        {
+          "id": "m2l1-lq1",
+          "type": "mcq",
+          "prompt": "What does Frau Klein need?",
+          "options": ["help with a move", "help with a form", "a lift to the station", "help in the garden"],
+          "answer": 0,
+          "explanation": "She asks: Kannst du mir morgen beim Umzug helfen? — beim Umzug means with the move."
+        },
+        {
+          "id": "m2l1-lq2",
+          "type": "mcq",
+          "prompt": "When does Tom need to be there?",
+          "options": ["at eight", "at nine", "at ten", "in the afternoon"],
+          "answer": 1,
+          "explanation": "She says: Um neun — at nine."
+        },
+        {
+          "id": "m2l1-lq3",
+          "type": "mcq",
+          "prompt": "Who is bringing the van?",
+          "options": ["Tom", "Tom's friend", "Frau Klein's brother", "Frau Klein's neighbour"],
+          "answer": 2,
+          "explanation": "She says: Mein Bruder bringt den Transporter."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Politeness in German runs on the dative.",
+      "prompt": "Ask a stranger for help and thank them. Use at least three dative forms and one dative preposition.",
+      "model": {
+        "de": "Entschuldigung, können Sie mir bitte helfen? Ich suche den Bahnhof. Können Sie mir den Weg zeigen? Vielen Dank, das ist sehr freundlich von Ihnen. Ich danke Ihnen für die Hilfe.",
+        "en": "Excuse me, can you help me, please? I am looking for the station. Can you show me the way? Many thanks, that is very kind of you. I thank you for your help."
+      },
+      "tips": [
+        "Use Ihnen with strangers and dir with friends. Mixing them sounds either rude or oddly intimate.",
+        "Keep the dative pronoun right after the verb: Können Sie mir helfen?",
+        "Remember that danken, helfen and gefallen never take mich, dich or ihn."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 3,
+      "lede": "Accusative pronouns slip in easily. Check the verb first.",
+      "items": [
+        {
+          "wrong": "Kannst du mich helfen?",
+          "right": "Kannst du mir helfen?",
+          "why": "helfen requires the dative, so mich becomes mir."
+        },
+        {
+          "wrong": "Ich danke dich.",
+          "right": "Ich danke dir.",
+          "why": "danken takes the dative: ich danke dir."
+        },
+        {
+          "wrong": "Das gefällt mich.",
+          "right": "Das gefällt mir.",
+          "why": "gefallen takes the dative. The thing that pleases is the subject; the person is the dative object."
+        },
+        {
+          "wrong": "Ich fahre mit der Bus.",
+          "right": "Ich fahre mit dem Bus.",
+          "why": "der Bus is masculine, and the dative of der is dem."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Ten questions on dative articles, pronouns and verbs. Score 70% or more to pass.",
+      "questions": [
+        {
+          "id": "m2l1-a1",
+          "type": "mcq",
+          "prompt": "Complete: Ich helfe ___ Kind.",
+          "options": ["das", "dem", "den", "der"],
+          "answer": 1,
+          "explanation": "das Kind is neuter, and the dative of das is dem."
+        },
+        {
+          "id": "m2l1-a2",
+          "type": "mcq",
+          "prompt": "Complete the informal question: Wie geht es ___?",
+          "options": ["dich", "dir", "Ihnen", "du"],
+          "answer": 1,
+          "explanation": "The informal dative pronoun is dir; Ihnen is the formal form."
+        },
+        {
+          "id": "m2l1-a3",
+          "type": "mcq",
+          "prompt": "Complete: Das Essen schmeckt ___ gut.",
+          "options": ["mich", "mir", "ich", "meiner"],
+          "answer": 1,
+          "explanation": "schmecken takes the dative: Das Essen schmeckt mir."
+        },
+        {
+          "id": "m2l1-a4",
+          "type": "mcq",
+          "prompt": "Which preposition always takes the dative?",
+          "options": ["für", "ohne", "nach", "um"],
+          "answer": 2,
+          "explanation": "nach is a dative preposition: nach dem Essen. für, ohne and um take the accusative."
+        },
+        {
+          "id": "m2l1-a5",
+          "type": "gap",
+          "prompt": "Ich danke ___ für das Geschenk. (you, informal)",
+          "answers": ["dir"],
+          "explanation": "danken + dative: dir."
+        },
+        {
+          "id": "m2l1-a6",
+          "type": "gap",
+          "prompt": "Sie wohnt bei ___ Eltern. (her)",
+          "answers": ["ihren"],
+          "explanation": "bei takes the dative, and the plural dative of ihr is ihren."
+        },
+        {
+          "id": "m2l1-a7",
+          "type": "gap",
+          "prompt": "Wir fahren mit ___ Zug. (the)",
+          "answers": ["dem"],
+          "explanation": "der Zug is masculine, so the dative article is dem."
+        },
+        {
+          "id": "m2l1-a8",
+          "type": "order",
+          "prompt": "Build: “Can you help me, please?”",
+          "tokens": ["helfen", "mir", "du", "Kannst", "bitte"],
+          "answer": "Kannst du mir bitte helfen?",
+          "explanation": "Verb first in a yes/no question, dative mir after the subject, infinitive last."
+        },
+        {
+          "id": "m2l1-a9",
+          "type": "order",
+          "prompt": "Build: “My mother likes the gift.”",
+          "tokens": ["meiner", "Das", "Mutter", "gefällt", "Geschenk"],
+          "answer": "Das Geschenk gefällt meiner Mutter.",
+          "explanation": "The gift is the subject; the person who likes it stands in the dative."
+        },
+        {
+          "id": "m2l1-a10",
+          "type": "order",
+          "prompt": "Build: “I thank you for your help.”",
+          "tokens": ["deine", "dir", "Ich", "Hilfe", "für", "danke"],
+          "answer": "Ich danke dir für deine Hilfe.",
+          "explanation": "danken takes the dative dir; für takes the accusative deine Hilfe."
+        }
+      ]
+    }
+  ]
+}

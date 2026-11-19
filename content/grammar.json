@@ -1,0 +1,395 @@
+{
+  "schemaVersion": 1,
+  "topics": [
+    {
+      "id": "a1-sein-haben",
+      "level": "a1",
+      "title": "sein & haben",
+      "titleDe": "Die Verben sein und haben",
+      "summary": "The two verbs you cannot learn German without: identity with sein and possession with haben.",
+      "points": [
+        "sein is irregular: ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind.",
+        "haben is also irregular: ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie/Sie haben.",
+        "Use sein for identity, origin and states; use haben for possession and many past tenses."
+      ],
+      "example": { "de": "Ich bin Student und habe eine kleine Wohnung.", "en": "I am a student and have a small flat." }
+    },
+    {
+      "id": "a1-present-regular",
+      "level": "a1",
+      "title": "Regular Present Tense",
+      "titleDe": "Das Präsens regelmäßiger Verben",
+      "summary": "One stem, six endings: the pattern behind most German verbs.",
+      "points": [
+        "Remove -en from the infinitive to find the stem: wohnen → wohn-.",
+        "Add -e, -st, -t, -en, -t, -en for ich, du, er/sie/es, wir, ihr, sie/Sie.",
+        "Stems ending in -t or -d add an extra e: du arbeitest, er arbeitet."
+      ],
+      "example": { "de": "Du wohnst in Berlin und arbeitest dort.", "en": "You live in Berlin and work there." }
+    },
+    {
+      "id": "a1-gender-articles",
+      "level": "a1",
+      "title": "Gender & Articles",
+      "titleDe": "Genus und Artikel",
+      "summary": "Every German noun has a gender, and the article must agree with it.",
+      "points": [
+        "The definite articles are der (masculine), die (feminine) and das (neuter).",
+        "The indefinite articles are ein (masculine/neuter) and eine (feminine).",
+        "Always learn a noun with its article and plural: der Tisch, die Tische."
+      ],
+      "example": { "de": "Das ist ein Tisch, und das ist eine Tür.", "en": "That is a table, and that is a door." }
+    },
+    {
+      "id": "a1-accusative",
+      "level": "a1",
+      "title": "The Accusative Case",
+      "titleDe": "Der Akkusativ",
+      "summary": "The case of the direct object: only the masculine article changes.",
+      "points": [
+        "Masculine der becomes den; ein becomes einen in the accusative.",
+        "Feminine, neuter and plural articles do not change in the accusative.",
+        "Direct object pronouns are mich, dich, ihn, sie, es, uns, euch, sie."
+      ],
+      "example": { "de": "Ich sehe den Hund und kaufe einen Apfel.", "en": "I see the dog and buy an apple." }
+    },
+    {
+      "id": "a1-questions-negation",
+      "level": "a1",
+      "title": "Questions & Negation",
+      "titleDe": "Fragen und Verneinung",
+      "summary": "Ask questions two ways and say no with nicht or kein.",
+      "points": [
+        "W-questions start with the question word, then the verb: Wo wohnst du?",
+        "Yes/no questions start with the verb: Wohnst du in Berlin?",
+        "Use nicht for verbs, adjectives and specific nouns; use kein before indefinite nouns: Ich habe kein Auto."
+      ],
+      "example": { "de": "Wohnst du in Berlin? – Nein, ich wohne nicht in Berlin.", "en": "Do you live in Berlin? – No, I do not live in Berlin." }
+    },
+    {
+      "id": "a2-dative",
+      "level": "a2",
+      "title": "The Dative Case",
+      "titleDe": "Der Dativ",
+      "summary": "The case of the indirect object and of many common verbs and prepositions.",
+      "points": [
+        "Articles change to dem (masculine), der (feminine), dem (neuter) and den + -n (plural).",
+        "Indefinite articles become einem, einer, einem and plural keinen.",
+        "Dative pronouns: mir, dir, ihm, ihr, ihm, uns, euch, ihnen."
+      ],
+      "example": { "de": "Ich helfe dem Kind und danke der Lehrerin.", "en": "I help the child and thank the teacher." }
+    },
+    {
+      "id": "a2-perfekt",
+      "level": "a2",
+      "title": "The Perfekt",
+      "titleDe": "Das Perfekt",
+      "summary": "The normal spoken past: haben or sein plus past participle.",
+      "points": [
+        "Most verbs use haben: Ich habe gelernt.",
+        "Verbs of movement and change of state use sein: Ich bin gefahren.",
+        "Regular participles are ge- + stem + -t; irregular verbs have their own forms: gesehen, gegessen."
+      ],
+      "example": { "de": "Wir haben gestern einen Film gesehen und sind danach nach Hause gegangen.", "en": "We watched a film yesterday and then went home." }
+    },
+    {
+      "id": "a2-modal-verbs",
+      "level": "a2",
+      "title": "Modal Verbs",
+      "titleDe": "Modalverben",
+      "summary": "Attitudes and obligations: can, must, may, want, should.",
+      "points": [
+        "Modal verbs take the second position; the main verb goes to the end in the infinitive.",
+        "Ich must remember: ich muss, du musst, er muss — no ending in the first and third person singular.",
+        "können, müssen, dürfen, wollen, sollen and mögen each change the vowel in the singular."
+      ],
+      "example": { "de": "Ich muss heute länger arbeiten, aber ich kann morgen frei nehmen.", "en": "I have to work longer today, but I can take tomorrow off." }
+    },
+    {
+      "id": "a2-subordinate-clauses",
+      "level": "a2",
+      "title": "Subordinate Clauses",
+      "titleDe": "Nebensätze",
+      "summary": "because, that, if and although — with the verb at the end.",
+      "points": [
+        "Subordinating conjunctions send the conjugated verb to the final position: weil, dass, wenn, obwohl.",
+        "The comma before the clause is obligatory in German.",
+        "After the subordinate clause, the main clause starts with its verb: Weil es regnet, bleibe ich zu Hause."
+      ],
+      "example": { "de": "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.", "en": "I am learning German because I want to study in Germany." }
+    },
+    {
+      "id": "a2-two-way-prepositions",
+      "level": "a2",
+      "title": "Two-Way Prepositions",
+      "titleDe": "Wechselpräpositionen",
+      "summary": "Where or where to? The case decides the meaning.",
+      "points": [
+        "The nine two-way prepositions are an, auf, hinter, in, neben, über, unter, vor and zwischen.",
+        "Use the dative for position (Wo?) and the accusative for direction (Wohin?).",
+        "Verbs such as legen, stellen and setzen express movement and take the accusative."
+      ],
+      "example": { "de": "Das Buch liegt auf dem Tisch, aber ich lege es auf den Tisch.", "en": "The book is lying on the table, but I put it onto the table." }
+    },
+    {
+      "id": "b1-relative-clauses",
+      "level": "b1",
+      "title": "Relative Clauses",
+      "titleDe": "Relativsätze",
+      "summary": "Add information about a noun without starting a new sentence.",
+      "points": [
+        "The relative pronoun agrees with the noun in gender and number, but its case depends on its role in the clause.",
+        "The conjugated verb moves to the end of the relative clause.",
+        "Use wo for places and was after alles, nichts and etwas."
+      ],
+      "example": { "de": "Das ist der Kollege, der mir geholfen hat.", "en": "That is the colleague who helped me." }
+    },
+    {
+      "id": "b1-konjunktiv-ii",
+      "level": "b1",
+      "title": "Konjunktiv II",
+      "titleDe": "Der Konjunktiv II",
+      "summary": "Politeness, wishes and unreal situations.",
+      "points": [
+        "The most useful forms are hätte, wäre, könnte and würde + infinitive.",
+        "Use Konjunktiv II to make requests sound less direct: Könnten Sie …?",
+        "Unreal conditions combine wenn + Konjunktiv II with a Konjunktiv II main clause."
+      ],
+      "example": { "de": "Wenn ich Zeit hätte, würde ich mitkommen.", "en": "If I had time, I would come along." }
+    },
+    {
+      "id": "b1-passive",
+      "level": "b1",
+      "title": "The Passive Voice",
+      "titleDe": "Das Passiv",
+      "summary": "Focus on what happens rather than who does it.",
+      "points": [
+        "Form the passive with werden + past participle: Die Rechnung wird bezahlt.",
+        "The agent can be added with von (people) or durch (means).",
+        "The passive is common in reports, instructions and formal writing."
+      ],
+      "example": { "de": "Die Rechnung wird morgen vom Kunden bezahlt.", "en": "The invoice will be paid by the customer tomorrow." }
+    },
+    {
+      "id": "b1-connectors",
+      "level": "b1",
+      "title": "Connectors & Word Order",
+      "titleDe": "Konnektoren und Wortstellung",
+      "summary": "Link ideas and keep the verb in the right position.",
+      "points": [
+        "Coordinating connectors (und, aber, oder, denn) do not change word order.",
+        "Adverbial connectors (deshalb, trotzdem, außerdem) occupy position one, so the verb comes second.",
+        "Subordinating connectors (weil, obwohl, dass) send the verb to the end."
+      ],
+      "example": { "de": "Es regnet, trotzdem gehe ich spazieren, weil ich frische Luft brauche.", "en": "It is raining; nevertheless I am going for a walk because I need fresh air." }
+    },
+    {
+      "id": "b1-adjective-declension",
+      "level": "b1",
+      "title": "Adjective Declension",
+      "titleDe": "Adjektivdeklination",
+      "summary": "Adjectives take endings that mirror the article.",
+      "points": [
+        "After der/die/das, adjectives take -e in the nominative singular and -en in most other forms.",
+        "After ein/eine, the adjective often carries the gender signal: ein neuer Film, eine neue Wohnung.",
+        "Without an article, the adjective takes the strong ending: neuer Film, neue Wohnung."
+      ],
+      "example": { "de": "Ich habe den neuen Film in der kleinen Wohnung gesehen.", "en": "I saw the new film in the small flat." }
+    },
+    {
+      "id": "b2-konjunktiv-i",
+      "level": "b2",
+      "title": "Konjunktiv I & Reported Speech",
+      "titleDe": "Konjunktiv I und indirekte Rede",
+      "summary": "Report what someone said without endorsing it.",
+      "points": [
+        "Form Konjunktiv I from the infinitive stem: er komme, sie habe, er sei.",
+        "If a Konjunktiv I form is identical to the indicative, use Konjunktiv II to keep the distinction.",
+        "Reported speech is standard in news, academic writing and formal minutes."
+      ],
+      "example": { "de": "Die Ministerin sagte, die Reform sei notwendig.", "en": "The minister said the reform was necessary." }
+    },
+    {
+      "id": "b2-nominalisation",
+      "level": "b2",
+      "title": "Nominalisation",
+      "titleDe": "Nominalisierung",
+      "summary": "Turn actions into nouns for a compact, formal style.",
+      "points": [
+        "Verb infinitives become neuter nouns: das Lesen, das Rauchen.",
+        "Suffixes such as -ung, -heit and -keit form nouns from verbs and adjectives: die Entscheidung, die Freiheit.",
+        "Nominal style is dense but can hide the agent; use it deliberately, not automatically."
+      ],
+      "example": { "de": "Die Durchführung des Projekts erforderte eine schnelle Entscheidung.", "en": "The implementation of the project required a quick decision." }
+    },
+    {
+      "id": "b2-participle-constructions",
+      "level": "b2",
+      "title": "Participial Constructions",
+      "titleDe": "Partizipialkonstruktionen",
+      "summary": "Compress relative clauses into phrases before the noun.",
+      "points": [
+        "Present participle + adjective ending: die steigenden Kosten (costs that are rising).",
+        "Past participle + adjective ending: die betroffenen Personen (the people affected).",
+        "Extended attributes sit between the article and the noun and are typical of formal written German."
+      ],
+      "example": { "de": "Die zu erledigenden Aufgaben sind im Anhang aufgeführt.", "en": "The tasks to be completed are listed in the appendix." }
+    },
+    {
+      "id": "b2-advanced-subordination",
+      "level": "b2",
+      "title": "Advanced Subordination",
+      "titleDe": "Fortgeschrittene Nebensätze",
+      "summary": "Precise relationships between ideas: time, manner, consequence and concession.",
+      "points": [
+        "sobald = as soon as; während = while/whereas; sodass = so that; indem = by doing so.",
+        "Two-part connectors such as zwar … aber and nicht nur … sondern auch structure contrast.",
+        "Keep verb-final order even in long clauses, and avoid stacking more than two subordinate clauses."
+      ],
+      "example": { "de": "Sobald die Ergebnisse vorliegen, informieren wir Sie, sodass Sie planen können.", "en": "As soon as the results are available, we will inform you so that you can plan." }
+    },
+    {
+      "id": "b2-verb-prepositions",
+      "level": "b2",
+      "title": "Verb–Preposition Combinations",
+      "titleDe": "Verben mit Präpositionen",
+      "summary": "Some verbs require a fixed preposition — and often a fixed case.",
+      "points": [
+        "Learn the pair as a unit: warten auf + accusative, sich interessieren für + accusative, teilnehmen an + dative.",
+        "Ask about things with wo- compounds: Worauf wartest du?",
+        "Refer back with da- compounds: Ich warte darauf."
+      ],
+      "example": { "de": "Ich interessiere mich für Sprachen und warte auf eine Antwort.", "en": "I am interested in languages and am waiting for an answer." }
+    },
+    {
+      "id": "c1-modal-particles",
+      "level": "c1",
+      "title": "Modal Particles",
+      "titleDe": "Modalpartikeln",
+      "summary": "Small words that carry tone: doch, ja, halt, eben, wohl.",
+      "points": [
+        "Particles do not change the truth of a sentence; they change the attitude.",
+        "doch often adds emphasis or gentle contradiction; ja signals shared knowledge; halt/eben signal inevitability.",
+        "They are typical of spoken German and should be used sparingly in formal writing."
+      ],
+      "example": { "de": "Das ist ja interessant, aber es ist halt nicht ganz einfach.", "en": "That is interesting, but it is just not that simple." }
+    },
+    {
+      "id": "c1-concessive",
+      "level": "c1",
+      "title": "Concessive Structures",
+      "titleDe": "Konzessive Strukturen",
+      "summary": "Concede a point while keeping your argument intact.",
+      "points": [
+        "zwar … aber, obwohl, wenngleich and auch wenn express concession at different levels of formality.",
+        "Concession makes an argument more credible when it is specific, not decorative.",
+        "Follow a concession with a clear main claim, often introduced by jedoch or dennoch."
+      ],
+      "example": { "de": "Zwar ist die Maßnahme teuer, jedoch langfristig wirtschaftlicher.", "en": "The measure is expensive, but it is more economical in the long term." }
+    },
+    {
+      "id": "c1-register",
+      "level": "c1",
+      "title": "Register & Style",
+      "titleDe": "Register und Stil",
+      "summary": "The same content demands different language in a email, a report and a conversation.",
+      "points": [
+        "Register involves vocabulary, sentence length, pronoun choice and degree of explicitness.",
+        "Formal German favours nominal style, passive voice and impersonal constructions.",
+        "Spoken German tolerates particles, ellipsis and shorter clauses; do not mix the two carelessly."
+      ],
+      "example": { "de": "Wir bitten um eine Rückmeldung bis Freitag. / Melde dich bitte bis Freitag.", "en": "We request a response by Friday. / Please get back to me by Friday." }
+    },
+    {
+      "id": "c1-funktionsverbgefuege",
+      "level": "c1",
+      "title": "Function Verb Phrases",
+      "titleDe": "Funktionsverbgefüge",
+      "summary": "Fixed noun–verb combinations that sound precise and professional.",
+      "points": [
+        "Expressions such as zur Anwendung kommen, in Betracht ziehen and zur Verfügung stellen are common in formal German.",
+        "The verb carries little meaning; the noun carries the content.",
+        "They are useful in reports but can sound bureaucratic in everyday speech."
+      ],
+      "example": { "de": "Wir werden Ihren Vorschlag in Betracht ziehen.", "en": "We will take your suggestion into consideration." }
+    },
+    {
+      "id": "c1-complex-attributes",
+      "level": "c1",
+      "title": "Complex Attributes",
+      "titleDe": "Komplexe Attribute",
+      "summary": "Genitive chains and participial phrases: unpacking dense academic German.",
+      "points": [
+        "Genitive attributes usually follow the noun: die Bedeutung des Fortschritts.",
+        "Participial attributes precede the noun and can be extended: die von der Kommission beschlossene Reform.",
+        "When reading, find the noun first, then attach the attributes step by step."
+      ],
+      "example": { "de": "Die von der Kommission beschlossene Reform trat im Januar in Kraft.", "en": "The reform passed by the commission came into force in January." }
+    },
+    {
+      "id": "c2-subjunctive-nuance",
+      "level": "c2",
+      "title": "Subjunctive Nuance",
+      "titleDe": "Nuancen des Konjunktivs",
+      "summary": "Distance, irreality, politeness and speculation — all in one mood.",
+      "points": [
+        "Konjunktiv I signals reported speech and neutrality; Konjunktiv II signals unreality or politeness.",
+        "The double infinitive and past subjunctive allow precise counterfactuals: hätte machen können.",
+        "In literary German, the subjunctive can create distance without explicit reporting verbs."
+      ],
+      "example": { "de": "Hätte man früher gehandelt, hätte das vermieden werden können.", "en": "Had action been taken earlier, that could have been avoided." }
+    },
+    {
+      "id": "c2-word-order",
+      "level": "c2",
+      "title": "Marked Word Order",
+      "titleDe": "Markierte Wortstellung",
+      "summary": "Move sentence parts for emphasis, contrast and rhythm.",
+      "points": [
+        "German allows the first position to be filled by almost any element for emphasis.",
+        "Fronting an object or adverbial creates focus: Diesen Vorschlag halte ich für problematisch.",
+        "Ausklammerung moves elements to the end for clarity or suspense, but should not become a habit."
+      ],
+      "example": { "de": "Nicht die Kosten sind das Problem, sondern die fehlende Zeit.", "en": "The costs are not the problem; the lack of time is." }
+    },
+    {
+      "id": "c2-regional-variation",
+      "level": "c2",
+      "title": "Regional Variation",
+      "titleDe": "Regionale Variation",
+      "summary": "Standard German is a spectrum, not a single voice.",
+      "points": [
+        "Austrian German uses Jänner, Semmel and Sackerl where Germany uses Januar, Brötchen and Tüte.",
+        "Swiss German writes ss instead of ß and uses Velo for bicycle.",
+        "Regional forms are acceptable in context; consistency matters more than choosing a single variety."
+      ],
+      "example": { "de": "Im Jänner kaufe ich am liebsten frische Semmeln.", "en": "In January I like to buy fresh rolls (Austrian usage)." }
+    },
+    {
+      "id": "c2-literary-tenses",
+      "level": "c2",
+      "title": "Literary Tenses",
+      "titleDe": "Erzählzeiten",
+      "summary": "How German literature uses tense for distance and immediacy.",
+      "points": [
+        "The Präteritum is the default narrative tense in written fiction.",
+        "The Plusquamperfekt establishes what happened before the narrative present.",
+        "The historical present can create immediacy, especially in summaries and dramatic passages."
+      ],
+      "example": { "de": "Sie hatte das Haus verlassen, bevor der Regen begann.", "en": "She had left the house before the rain began." }
+    },
+    {
+      "id": "c2-precision",
+      "level": "c2",
+      "title": "Precision & Connotation",
+      "titleDe": "Präzision und Konnotation",
+      "summary": "Choosing the right word is a matter of meaning, tone and company.",
+      "points": [
+        "Near-synonyms differ in connotation: günstig is neutral, billig can sound dismissive.",
+        "Collocations are conventional word pairings; eine Entscheidung treffen is natural, eine Entscheidung machen is not.",
+        "Precision is not the same as rarity: the best word is the one the reader expects or is pleasantly surprised by."
+      ],
+      "example": { "de": "Die Entscheidung war schwierig, aber letztlich tragfähig.", "en": "The decision was difficult but ultimately sustainable." }
+    }
+  ]
+}

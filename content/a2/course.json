@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "id": "a2",
+  "code": "A2",
+  "name": "Elementary",
+  "title": "Everyday Life in German",
+  "tagline": "Talk about your past, make appointments and handle daily situations.",
+  "overview": "A2 turns survival German into everyday German. You will add the dative, the perfect tense and modal verbs, then use them in real situations: renting a flat, visiting a doctor, travelling and talking about what happened last week. Explanations stay in English while the German you produce grows longer and more independent.",
+  "levelGoal": "By the end of A2 you can describe your past, make and change appointments, explain simple problems, and hold a short conversation about work, travel and health.",
+  "hours": 110,
+  "color": "sky",
+  "canDo": [
+    "Talk about past events using the Perfekt and Präteritum.",
+    "Make, reschedule and cancel appointments politely.",
+    "Describe symptoms to a doctor and understand simple advice.",
+    "Compare things and express preferences while travelling."
+  ],
+  "modules": [
+    {
+      "id": "a2-m1",
+      "number": 1,
+      "title": "Talking About the Past",
+      "titleDe": "Über die Vergangenheit sprechen",
+      "summary": "Tell people what happened using the perfect tense and the most common past forms.",
+      "lessons": [
+        {
+          "id": "a2-m1-l1",
+          "number": 1,
+          "title": "The Perfekt with haben & sein",
+          "titleDe": "Das Perfekt mit haben und sein",
+          "summary": "The everyday past tense: build participles and choose the right auxiliary.",
+          "minutes": 26,
+          "skills": ["Grammar", "Speaking"],
+          "objectives": [
+            "Form regular and irregular past participles.",
+            "Choose between haben and sein correctly.",
+            "Tell a short story about yesterday."
+          ],
+          "vocab": ["gesehen", "gefahren", "gemacht", "gewesen"],
+          "keyPhrase": { "de": "Wir haben gestern einen Film gesehen.", "en": "We watched a film yesterday." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "a2-m1-l2",
+          "number": 2,
+          "title": "Präteritum of Common Verbs",
+          "titleDe": "Das Präteritum wichtiger Verben",
+          "summary": "war, hatte, konnte and musste — the compact past forms you will hear and read constantly.",
+          "minutes": 22,
+          "skills": ["Grammar", "Reading"],
+          "objectives": [
+            "Conjugate war and hatte in all persons.",
+            "Use konnte and musste in past narratives.",
+            "Recognise Präteritum forms in short texts."
+          ],
+          "vocab": ["war", "hatte", "konnte", "musste"],
+          "keyPhrase": { "de": "Als Kind war ich oft in den Bergen.", "en": "As a child I was often in the mountains." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "a2-m1-l3",
+          "number": 3,
+          "title": "Telling Past Experiences",
+          "titleDe": "Erlebnisse erzählen",
+          "summary": "Connect events with time expressions and sequencing words to tell a clear story.",
+          "minutes": 24,
+          "skills": ["Speaking", "Writing"],
+          "objectives": [
+            "Use time expressions such as letztes Jahr and danach.",
+            "Sequence events with zuerst, dann and schließlich.",
+            "Write a short travel anecdote in the past."
+          ],
+          "vocab": ["letztes Jahr", "zuerst", "danach", "schließlich"],
+          "keyPhrase": { "de": "Letztes Jahr bin ich nach Hamburg gereist.", "en": "Last year I travelled to Hamburg." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "a2-m2",
+      "number": 2,
+      "title": "Cases in Depth",
+      "titleDe": "Die Fälle im Detail",
+      "summary": "Master the dative, tell direct and indirect objects apart, and use two-way prepositions.",
+      "lessons": [
+        {
+          "id": "a2-m2-l1",
+          "number": 1,
+          "title": "The Dative Case",
+          "titleDe": "Der Dativ",
+          "summary": "Give, help and thank the right person with the dative case and its pronouns.",
+          "minutes": 24,
+          "skills": ["Grammar", "Speaking"],
+          "objectives": [
+            "Form the definite and indefinite articles in the dative.",
+            "Use dative pronouns mir, dir, ihm and ihr.",
+            "Apply dative verbs such as helfen, danken and gefallen."
+          ],
+          "vocab": ["helfen", "danken", "gefallen", "mir"],
+          "keyPhrase": { "de": "Kannst du mir bitte helfen?", "en": "Can you help me, please?" },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "a2-m2-l2",
+          "number": 2,
+          "title": "Accusative vs Dative",
+          "titleDe": "Akkusativ und Dativ",
+          "summary": "Two objects in one sentence: decide who receives what.",
+          "minutes": 26,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Identify direct and indirect objects in a sentence.",
+            "Order dative and accusative objects naturally.",
+            "Use the right case after common verbs and prepositions."
+          ],
+          "vocab": ["geben", "schenken", "zeigen", "dem Kind"],
+          "keyPhrase": { "de": "Ich gebe dem Kind einen Apfel.", "en": "I give the child an apple." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "a2-m2-l3",
+          "number": 3,
+          "title": "Two-Way Prepositions",
+          "titleDe": "Wechselpräpositionen",
+          "summary": "Location or movement? Use the dative for where and the accusative for where to.",
+          "minutes": 28,
+          "skills": ["Grammar", "Speaking"],
+          "objectives": [
+            "Identify the nine two-way prepositions.",
+            "Choose dative for position and accusative for direction.",
+            "Describe where objects are and where people go."
+          ],
+          "vocab": ["auf", "unter", "neben", "zwischen"],
+          "keyPhrase": { "de": "Die Katze springt auf den Tisch.", "en": "The cat jumps onto the table." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "a2-m3",
+      "number": 3,
+      "title": "Verbs & Clauses",
+      "titleDe": "Verben und Nebensätze",
+      "summary": "Modal verbs, separable verbs, reflexives and your first subordinate clauses.",
+      "lessons": [
+        {
+          "id": "a2-m3-l1",
+          "number": 1,
+          "title": "Modal Verbs",
+          "titleDe": "Modalverben",
+          "summary": "Say what you can, must, may, want and should do — with the verb at the end.",
+          "minutes": 26,
+          "skills": ["Grammar", "Speaking"],
+          "objectives": [
+            "Conjugate können, müssen, dürfen, wollen, sollen and mögen.",
+            "Use the modal sentence bracket correctly.",
+            "Make polite requests with könnten and würden."
+          ],
+          "vocab": ["können", "müssen", "dürfen", "wollen"],
+          "keyPhrase": { "de": "Ich muss heute länger arbeiten.", "en": "I have to work longer today." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "a2-m3-l2",
+          "number": 2,
+          "title": "Separable & Reflexive Verbs",
+          "titleDe": "Trennbare und reflexive Verben",
+          "summary": "Split verbs at the right moment and talk about yourself with reflexive pronouns.",
+          "minutes": 24,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Separate prefixes in main clauses and keep them in subordinate clauses.",
+            "Use reflexive pronouns in the accusative and dative.",
+            "Distinguish true reflexive verbs from ordinary verbs."
+          ],
+          "vocab": ["aufstehen", "anrufen", "sich freuen", "sich interessieren"],
+          "keyPhrase": { "de": "Ich freue mich auf das Wochenende.", "en": "I am looking forward to the weekend." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "a2-m3-l3",
+          "number": 3,
+          "title": "Subordinate Clauses",
+          "titleDe": "Nebensätze mit weil, dass, wenn, obwohl",
+          "summary": "Give reasons, state facts, describe conditions and concede with verb-final clauses.",
+          "minutes": 28,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Place the conjugated verb at the end of a subordinate clause.",
+            "Choose between weil and dass.",
+            "Use wenn for conditions and obwohl for contrast."
+          ],
+          "vocab": ["weil", "dass", "wenn", "obwohl"],
+          "keyPhrase": { "de": "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.", "en": "I am learning German because I want to study in Germany." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "a2-m4",
+      "number": 4,
+      "title": "Life in Germany",
+      "titleDe": "Leben in Deutschland",
+      "summary": "Compare, describe, make appointments and handle travel, health and housing.",
+      "lessons": [
+        {
+          "id": "a2-m4-l1",
+          "number": 1,
+          "title": "Comparatives & Superlatives",
+          "titleDe": "Komparativ und Superlativ",
+          "summary": "Say something is bigger, better or the best — and compare options with als.",
+          "minutes": 22,
+          "skills": ["Grammar", "Speaking"],
+          "objectives": [
+            "Form comparatives with -er and superlatives with am -sten.",
+            "Use common irregular forms such as besser and am besten.",
+            "Compare two things with als."
+          ],
+          "vocab": ["schneller", "am schnellsten", "besser", "als"],
+          "keyPhrase": { "de": "Der Zug ist schneller als der Bus.", "en": "The train is faster than the bus." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "a2-m4-l2",
+          "number": 2,
+          "title": "Adjective Declension Basics",
+          "titleDe": "Adjektivdeklination",
+          "summary": "Put adjectives in front of nouns and give them the right ending.",
+          "minutes": 28,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Decline adjectives after definite articles in all three cases.",
+            "Recognise the ending patterns in the plural.",
+            "Describe people and objects with adjective + noun phrases."
+          ],
+          "vocab": ["der neue Film", "die kleine Wohnung", "freundliche Kollegen", "günstig"],
+          "keyPhrase": { "de": "Ich habe den neuen Film gesehen.", "en": "I saw the new film." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "a2-m4-l3",
+          "number": 3,
+          "title": "Appointments, Doctor & Travel",
+          "titleDe": "Termine, Arzt und Reisen",
+          "summary": "Make appointments, explain symptoms and talk about future plans.",
+          "minutes": 26,
+          "skills": ["Speaking", "Listening"],
+          "objectives": [
+            "Make, move and cancel an appointment politely.",
+            "Describe symptoms and understand basic medical advice.",
+            "Talk about future plans using the present tense and werden."
+          ],
+          "vocab": ["der Termin", "die Schmerzen", "das Rezept", "die Fahrkarte"],
+          "keyPhrase": { "de": "Ich möchte einen Termin vereinbaren.", "en": "I would like to make an appointment." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        }
+      ]
+    }
+  ],
+  "scenarios": [
+    { "title": "Renting an apartment", "titleDe": "Eine Wohnung mieten" },
+    { "title": "Visiting a doctor", "titleDe": "Beim Arzt" },
+    { "title": "Travelling", "titleDe": "Reisen" },
+    { "title": "Making appointments", "titleDe": "Termine vereinbaren" },
+    { "title": "Discussing past experiences", "titleDe": "Über Erlebnisse sprechen" },
+    { "title": "Education and work", "titleDe": "Ausbildung und Beruf" }
+  ]
+}

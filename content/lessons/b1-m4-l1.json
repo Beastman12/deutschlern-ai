@@ -1,0 +1,677 @@
+{
+  "id": "b1-m4-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "b1-m4-l1-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "b1-m4-l1",
+      "prompt": "You want to ask a lecturer about a deadline. What is your first sentence?",
+      "items": [
+        "Ich würde gern einen Termin mit Ihnen vereinbaren.",
+        "die Anmeldung",
+        "die Vorlesung",
+        "die Frist"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "b1-m4-l1-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "b1-m4-l1",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "b1-m4-l1-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "b1-m4-l1",
+      "lede": "University German is full of fixed phrases, abbreviations and a slightly formal tone.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "When you contact a lecturer, use Sie and the title: “Sehr geehrte Frau Professorin Weber”. State your course and your question early, then keep the email short. A standard opening is “Ich schreibe Ihnen wegen …”."
+        },
+        {
+          "kind": "p",
+          "text": "University life has its own vocabulary: die Anmeldung (registration), die Vorlesung (lecture), das Seminar, die Frist (deadline), der Dozent / die Dozentin. Abbreviations such as “WiSe” (winter semester) and “SoSe” (summer semester) appear on almost every timetable."
+        },
+        {
+          "kind": "note",
+          "title": "Ask early, ask clearly",
+          "text": "Lecturers receive many emails. Put the course name and your question in the first two lines, and use a specific subject line."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l1-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "b1-m4-l1",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "Anmeldung",
+              "Die Anmeldung zum Kurs ist bis Freitag möglich."
+            ],
+            [
+              "Frist",
+              "Die Frist endet am 15. Oktober."
+            ],
+            [
+              "Vorlesung",
+              "Die Vorlesung findet am Dienstag statt."
+            ],
+            [
+              "Termin mit Dozent",
+              "Ich würde gern einen Termin mit Ihnen vereinbaren."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use “findet statt” for scheduled events: Die Vorlesung findet um zehn Uhr statt.",
+            "“Bis wann?” asks for a deadline; “Ab wann?” asks when something starts.",
+            "Use “Ich hätte eine Frage zu …” to open a request politely."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l1-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "b1-m4-l1",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "die Anmeldung",
+          "en": "registration",
+          "article": "die",
+          "plural": "die Anmeldungen",
+          "example": "Die Anmeldung für das Seminar ist online.",
+          "exampleEn": "Registration for the seminar is online."
+        },
+        {
+          "de": "die Vorlesung",
+          "en": "lecture",
+          "article": "die",
+          "plural": "die Vorlesungen",
+          "example": "Die Vorlesung beginnt um neun Uhr.",
+          "exampleEn": "The lecture begins at nine."
+        },
+        {
+          "de": "die Frist",
+          "en": "deadline",
+          "article": "die",
+          "plural": "die Fristen",
+          "example": "Die Frist für die Hausarbeit ist der 30. Juni.",
+          "exampleEn": "The deadline for the term paper is 30 June."
+        },
+        {
+          "de": "der Dozent",
+          "en": "lecturer",
+          "article": "der",
+          "plural": "die Dozenten",
+          "example": "Der Dozent bietet eine Sprechstunde an.",
+          "exampleEn": "The lecturer offers office hours."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l1-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "b1-m4-l1",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Ich würde gern einen Termin mit Ihnen vereinbaren.",
+          "en": "I would like to arrange an appointment with you.",
+          "note": "Würde gern is a polite way to ask."
+        },
+        {
+          "de": "Die Anmeldung ist bis Freitag möglich.",
+          "en": "Registration is possible until Friday.",
+          "note": "Bis marks the deadline."
+        },
+        {
+          "de": "Die Vorlesung findet im Raum 3.12 statt.",
+          "en": "The lecture takes place in room 3.12.",
+          "note": "Findet … statt is the standard phrase for scheduled events."
+        },
+        {
+          "de": "Ich hätte eine Frage zur Hausarbeit.",
+          "en": "I have a question about the term paper.",
+          "note": "Zur is the contracted form of zu der."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l1-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "b1-m4-l1",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Vorlesung",
+          "hint": "Stress the second syllable: for-LEH-zung."
+        },
+        {
+          "de": "die Anmeldung",
+          "hint": "Stress the second syllable: AN-mel-dung."
+        },
+        {
+          "de": "der Dozent",
+          "hint": "Stress the second syllable: do-TSENT."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l1-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "b1-m4-l1",
+      "heading": "University communication",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German universities expect students to read the course description and the timetable before asking. A question that is already answered in the syllabus may get a short reply."
+        },
+        {
+          "kind": "p",
+          "text": "Office hours (“Sprechstunde”) are the normal place for longer questions. Sign up if required, arrive on time, and bring your documents."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l1-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "b1-m4-l1",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A student writes to a lecturer about a term paper deadline.",
+      "lines": [
+        {
+          "speaker": "Betreff",
+          "de": "Frage zur Frist für die Hausarbeit",
+          "en": "Question about the term paper deadline"
+        },
+        {
+          "speaker": "E-Mail",
+          "de": "Sehr geehrte Frau Professorin Weber, ich schreibe Ihnen wegen der Hausarbeit im Seminar Geschichte.",
+          "en": "Dear Professor Weber, I am writing about the term paper in the history seminar."
+        },
+        {
+          "speaker": "E-Mail",
+          "de": "Könnten Sie mir bitte bestätigen, dass die Frist am 30. Juni endet?",
+          "en": "Could you please confirm that the deadline ends on 30 June?"
+        },
+        {
+          "speaker": "Antwort",
+          "de": "Guten Tag Herr Yildiz, ja, die Frist endet am 30. Juni. Mit freundlichen Grüßen, Weber",
+          "en": "Hello Mr Yildiz, yes, the deadline ends on 30 June. Kind regards, Weber"
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l1-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "b1-m4-l1",
+      "heading": "University phrases",
+      "lede": "Learn the fixed phrases that appear in every course description.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Die Vorlesung findet … statt.",
+              "The lecture takes place …"
+            ],
+            [
+              "Die Anmeldung ist bis … möglich.",
+              "Registration is possible until …"
+            ],
+            [
+              "Ich hätte eine Frage zu …",
+              "I have a question about …"
+            ],
+            [
+              "Ich würde gern einen Termin vereinbaren.",
+              "I would like to arrange an appointment."
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Use zu + dative for topics: eine Frage zur Hausarbeit, zur Prüfung, zum Seminar. The forms are zur (feminine) and zum (masculine/neuter)."
+        }
+      ],
+      "tip": "When you write to a lecturer, include the course name in the subject line. It helps them answer faster."
+    },
+    {
+      "id": "b1-m4-l1-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "b1-m4-l1",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "b1-m4-l1-p-m1",
+          "type": "mcq",
+          "prompt": "Die Vorlesung ___ am Dienstag statt.",
+          "options": [
+            "findet",
+            "finden",
+            "findet statt",
+            "stattfindet"
+          ],
+          "answer": 0,
+          "explanation": "The separable verb is findet … statt, with statt at the end."
+        },
+        {
+          "id": "b1-m4-l1-p-m2",
+          "type": "mcq",
+          "prompt": "Die Anmeldung ist ___ Freitag möglich.",
+          "options": [
+            "ab",
+            "bis",
+            "seit",
+            "um"
+          ],
+          "answer": 1,
+          "explanation": "Bis marks the end of a period or deadline."
+        },
+        {
+          "id": "b1-m4-l1-p-m3",
+          "type": "mcq",
+          "prompt": "Ich hätte eine Frage ___ Hausarbeit.",
+          "options": [
+            "zu",
+            "zur",
+            "zum",
+            "für"
+          ],
+          "answer": 1,
+          "explanation": "Hausarbeit is feminine, so zu der contracts to zur."
+        },
+        {
+          "id": "b1-m4-l1-p-m4",
+          "type": "mcq",
+          "prompt": "Which phrase is the most polite way to ask for a meeting?",
+          "options": [
+            "Ich will einen Termin.",
+            "Ich würde gern einen Termin vereinbaren.",
+            "Termin jetzt.",
+            "Du musst mir einen Termin geben."
+          ],
+          "answer": 1,
+          "explanation": "Würde gern is polite and appropriate for a lecturer."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l1-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "b1-m4-l1",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "b1-m4-l1-p-g1",
+          "type": "gap",
+          "prompt": "Die Vorlesung findet um neun Uhr ___.",
+          "answers": [
+            "statt"
+          ],
+          "explanation": "The separable prefix of stattfinden goes to the end."
+        },
+        {
+          "id": "b1-m4-l1-p-g2",
+          "type": "gap",
+          "prompt": "Die Frist endet ___ 30. Juni.",
+          "answers": [
+            "am"
+          ],
+          "explanation": "Dates use am: am 30. Juni."
+        },
+        {
+          "id": "b1-m4-l1-p-g3",
+          "type": "gap",
+          "prompt": "Ich habe eine Frage ___ Prüfung. (feminine)",
+          "answers": [
+            "zur"
+          ],
+          "explanation": "Zu der contracts to zur before a feminine noun."
+        },
+        {
+          "id": "b1-m4-l1-p-g4",
+          "type": "gap",
+          "prompt": "Die ___ für das Seminar ist online.",
+          "answers": [
+            "Anmeldung"
+          ],
+          "explanation": "Anmeldung means registration."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l1-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "b1-m4-l1",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "b1-m4-l1-p-o1",
+          "type": "order",
+          "prompt": "Build: “I would like to arrange an appointment with you.”",
+          "tokens": [
+            "einen",
+            "Ich",
+            "Termin",
+            "würde",
+            "gern",
+            "mit",
+            "Ihnen",
+            "vereinbaren."
+          ],
+          "answer": "Ich würde gern einen Termin mit Ihnen vereinbaren.",
+          "explanation": "Würde gern softens the request, and the infinitive closes the sentence."
+        },
+        {
+          "id": "b1-m4-l1-p-o2",
+          "type": "order",
+          "prompt": "Build: “The lecture takes place on Tuesday.”",
+          "tokens": [
+            "am",
+            "Die",
+            "statt.",
+            "Vorlesung",
+            "findet",
+            "Dienstag"
+          ],
+          "answer": "Die Vorlesung findet am Dienstag statt.",
+          "explanation": "Statt is the separable prefix at the end."
+        },
+        {
+          "id": "b1-m4-l1-p-o3",
+          "type": "order",
+          "prompt": "Build: “I have a question about the term paper.”",
+          "tokens": [
+            "eine",
+            "Ich",
+            "Frage",
+            "hätte",
+            "zur",
+            "Hausarbeit."
+          ],
+          "answer": "Ich hätte eine Frage zur Hausarbeit.",
+          "explanation": "Zur is the contracted form of zu der."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l1-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "b1-m4-l1",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Information am Schwarzen Brett",
+      "script": [
+        {
+          "speaker": "Ansage",
+          "de": "Die Anmeldung für das Seminar Geschichte ist ab Montag online.",
+          "en": "Registration for the history seminar is online from Monday."
+        },
+        {
+          "speaker": "Ansage",
+          "de": "Die Frist endet am 15. Oktober.",
+          "en": "The deadline ends on 15 October."
+        },
+        {
+          "speaker": "Ansage",
+          "de": "Die erste Vorlesung findet am 20. Oktober um zehn Uhr statt.",
+          "en": "The first lecture takes place on 20 October at ten."
+        },
+        {
+          "speaker": "Ansage",
+          "de": "Bei Fragen wenden Sie sich bitte an den Dozenten.",
+          "en": "If you have questions, please contact the lecturer."
+        }
+      ],
+      "questions": [
+        {
+          "id": "b1-m4-l1-l1",
+          "type": "mcq",
+          "prompt": "When does registration open?",
+          "options": [
+            "Monday",
+            "15 October",
+            "20 October",
+            "Friday"
+          ],
+          "answer": 0,
+          "explanation": "The announcement says registration is online from Monday."
+        },
+        {
+          "id": "b1-m4-l1-l2",
+          "type": "mcq",
+          "prompt": "When is the first lecture?",
+          "options": [
+            "15 October at ten",
+            "20 October at ten",
+            "20 October at nine",
+            "Monday at ten"
+          ],
+          "answer": 1,
+          "explanation": "The first lecture is on 20 October at ten."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l1-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "b1-m4-l1",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Ask a lecturer for an appointment about a term paper. Include a subject line and a polite request.",
+      "model": {
+        "de": "Betreff: Frage zur Hausarbeit. Sehr geehrte Frau Professorin Weber, ich hätte eine Frage zur Hausarbeit. Ich würde gern einen Termin mit Ihnen vereinbaren. Wann haben Sie Zeit?",
+        "en": "Subject: Question about the term paper. Dear Professor Weber, I have a question about the term paper. I would like to arrange an appointment with you. When do you have time?"
+      },
+      "tips": [
+        "Use the lecturer’s title and surname.",
+        "State the course and the topic in the first two lines.",
+        "Use würde gern for a polite request."
+      ]
+    },
+    {
+      "id": "b1-m4-l1-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "b1-m4-l1",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Die Vorlesung findet am Dienstag.",
+          "right": "Die Vorlesung findet am Dienstag statt.",
+          "why": "Stattfinden is separable and needs its prefix at the end."
+        },
+        {
+          "wrong": "Ich habe eine Frage zu der Hausarbeit.",
+          "right": "Ich habe eine Frage zur Hausarbeit.",
+          "why": "In everyday German, zu der contracts to zur."
+        },
+        {
+          "wrong": "Die Frist endet bis 30. Juni.",
+          "right": "Die Frist endet am 30. Juni.",
+          "why": "A specific date takes am, not bis."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l1-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "b1-m4-l1",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "b1-m4-l1-a1",
+          "type": "mcq",
+          "prompt": "Die Vorlesung ___ am Dienstag statt.",
+          "options": [
+            "findet",
+            "finden",
+            "findet statt",
+            "stattfindet"
+          ],
+          "answer": 0,
+          "explanation": "The separable verb is findet … statt, with statt at the end."
+        },
+        {
+          "id": "b1-m4-l1-a2",
+          "type": "mcq",
+          "prompt": "Die Anmeldung ist ___ Freitag möglich.",
+          "options": [
+            "ab",
+            "bis",
+            "seit",
+            "um"
+          ],
+          "answer": 1,
+          "explanation": "Bis marks the end of a period or deadline."
+        },
+        {
+          "id": "b1-m4-l1-a3",
+          "type": "mcq",
+          "prompt": "Ich hätte eine Frage ___ Hausarbeit.",
+          "options": [
+            "zu",
+            "zur",
+            "zum",
+            "für"
+          ],
+          "answer": 1,
+          "explanation": "Hausarbeit is feminine, so zu der contracts to zur."
+        },
+        {
+          "id": "b1-m4-l1-a4",
+          "type": "mcq",
+          "prompt": "Which phrase is the most polite way to ask for a meeting?",
+          "options": [
+            "Ich will einen Termin.",
+            "Ich würde gern einen Termin vereinbaren.",
+            "Termin jetzt.",
+            "Du musst mir einen Termin geben."
+          ],
+          "answer": 1,
+          "explanation": "Würde gern is polite and appropriate for a lecturer."
+        },
+        {
+          "id": "b1-m4-l1-a5",
+          "type": "gap",
+          "prompt": "Die Vorlesung findet um neun Uhr ___.",
+          "answers": [
+            "statt"
+          ],
+          "explanation": "The separable prefix of stattfinden goes to the end."
+        },
+        {
+          "id": "b1-m4-l1-a6",
+          "type": "gap",
+          "prompt": "Die Frist endet ___ 30. Juni.",
+          "answers": [
+            "am"
+          ],
+          "explanation": "Dates use am: am 30. Juni."
+        },
+        {
+          "id": "b1-m4-l1-a7",
+          "type": "gap",
+          "prompt": "Ich habe eine Frage ___ Prüfung. (feminine)",
+          "answers": [
+            "zur"
+          ],
+          "explanation": "Zu der contracts to zur before a feminine noun."
+        },
+        {
+          "id": "b1-m4-l1-a8",
+          "type": "gap",
+          "prompt": "Die ___ für das Seminar ist online.",
+          "answers": [
+            "Anmeldung"
+          ],
+          "explanation": "Anmeldung means registration."
+        },
+        {
+          "id": "b1-m4-l1-a9",
+          "type": "order",
+          "prompt": "Build: “I would like to arrange an appointment with you.”",
+          "tokens": [
+            "einen",
+            "Ich",
+            "Termin",
+            "würde",
+            "gern",
+            "mit",
+            "Ihnen",
+            "vereinbaren."
+          ],
+          "answer": "Ich würde gern einen Termin mit Ihnen vereinbaren.",
+          "explanation": "Würde gern softens the request, and the infinitive closes the sentence."
+        },
+        {
+          "id": "b1-m4-l1-a10",
+          "type": "order",
+          "prompt": "Build: “The lecture takes place on Tuesday.”",
+          "tokens": [
+            "am",
+            "Die",
+            "statt.",
+            "Vorlesung",
+            "findet",
+            "Dienstag"
+          ],
+          "answer": "Die Vorlesung findet am Dienstag statt.",
+          "explanation": "Statt is the separable prefix at the end."
+        }
+      ]
+    }
+  ]
+}

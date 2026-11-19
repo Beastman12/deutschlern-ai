@@ -1,0 +1,648 @@
+{
+  "id": "b2-m2-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "prompt": "Read each sentence aloud. Mark the connector and notice where the verb stands.",
+      "items": [
+        "Einerseits spart die Maßnahme Zeit, andererseits verursacht sie Kosten.",
+        "Zwar gibt es Risiken, dennoch überwiegen die Vorteile.",
+        "Die Kosten steigen, folglich muss der Plan überarbeitet werden.",
+        "Aus den genannten Gründen befürworte ich die Reform."
+      ],
+      "lede": "Two minutes of reading prepares the rhythm of a balanced argument."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "An argumentative essay is a guided tour, not a list of opinions. The reader needs a thesis, reasons, a counterargument and a conclusion.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A German Erörterung usually follows three parts. The introduction names the question and states a clear thesis. The main body gives reasons, supports them with examples and addresses at least one counterargument. The conclusion draws a consequence instead of simply repeating the introduction."
+        },
+        {
+          "kind": "de",
+          "text": "Einerseits spart die Maßnahme Zeit, andererseits verursacht sie Kosten.",
+          "en": "On the one hand the measure saves time; on the other hand it causes costs."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The thesis is the claim you want the reader to accept: Meines Erachtens sollte …",
+            "Each paragraph needs one main idea, a reason and, where possible, an example.",
+            "A counterargument makes the essay credible, but it must be answered: Es lässt sich einwenden, dass … Dem ist jedoch entgegenzuhalten, dass …",
+            "Connectors carry the logic: contrast (einerseits/andererseits, dennoch), consequence (folglich, deshalb) and concession (zwar … aber)."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Thesis, not topic",
+          "text": "“Home office is a current topic” is a topic. “Home office should remain a permanent option because it saves commuting time and increases flexibility” is a thesis. Only the second can be argued."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "Connectors do two jobs at once: they signal the relationship and they determine the word order.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Connector", "Function", "Word order", "Example"],
+          "rows": [
+            ["einerseits … andererseits", "two-sided contrast", "verb second after each", "Einerseits spart es Zeit, andererseits ist es teuer."],
+            ["zwar … aber", "concession + contrast", "aber keeps normal order", "Zwar ist es teuer, aber es lohnt sich."],
+            ["dennoch / trotzdem", "nevertheless", "verb second", "Die Kosten steigen; dennoch bleibt der Plan sinnvoll."],
+            ["folglich / deshalb", "consequence", "verb second", "Die Kosten steigen, folglich muss der Plan überarbeitet werden."],
+            ["obwohl / während", "concession / contrast", "verb-final", "Obwohl es teuer ist, lohnt es sich."],
+            ["zum einen … zum anderen", "two aspects", "verb second after each", "Zum einen ist es günstig, zum anderen ist es schnell."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "einerseits and andererseits are adverbs, so the verb comes directly after them.",
+            "aber is a coordinating conjunction and does not change the word order.",
+            "dennoch, trotzdem, folglich and deshalb occupy position one, so the verb comes second.",
+            "obwohl and während are subordinating conjunctions and send the verb to the end.",
+            "Do not use two connectors with the same function in one sentence: einerseits … aber is redundant."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "A reliable essay skeleton",
+          "text": "Einleitung: In diesem Essay wird die Frage erörtert, ob … Meines Erachtens … — Hauptteil: Ein wichtiges Argument ist … / Es lässt sich einwenden, dass … / Dem ist jedoch entgegenzuhalten, dass … — Schluss: Aus den genannten Gründen … / Zusammenfassend lässt sich festhalten, dass …"
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These connectors are the skeleton of a formal argument. Learn their word-order behaviour with them.",
+      "items": [
+        {
+          "de": "einerseits",
+          "en": "on the one hand",
+          "pronunciation": "ˈaɪ̯nɐzaɪ̯t͡s",
+          "example": "Einerseits spart die Maßnahme Zeit, andererseits verursacht sie Kosten.",
+          "exampleEn": "On the one hand the measure saves time; on the other hand it causes costs."
+        },
+        {
+          "de": "andererseits",
+          "en": "on the other hand",
+          "pronunciation": "ˈandəʁɐzaɪ̯t͡s",
+          "example": "Andererseits darf man die langfristigen Kosten nicht ignorieren.",
+          "exampleEn": "On the other hand, one must not ignore the long-term costs."
+        },
+        {
+          "de": "dennoch",
+          "en": "nevertheless",
+          "pronunciation": "dɛˈnɔx",
+          "example": "Die Argumente sind überzeugend; dennoch bleiben Fragen offen.",
+          "exampleEn": "The arguments are convincing; nevertheless, questions remain open."
+        },
+        {
+          "de": "folglich",
+          "en": "consequently",
+          "pronunciation": "ˈfɔlklɪç",
+          "example": "Die Kosten steigen, folglich muss der Plan überarbeitet werden.",
+          "exampleEn": "The costs are rising; consequently, the plan must be revised."
+        },
+        {
+          "de": "der Einwand",
+          "en": "the objection",
+          "article": "der",
+          "plural": "die Einwände",
+          "pronunciation": "ˈaɪ̯nvant",
+          "example": "Ein wichtiger Einwand lautet, dass kleine Betriebe benachteiligt werden.",
+          "exampleEn": "An important objection is that small businesses are disadvantaged."
+        },
+        {
+          "de": "die Schlussfolgerung",
+          "en": "the conclusion",
+          "article": "die",
+          "plural": "die Schlussfolgerungen",
+          "pronunciation": "ˈʃlʊsfɔlɡəʁʊŋ",
+          "example": "Die Schlussfolgerung muss sich aus den Argumenten ergeben.",
+          "exampleEn": "The conclusion must follow from the arguments."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Each sentence could appear in an essay. Notice how the connector signals the next step in the argument.",
+      "items": [
+        {
+          "de": "Einerseits spart die Maßnahme Zeit, andererseits verursacht sie Kosten.",
+          "en": "On the one hand the measure saves time; on the other hand it causes costs.",
+          "note": "Both clauses are complete; the verb follows each connector."
+        },
+        {
+          "de": "Die Argumente sind überzeugend; dennoch bleiben Fragen offen.",
+          "en": "The arguments are convincing; nevertheless, questions remain open.",
+          "note": "dennoch is position one, so bleiben is the second element."
+        },
+        {
+          "de": "Die Kosten steigen, folglich muss der Plan überarbeitet werden.",
+          "en": "The costs are rising; consequently, the plan must be revised.",
+          "note": "folglich introduces the consequence, not a new topic."
+        },
+        {
+          "de": "Zwar gibt es Risiken, dennoch überwiegen die Vorteile.",
+          "en": "It is true that there are risks, but the advantages outweigh them.",
+          "note": "zwar concedes a point; dennoch keeps the main claim alive."
+        },
+        {
+          "de": "Ein wichtiger Einwand lautet, dass kleine Betriebe benachteiligt werden.",
+          "en": "An important objection is that small businesses are disadvantaged.",
+          "note": "The counterargument is stated fairly before it is answered."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 4,
+      "lede": "Long connectors need a clear stress pattern, otherwise the argument sounds hesitant.",
+      "items": [
+        {
+          "de": "einerseits",
+          "hint": "Stress the first syllable: EI-ner-seits. The final -seits rhymes with “sites”.",
+          "en": "on the one hand"
+        },
+        {
+          "de": "andererseits",
+          "hint": "Stress the first syllable: AN-de-rer-seits. Keep the middle syllables light.",
+          "en": "on the other hand"
+        },
+        {
+          "de": "dennoch",
+          "hint": "Stress the second syllable: den-NOCH. The ch is soft, as in ich.",
+          "en": "nevertheless"
+        },
+        {
+          "de": "folglich",
+          "hint": "Stress the first syllable: FOLG-lich. The g is hard and the ch is soft.",
+          "en": "consequently"
+        },
+        {
+          "de": "Schlussfolgerung",
+          "hint": "Stress the first syllable: SCHLUSS-fol-ge-rung. Keep the compound parts distinct.",
+          "en": "conclusion"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "The Erörterung as a school format",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In German schools, the Erörterung is a standard essay form. Pupils learn to separate Einleitung, Hauptteil and Schluss, to support a thesis with evidence and to discuss counterarguments. The same structure appears in university essays and in formal comments in newspapers."
+        },
+        {
+          "kind": "p",
+          "text": "A strong German argument is usually balanced rather than purely assertive. Naming the opposing position and answering it is seen as a sign of control, not weakness. This is why connectors such as zwar … aber and einerseits … andererseits are taught so early."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lede": "A tutor gives feedback on a student's essay about home office.",
+      "setting": "A tutorial at a university writing centre",
+      "lines": [
+        { "speaker": "Dozentin", "de": "Deine Einleitung ist zu lang. Die These kommt erst im dritten Absatz.", "en": "Your introduction is too long. The thesis only comes in the third paragraph." },
+        { "speaker": "Student", "de": "Ich wollte zuerst beide Seiten darstellen.", "en": "I wanted to present both sides first." },
+        { "speaker": "Dozentin", "de": "Einerseits … andererseits ist gut, aber der Leser braucht früh eine klare Position.", "en": "On the one hand … on the other hand is good, but the reader needs a clear position early." },
+        { "speaker": "Student", "de": "Also stelle ich die These nach vorne und bringe den Einwand später.", "en": "So I will put the thesis first and bring the objection later." },
+        { "speaker": "Dozentin", "de": "Genau. Und im Schluss wiederholst du nicht alles, sondern ziehst eine Schlussfolgerung.", "en": "Exactly. And in the conclusion you do not repeat everything; you draw a conclusion." },
+        { "speaker": "Student", "de": "Dann formuliere ich: Aus den genannten Gründen befürworte ich Homeoffice als feste Option.", "en": "Then I will formulate: for the reasons mentioned, I support home office as a permanent option." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "heading": "Connectors and the three essay moves",
+      "lede": "Choose the connector by function, then apply its word-order rule.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Essay move", "Useful phrases", "Example"],
+          "rows": [
+            ["Thesis", "Meines Erachtens … / Ich vertrete die Auffassung, dass …", "Meines Erachtens sollte Homeoffice dauerhaft möglich sein."],
+            ["Argument", "Ein wichtiges Argument ist … / Dafür spricht, dass …", "Dafür spricht, dass Pendelzeit eingespart wird."],
+            ["Counterargument", "Es lässt sich einwenden, dass … / Gegner argumentieren, dass …", "Es lässt sich einwenden, dass Teamarbeit leidet."],
+            ["Refutation", "Dem ist jedoch entgegenzuhalten, dass …", "Dem ist entgegenzuhalten, dass klare Regeln dieses Problem lösen."],
+            ["Conclusion", "Aus den genannten Gründen … / Zusammenfassend lässt sich festhalten, dass …", "Aus den genannten Gründen befürworte ich die Reform."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "After einerseits, andererseits, dennoch, folglich and deshalb, the verb comes second.",
+            "After aber, the word order stays as it is: Zwar ist es teuer, aber es lohnt sich.",
+            "After obwohl and während, the verb goes to the end: Obwohl es teuer ist, …",
+            "Use a semicolon or a full stop before dennoch and folglich when the two clauses are long.",
+            "Keep one main idea per paragraph; connectors cannot repair a missing argument."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Avoid connector inflation",
+          "text": "A connector in every sentence makes a text mechanical. Use them where the logical relationship would otherwise be unclear, and let short sentences carry emphasis."
+        }
+      ],
+      "tip": "Read your essay aloud and underline every connector. If two connectors do the same job, delete one."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Check connector meaning, essay structure and word order.",
+      "exercises": [
+        {
+          "id": "b2m2l3-p1",
+          "type": "mcq",
+          "prompt": "Which pair introduces two contrasting sides of an argument?",
+          "options": ["zwar … aber", "einerseits … andererseits", "folglich … deshalb", "sobald … sodass"],
+          "answer": 1,
+          "explanation": "einerseits … andererseits presents one side and then the other."
+        },
+        {
+          "id": "b2m2l3-p2",
+          "type": "mcq",
+          "prompt": "Which sentence uses dennoch correctly?",
+          "options": [
+            "Die Kosten steigen; dennoch der Plan bleibt sinnvoll.",
+            "Die Kosten steigen; dennoch bleibt der Plan sinnvoll.",
+            "Die Kosten steigen; dennoch der Plan sinnvoll bleibt.",
+            "Die Kosten steigen; dennoch bleibt sinnvoll der Plan."
+          ],
+          "answer": 1,
+          "explanation": "dennoch occupies position one, so the verb bleibt comes second."
+        },
+        {
+          "id": "b2m2l3-p3",
+          "type": "mcq",
+          "prompt": "What belongs in the introduction of an argumentative essay?",
+          "options": [
+            "A list of all sources",
+            "A clear thesis statement",
+            "The full conclusion",
+            "Only a personal anecdote"
+          ],
+          "answer": 1,
+          "explanation": "The introduction establishes the question and states the thesis the essay will defend."
+        },
+        {
+          "id": "b2m2l3-p4",
+          "type": "mcq",
+          "prompt": "Which phrase introduces a counterargument politely?",
+          "options": [
+            "Das ist völlig falsch.",
+            "Es lässt sich einwenden, dass …",
+            "Alle wissen, dass …",
+            "Ich wiederhole: …"
+          ],
+          "answer": 1,
+          "explanation": "Es lässt sich einwenden, dass … states an objection without attacking the opponent."
+        },
+        {
+          "id": "b2m2l3-p5",
+          "type": "mcq",
+          "prompt": "What does folglich mean?",
+          "options": ["nevertheless", "consequently", "on the one hand", "for example"],
+          "answer": 1,
+          "explanation": "folglich introduces a consequence: consequently, therefore."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing connector or noun. Keep the capital letter at the start of a sentence.",
+      "exercises": [
+        {
+          "id": "b2m2l3-g1",
+          "type": "gap",
+          "prompt": "___ spart die Maßnahme Zeit, andererseits verursacht sie Kosten.",
+          "answers": ["Einerseits"],
+          "explanation": "einerseits … andererseits presents two contrasting sides."
+        },
+        {
+          "id": "b2m2l3-g2",
+          "type": "gap",
+          "prompt": "Die Argumente sind überzeugend; ___ bleiben Fragen offen.",
+          "answers": ["dennoch"],
+          "explanation": "dennoch = nevertheless; the verb bleiben follows it."
+        },
+        {
+          "id": "b2m2l3-g3",
+          "type": "gap",
+          "prompt": "Die Kosten steigen, ___ muss der Plan überarbeitet werden.",
+          "answers": ["folglich"],
+          "explanation": "folglich introduces the consequence of rising costs."
+        },
+        {
+          "id": "b2m2l3-g4",
+          "type": "gap",
+          "prompt": "Ein wichtiger ___ lautet, dass kleine Betriebe benachteiligt werden.",
+          "answers": ["Einwand"],
+          "explanation": "der Einwand = the objection; a counterargument in an essay."
+        },
+        {
+          "id": "b2m2l3-g5",
+          "type": "gap",
+          "prompt": "___ lässt sich sagen, dass beide Seiten gute Argumente haben.",
+          "answers": ["Zusammenfassend"],
+          "explanation": "Zusammenfassend = in summary; it introduces the conclusion."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Build each argumentative sentence. Watch the position of the verb after the connector.",
+      "exercises": [
+        {
+          "id": "b2m2l3-o1",
+          "type": "order",
+          "prompt": "Build: “On the one hand it saves time; on the other hand it is expensive.”",
+          "tokens": ["es", "Einerseits", "teuer", "Zeit", "ist", "spart", "andererseits", "es"],
+          "answer": "Einerseits spart es Zeit, andererseits ist es teuer.",
+          "explanation": "Both connectors occupy position one, so the verb follows immediately."
+        },
+        {
+          "id": "b2m2l3-o2",
+          "type": "order",
+          "prompt": "Build: “It is true that there are risks, but the advantages outweigh them.”",
+          "tokens": ["Risiken", "Zwar", "die", "gibt", "überwiegen", "es", "Vorteile", "dennoch"],
+          "answer": "Zwar gibt es Risiken, dennoch überwiegen die Vorteile.",
+          "explanation": "zwar concedes the risk; dennoch introduces the main claim with the verb second."
+        },
+        {
+          "id": "b2m2l3-o3",
+          "type": "order",
+          "prompt": "Build: “The costs are rising; consequently, the plan must be revised.”",
+          "tokens": ["der", "Die", "überarbeitet", "folglich", "Plan", "muss", "Kosten", "steigen", "werden"],
+          "answer": "Die Kosten steigen, folglich muss der Plan überarbeitet werden.",
+          "explanation": "folglich is position one; muss is the second element."
+        },
+        {
+          "id": "b2m2l3-o4",
+          "type": "order",
+          "prompt": "Build: “For the reasons mentioned, I support the reform.”",
+          "tokens": ["die", "Aus", "Gründen", "befürworte", "genannten", "ich", "Reform", "den"],
+          "answer": "Aus den genannten Gründen befürworte ich die Reform.",
+          "explanation": "The fronted adverbial occupies position one, so befürworte comes second."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice. Two students discuss an essay draft.",
+      "speaker": "Two students in a writing seminar",
+      "script": [
+        { "speaker": "Mara", "de": "Hast du deine Erörterung schon fertig?", "en": "Have you finished your essay yet?" },
+        { "speaker": "Jonas", "de": "Fast. Die Einleitung steht, aber der Schluss fehlt noch.", "en": "Almost. The introduction is done, but the conclusion is still missing." },
+        { "speaker": "Mara", "de": "Einerseits hast du gute Argumente, andererseits wiederholst du dich im Hauptteil.", "en": "On the one hand you have good arguments; on the other hand you repeat yourself in the main body." },
+        { "speaker": "Jonas", "de": "Ich weiß. Ich kürze den dritten Absatz und füge einen Einwand ein.", "en": "I know. I will shorten the third paragraph and add an objection." },
+        { "speaker": "Mara", "de": "Gut. Entkräfte den Einwand am Ende, sonst wirkt deine These schwach.", "en": "Good. Refute the objection at the end, otherwise your thesis will seem weak." }
+      ],
+      "questions": [
+        {
+          "id": "b2m2l3-lq1",
+          "type": "mcq",
+          "prompt": "What is still missing from Jonas's essay?",
+          "options": ["The introduction", "The conclusion", "The title", "The sources"],
+          "answer": 1,
+          "explanation": "Jonas says: Die Einleitung steht, aber der Schluss fehlt noch."
+        },
+        {
+          "id": "b2m2l3-lq2",
+          "type": "mcq",
+          "prompt": "What does Mara advise Jonas to do?",
+          "options": [
+            "Write a longer introduction",
+            "Shorten a paragraph and refute the objection",
+            "Remove all connectors",
+            "Choose a different topic"
+          ],
+          "answer": 1,
+          "explanation": "She says he repeats himself and advises him to shorten the third paragraph, add an objection and refute it."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Deliver a short structured argument. Aim for one minute, not a full essay.",
+      "prompt": "Take a position on whether employees should be allowed to work from home permanently. State a thesis, give one argument, name one objection and respond to it.",
+      "model": {
+        "de": "Meines Erachtens sollte Homeoffice dauerhaft möglich sein. Ein wichtiges Argument ist, dass Beschäftigte Pendelzeit sparen und ihre Arbeit besser einteilen können. Es lässt sich einwenden, dass die Zusammenarbeit im Team leidet. Dem ist jedoch entgegenzuhalten, dass klare Regeln und regelmäßige Präsenztage dieses Problem lösen können. Aus den genannten Gründen befürworte ich eine flexible Regelung.",
+        "en": "In my view, working from home should be possible permanently. An important argument is that employees save commuting time and can organise their work better. It could be objected that teamwork suffers. However, it should be countered that clear rules and regular office days can solve this problem. For the reasons mentioned, I support a flexible arrangement."
+      },
+      "tips": [
+        "Signpost the structure: thesis first, then argument, objection and response.",
+        "Use one contrast connector and one consequence connector, not five.",
+        "Finish with a conclusion that follows from your argument rather than repeating the introduction."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "Most errors are word-order slips after connectors or a missing counterargument.",
+      "items": [
+        {
+          "wrong": "Einerseits es spart Zeit, andererseits es ist teuer.",
+          "right": "Einerseits spart es Zeit, andererseits ist es teuer.",
+          "why": "einerseits and andererseits occupy position one, so the verb comes second."
+        },
+        {
+          "wrong": "Die Kosten steigen, folglich der Plan muss überarbeitet werden.",
+          "right": "Die Kosten steigen, folglich muss der Plan überarbeitet werden.",
+          "why": "After folglich, the verb muss comes before the subject."
+        },
+        {
+          "wrong": "Zwar ist es teuer, aber lohnt es sich.",
+          "right": "Zwar ist es teuer, aber es lohnt sich.",
+          "why": "aber is coordinating and does not trigger inversion; the normal subject-verb order stays."
+        },
+        {
+          "wrong": "Ich denke, dass Homeoffice gut ist. Ich denke, dass es Zeit spart. Ich denke, dass …",
+          "right": "Meines Erachtens ist Homeoffice sinnvoll, weil es Zeit spart und flexibel macht.",
+          "why": "Repeating ich denke weakens a formal argument. Use varied thesis phrases and combine the reasons."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions. Score 70% or more to unlock the next lesson. You can retake this check as often as you need.",
+      "questions": [
+        {
+          "id": "b2m2l3-a1",
+          "type": "mcq",
+          "prompt": "Which connector pair expresses contrast?",
+          "options": ["einerseits … andererseits", "sobald … sodass", "indem … nachdem", "zwar … deshalb"],
+          "answer": 0,
+          "explanation": "einerseits … andererseits presents one side and then the opposing side."
+        },
+        {
+          "id": "b2m2l3-a2",
+          "type": "mcq",
+          "prompt": "Which sentence has the correct word order after dennoch?",
+          "options": [
+            "Dennoch der Plan bleibt sinnvoll.",
+            "Dennoch bleibt der Plan sinnvoll.",
+            "Dennoch der Plan sinnvoll bleibt.",
+            "Dennoch bleibt sinnvoll der Plan."
+          ],
+          "answer": 1,
+          "explanation": "dennoch is position one; the verb bleibt is position two."
+        },
+        {
+          "id": "b2m2l3-a3",
+          "type": "mcq",
+          "prompt": "What is the function of a counterargument in an essay?",
+          "options": [
+            "To replace the thesis",
+            "To make the argument more credible by addressing the other side",
+            "To lengthen the introduction",
+            "To avoid taking a position"
+          ],
+          "answer": 1,
+          "explanation": "A fair counterargument shows that the writer has considered the alternatives."
+        },
+        {
+          "id": "b2m2l3-a4",
+          "type": "mcq",
+          "prompt": "Which phrase is suitable for a conclusion?",
+          "options": [
+            "Zum Beispiel …",
+            "Aus den genannten Gründen …",
+            "Einerseits …",
+            "Es lässt sich einwenden, dass …"
+          ],
+          "answer": 1,
+          "explanation": "Aus den genannten Gründen … summarises the reasoning and states the conclusion."
+        },
+        {
+          "id": "b2m2l3-a5",
+          "type": "mcq",
+          "prompt": "Which sentence uses aber correctly?",
+          "options": [
+            "Zwar ist es teuer, aber lohnt es sich.",
+            "Zwar ist es teuer, aber es lohnt sich.",
+            "Zwar ist es teuer, aber sich es lohnt.",
+            "Zwar ist es teuer, aber es sich lohnt."
+          ],
+          "answer": 1,
+          "explanation": "aber does not change word order: aber es lohnt sich."
+        },
+        {
+          "id": "b2m2l3-a6",
+          "type": "gap",
+          "prompt": "___ spart die Maßnahme Zeit, andererseits verursacht sie Kosten.",
+          "answers": ["Einerseits"],
+          "explanation": "einerseits … andererseits presents two contrasting sides."
+        },
+        {
+          "id": "b2m2l3-a7",
+          "type": "gap",
+          "prompt": "Die Argumente sind überzeugend; ___ bleiben Fragen offen.",
+          "answers": ["dennoch"],
+          "explanation": "dennoch = nevertheless; the verb follows it."
+        },
+        {
+          "id": "b2m2l3-a8",
+          "type": "gap",
+          "prompt": "Die Kosten steigen, ___ muss der Plan überarbeitet werden.",
+          "answers": ["folglich"],
+          "explanation": "folglich introduces the consequence."
+        },
+        {
+          "id": "b2m2l3-a9",
+          "type": "gap",
+          "prompt": "Ein wichtiger ___ lautet, dass kleine Betriebe benachteiligt werden.",
+          "answers": ["Einwand"],
+          "explanation": "der Einwand = the objection or counterargument."
+        },
+        {
+          "id": "b2m2l3-a10",
+          "type": "order",
+          "prompt": "Build: “On the one hand it saves time; on the other hand it is expensive.”",
+          "tokens": ["es", "Einerseits", "teuer", "Zeit", "ist", "spart", "andererseits", "es"],
+          "answer": "Einerseits spart es Zeit, andererseits ist es teuer.",
+          "explanation": "Both connectors take position one; the verb follows each one."
+        },
+        {
+          "id": "b2m2l3-a11",
+          "type": "order",
+          "prompt": "Build: “For the reasons mentioned, I support the reform.”",
+          "tokens": ["die", "Aus", "Gründen", "befürworte", "genannten", "ich", "Reform", "den"],
+          "answer": "Aus den genannten Gründen befürworte ich die Reform.",
+          "explanation": "The fronted phrase occupies position one, so befürworte comes second."
+        },
+        {
+          "id": "b2m2l3-a12",
+          "type": "mcq",
+          "prompt": "Which sentence states a thesis rather than a topic?",
+          "options": [
+            "Homeoffice ist ein aktuelles Thema.",
+            "Viele Menschen arbeiten manchmal von zu Hause.",
+            "Homeoffice sollte dauerhaft erlaubt sein, weil es Zeit spart und flexibler macht.",
+            "In diesem Text geht es um Homeoffice."
+          ],
+          "answer": 2,
+          "explanation": "A thesis makes a claim that can be defended; the other options only name the topic."
+        }
+      ]
+    }
+  ]
+}

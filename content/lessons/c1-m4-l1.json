@@ -1,0 +1,728 @@
+{
+  "id": "c1-m4-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "c1-m4-l1-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "c1-m4-l1",
+      "prompt": "Name a social issue that is debated in your country and two perspectives on it.",
+      "items": [
+        "Die Debatte um soziale Gerechtigkeit ist vielschichtig.",
+        "die Gerechtigkeit",
+        "die Debatte",
+        "die Maßnahme"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "c1-m4-l1-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "c1-m4-l1",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "c1-m4-l1-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "c1-m4-l1",
+      "lede": "Complex public debates require precise vocabulary and the ability to present more than one perspective without flattening it.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A social debate usually involves competing values: freedom, security, fairness, cohesion. Describe the values behind each position before you evaluate them. This makes your own position more credible and avoids the impression that you are simply repeating a slogan."
+        },
+        {
+          "kind": "p",
+          "text": "Use precise nouns and cautious verbs: “Die Debatte um soziale Gerechtigkeit ist vielschichtig”, “Die Maßnahme dürfte kurzfristig entlasten, langfristig aber Risiken bergen”. Avoid totalising claims such as “alle” or “niemand” unless the evidence supports them."
+        },
+        {
+          "kind": "note",
+          "title": "Complexity is not vagueness",
+          "text": "You can be precise about complexity: name the two values in tension, the trade-off and the uncertainty. That is different from saying “it depends” and stopping."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l1-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "c1-m4-l1",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "framing",
+              "Die Debatte um … ist vielschichtig."
+            ],
+            [
+              "perspectives",
+              "Die einen betonen …, die anderen …"
+            ],
+            [
+              "trade-off",
+              "Die Maßnahme entlastet kurzfristig, birgt aber langfristige Risiken."
+            ],
+            [
+              "position",
+              "Aus meiner Sicht überwiegen die Vorteile, weil …"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "“Gerechtigkeit” is fairness or justice; “Gleichheit” is equality.",
+            "“Zusammenhalt” means social cohesion.",
+            "Use “einerseits … andererseits” for two perspectives, not for two unrelated facts."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l1-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "c1-m4-l1",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "die Gerechtigkeit",
+          "en": "justice, fairness",
+          "article": "die",
+          "example": "Die Debatte um soziale Gerechtigkeit ist vielschichtig.",
+          "exampleEn": "The debate about social justice is complex."
+        },
+        {
+          "de": "die Debatte",
+          "en": "debate",
+          "article": "die",
+          "plural": "die Debatten",
+          "example": "Die Debatte wird emotional geführt.",
+          "exampleEn": "The debate is conducted emotionally."
+        },
+        {
+          "de": "die Maßnahme",
+          "en": "measure",
+          "article": "die",
+          "plural": "die Maßnahmen",
+          "example": "Die Maßnahme soll Familien entlasten.",
+          "exampleEn": "The measure is intended to relieve families."
+        },
+        {
+          "de": "der Zusammenhalt",
+          "en": "cohesion",
+          "article": "der",
+          "example": "Der soziale Zusammenhalt ist eine zentrale Frage.",
+          "exampleEn": "Social cohesion is a central question."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l1-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "c1-m4-l1",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Die Debatte um soziale Gerechtigkeit ist vielschichtig.",
+          "en": "The debate about social justice is complex.",
+          "note": "A precise framing sentence."
+        },
+        {
+          "de": "Die einen betonen die Freiheit, die anderen die Sicherheit.",
+          "en": "Some emphasise freedom, others security.",
+          "note": "A balanced presentation of two perspectives."
+        },
+        {
+          "de": "Die Maßnahme entlastet kurzfristig, birgt aber langfristige Risiken.",
+          "en": "The measure provides short-term relief but carries long-term risks.",
+          "note": "A trade-off expressed in one sentence."
+        },
+        {
+          "de": "Aus meiner Sicht überwiegen die Vorteile, weil …",
+          "en": "From my perspective the advantages outweigh, because …",
+          "note": "A clear position with a reason."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l1-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "c1-m4-l1",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Gerechtigkeit",
+          "hint": "Stress the second syllable: ge-RESH-tig-kite."
+        },
+        {
+          "de": "der Zusammenhalt",
+          "hint": "Stress the first syllable: tsu-ZAM-men-halt."
+        },
+        {
+          "de": "die Debatte",
+          "hint": "Stress the second syllable: de-BA-te."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l1-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "c1-m4-l1",
+      "heading": "Debating social issues",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German public debate often refers to the “soziale Marktwirtschaft” and the balance between market and social protection. Understanding this background helps you follow arguments about fairness and responsibility."
+        },
+        {
+          "kind": "p",
+          "text": "Political language can be technical. Terms such as “Entlastung”, “Umverteilung” and “Teilhabe” carry strong assumptions; check what the speaker means by them."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l1-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "c1-m4-l1",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A radio discussion about a new family benefit.",
+      "lines": [
+        {
+          "speaker": "Moderatorin",
+          "de": "Entlastet die Maßnahme Familien wirklich?",
+          "en": "Does the measure really relieve families?"
+        },
+        {
+          "speaker": "Gast A",
+          "de": "Kurzfristig ja. Langfristig birgt sie aber Risiken für die öffentlichen Finanzen.",
+          "en": "In the short term, yes. In the long term, however, it carries risks for public finances."
+        },
+        {
+          "speaker": "Gast B",
+          "de": "Die einen betonen die Kosten, die anderen den sozialen Zusammenhalt.",
+          "en": "Some emphasise costs, others social cohesion."
+        },
+        {
+          "speaker": "Moderatorin",
+          "de": "Lässt sich das überhaupt gegeneinander abwägen?",
+          "en": "Can these even be weighed against each other?"
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l1-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "c1-m4-l1",
+      "heading": "Framing a debate",
+      "lede": "Name the values, the trade-off and your own position separately.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Die Debatte um … ist vielschichtig.",
+              "frame the topic"
+            ],
+            [
+              "Die einen … die anderen …",
+              "present two perspectives"
+            ],
+            [
+              "… entlastet kurzfristig, birgt aber …",
+              "express a trade-off"
+            ],
+            [
+              "Aus meiner Sicht …",
+              "state your position"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "“Abwägen” means to weigh up: Wir müssen die Kosten gegen den Nutzen abwägen. It is a useful verb for balanced argumentation."
+        }
+      ],
+      "tip": "Separate description from evaluation. First show what each side values, then say where you stand."
+    },
+    {
+      "id": "c1-m4-l1-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "c1-m4-l1",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "c1-m4-l1-p-m1",
+          "type": "mcq",
+          "prompt": "Die Debatte ___ soziale Gerechtigkeit ist vielschichtig.",
+          "options": [
+            "um",
+            "über",
+            "für",
+            "auf"
+          ],
+          "answer": 0,
+          "explanation": "The standard phrase is die Debatte um etwas."
+        },
+        {
+          "id": "c1-m4-l1-p-m2",
+          "type": "mcq",
+          "prompt": "Die Maßnahme entlastet kurzfristig, ___ langfristige Risiken.",
+          "options": [
+            "birgt aber",
+            "aber birgt",
+            "jedoch birgt sie",
+            "birgt jedoch"
+          ],
+          "answer": 0,
+          "explanation": "The verb follows the subject and aber introduces the contrast."
+        },
+        {
+          "id": "c1-m4-l1-p-m3",
+          "type": "mcq",
+          "prompt": "Which sentence presents two perspectives fairly?",
+          "options": [
+            "Alle anderen haben unrecht.",
+            "Die einen betonen die Freiheit, die anderen die Sicherheit.",
+            "Niemand versteht das.",
+            "Das ist doch klar."
+          ],
+          "answer": 1,
+          "explanation": "It names both perspectives without caricaturing either."
+        },
+        {
+          "id": "c1-m4-l1-p-m4",
+          "type": "mcq",
+          "prompt": "“Sozialer Zusammenhalt” means …",
+          "options": [
+            "social cohesion",
+            "social spending",
+            "social media",
+            "social housing"
+          ],
+          "answer": 0,
+          "explanation": "Zusammenhalt means cohesion."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l1-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m4-l1",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "c1-m4-l1-p-g1",
+          "type": "gap",
+          "prompt": "Die Debatte ___ soziale Gerechtigkeit ist vielschichtig.",
+          "answers": [
+            "um"
+          ],
+          "explanation": "The phrase is die Debatte um etwas."
+        },
+        {
+          "id": "c1-m4-l1-p-g2",
+          "type": "gap",
+          "prompt": "Die einen betonen die Freiheit, die ___ die Sicherheit.",
+          "answers": [
+            "anderen"
+          ],
+          "explanation": "The pair is die einen … die anderen."
+        },
+        {
+          "id": "c1-m4-l1-p-g3",
+          "type": "gap",
+          "prompt": "Wir müssen die Kosten gegen den Nutzen ___.",
+          "answers": [
+            "abwägen"
+          ],
+          "explanation": "Abwägen means to weigh up."
+        },
+        {
+          "id": "c1-m4-l1-p-g4",
+          "type": "gap",
+          "prompt": "Der soziale ___ ist eine zentrale Frage.",
+          "answers": [
+            "Zusammenhalt"
+          ],
+          "explanation": "Zusammenhalt means cohesion."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l1-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m4-l1",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "c1-m4-l1-p-o1",
+          "type": "order",
+          "prompt": "Build: “The debate about social justice is complex.”",
+          "tokens": [
+            "soziale",
+            "Die",
+            "Debatte",
+            "Gerechtigkeit",
+            "um",
+            "ist",
+            "vielschichtig."
+          ],
+          "answer": "Die Debatte um soziale Gerechtigkeit ist vielschichtig.",
+          "explanation": "The prepositional phrase um soziale Gerechtigkeit modifies Debatte."
+        },
+        {
+          "id": "c1-m4-l1-p-o2",
+          "type": "order",
+          "prompt": "Build: “Some emphasise freedom, others security.”",
+          "tokens": [
+            "die",
+            "Die",
+            "Freiheit,",
+            "einen",
+            "betonen",
+            "anderen",
+            "die",
+            "die",
+            "Sicherheit."
+          ],
+          "answer": "Die einen betonen die Freiheit, die anderen die Sicherheit.",
+          "explanation": "The parallel structure repeats die with each group."
+        },
+        {
+          "id": "c1-m4-l1-p-o3",
+          "type": "order",
+          "prompt": "Build: “The measure provides short-term relief but carries long-term risks.”",
+          "tokens": [
+            "kurzfristig,",
+            "Die",
+            "entlastet",
+            "Maßnahme",
+            "birgt",
+            "aber",
+            "langfristige",
+            "Risiken."
+          ],
+          "answer": "Die Maßnahme entlastet kurzfristig, birgt aber langfristige Risiken.",
+          "explanation": "Aber introduces the contrast and the verb follows it."
+        },
+        {
+          "id": "c1-m4-l1-p-o4",
+          "type": "order",
+          "prompt": "Build: “From my perspective the advantages outweigh.”",
+          "tokens": [
+            "meiner",
+            "Aus",
+            "Sicht",
+            "die",
+            "überwiegen",
+            "Vorteile."
+          ],
+          "answer": "Aus meiner Sicht überwiegen die Vorteile.",
+          "explanation": "The fronted phrase is followed by the verb."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l1-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "c1-m4-l1",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Ein Kommentar im Radio",
+      "script": [
+        {
+          "speaker": "Kommentator",
+          "de": "Die Debatte um soziale Gerechtigkeit ist vielschichtig.",
+          "en": "The debate about social justice is complex."
+        },
+        {
+          "speaker": "Kommentator",
+          "de": "Die einen betonen die Freiheit, die anderen die Sicherheit.",
+          "en": "Some emphasise freedom, others security."
+        },
+        {
+          "speaker": "Kommentator",
+          "de": "Die Maßnahme entlastet kurzfristig, birgt aber langfristige Risiken.",
+          "en": "The measure provides short-term relief but carries long-term risks."
+        },
+        {
+          "speaker": "Kommentator",
+          "de": "Aus meiner Sicht überwiegen die Vorteile, weil der soziale Zusammenhalt wichtiger ist als eine schnelle Entlastung.",
+          "en": "From my perspective the advantages outweigh because social cohesion is more important than quick relief."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c1-m4-l1-l1",
+          "type": "mcq",
+          "prompt": "What does the commentator say about the measure?",
+          "options": [
+            "It has only advantages",
+            "It provides short-term relief but carries long-term risks",
+            "It is irrelevant",
+            "It has no costs"
+          ],
+          "answer": 1,
+          "explanation": "The commentator names both the short-term relief and the long-term risks."
+        },
+        {
+          "id": "c1-m4-l1-l2",
+          "type": "mcq",
+          "prompt": "What is the commentator’s own position?",
+          "options": [
+            "The advantages outweigh",
+            "The measure should be cancelled",
+            "The debate is unnecessary",
+            "Costs are irrelevant"
+          ],
+          "answer": 0,
+          "explanation": "The commentator says the advantages outweigh."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l1-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "c1-m4-l1",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Present a social issue, two perspectives and your own position with one reason.",
+      "model": {
+        "de": "Die Debatte um soziale Gerechtigkeit ist vielschichtig. Die einen betonen die Freiheit, die anderen die Sicherheit. Die Maßnahme entlastet kurzfristig, birgt aber langfristige Risiken. Aus meiner Sicht überwiegen die Vorteile, weil der soziale Zusammenhalt wichtiger ist.",
+        "en": "The debate about social justice is complex. Some emphasise freedom, others security. The measure provides short-term relief but carries long-term risks. From my perspective the advantages outweigh because social cohesion is more important."
+      },
+      "tips": [
+        "Name the values behind each perspective.",
+        "Use one sentence for the trade-off.",
+        "State your position last, with a clear reason."
+      ]
+    },
+    {
+      "id": "c1-m4-l1-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "c1-m4-l1",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Die Debatte über soziale Gerechtigkeit ist vielschichtig.",
+          "right": "Die Debatte um soziale Gerechtigkeit ist vielschichtig.",
+          "why": "The standard collocation is die Debatte um etwas."
+        },
+        {
+          "wrong": "Die einen betonen Freiheit, die anderen betonen Sicherheit auch.",
+          "right": "Die einen betonen die Freiheit, die anderen die Sicherheit.",
+          "why": "The parallel structure does not need an extra auch."
+        },
+        {
+          "wrong": "Aus meiner Sicht die Vorteile überwiegen.",
+          "right": "Aus meiner Sicht überwiegen die Vorteile.",
+          "why": "After a fronted phrase, the verb comes before the subject."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l1-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "c1-m4-l1",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "c1-m4-l1-a1",
+          "type": "mcq",
+          "prompt": "Die Debatte ___ soziale Gerechtigkeit ist vielschichtig.",
+          "options": [
+            "um",
+            "über",
+            "für",
+            "auf"
+          ],
+          "answer": 0,
+          "explanation": "The standard phrase is die Debatte um etwas."
+        },
+        {
+          "id": "c1-m4-l1-a2",
+          "type": "mcq",
+          "prompt": "Die Maßnahme entlastet kurzfristig, ___ langfristige Risiken.",
+          "options": [
+            "birgt aber",
+            "aber birgt",
+            "jedoch birgt sie",
+            "birgt jedoch"
+          ],
+          "answer": 0,
+          "explanation": "The verb follows the subject and aber introduces the contrast."
+        },
+        {
+          "id": "c1-m4-l1-a3",
+          "type": "mcq",
+          "prompt": "Which sentence presents two perspectives fairly?",
+          "options": [
+            "Alle anderen haben unrecht.",
+            "Die einen betonen die Freiheit, die anderen die Sicherheit.",
+            "Niemand versteht das.",
+            "Das ist doch klar."
+          ],
+          "answer": 1,
+          "explanation": "It names both perspectives without caricaturing either."
+        },
+        {
+          "id": "c1-m4-l1-a4",
+          "type": "mcq",
+          "prompt": "“Sozialer Zusammenhalt” means …",
+          "options": [
+            "social cohesion",
+            "social spending",
+            "social media",
+            "social housing"
+          ],
+          "answer": 0,
+          "explanation": "Zusammenhalt means cohesion."
+        },
+        {
+          "id": "c1-m4-l1-a5",
+          "type": "gap",
+          "prompt": "Die Debatte ___ soziale Gerechtigkeit ist vielschichtig.",
+          "answers": [
+            "um"
+          ],
+          "explanation": "The phrase is die Debatte um etwas."
+        },
+        {
+          "id": "c1-m4-l1-a6",
+          "type": "gap",
+          "prompt": "Die einen betonen die Freiheit, die ___ die Sicherheit.",
+          "answers": [
+            "anderen"
+          ],
+          "explanation": "The pair is die einen … die anderen."
+        },
+        {
+          "id": "c1-m4-l1-a7",
+          "type": "gap",
+          "prompt": "Wir müssen die Kosten gegen den Nutzen ___.",
+          "answers": [
+            "abwägen"
+          ],
+          "explanation": "Abwägen means to weigh up."
+        },
+        {
+          "id": "c1-m4-l1-a8",
+          "type": "gap",
+          "prompt": "Der soziale ___ ist eine zentrale Frage.",
+          "answers": [
+            "Zusammenhalt"
+          ],
+          "explanation": "Zusammenhalt means cohesion."
+        },
+        {
+          "id": "c1-m4-l1-a9",
+          "type": "order",
+          "prompt": "Build: “The debate about social justice is complex.”",
+          "tokens": [
+            "soziale",
+            "Die",
+            "Debatte",
+            "Gerechtigkeit",
+            "um",
+            "ist",
+            "vielschichtig."
+          ],
+          "answer": "Die Debatte um soziale Gerechtigkeit ist vielschichtig.",
+          "explanation": "The prepositional phrase um soziale Gerechtigkeit modifies Debatte."
+        },
+        {
+          "id": "c1-m4-l1-a10",
+          "type": "order",
+          "prompt": "Build: “Some emphasise freedom, others security.”",
+          "tokens": [
+            "die",
+            "Die",
+            "Freiheit,",
+            "einen",
+            "betonen",
+            "anderen",
+            "die",
+            "die",
+            "Sicherheit."
+          ],
+          "answer": "Die einen betonen die Freiheit, die anderen die Sicherheit.",
+          "explanation": "The parallel structure repeats die with each group."
+        },
+        {
+          "id": "c1-m4-l1-a11",
+          "type": "order",
+          "prompt": "Build: “The measure provides short-term relief but carries long-term risks.”",
+          "tokens": [
+            "kurzfristig,",
+            "Die",
+            "entlastet",
+            "Maßnahme",
+            "birgt",
+            "aber",
+            "langfristige",
+            "Risiken."
+          ],
+          "answer": "Die Maßnahme entlastet kurzfristig, birgt aber langfristige Risiken.",
+          "explanation": "Aber introduces the contrast and the verb follows it."
+        },
+        {
+          "id": "c1-m4-l1-a12",
+          "type": "order",
+          "prompt": "Build: “From my perspective the advantages outweigh.”",
+          "tokens": [
+            "meiner",
+            "Aus",
+            "Sicht",
+            "die",
+            "überwiegen",
+            "Vorteile."
+          ],
+          "answer": "Aus meiner Sicht überwiegen die Vorteile.",
+          "explanation": "The fronted phrase is followed by the verb."
+        }
+      ]
+    }
+  ]
+}

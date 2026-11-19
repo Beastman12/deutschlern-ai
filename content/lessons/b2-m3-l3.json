@@ -1,0 +1,723 @@
+{
+  "id": "b2-m3-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "b2-m3-l3-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "b2-m3-l3",
+      "prompt": "Introduce a presentation topic in one sentence and say why it matters.",
+      "items": [
+        "Zusammenfassend lässt sich sagen, dass …",
+        "zusammenfassend",
+        "im Folgenden",
+        "die Studie"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "b2-m3-l3-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "b2-m3-l3",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "b2-m3-l3-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "b2-m3-l3",
+      "lede": "Signposting tells the audience where you are, where you are going and why it matters.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A presentation has three moments that need clear language: the opening (“Im Folgenden stelle ich … vor”), the transitions (“Kommen wir nun zu …”) and the conclusion (“Zusammenfassend lässt sich sagen, dass …”). These phrases are functional, not decorative; they help the audience follow."
+        },
+        {
+          "kind": "p",
+          "text": "Academic German prefers precise nouns and cautious claims. Use “Die Studie zeigt, dass …” for a clear finding and “Die Ergebnisse legen nahe, dass …” for a cautious interpretation. Avoid absolute words such as “beweisen” unless the evidence is genuinely conclusive."
+        },
+        {
+          "kind": "note",
+          "title": "One slide, one message",
+          "text": "State the message of each section in one sentence before you give the detail. The audience remembers the message, not the slide."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l3-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "b2-m3-l3",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "opening",
+              "Im Folgenden stelle ich die wichtigsten Ergebnisse vor."
+            ],
+            [
+              "transition",
+              "Kommen wir nun zum zweiten Punkt."
+            ],
+            [
+              "cautious claim",
+              "Die Ergebnisse legen nahe, dass …"
+            ],
+            [
+              "conclusion",
+              "Zusammenfassend lässt sich sagen, dass …"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use “zunächst” for the first step and “anschließend” for the next.",
+            "“Lässt sich sagen” is more formal than “kann man sagen”.",
+            "Announce limitations openly: Eine Einschränkung der Studie ist …"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l3-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "b2-m3-l3",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "zusammenfassend",
+          "en": "in summary",
+          "example": "Zusammenfassend lässt sich sagen, dass die Maßnahme wirkt.",
+          "exampleEn": "In summary, it can be said that the measure works."
+        },
+        {
+          "de": "im Folgenden",
+          "en": "in the following",
+          "example": "Im Folgenden stelle ich drei Ergebnisse vor.",
+          "exampleEn": "In the following I will present three results."
+        },
+        {
+          "de": "die Studie",
+          "en": "study",
+          "article": "die",
+          "plural": "die Studien",
+          "example": "Die Studie untersucht das Verhalten von Jugendlichen.",
+          "exampleEn": "The study examines the behaviour of young people."
+        },
+        {
+          "de": "die Ergebnisse",
+          "en": "results",
+          "article": "die",
+          "example": "Die Ergebnisse sind eindeutig.",
+          "exampleEn": "The results are clear."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l3-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "b2-m3-l3",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Im Folgenden stelle ich die wichtigsten Ergebnisse vor.",
+          "en": "In the following I will present the most important results.",
+          "note": "A standard opening for the main part."
+        },
+        {
+          "de": "Kommen wir nun zum zweiten Punkt.",
+          "en": "Let us now turn to the second point.",
+          "note": "A clear transition."
+        },
+        {
+          "de": "Die Ergebnisse legen nahe, dass die Maßnahme wirkt.",
+          "en": "The results suggest that the measure is effective.",
+          "note": "Legen nahe is a cautious, academic claim."
+        },
+        {
+          "de": "Zusammenfassend lässt sich sagen, dass weitere Forschung nötig ist.",
+          "en": "In summary, it can be said that further research is needed.",
+          "note": "A measured conclusion."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l3-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "b2-m3-l3",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "zusammenfassend",
+          "hint": "Stress the first syllable: tsu-ZAM-men-fa-sent."
+        },
+        {
+          "de": "die Studie",
+          "hint": "Stress the first syllable: SHTU-di-e."
+        },
+        {
+          "de": "die Ergebnisse",
+          "hint": "Stress the second syllable: er-GEB-ni-se."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l3-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "b2-m3-l3",
+      "heading": "Academic presentations",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German academic presentations tend to be structured and explicit. The audience expects to know the research question, method and result in that order."
+        },
+        {
+          "kind": "p",
+          "text": "Questions can be direct. If you do not know an answer, say so and offer to follow up: “Das kann ich Ihnen im Moment nicht sicher beantworten; ich prüfe es gern nach.”"
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l3-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "b2-m3-l3",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A student presents a small research project.",
+      "lines": [
+        {
+          "speaker": "Studentin",
+          "de": "Im Folgenden stelle ich die Forschungsfrage und die Methode vor.",
+          "en": "In the following I will present the research question and the method."
+        },
+        {
+          "speaker": "Studentin",
+          "de": "Die Ergebnisse legen nahe, dass regelmäßiges Lesen den Wortschatz erweitert.",
+          "en": "The results suggest that regular reading expands vocabulary."
+        },
+        {
+          "speaker": "Betreuer",
+          "de": "Welche Einschränkung hat Ihre Studie?",
+          "en": "What limitation does your study have?"
+        },
+        {
+          "speaker": "Studentin",
+          "de": "Eine Einschränkung ist die kleine Stichprobe. Zusammenfassend lässt sich sagen, dass weitere Forschung nötig ist.",
+          "en": "One limitation is the small sample. In summary, further research is needed."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l3-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "b2-m3-l3",
+      "heading": "Signposting phrases",
+      "lede": "Use these phrases to guide the audience through your structure.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Im Folgenden …",
+              "introduce the main part"
+            ],
+            [
+              "Kommen wir nun zu …",
+              "move to the next point"
+            ],
+            [
+              "Die Ergebnisse legen nahe, dass …",
+              "cautious interpretation"
+            ],
+            [
+              "Zusammenfassend lässt sich sagen, dass …",
+              "conclusion"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Modal particles and adverbs such as “zunächst”, “anschließend” and “abschließend” make the structure audible. Use one per transition, not in every sentence."
+        }
+      ],
+      "tip": "Write your transitions before you write the slides. They are the skeleton of the talk."
+    },
+    {
+      "id": "b2-m3-l3-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "b2-m3-l3",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "b2-m3-l3-p-m1",
+          "type": "mcq",
+          "prompt": "Which phrase introduces the conclusion?",
+          "options": [
+            "Im Folgenden …",
+            "Kommen wir nun zu …",
+            "Zusammenfassend lässt sich sagen, dass …",
+            "Zunächst einmal …"
+          ],
+          "answer": 2,
+          "explanation": "Zusammenfassend signals the summary or conclusion."
+        },
+        {
+          "id": "b2-m3-l3-p-m2",
+          "type": "mcq",
+          "prompt": "Die Ergebnisse ___ nahe, dass die Maßnahme wirkt.",
+          "options": [
+            "legen",
+            "liegt",
+            "legt",
+            "liegen"
+          ],
+          "answer": 0,
+          "explanation": "Die Ergebnisse is plural, so the verb is legen."
+        },
+        {
+          "id": "b2-m3-l3-p-m3",
+          "type": "mcq",
+          "prompt": "Which claim is appropriately cautious?",
+          "options": [
+            "Die Studie beweist alles.",
+            "Die Ergebnisse legen nahe, dass …",
+            "Das ist zu 100 Prozent sicher.",
+            "Alle wissen, dass …"
+          ],
+          "answer": 1,
+          "explanation": "Legen nahe avoids overstating the evidence."
+        },
+        {
+          "id": "b2-m3-l3-p-m4",
+          "type": "mcq",
+          "prompt": "Which phrase moves to the next point?",
+          "options": [
+            "Zusammenfassend …",
+            "Kommen wir nun zu …",
+            "Im Folgenden …",
+            "Abschließend …"
+          ],
+          "answer": 1,
+          "explanation": "Kommen wir nun zu introduces the next section."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l3-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "b2-m3-l3",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "b2-m3-l3-p-g1",
+          "type": "gap",
+          "prompt": "Im ___ stelle ich drei Ergebnisse vor.",
+          "answers": [
+            "Folgenden"
+          ],
+          "explanation": "The fixed phrase is im Folgenden."
+        },
+        {
+          "id": "b2-m3-l3-p-g2",
+          "type": "gap",
+          "prompt": "Die Ergebnisse ___ nahe, dass die Maßnahme wirkt.",
+          "answers": [
+            "legen"
+          ],
+          "explanation": "The plural subject Ergebnisse takes legen."
+        },
+        {
+          "id": "b2-m3-l3-p-g3",
+          "type": "gap",
+          "prompt": "___ lässt sich sagen, dass weitere Forschung nötig ist.",
+          "answers": [
+            "Zusammenfassend"
+          ],
+          "explanation": "Zusammenfassend introduces the conclusion."
+        },
+        {
+          "id": "b2-m3-l3-p-g4",
+          "type": "gap",
+          "prompt": "Eine ___ der Studie ist die kleine Stichprobe.",
+          "answers": [
+            "Einschränkung"
+          ],
+          "explanation": "Einschränkung means limitation."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l3-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "b2-m3-l3",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "b2-m3-l3-p-o1",
+          "type": "order",
+          "prompt": "Build: “In the following I present the most important results.”",
+          "tokens": [
+            "die",
+            "Im",
+            "wichtigsten",
+            "Folgenden",
+            "stelle",
+            "ich",
+            "Ergebnisse",
+            "vor."
+          ],
+          "answer": "Im Folgenden stelle ich die wichtigsten Ergebnisse vor.",
+          "explanation": "The separable prefix vor closes the sentence."
+        },
+        {
+          "id": "b2-m3-l3-p-o2",
+          "type": "order",
+          "prompt": "Build: “Let us now turn to the second point.”",
+          "tokens": [
+            "nun",
+            "Kommen",
+            "zum",
+            "wir",
+            "zweiten",
+            "Punkt."
+          ],
+          "answer": "Kommen wir nun zum zweiten Punkt.",
+          "explanation": "Kommen wir nun zu is a fixed transition."
+        },
+        {
+          "id": "b2-m3-l3-p-o3",
+          "type": "order",
+          "prompt": "Build: “In summary, further research is needed.”",
+          "tokens": [
+            "sich",
+            "Zusammenfassend",
+            "sagen,",
+            "lässt",
+            "dass",
+            "weitere",
+            "Forschung",
+            "nötig",
+            "ist."
+          ],
+          "answer": "Zusammenfassend lässt sich sagen, dass weitere Forschung nötig ist.",
+          "explanation": "The dass-clause ends with the verb ist."
+        },
+        {
+          "id": "b2-m3-l3-p-o4",
+          "type": "order",
+          "prompt": "Build: “One limitation is the small sample.”",
+          "tokens": [
+            "die",
+            "Eine",
+            "kleine",
+            "Einschränkung",
+            "ist",
+            "Stichprobe."
+          ],
+          "answer": "Eine Einschränkung ist die kleine Stichprobe.",
+          "explanation": "The adjective kleine agrees with the feminine noun Stichprobe."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l3-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "b2-m3-l3",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Ein Vortrag",
+      "script": [
+        {
+          "speaker": "Vortragende",
+          "de": "Im Folgenden stelle ich die Forschungsfrage vor.",
+          "en": "In the following I will present the research question."
+        },
+        {
+          "speaker": "Vortragende",
+          "de": "Die Studie untersucht, wie Jugendliche Nachrichten nutzen.",
+          "en": "The study examines how young people use news."
+        },
+        {
+          "speaker": "Vortragende",
+          "de": "Die Ergebnisse legen nahe, dass soziale Medien eine zentrale Rolle spielen.",
+          "en": "The results suggest that social media plays a central role."
+        },
+        {
+          "speaker": "Vortragende",
+          "de": "Zusammenfassend lässt sich sagen, dass weitere Forschung nötig ist.",
+          "en": "In summary, further research is needed."
+        }
+      ],
+      "questions": [
+        {
+          "id": "b2-m3-l3-l1",
+          "type": "mcq",
+          "prompt": "What does the study examine?",
+          "options": [
+            "How young people use news",
+            "How companies advertise",
+            "How students learn German",
+            "How news is produced"
+          ],
+          "answer": 0,
+          "explanation": "The speaker says the study examines how young people use news."
+        },
+        {
+          "id": "b2-m3-l3-l2",
+          "type": "mcq",
+          "prompt": "What do the results suggest?",
+          "options": [
+            "Social media is unimportant",
+            "Social media plays a central role",
+            "Young people avoid news",
+            "The study is complete"
+          ],
+          "answer": 1,
+          "explanation": "The results suggest social media plays a central role."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l3-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "b2-m3-l3",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Give a one-minute presentation opening: topic, research question, method and conclusion.",
+      "model": {
+        "de": "Im Folgenden stelle ich meine Forschungsfrage vor. Die Studie untersucht, wie Studierende online lernen. Die Methode ist eine Umfrage mit 120 Teilnehmenden. Die Ergebnisse legen nahe, dass klare Strukturen wichtig sind. Zusammenfassend lässt sich sagen, dass weitere Forschung nötig ist.",
+        "en": "In the following I will present my research question. The study examines how students learn online. The method is a survey with 120 participants. The results suggest that clear structures are important. In summary, further research is needed."
+      },
+      "tips": [
+        "Name the research question before the method.",
+        "Use one cautious phrase, such as legen nahe.",
+        "End with a conclusion that matches your evidence."
+      ]
+    },
+    {
+      "id": "b2-m3-l3-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "b2-m3-l3",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Die Ergebnisse legt nahe, dass …",
+          "right": "Die Ergebnisse legen nahe, dass …",
+          "why": "The plural subject Ergebnisse takes the plural verb legen."
+        },
+        {
+          "wrong": "Zusammenfassend lässt sich sagen, dass weitere Forschung ist nötig.",
+          "right": "Zusammenfassend lässt sich sagen, dass weitere Forschung nötig ist.",
+          "why": "The dass-clause puts the verb at the end."
+        },
+        {
+          "wrong": "Die Studie beweist, dass alle Jugendlichen …",
+          "right": "Die Ergebnisse legen nahe, dass viele Jugendliche …",
+          "why": "Academic language avoids absolute claims unless the evidence supports them."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l3-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "b2-m3-l3",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "b2-m3-l3-a1",
+          "type": "mcq",
+          "prompt": "Which phrase introduces the conclusion?",
+          "options": [
+            "Im Folgenden …",
+            "Kommen wir nun zu …",
+            "Zusammenfassend lässt sich sagen, dass …",
+            "Zunächst einmal …"
+          ],
+          "answer": 2,
+          "explanation": "Zusammenfassend signals the summary or conclusion."
+        },
+        {
+          "id": "b2-m3-l3-a2",
+          "type": "mcq",
+          "prompt": "Die Ergebnisse ___ nahe, dass die Maßnahme wirkt.",
+          "options": [
+            "legen",
+            "liegt",
+            "legt",
+            "liegen"
+          ],
+          "answer": 0,
+          "explanation": "Die Ergebnisse is plural, so the verb is legen."
+        },
+        {
+          "id": "b2-m3-l3-a3",
+          "type": "mcq",
+          "prompt": "Which claim is appropriately cautious?",
+          "options": [
+            "Die Studie beweist alles.",
+            "Die Ergebnisse legen nahe, dass …",
+            "Das ist zu 100 Prozent sicher.",
+            "Alle wissen, dass …"
+          ],
+          "answer": 1,
+          "explanation": "Legen nahe avoids overstating the evidence."
+        },
+        {
+          "id": "b2-m3-l3-a4",
+          "type": "mcq",
+          "prompt": "Which phrase moves to the next point?",
+          "options": [
+            "Zusammenfassend …",
+            "Kommen wir nun zu …",
+            "Im Folgenden …",
+            "Abschließend …"
+          ],
+          "answer": 1,
+          "explanation": "Kommen wir nun zu introduces the next section."
+        },
+        {
+          "id": "b2-m3-l3-a5",
+          "type": "gap",
+          "prompt": "Im ___ stelle ich drei Ergebnisse vor.",
+          "answers": [
+            "Folgenden"
+          ],
+          "explanation": "The fixed phrase is im Folgenden."
+        },
+        {
+          "id": "b2-m3-l3-a6",
+          "type": "gap",
+          "prompt": "Die Ergebnisse ___ nahe, dass die Maßnahme wirkt.",
+          "answers": [
+            "legen"
+          ],
+          "explanation": "The plural subject Ergebnisse takes legen."
+        },
+        {
+          "id": "b2-m3-l3-a7",
+          "type": "gap",
+          "prompt": "___ lässt sich sagen, dass weitere Forschung nötig ist.",
+          "answers": [
+            "Zusammenfassend"
+          ],
+          "explanation": "Zusammenfassend introduces the conclusion."
+        },
+        {
+          "id": "b2-m3-l3-a8",
+          "type": "gap",
+          "prompt": "Eine ___ der Studie ist die kleine Stichprobe.",
+          "answers": [
+            "Einschränkung"
+          ],
+          "explanation": "Einschränkung means limitation."
+        },
+        {
+          "id": "b2-m3-l3-a9",
+          "type": "order",
+          "prompt": "Build: “In the following I present the most important results.”",
+          "tokens": [
+            "die",
+            "Im",
+            "wichtigsten",
+            "Folgenden",
+            "stelle",
+            "ich",
+            "Ergebnisse",
+            "vor."
+          ],
+          "answer": "Im Folgenden stelle ich die wichtigsten Ergebnisse vor.",
+          "explanation": "The separable prefix vor closes the sentence."
+        },
+        {
+          "id": "b2-m3-l3-a10",
+          "type": "order",
+          "prompt": "Build: “Let us now turn to the second point.”",
+          "tokens": [
+            "nun",
+            "Kommen",
+            "zum",
+            "wir",
+            "zweiten",
+            "Punkt."
+          ],
+          "answer": "Kommen wir nun zum zweiten Punkt.",
+          "explanation": "Kommen wir nun zu is a fixed transition."
+        },
+        {
+          "id": "b2-m3-l3-a11",
+          "type": "order",
+          "prompt": "Build: “In summary, further research is needed.”",
+          "tokens": [
+            "sich",
+            "Zusammenfassend",
+            "sagen,",
+            "lässt",
+            "dass",
+            "weitere",
+            "Forschung",
+            "nötig",
+            "ist."
+          ],
+          "answer": "Zusammenfassend lässt sich sagen, dass weitere Forschung nötig ist.",
+          "explanation": "The dass-clause ends with the verb ist."
+        },
+        {
+          "id": "b2-m3-l3-a12",
+          "type": "order",
+          "prompt": "Build: “One limitation is the small sample.”",
+          "tokens": [
+            "die",
+            "Eine",
+            "kleine",
+            "Einschränkung",
+            "ist",
+            "Stichprobe."
+          ],
+          "answer": "Eine Einschränkung ist die kleine Stichprobe.",
+          "explanation": "The adjective kleine agrees with the feminine noun Stichprobe."
+        }
+      ]
+    }
+  ]
+}

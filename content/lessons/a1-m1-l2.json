@@ -1,0 +1,614 @@
+{
+  "id": "a1-m1-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "prompt": "Read these greetings aloud. Say each one twice: once warmly, once politely.",
+      "items": [
+        "Guten Morgen!",
+        "Guten Tag!",
+        "Guten Abend!",
+        "Hallo! Wie heißt du?",
+        "Ich heiße Anna. Und du?"
+      ],
+      "lede": "Greetings are short, so the melody of your voice does most of the work."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to greet people and introduce yourself in German."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "German greetings change with the time of day, and German has two ways of saying “you”.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A greeting is the first thing people hear from you, so it is worth learning as a fixed phrase rather than building it word by word. German uses different greetings in the morning, during the day and in the evening. After the greeting comes the introduction: your name, and often where you come from."
+        },
+        {
+          "kind": "de",
+          "text": "Guten Morgen! Ich heiße Lena. Ich komme aus Österreich.",
+          "en": "Good morning! My name is Lena. I come from Austria."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Guten Morgen is used in the morning, roughly until eleven o'clock.",
+            "Guten Tag covers the rest of the working day and is neutral and polite.",
+            "Guten Abend is used from the late afternoon or early evening onwards.",
+            "Hallo works at any time of day, but it is informal. Use it with friends, classmates and people you already know.",
+            "Gute Nacht is not a greeting. You say it when someone goes to bed or leaves late at night."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "One word, two jobs",
+          "text": "German has two words for “you”: du for one person you know well, and Sie for one or more people you address politely. Choosing the right one matters more than any other detail in this lesson."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "Three patterns cover almost every first conversation.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Greeting", "When", "Register"],
+          "rows": [
+            ["Guten Morgen", "morning", "neutral or formal"],
+            ["Guten Tag", "daytime", "neutral or formal"],
+            ["Guten Abend", "evening", "neutral or formal"],
+            ["Hallo", "any time", "informal"],
+            ["Tschüs", "when leaving", "informal"],
+            ["Auf Wiedersehen", "when leaving", "neutral or formal"]
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Informal (du)", "Formal (Sie)", "English"],
+          "rows": [
+            ["Wie heißt du?", "Wie heißen Sie?", "What is your name?"],
+            ["Woher kommst du?", "Woher kommen Sie?", "Where do you come from?"],
+            ["Wie geht es dir?", "Wie geht es Ihnen?", "How are you?"],
+            ["Wie ist dein Name?", "Wie ist Ihr Name?", "What is your name?"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "With du, the verb takes the ending -st: du kommst, du heißt.",
+            "With Sie, the verb takes the ending -en: Sie kommen, Sie heißen. This is the same form as wir and sie (they).",
+            "The polite Sie is always written with a capital S. The sie meaning “she” or “they” is lowercase.",
+            "Answers about yourself use the ich form and stay the same in both registers: Ich heiße … / Ich komme aus …"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "Learn each noun with its article, because the article tells you the gender.",
+      "items": [
+        {
+          "de": "der Name",
+          "en": "the name",
+          "article": "der",
+          "plural": "die Namen",
+          "pronunciation": "NAH-muh",
+          "example": "Mein Name ist Sofia.",
+          "exampleEn": "My name is Sofia."
+        },
+        {
+          "de": "der Vorname",
+          "en": "the first name",
+          "article": "der",
+          "plural": "die Vornamen",
+          "pronunciation": "FOR-nah-muh",
+          "example": "Mein Vorname ist Jonas.",
+          "exampleEn": "My first name is Jonas."
+        },
+        {
+          "de": "der Nachname",
+          "en": "the surname",
+          "article": "der",
+          "plural": "die Nachnamen",
+          "pronunciation": "NAHKH-nah-muh",
+          "example": "Wie schreibt man Ihren Nachnamen?",
+          "exampleEn": "How do you write your surname?"
+        },
+        {
+          "de": "das Land",
+          "en": "the country",
+          "article": "das",
+          "plural": "die Länder",
+          "pronunciation": "lahnt",
+          "example": "Aus welchem Land kommst du?",
+          "exampleEn": "Which country do you come from?"
+        },
+        {
+          "de": "heißen",
+          "en": "to be called",
+          "pronunciation": "HY-sen",
+          "example": "Wie heißen Sie?",
+          "exampleEn": "What is your name?"
+        },
+        {
+          "de": "kommen",
+          "en": "to come",
+          "pronunciation": "KOM-men",
+          "example": "Ich komme aus Brasilien.",
+          "exampleEn": "I come from Brazil."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "These sentences are enough for a first meeting. Read each one aloud.",
+      "items": [
+        {
+          "de": "Guten Morgen, Frau Schmidt.",
+          "en": "Good morning, Mrs Schmidt.",
+          "note": "Frau + surname is the standard polite address for a woman."
+        },
+        {
+          "de": "Hallo, ich heiße Paul.",
+          "en": "Hello, my name is Paul.",
+          "note": "heißen literally means “to be called”, so no extra verb is needed."
+        },
+        {
+          "de": "Woher kommst du?",
+          "en": "Where do you come from?",
+          "note": "The question ends with du, so the verb kommst comes before it."
+        },
+        {
+          "de": "Ich komme aus Kanada.",
+          "en": "I come from Canada.",
+          "note": "Origin uses aus, not von."
+        },
+        {
+          "de": "Freut mich, dich kennenzulernen.",
+          "en": "Nice to meet you.",
+          "note": "Use Sie instead of dich when you address someone formally: Freut mich, Sie kennenzulernen."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "Four details make these greetings sound German rather than English.",
+      "items": [
+        {
+          "de": "heißen",
+          "hint": "The ei is one glide, like English “eye”: HY-sen. The ß is a sharp s, never a soft z.",
+          "en": "to be called"
+        },
+        {
+          "de": "Name",
+          "hint": "Long a, then a weak final -e that sounds like “uh”: NAH-muh. Do not rhyme it with English “name”.",
+          "en": "name"
+        },
+        {
+          "de": "Guten Tag",
+          "hint": "The final g of Tag is devoiced and sounds like a k: “tahk”. Keep the u short in Guten.",
+          "en": "good day"
+        },
+        {
+          "de": "Freut mich",
+          "hint": "eu sounds like “oy”: froyt. The ch in mich is soft and breathy, not a hard k.",
+          "en": "pleases me"
+        },
+        {
+          "de": "Sie",
+          "hint": "An s before a vowel is voiced, like English z: “zee”. Do not say “see”.",
+          "en": "you (formal)"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Du, Sie and the first handshake",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In a formal situation — an office, a doctor's practice, a first meeting with an older person — Germans usually shake hands and use Sie with the surname: Guten Tag, Frau Weber. Friends, students and many younger colleagues use du and first names. When you are unsure, start with Sie; the other person can offer du with a phrase such as Wir können du sagen."
+        },
+        {
+          "kind": "p",
+          "text": "Greetings also vary by region. Guten Tag is understood everywhere, but in Bavaria and Austria you will often hear Grüß Gott, and in Switzerland Grüezi. Hallo is common throughout the German-speaking countries among people who already know each other."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "It is the first morning of a German course. Listen for the switch between du and Sie.",
+      "setting": "First day at a language school",
+      "lines": [
+        { "speaker": "Lehrerin", "de": "Guten Morgen! Ich heiße Clara Neumann.", "en": "Good morning! My name is Clara Neumann." },
+        { "speaker": "Tom", "de": "Guten Morgen, Frau Neumann. Ich bin Tom Weber.", "en": "Good morning, Mrs Neumann. I am Tom Weber." },
+        { "speaker": "Lehrerin", "de": "Freut mich, Tom. Woher kommst du?", "en": "Nice to meet you, Tom. Where do you come from?" },
+        { "speaker": "Tom", "de": "Ich komme aus Irland. Und Sie?", "en": "I come from Ireland. And you?" },
+        { "speaker": "Lehrerin", "de": "Ich komme aus Österreich. Und wer ist das?", "en": "I come from Austria. And who is that?" },
+        { "speaker": "Tom", "de": "Das ist Mia. Sie kommt aus Spanien.", "en": "That is Mia. She comes from Spain." },
+        { "speaker": "Lehrerin", "de": "Hallo Mia, willkommen im Kurs!", "en": "Hello Mia, welcome to the course!" }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "du or Sie: the verb changes with the pronoun",
+      "lede": "The pronoun decides the verb ending, so learn the pairs together.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Pronoun", "kommen", "heißen", "sein"],
+          "rows": [
+            ["ich", "komme", "heiße", "bin"],
+            ["du", "kommst", "heißt", "bist"],
+            ["er / sie / es", "kommt", "heißt", "ist"],
+            ["wir", "kommen", "heißen", "sind"],
+            ["ihr", "kommt", "heißt", "seid"],
+            ["sie / Sie", "kommen", "heißen", "sind"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "du is one person, informal. Its verb always ends in -st: du kommst, du bist.",
+            "ihr is several people, informal: ihr kommt, ihr seid.",
+            "Sie is polite, for one person or several. Its verb ends in -en, exactly like sie (they): Sie kommen.",
+            "Because Sie and sie share a verb form, the capital letter is the only clue in writing."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Word order in a W-question",
+          "text": "The question word comes first, then the verb, then the person: Woher kommst du? / Woher kommen Sie? Do not copy English order, where “do” comes before the subject."
+        }
+      ],
+      "tip": "If you remember one pair, remember Wie heißt du? / Wie heißen Sie? The -st and -en endings will guide the rest."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Decide which greeting or form fits the situation.",
+      "exercises": [
+        {
+          "id": "l2-p1",
+          "type": "mcq",
+          "prompt": "It is eight o'clock in the evening and you enter a restaurant. Which greeting fits best?",
+          "options": ["Guten Morgen", "Guten Abend", "Gute Nacht", "Tschüs"],
+          "answer": 1,
+          "explanation": "Guten Abend is the evening greeting. Gute Nacht is said when going to bed, and Tschüs means goodbye."
+        },
+        {
+          "id": "l2-p2",
+          "type": "mcq",
+          "prompt": "You are speaking to your new boss, Frau Klein. Which question is correct?",
+          "options": ["Wie heißt du?", "Wie heißen Sie?", "Wie heißen du?", "Wie heißt Sie?"],
+          "answer": 1,
+          "explanation": "With the polite Sie the verb takes -en: Wie heißen Sie?"
+        },
+        {
+          "id": "l2-p3",
+          "type": "mcq",
+          "prompt": "Complete: „Woher kommst du?“ — „___“",
+          "options": ["Ich komme aus Polen.", "Ich komme von Polen.", "Ich kommen aus Polen.", "Ich bin kommen aus Polen."],
+          "answer": 0,
+          "explanation": "Origin is expressed with kommen aus + country: Ich komme aus Polen. The ich form is komme."
+        },
+        {
+          "id": "l2-p4",
+          "type": "mcq",
+          "prompt": "Which phrase means “Nice to meet you”?",
+          "options": ["Auf Wiedersehen", "Freut mich", "Wie bitte", "Guten Tag"],
+          "answer": 1,
+          "explanation": "Freut mich literally means “it pleases me” and is the usual phrase for “nice to meet you”."
+        },
+        {
+          "id": "l2-p5",
+          "type": "mcq",
+          "prompt": "Which greeting is informal?",
+          "options": ["Guten Tag", "Guten Abend", "Hallo", "Auf Wiedersehen"],
+          "answer": 2,
+          "explanation": "Hallo is informal and works at any time of day. The other options are neutral or formal."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing word. Watch the verb ending.",
+      "exercises": [
+        {
+          "id": "l2-g1",
+          "type": "gap",
+          "prompt": "Es ist sieben Uhr am Morgen. Guten ___!",
+          "answers": ["Morgen"],
+          "explanation": "In the morning Germans say Guten Morgen."
+        },
+        {
+          "id": "l2-g2",
+          "type": "gap",
+          "prompt": "Wie ___ du?",
+          "answers": ["heißt"],
+          "explanation": "heißen with du becomes heißt: Wie heißt du?"
+        },
+        {
+          "id": "l2-g3",
+          "type": "gap",
+          "prompt": "Woher ___ Sie?",
+          "answers": ["kommen"],
+          "explanation": "With Sie the verb takes -en: Woher kommen Sie?"
+        },
+        {
+          "id": "l2-g4",
+          "type": "gap",
+          "prompt": "Ich ___ aus Italien.",
+          "answers": ["komme"],
+          "explanation": "ich komme = I come. The ich form ends in -e."
+        },
+        {
+          "id": "l2-g5",
+          "type": "gap",
+          "prompt": "Freut ___, dich kennenzulernen.",
+          "answers": ["mich"],
+          "explanation": "The fixed phrase is Freut mich = nice to meet you."
+        },
+        {
+          "id": "l2-g6",
+          "type": "gap",
+          "prompt": "Mein ___ ist Nguyen.",
+          "answers": ["Name"],
+          "explanation": "der Name = name. It is a noun, so it takes a capital letter."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Put the words in the order a German speaker would use.",
+      "exercises": [
+        {
+          "id": "l2-o1",
+          "type": "order",
+          "prompt": "Build: “My name is Lara.”",
+          "tokens": ["Lara", "Name", "Mein", "ist"],
+          "answer": "Mein Name ist Lara.",
+          "explanation": "Mein Name ist … is the standard pattern for giving your name."
+        },
+        {
+          "id": "l2-o2",
+          "type": "order",
+          "prompt": "Build: “Where do you come from?” (informal)",
+          "tokens": ["kommst", "Woher", "du"],
+          "answer": "Woher kommst du?",
+          "explanation": "Question word, then verb, then subject: Woher kommst du?"
+        },
+        {
+          "id": "l2-o3",
+          "type": "order",
+          "prompt": "Build: “Nice to meet you.”",
+          "tokens": ["dich", "Freut", "kennenzulernen", "mich"],
+          "answer": "Freut mich, dich kennenzulernen.",
+          "explanation": "The phrase is fixed: Freut mich, dich kennenzulernen. With Sie it becomes Freut mich, Sie kennenzulernen."
+        },
+        {
+          "id": "l2-o4",
+          "type": "order",
+          "prompt": "Build: “I come from Austria.”",
+          "tokens": ["Österreich", "komme", "Ich", "aus"],
+          "answer": "Ich komme aus Österreich.",
+          "explanation": "Ich komme aus + country. Österreich is a country, so it is capitalised."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice without the transcript, then answer.",
+      "speaker": "Two people meeting at a course",
+      "script": [
+        { "speaker": "Nina", "de": "Hallo, ich bin Nina. Und du?", "en": "Hello, I am Nina. And you?" },
+        { "speaker": "Ben", "de": "Hallo Nina. Ich heiße Ben.", "en": "Hello Nina. My name is Ben." },
+        { "speaker": "Nina", "de": "Woher kommst du, Ben?", "en": "Where do you come from, Ben?" },
+        { "speaker": "Ben", "de": "Ich komme aus Kanada. Und du?", "en": "I come from Canada. And you?" },
+        { "speaker": "Nina", "de": "Ich komme aus der Schweiz.", "en": "I come from Switzerland." }
+      ],
+      "questions": [
+        {
+          "id": "l2-lq1",
+          "type": "mcq",
+          "prompt": "Where does Ben come from?",
+          "options": ["Canada", "Switzerland", "Austria", "Ireland"],
+          "answer": 0,
+          "explanation": "Ben says: Ich komme aus Kanada. Kanada is Canada."
+        },
+        {
+          "id": "l2-lq2",
+          "type": "mcq",
+          "prompt": "Where does Nina come from?",
+          "options": ["Germany", "Switzerland", "Spain", "Poland"],
+          "answer": 1,
+          "explanation": "Nina says: Ich komme aus der Schweiz. Die Schweiz is Switzerland."
+        },
+        {
+          "id": "l2-lq3",
+          "type": "mcq",
+          "prompt": "Which greeting do Nina and Ben both use?",
+          "options": ["Guten Morgen", "Guten Abend", "Hallo", "Auf Wiedersehen"],
+          "answer": 2,
+          "explanation": "Both open with Hallo, the informal greeting for any time of day."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Introduce yourself to a new neighbour. Decide first whether you need du or Sie.",
+      "prompt": "Greet someone, give your name and say which country you come from. Add “Nice to meet you”.",
+      "model": {
+        "de": "Guten Tag! Ich heiße Sara. Ich komme aus Portugal. Freut mich, Sie kennenzulernen.",
+        "en": "Good day! My name is Sara. I come from Portugal. Nice to meet you."
+      },
+      "tips": [
+        "Choose the register before you speak: Guten Tag + Sie for a stranger, Hallo + du for someone your age at a course.",
+        "Say Ich komme aus … as one block. Do not translate word by word from English “I am from”.",
+        "Record yourself and check the ending of the verb: kommst du, but kommen Sie."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "Each correction points to one small rule you can check next time.",
+      "items": [
+        {
+          "wrong": "Ich heiße bin Anna.",
+          "right": "Ich heiße Anna.",
+          "why": "heißen already means “to be called”, so it does not need bin. Ich bin Anna is also correct, but then you use only sein."
+        },
+        {
+          "wrong": "Wie heißen du?",
+          "right": "Wie heißt du?",
+          "why": "du takes the ending -st, so heißen becomes heißt. The -en form belongs to Sie and sie."
+        },
+        {
+          "wrong": "Ich komme von Deutschland.",
+          "right": "Ich komme aus Deutschland.",
+          "why": "Origin is expressed with aus. Von is used for starting points such as von Berlin nach Potsdam."
+        },
+        {
+          "wrong": "Guten Tag, Herr Müller. Wie geht es dir?",
+          "right": "Guten Tag, Herr Müller. Wie geht es Ihnen?",
+          "why": "Herr Müller is addressed formally, so the pronoun is Sie and the dative form is Ihnen, not dir."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Ten questions. Score 70% or more to unlock the next lesson.",
+      "questions": [
+        {
+          "id": "l2-a1",
+          "type": "mcq",
+          "prompt": "It is three o'clock in the afternoon. Which greeting is the neutral choice?",
+          "options": ["Guten Morgen", "Guten Tag", "Gute Nacht", "Guten Abend"],
+          "answer": 1,
+          "explanation": "Guten Tag covers the daytime and is neutral. Guten Morgen is only for the morning."
+        },
+        {
+          "id": "l2-a2",
+          "type": "mcq",
+          "prompt": "You meet your teacher for the first time. Which pronoun do you use?",
+          "options": ["du", "ihr", "Sie", "es"],
+          "answer": 2,
+          "explanation": "A teacher you address politely takes Sie, written with a capital S."
+        },
+        {
+          "id": "l2-a3",
+          "type": "mcq",
+          "prompt": "Complete: „Woher kommst du?“ — „___“",
+          "options": ["Ich komme aus Mexiko.", "Ich komme von Mexiko.", "Ich kommen aus Mexiko.", "Ich heiße Mexiko."],
+          "answer": 0,
+          "explanation": "Use kommen aus + country, with the ich form komme: Ich komme aus Mexiko."
+        },
+        {
+          "id": "l2-a4",
+          "type": "mcq",
+          "prompt": "What does „Freut mich“ mean?",
+          "options": ["See you soon", "Nice to meet you", "How are you?", "Excuse me"],
+          "answer": 1,
+          "explanation": "Freut mich is the standard phrase for “nice to meet you”."
+        },
+        {
+          "id": "l2-a5",
+          "type": "mcq",
+          "prompt": "Which question is informal?",
+          "options": ["Wie heißen Sie?", "Woher kommen Sie?", "Wie heißt du?", "Wie ist Ihr Name?"],
+          "answer": 2,
+          "explanation": "Wie heißt du? uses du and the -st ending. The other three use Sie."
+        },
+        {
+          "id": "l2-a6",
+          "type": "gap",
+          "prompt": "Guten ___, Frau Braun! Es ist acht Uhr.",
+          "answers": ["Morgen"],
+          "explanation": "At eight in the morning the greeting is Guten Morgen."
+        },
+        {
+          "id": "l2-a7",
+          "type": "gap",
+          "prompt": "Ich ___ aus Japan.",
+          "answers": ["komme"],
+          "explanation": "The ich form of kommen is komme."
+        },
+        {
+          "id": "l2-a8",
+          "type": "gap",
+          "prompt": "Wie ___ Sie?",
+          "answers": ["heißen"],
+          "explanation": "With Sie the verb ends in -en: Wie heißen Sie?"
+        },
+        {
+          "id": "l2-a9",
+          "type": "order",
+          "prompt": "Build: “I come from Egypt.”",
+          "tokens": ["aus", "Ich", "Ägypten", "komme"],
+          "answer": "Ich komme aus Ägypten.",
+          "explanation": "Ich komme aus + country. Ägypten keeps its umlaut."
+        },
+        {
+          "id": "l2-a10",
+          "type": "order",
+          "prompt": "Build: “What is your name?” (formal)",
+          "tokens": ["Ihr", "Wie", "Name", "ist"],
+          "answer": "Wie ist Ihr Name?",
+          "explanation": "Formal possession uses Ihr: Wie ist Ihr Name? The verb ist comes after the question word."
+        }
+      ]
+    }
+  ]
+}

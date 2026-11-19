@@ -1,0 +1,637 @@
+{
+  "id": "a1-m3-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "prompt": "Read each noun with its article as one word. Do not pause between der, die or das and the noun.",
+      "items": [
+        "der Tisch, die Tür, das Fenster",
+        "der Stuhl, das Bett, die Möbel",
+        "Der Tisch ist neu.",
+        "Die Tür ist offen.",
+        "Das Fenster ist groß."
+      ],
+      "lede": "The article is part of the word, not an extra word in front of it."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to recognise noun gender and form the plural."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "Every German noun has a grammatical gender, and the article shows it: der, die or das.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Gender in German is a property of the word, not of the thing. A table is masculine (der Tisch), a door is feminine (die Tür), and a window is neuter (das Fenster). There is no single rule that predicts every noun, but there are strong patterns, and those patterns cover a large part of the vocabulary you meet at A1."
+        },
+        {
+          "kind": "de",
+          "text": "Das ist ein Tisch, und das ist eine Tür.",
+          "en": "That is a table, and that is a door."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The three genders are masculine (der), feminine (die) and neuter (das).",
+            "The plural article is always die, for all three genders: die Tische, die Türen, die Fenster.",
+            "Grammatical gender does not always match natural gender: das Mädchen (the girl) is neuter.",
+            "Learn each noun as a trio: article + noun + plural. Der Tisch, die Tische."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Why this matters",
+          "text": "The article changes with case, and adjectives take their endings from it. If you know the gender, you can build correct accusative and dative forms later. If you do not, every later case becomes a guess."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "Use the endings as clues, then check the dictionary when a noun is new.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Clue", "Gender", "Examples"],
+          "rows": [
+            ["-ung, -heit, -keit, -schaft", "feminine", "die Zeitung, die Freiheit, die Freundschaft"],
+            ["-tion, -tät", "feminine", "die Nation, die Universität"],
+            ["most nouns in -e", "feminine", "die Schule, die Frage, die Blume"],
+            ["-chen, -lein", "neuter", "das Mädchen, das Fräulein"],
+            ["-ment, -um", "neuter", "das Dokument, das Museum"],
+            ["days, months, seasons", "masculine", "der Montag, der Januar, der Sommer"],
+            ["male persons", "masculine", "der Mann, der Vater, der Sohn"],
+            ["many agents in -er", "masculine", "der Lehrer, der Fahrer, der Verkäufer"]
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Plural pattern", "Singular", "Plural"],
+          "rows": [
+            ["-e", "der Tisch", "die Tische"],
+            ["-en / -n", "die Tür", "die Türen"],
+            ["-er (often with umlaut)", "das Kind", "die Kinder"],
+            ["-s", "das Auto", "die Autos"],
+            ["no ending (sometimes with umlaut)", "das Fenster", "die Fenster"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The plural article never changes: der, die and das all become die.",
+            "Umlaut is common in plurals but not automatic: das Haus → die Häuser, der Apfel → die Äpfel.",
+            "Nouns ending in -er often keep the same form in the plural: der Lehrer → die Lehrer, das Fenster → die Fenster.",
+            "In a compound noun, the last part decides the gender: das Haus + die Tür = die Haustür."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Exceptions are normal",
+          "text": "Most nouns in -e are feminine, but der Junge, der Name and das Ende are masculine or neuter. Treat the ending as a clue, not a guarantee, and confirm new nouns in a dictionary."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "Six nouns from one room, with all three genders and two plural patterns.",
+      "items": [
+        {
+          "de": "der Tisch",
+          "en": "the table",
+          "article": "der",
+          "plural": "die Tische",
+          "pronunciation": "tish",
+          "example": "Der Tisch ist aus Holz.",
+          "exampleEn": "The table is made of wood."
+        },
+        {
+          "de": "die Tür",
+          "en": "the door",
+          "article": "die",
+          "plural": "die Türen",
+          "pronunciation": "tüür",
+          "example": "Die Tür ist offen.",
+          "exampleEn": "The door is open."
+        },
+        {
+          "de": "das Fenster",
+          "en": "the window",
+          "article": "das",
+          "plural": "die Fenster",
+          "pronunciation": "FENS-ter",
+          "example": "Das Fenster ist groß.",
+          "exampleEn": "The window is big."
+        },
+        {
+          "de": "der Stuhl",
+          "en": "the chair",
+          "article": "der",
+          "plural": "die Stühle",
+          "pronunciation": "shtool",
+          "example": "Der Stuhl steht am Tisch.",
+          "exampleEn": "The chair stands by the table."
+        },
+        {
+          "de": "das Bett",
+          "en": "the bed",
+          "article": "das",
+          "plural": "die Betten",
+          "pronunciation": "bet",
+          "example": "Das Bett ist sehr alt.",
+          "exampleEn": "The bed is very old."
+        },
+        {
+          "de": "die Möbel",
+          "en": "the furniture",
+          "article": "die",
+          "plural": "die Möbel",
+          "pronunciation": "MUR-bel",
+          "example": "Die Möbel sind neu.",
+          "exampleEn": "The furniture is new."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Say each sentence with its article. The article tells you the gender.",
+      "items": [
+        {
+          "de": "Das ist ein Tisch.",
+          "en": "That is a table.",
+          "note": "der Tisch → ein Tisch in the nominative."
+        },
+        {
+          "de": "Der Tisch ist aus Holz.",
+          "en": "The table is made of wood.",
+          "note": "aus Holz describes the material."
+        },
+        {
+          "de": "Die Tür ist offen.",
+          "en": "The door is open.",
+          "note": "die Tür is feminine, so the article is die."
+        },
+        {
+          "de": "Das Fenster ist groß.",
+          "en": "The window is big.",
+          "note": "das Fenster is neuter and keeps the same form in the plural."
+        },
+        {
+          "de": "Die Stühle sind neu.",
+          "en": "The chairs are new.",
+          "note": "Plural nouns take die and the verb sind."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "The umlauts in Tür, Stühle and Möbel are the sounds to watch.",
+      "items": [
+        {
+          "de": "Tür",
+          "hint": "Round your lips for ü, then say ee: tüür. Keep the r soft.",
+          "en": "door"
+        },
+        {
+          "de": "Tisch",
+          "hint": "Tish. The final sch is a clean “sh”, and the i is short.",
+          "en": "table"
+        },
+        {
+          "de": "Fenster",
+          "hint": "FENS-ter. The first e is open and the -er is soft.",
+          "en": "window"
+        },
+        {
+          "de": "Stühle",
+          "hint": "SHTY-luh. Start with “sht”, then the rounded ü, then a weak final e.",
+          "en": "chairs"
+        },
+        {
+          "de": "Möbel",
+          "hint": "MUR-bel. Round your lips as if to say “oh”, then try to say “e”; do not say “moh-bel”.",
+          "en": "furniture"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Learning nouns the German way",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In a German dictionary a noun is listed with its article and plural: Tisch, der, -e. That is not extra information; it is the word. Learners who memorise Haus, Tür, Fenster without articles often speak fluently but choose the wrong article under pressure."
+        },
+        {
+          "kind": "p",
+          "text": "Grammatical gender can look odd from outside. Das Mädchen is neuter because the ending -chen makes every noun neuter, and das Fräulein works the same way. German also uses er, sie and es for objects, so a chair can be er and a door can be sie. This is grammar, not a comment on the object."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "A prospective tenant looks at a flat. Listen for der, die and das.",
+      "setting": "Viewing a small flat",
+      "lines": [
+        { "speaker": "Maklerin", "de": "Das ist das Wohnzimmer.", "en": "This is the living room." },
+        { "speaker": "Kundin", "de": "Der Raum ist groß. Und das Fenster?", "en": "The room is big. And the window?" },
+        { "speaker": "Maklerin", "de": "Das Fenster ist neu.", "en": "The window is new." },
+        { "speaker": "Kundin", "de": "Wo ist die Küche?", "en": "Where is the kitchen?" },
+        { "speaker": "Maklerin", "de": "Die Küche ist dort. Sie ist klein, aber hell.", "en": "The kitchen is over there. It is small but bright." },
+        { "speaker": "Kundin", "de": "Und die Möbel?", "en": "And the furniture?" },
+        { "speaker": "Maklerin", "de": "Die Möbel bleiben im Zimmer.", "en": "The furniture stays in the room." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "der, die, das — and the plural die",
+      "lede": "The definite article changes with gender, but the plural has only one form.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Gender", "Singular", "Plural", "Example"],
+          "rows": [
+            ["masculine", "der Tisch", "die Tische", "Der Tisch ist neu."],
+            ["feminine", "die Tür", "die Türen", "Die Tür ist offen."],
+            ["neuter", "das Fenster", "die Fenster", "Das Fenster ist groß."],
+            ["all genders", "—", "die Möbel", "Die Möbel sind neu."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The article agrees with the noun, not with the English word: die Tür, even though English “door” has no gender.",
+            "In the plural, the article is always die and the verb is sind: Die Stühle sind neu.",
+            "The indefinite article has only two forms in the nominative: ein for masculine and neuter, eine for feminine.",
+            "A compound noun takes the gender of its final part: die Haustür, because die Tür is feminine."
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Indefinite", "Gender", "Example"],
+          "rows": [
+            ["ein", "masculine", "Das ist ein Tisch."],
+            ["eine", "feminine", "Das ist eine Tür."],
+            ["ein", "neuter", "Das ist ein Fenster."],
+            ["—", "plural", "Das sind Stühle."]
+          ]
+        }
+      ],
+      "tip": "Write new nouns on cards with a coloured article: der blue, die red, das green. The colour does the remembering for you."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Choose the article or plural that belongs to the noun.",
+      "exercises": [
+        {
+          "id": "m3l1-p1",
+          "type": "mcq",
+          "prompt": "Which article goes with Tür?",
+          "options": ["der", "die", "das", "den"],
+          "answer": 1,
+          "explanation": "die Tür = the door. Tür is feminine."
+        },
+        {
+          "id": "m3l1-p2",
+          "type": "mcq",
+          "prompt": "Which article goes with Fenster?",
+          "options": ["der", "die", "das", "den"],
+          "answer": 2,
+          "explanation": "das Fenster = the window. Fenster is neuter."
+        },
+        {
+          "id": "m3l1-p3",
+          "type": "mcq",
+          "prompt": "Which noun is feminine?",
+          "options": ["der Tisch", "das Fenster", "die Zeitung", "der Stuhl"],
+          "answer": 2,
+          "explanation": "Nouns ending in -ung are feminine: die Zeitung."
+        },
+        {
+          "id": "m3l1-p4",
+          "type": "mcq",
+          "prompt": "What is the plural of das Haus?",
+          "options": ["die Hause", "die Häuser", "die Hausen", "die Häuse"],
+          "answer": 1,
+          "explanation": "das Haus takes -er and an umlaut: die Häuser."
+        },
+        {
+          "id": "m3l1-p5",
+          "type": "mcq",
+          "prompt": "What is the plural of die Tür?",
+          "options": ["die Türen", "die Türs", "die Türe", "die Tür"],
+          "answer": 0,
+          "explanation": "die Tür takes -en: die Türen."
+        },
+        {
+          "id": "m3l1-p6",
+          "type": "mcq",
+          "prompt": "Why is das Mädchen neuter?",
+          "options": ["because natural gender always decides the article", "because the ending -chen makes a noun neuter", "because it is a plural", "because all short words are neuter"],
+          "answer": 1,
+          "explanation": "The ending -chen always makes a noun neuter, regardless of natural gender."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type der, die or das — or the correct plural form.",
+      "exercises": [
+        {
+          "id": "m3l1-g1",
+          "type": "gap",
+          "prompt": "___ Tisch ist neu.",
+          "answers": ["Der"],
+          "explanation": "der Tisch is masculine, and it starts the sentence, so Der takes a capital."
+        },
+        {
+          "id": "m3l1-g2",
+          "type": "gap",
+          "prompt": "___ Tür ist offen.",
+          "answers": ["Die"],
+          "explanation": "die Tür is feminine."
+        },
+        {
+          "id": "m3l1-g3",
+          "type": "gap",
+          "prompt": "___ Fenster ist groß.",
+          "answers": ["Das"],
+          "explanation": "das Fenster is neuter."
+        },
+        {
+          "id": "m3l1-g4",
+          "type": "gap",
+          "prompt": "___ Stühle stehen im Zimmer.",
+          "answers": ["Die"],
+          "explanation": "The plural article is always die, for every gender."
+        },
+        {
+          "id": "m3l1-g5",
+          "type": "gap",
+          "prompt": "___ Bett ist sehr alt.",
+          "answers": ["Das"],
+          "explanation": "das Bett is neuter."
+        },
+        {
+          "id": "m3l1-g6",
+          "type": "gap",
+          "prompt": "Die ___ sind neu. (plural of der Stuhl)",
+          "answers": ["Stühle"],
+          "explanation": "der Stuhl → die Stühle, with an umlaut and -e."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Keep the article directly in front of its noun.",
+      "exercises": [
+        {
+          "id": "m3l1-o1",
+          "type": "order",
+          "prompt": "Build: “The table is new.”",
+          "tokens": ["neu", "Der", "ist", "Tisch"],
+          "answer": "Der Tisch ist neu.",
+          "explanation": "Subject first, then the verb ist, then the adjective neu."
+        },
+        {
+          "id": "m3l1-o2",
+          "type": "order",
+          "prompt": "Build: “That is a door.”",
+          "tokens": ["eine", "Das", "Tür", "ist"],
+          "answer": "Das ist eine Tür.",
+          "explanation": "die Tür is feminine, so the indefinite article is eine."
+        },
+        {
+          "id": "m3l1-o3",
+          "type": "order",
+          "prompt": "Build: “The windows are big.”",
+          "tokens": ["groß", "Die", "sind", "Fenster"],
+          "answer": "Die Fenster sind groß.",
+          "explanation": "Plural nouns take die and the verb sind."
+        },
+        {
+          "id": "m3l1-o4",
+          "type": "order",
+          "prompt": "Build: “The furniture is modern.”",
+          "tokens": ["modern", "Die", "sind", "Möbel"],
+          "answer": "Die Möbel sind modern.",
+          "explanation": "die Möbel is plural, so the verb is sind."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen to the room description twice, then answer.",
+      "speaker": "Two neighbours talking about a living room",
+      "script": [
+        { "speaker": "Frau Berg", "de": "Das ist mein Wohnzimmer.", "en": "This is my living room." },
+        { "speaker": "Herr Ali", "de": "Der Tisch ist schön. Ist er neu?", "en": "The table is nice. Is it new?" },
+        { "speaker": "Frau Berg", "de": "Ja, der Tisch ist neu. Die Stühle sind alt.", "en": "Yes, the table is new. The chairs are old." },
+        { "speaker": "Herr Ali", "de": "Und das Bild?", "en": "And the picture?" },
+        { "speaker": "Frau Berg", "de": "Das Bild ist von meiner Tochter.", "en": "The picture is by my daughter." },
+        { "speaker": "Herr Ali", "de": "Die Möbel sind sehr schön.", "en": "The furniture is very nice." }
+      ],
+      "questions": [
+        {
+          "id": "m3l1-lq1",
+          "type": "mcq",
+          "prompt": "Is the table new?",
+          "options": ["Yes, it is new.", "No, it is old.", "It is broken.", "The dialogue does not say."],
+          "answer": 0,
+          "explanation": "Frau Berg says: Ja, der Tisch ist neu."
+        },
+        {
+          "id": "m3l1-lq2",
+          "type": "mcq",
+          "prompt": "What does Frau Berg say about the chairs?",
+          "options": ["They are new.", "They are old.", "They are small.", "They are in the kitchen."],
+          "answer": 1,
+          "explanation": "She says: Die Stühle sind alt — the chairs are old."
+        },
+        {
+          "id": "m3l1-lq3",
+          "type": "mcq",
+          "prompt": "Who made the picture?",
+          "options": ["Herr Ali", "Frau Berg", "Frau Berg's daughter", "a shop"],
+          "answer": 2,
+          "explanation": "Das Bild ist von meiner Tochter — the picture is by my daughter."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Describe the room you are in, using all three genders and one plural.",
+      "prompt": "Say four sentences about your room. Name at least one masculine, one feminine and one neuter noun, plus one plural.",
+      "model": {
+        "de": "Das ist mein Zimmer. Der Tisch ist klein. Die Tür ist weiß. Das Fenster ist groß, und die Stühle sind alt.",
+        "en": "This is my room. The table is small. The door is white. The window is big, and the chairs are old."
+      },
+      "tips": [
+        "Say the article and the noun as one unit, without a pause: derTisch, dieTür, dasFenster.",
+        "Check the plural article: it is always die, whatever the singular was.",
+        "Record yourself and listen for the umlauts in Tür, Stühle and Möbel."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "Most article errors come from guessing instead of learning the noun with its article.",
+      "items": [
+        {
+          "wrong": "Das ist der Tür.",
+          "right": "Das ist die Tür.",
+          "why": "Tür is feminine, so it takes die in the nominative."
+        },
+        {
+          "wrong": "Die Haus ist groß.",
+          "right": "Das Haus ist groß.",
+          "why": "Haus is neuter: das Haus. The plural is die Häuser."
+        },
+        {
+          "wrong": "Die Stühle ist neu.",
+          "right": "Die Stühle sind neu.",
+          "why": "A plural subject takes the plural verb sind, not ist."
+        },
+        {
+          "wrong": "der Fenster",
+          "right": "das Fenster",
+          "why": "Fenster is neuter. Its plural is also die Fenster, with no ending change."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Ten questions. Score 70% or more to unlock the next lesson.",
+      "questions": [
+        {
+          "id": "m3l1-a1",
+          "type": "mcq",
+          "prompt": "Which article goes with Stuhl?",
+          "options": ["der", "die", "das", "den"],
+          "answer": 0,
+          "explanation": "der Stuhl = the chair. Stuhl is masculine."
+        },
+        {
+          "id": "m3l1-a2",
+          "type": "mcq",
+          "prompt": "Which noun is neuter?",
+          "options": ["die Tür", "der Tisch", "das Fenster", "die Möbel"],
+          "answer": 2,
+          "explanation": "das Fenster is neuter. Tür and Möbel are feminine, Tisch is masculine."
+        },
+        {
+          "id": "m3l1-a3",
+          "type": "mcq",
+          "prompt": "What is the plural of das Kind?",
+          "options": ["die Kinde", "die Kinder", "die Kinds", "die Kinden"],
+          "answer": 1,
+          "explanation": "das Kind takes -er: die Kinder."
+        },
+        {
+          "id": "m3l1-a4",
+          "type": "mcq",
+          "prompt": "What is the plural of das Auto?",
+          "options": ["die Autos", "die Auten", "die Autoe", "die Äuto"],
+          "answer": 0,
+          "explanation": "Many nouns of foreign origin take -s: das Auto → die Autos."
+        },
+        {
+          "id": "m3l1-a5",
+          "type": "mcq",
+          "prompt": "Which noun is feminine because of its ending?",
+          "options": ["das Mädchen", "der Lehrer", "die Freundschaft", "das Museum"],
+          "answer": 2,
+          "explanation": "The ending -schaft makes a noun feminine: die Freundschaft."
+        },
+        {
+          "id": "m3l1-a6",
+          "type": "gap",
+          "prompt": "___ Tür ist offen.",
+          "answers": ["Die"],
+          "explanation": "die Tür is feminine, and the sentence starts with the article."
+        },
+        {
+          "id": "m3l1-a7",
+          "type": "gap",
+          "prompt": "Das ist ___ Stuhl. (indefinite article)",
+          "answers": ["ein"],
+          "explanation": "der Stuhl is masculine, so the indefinite article is ein."
+        },
+        {
+          "id": "m3l1-a8",
+          "type": "gap",
+          "prompt": "Die ___ sind neu. (plural of das Fenster)",
+          "answers": ["Fenster"],
+          "explanation": "das Fenster keeps the same form in the plural: die Fenster."
+        },
+        {
+          "id": "m3l1-a9",
+          "type": "order",
+          "prompt": "Build: “The door is open.”",
+          "tokens": ["offen", "Die", "ist", "Tür"],
+          "answer": "Die Tür ist offen.",
+          "explanation": "Subject first, then the verb ist, then the adjective."
+        },
+        {
+          "id": "m3l1-a10",
+          "type": "order",
+          "prompt": "Build: “The chairs are old.”",
+          "tokens": ["alt", "Die", "sind", "Stühle"],
+          "answer": "Die Stühle sind alt.",
+          "explanation": "The plural article is die, and the plural verb is sind."
+        }
+      ]
+    }
+  ]
+}

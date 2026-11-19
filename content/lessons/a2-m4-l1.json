@@ -1,0 +1,665 @@
+{
+  "id": "a2-m4-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "a2-m4-l1-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "a2-m4-l1",
+      "prompt": "Compare two things you own: which is bigger, faster or better?",
+      "items": [
+        "Der Zug ist schneller als der Bus.",
+        "schneller",
+        "am schnellsten",
+        "besser"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "a2-m4-l1-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "a2-m4-l1",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "a2-m4-l1-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "a2-m4-l1",
+      "lede": "Compare two things with -er and als, and name the best with am -sten.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "The comparative adds -er to an adjective: schnell → schneller, klein → kleiner. Compare two things with als: Der Zug ist schneller als der Bus."
+        },
+        {
+          "kind": "p",
+          "text": "The superlative is formed with am + adjective + -sten: am schnellsten. Some common adjectives are irregular: gut → besser → am besten, viel → mehr → am meisten, gern → lieber → am liebsten."
+        },
+        {
+          "kind": "note",
+          "title": "One-syllable adjectives often take an umlaut",
+          "text": "alt → älter → am ältesten, groß → größer → am größten, jung → jünger → am jüngsten. Learn these as vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l1-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "a2-m4-l1",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "schnell → schneller",
+              "Der Zug ist schneller als der Bus."
+            ],
+            [
+              "klein → kleiner",
+              "Meine Wohnung ist kleiner als deine."
+            ],
+            [
+              "gut → besser → am besten",
+              "Dieses Café ist am besten."
+            ],
+            [
+              "gern → lieber → am liebsten",
+              "Ich trinke lieber Tee."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use als after the comparative, not wie.",
+            "Use wie for equality: Er ist so groß wie ich.",
+            "The superlative with am is invariable: am schnellsten, am besten."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l1-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "a2-m4-l1",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "schneller",
+          "en": "faster",
+          "example": "Der Zug ist schneller als der Bus.",
+          "exampleEn": "The train is faster than the bus."
+        },
+        {
+          "de": "am schnellsten",
+          "en": "the fastest",
+          "example": "Das Flugzeug ist am schnellsten.",
+          "exampleEn": "The plane is the fastest."
+        },
+        {
+          "de": "besser",
+          "en": "better",
+          "example": "Dieses Buch ist besser als das andere.",
+          "exampleEn": "This book is better than the other one."
+        },
+        {
+          "de": "als",
+          "en": "than",
+          "example": "Ich bin älter als mein Bruder.",
+          "exampleEn": "I am older than my brother."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l1-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "a2-m4-l1",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Der Zug ist schneller als der Bus.",
+          "en": "The train is faster than the bus.",
+          "note": "Comparative + als compares two things."
+        },
+        {
+          "de": "Meine Wohnung ist kleiner als deine.",
+          "en": "My flat is smaller than yours.",
+          "note": "Kleiner is the comparative of klein."
+        },
+        {
+          "de": "Dieses Café ist am besten.",
+          "en": "This café is the best.",
+          "note": "Am besten is the irregular superlative of gut."
+        },
+        {
+          "de": "Ich trinke lieber Tee als Kaffee.",
+          "en": "I prefer tea to coffee.",
+          "note": "Lieber is the comparative of gern."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l1-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "a2-m4-l1",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "schneller",
+          "hint": "The sch is one sound: SHNEL-ler."
+        },
+        {
+          "de": "größer",
+          "hint": "The ö is rounded; the -ßer is a sharp s."
+        },
+        {
+          "de": "am besten",
+          "hint": "Link the words: am-BES-ten."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l1-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "a2-m4-l1",
+      "heading": "Comparing transport and cities",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German speakers compare cities, trains and prices constantly. “Der ICE ist schneller, aber teurer” is a normal travel comment, and the comparative is one of the first structures learners need."
+        },
+        {
+          "kind": "p",
+          "text": "In shops, “Das ist günstiger” is a polite way to point out a cheaper option. “Günstig” often means good value rather than simply cheap, and it sounds less negative than “billig”."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l1-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "a2-m4-l1",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "Two travellers compare ways to get to Hamburg.",
+      "lines": [
+        {
+          "speaker": "Ben",
+          "de": "Sollen wir mit dem Zug oder mit dem Bus fahren?",
+          "en": "Should we go by train or by bus?"
+        },
+        {
+          "speaker": "Ida",
+          "de": "Der Zug ist schneller als der Bus.",
+          "en": "The train is faster than the bus."
+        },
+        {
+          "speaker": "Ben",
+          "de": "Aber der Bus ist günstiger.",
+          "en": "But the bus is cheaper."
+        },
+        {
+          "speaker": "Ida",
+          "de": "Stimmt. Der Bus ist am günstigsten, aber auch am langsamsten.",
+          "en": "True. The bus is the cheapest, but also the slowest."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l1-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "a2-m4-l1",
+      "heading": "Comparative and superlative",
+      "lede": "Add -er to compare two things; use am -sten for the highest degree.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "schnell → schneller → am schnellsten",
+              "regular"
+            ],
+            [
+              "alt → älter → am ältesten",
+              "umlaut + -er"
+            ],
+            [
+              "gut → besser → am besten",
+              "irregular"
+            ],
+            [
+              "gern → lieber → am liebsten",
+              "irregular adverb"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Use als after a comparative and wie after so … wie: Der Zug ist schneller als der Bus. Der Bus ist so schnell wie das Auto."
+        }
+      ],
+      "tip": "If you compare two things, you need als. If they are equal, use so … wie."
+    },
+    {
+      "id": "a2-m4-l1-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "a2-m4-l1",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "a2-m4-l1-p-m1",
+          "type": "mcq",
+          "prompt": "Der Zug ist ___ als der Bus.",
+          "options": [
+            "schnell",
+            "schneller",
+            "am schnellsten",
+            "schnellste"
+          ],
+          "answer": 1,
+          "explanation": "Comparing two things needs the comparative schneller."
+        },
+        {
+          "id": "a2-m4-l1-p-m2",
+          "type": "mcq",
+          "prompt": "Dieses Café ist ___.",
+          "options": [
+            "gut",
+            "besser",
+            "am besten",
+            "besten"
+          ],
+          "answer": 2,
+          "explanation": "The superlative of gut is am besten."
+        },
+        {
+          "id": "a2-m4-l1-p-m3",
+          "type": "mcq",
+          "prompt": "Ich bin älter ___ mein Bruder.",
+          "options": [
+            "wie",
+            "als",
+            "so",
+            "dann"
+          ],
+          "answer": 1,
+          "explanation": "Use als after a comparative."
+        },
+        {
+          "id": "a2-m4-l1-p-m4",
+          "type": "mcq",
+          "prompt": "Meine Wohnung ist ___ als deine.",
+          "options": [
+            "klein",
+            "kleiner",
+            "am kleinsten",
+            "kleine"
+          ],
+          "answer": 1,
+          "explanation": "The comparative of klein is kleiner."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l1-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "a2-m4-l1",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "a2-m4-l1-p-g1",
+          "type": "gap",
+          "prompt": "Der Bus ist ___ als das Auto. (slow)",
+          "answers": [
+            "langsamer"
+          ],
+          "explanation": "The comparative of langsam is langsamer."
+        },
+        {
+          "id": "a2-m4-l1-p-g2",
+          "type": "gap",
+          "prompt": "Das ist die ___ Lösung. (best)",
+          "answers": [
+            "beste"
+          ],
+          "explanation": "Before a noun, the superlative takes an ending: die beste Lösung."
+        },
+        {
+          "id": "a2-m4-l1-p-g3",
+          "type": "gap",
+          "prompt": "Ich trinke ___ Tee als Kaffee. (prefer)",
+          "answers": [
+            "lieber"
+          ],
+          "explanation": "The comparative of gern is lieber."
+        },
+        {
+          "id": "a2-m4-l1-p-g4",
+          "type": "gap",
+          "prompt": "Er ist so groß ___ ich.",
+          "answers": [
+            "wie"
+          ],
+          "explanation": "Use wie for equality: so groß wie ich."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l1-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "a2-m4-l1",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "a2-m4-l1-p-o1",
+          "type": "order",
+          "prompt": "Build: “The train is faster than the bus.”",
+          "tokens": [
+            "als",
+            "Der",
+            "schneller",
+            "Zug",
+            "ist",
+            "der",
+            "Bus."
+          ],
+          "answer": "Der Zug ist schneller als der Bus.",
+          "explanation": "The comparative comes after sein, followed by als and the second item."
+        },
+        {
+          "id": "a2-m4-l1-p-o2",
+          "type": "order",
+          "prompt": "Build: “This café is the best.”",
+          "tokens": [
+            "am",
+            "Dieses",
+            "besten.",
+            "Café",
+            "ist"
+          ],
+          "answer": "Dieses Café ist am besten.",
+          "explanation": "The superlative with am is invariable."
+        },
+        {
+          "id": "a2-m4-l1-p-o3",
+          "type": "order",
+          "prompt": "Build: “My flat is smaller than yours.”",
+          "tokens": [
+            "als",
+            "Meine",
+            "kleiner",
+            "Wohnung",
+            "ist",
+            "deine."
+          ],
+          "answer": "Meine Wohnung ist kleiner als deine.",
+          "explanation": "Kleiner is the comparative, and als introduces the comparison."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l1-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "a2-m4-l1",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Im Reisebüro",
+      "script": [
+        {
+          "speaker": "Kundin",
+          "de": "Was ist schneller: der Zug oder der Bus?",
+          "en": "Which is faster: the train or the bus?"
+        },
+        {
+          "speaker": "Berater",
+          "de": "Der Zug ist schneller, aber der Bus ist günstiger.",
+          "en": "The train is faster, but the bus is cheaper."
+        },
+        {
+          "speaker": "Kundin",
+          "de": "Und was ist am günstigsten?",
+          "en": "And what is the cheapest?"
+        },
+        {
+          "speaker": "Berater",
+          "de": "Mit dem Bus zu fahren ist am günstigsten.",
+          "en": "Travelling by bus is the cheapest."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a2-m4-l1-l1",
+          "type": "mcq",
+          "prompt": "Which option is faster?",
+          "options": [
+            "The bus",
+            "The train",
+            "The car",
+            "The plane"
+          ],
+          "answer": 1,
+          "explanation": "The adviser says “Der Zug ist schneller”."
+        },
+        {
+          "id": "a2-m4-l1-l2",
+          "type": "mcq",
+          "prompt": "Which option is the cheapest?",
+          "options": [
+            "The train",
+            "The bus",
+            "The plane",
+            "The car"
+          ],
+          "answer": 1,
+          "explanation": "The adviser says travelling by bus is “am günstigsten”."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l1-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "a2-m4-l1",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Compare two ways of travelling and say which is best for you.",
+      "model": {
+        "de": "Der Zug ist schneller als der Bus, aber der Bus ist günstiger. Für mich ist der Zug am besten, weil ich Zeit spare.",
+        "en": "The train is faster than the bus, but the bus is cheaper. For me the train is best because I save time."
+      },
+      "tips": [
+        "Use -er plus als to compare two things.",
+        "Use am -sten for the best option.",
+        "Give a reason with weil to make your answer sound complete."
+      ]
+    },
+    {
+      "id": "a2-m4-l1-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "a2-m4-l1",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Der Zug ist schneller wie der Bus.",
+          "right": "Der Zug ist schneller als der Bus.",
+          "why": "Use als after a comparative, not wie."
+        },
+        {
+          "wrong": "Das ist am beste.",
+          "right": "Das ist am besten.",
+          "why": "The superlative with am ends in -en."
+        },
+        {
+          "wrong": "Ich bin mehr groß als du.",
+          "right": "Ich bin größer als du.",
+          "why": "German forms most comparatives with -er, not mehr."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l1-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "a2-m4-l1",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "a2-m4-l1-a1",
+          "type": "mcq",
+          "prompt": "Der Zug ist ___ als der Bus.",
+          "options": [
+            "schnell",
+            "schneller",
+            "am schnellsten",
+            "schnellste"
+          ],
+          "answer": 1,
+          "explanation": "Comparing two things needs the comparative schneller."
+        },
+        {
+          "id": "a2-m4-l1-a2",
+          "type": "mcq",
+          "prompt": "Dieses Café ist ___.",
+          "options": [
+            "gut",
+            "besser",
+            "am besten",
+            "besten"
+          ],
+          "answer": 2,
+          "explanation": "The superlative of gut is am besten."
+        },
+        {
+          "id": "a2-m4-l1-a3",
+          "type": "mcq",
+          "prompt": "Ich bin älter ___ mein Bruder.",
+          "options": [
+            "wie",
+            "als",
+            "so",
+            "dann"
+          ],
+          "answer": 1,
+          "explanation": "Use als after a comparative."
+        },
+        {
+          "id": "a2-m4-l1-a4",
+          "type": "mcq",
+          "prompt": "Meine Wohnung ist ___ als deine.",
+          "options": [
+            "klein",
+            "kleiner",
+            "am kleinsten",
+            "kleine"
+          ],
+          "answer": 1,
+          "explanation": "The comparative of klein is kleiner."
+        },
+        {
+          "id": "a2-m4-l1-a5",
+          "type": "gap",
+          "prompt": "Der Bus ist ___ als das Auto. (slow)",
+          "answers": [
+            "langsamer"
+          ],
+          "explanation": "The comparative of langsam is langsamer."
+        },
+        {
+          "id": "a2-m4-l1-a6",
+          "type": "gap",
+          "prompt": "Das ist die ___ Lösung. (best)",
+          "answers": [
+            "beste"
+          ],
+          "explanation": "Before a noun, the superlative takes an ending: die beste Lösung."
+        },
+        {
+          "id": "a2-m4-l1-a7",
+          "type": "gap",
+          "prompt": "Ich trinke ___ Tee als Kaffee. (prefer)",
+          "answers": [
+            "lieber"
+          ],
+          "explanation": "The comparative of gern is lieber."
+        },
+        {
+          "id": "a2-m4-l1-a8",
+          "type": "gap",
+          "prompt": "Er ist so groß ___ ich.",
+          "answers": [
+            "wie"
+          ],
+          "explanation": "Use wie for equality: so groß wie ich."
+        },
+        {
+          "id": "a2-m4-l1-a9",
+          "type": "order",
+          "prompt": "Build: “The train is faster than the bus.”",
+          "tokens": [
+            "als",
+            "Der",
+            "schneller",
+            "Zug",
+            "ist",
+            "der",
+            "Bus."
+          ],
+          "answer": "Der Zug ist schneller als der Bus.",
+          "explanation": "The comparative comes after sein, followed by als and the second item."
+        },
+        {
+          "id": "a2-m4-l1-a10",
+          "type": "order",
+          "prompt": "Build: “This café is the best.”",
+          "tokens": [
+            "am",
+            "Dieses",
+            "besten.",
+            "Café",
+            "ist"
+          ],
+          "answer": "Dieses Café ist am besten.",
+          "explanation": "The superlative with am is invariable."
+        }
+      ]
+    }
+  ]
+}

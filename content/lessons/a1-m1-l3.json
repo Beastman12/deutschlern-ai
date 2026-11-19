@@ -1,0 +1,643 @@
+{
+  "id": "a1-m1-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "prompt": "Read the numbers and times aloud. Keep a steady rhythm — German numbers are built like little chains.",
+      "items": [
+        "eins, zwei, drei, vier, fünf",
+        "zehn, zwanzig, dreißig, hundert",
+        "Es ist halb drei.",
+        "Heute ist Montag.",
+        "Der Kurs kostet zwanzig Euro."
+      ],
+      "lede": "Numbers and times come up in every shop, station and classroom."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to count, tell the time and name days and months."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "German numbers are regular once you know the pattern, but the clock works differently from English.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "You need numbers for three everyday jobs: counting and prices, telling the time, and saying dates. The numbers from one to twelve have to be learned, but from thirteen onwards German follows a clear system. The clock is the part that surprises learners most, because halb does not mean “half past”."
+        },
+        {
+          "kind": "de",
+          "text": "Es ist halb acht. Der Kurs beginnt um acht Uhr dreißig.",
+          "en": "It is half past seven. The course begins at 8:30."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "13 to 19 = digit + zehn: dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn.",
+            "The tens are zwanzig, dreißig, vierzig, fünfzig, sechzig, siebzig, achtzig, neunzig, hundert.",
+            "21 to 99 put the unit first, then und, then the ten: einundzwanzig = one-and-twenty.",
+            "halb + the next hour means half an hour before it: halb acht = 7:30."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Small spelling traps",
+          "text": "sechzehn drops the s of sechs, and siebzehn drops the en of sieben. Thirty is dreißig with ß, not dreizig."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "Three tables: numbers, clock time and calendar words.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Number", "German", "Number", "German"],
+          "rows": [
+            ["0", "null", "11", "elf"],
+            ["1", "eins", "12", "zwölf"],
+            ["2", "zwei", "13", "dreizehn"],
+            ["3", "drei", "16", "sechzehn"],
+            ["4", "vier", "17", "siebzehn"],
+            ["5", "fünf", "20", "zwanzig"],
+            ["6", "sechs", "21", "einundzwanzig"],
+            ["7", "sieben", "30", "dreißig"],
+            ["8", "acht", "47", "siebenundvierzig"],
+            ["9", "neun", "100", "hundert"],
+            ["10", "zehn", "1000", "tausend"]
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Clock", "German", "English"],
+          "rows": [
+            ["7:00", "sieben Uhr", "seven o'clock"],
+            ["7:15", "Viertel nach sieben", "quarter past seven"],
+            ["7:30", "halb acht", "half past seven"],
+            ["7:45", "Viertel vor acht", "quarter to eight"],
+            ["19:30", "neunzehn Uhr dreißig", "19:30 (official style)"]
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Days", "Months", "Preposition"],
+          "rows": [
+            ["Montag", "Januar", "am Montag"],
+            ["Dienstag", "Februar", "im Februar"],
+            ["Mittwoch", "März", "am dritten März"],
+            ["Donnerstag", "April", "im April"],
+            ["Freitag", "Mai", "am Freitag"],
+            ["Samstag", "Juni", "im Juni"],
+            ["Sonntag", "Juli", "im Juli"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use um for clock times: um acht Uhr.",
+            "Use am for days and dates: am Montag, am dritten Mai.",
+            "Use im for months and for periods: im Januar, im Sommer."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These six words let you talk about prices, dates and appointments.",
+      "items": [
+        {
+          "de": "die Zahl",
+          "en": "the number",
+          "article": "die",
+          "plural": "die Zahlen",
+          "pronunciation": "tsahl",
+          "example": "Zwanzig ist eine gerade Zahl.",
+          "exampleEn": "Twenty is an even number."
+        },
+        {
+          "de": "die Uhrzeit",
+          "en": "the time (of day)",
+          "article": "die",
+          "plural": "die Uhrzeiten",
+          "pronunciation": "OOR-tsyt",
+          "example": "Die Uhrzeit steht im Fahrplan.",
+          "exampleEn": "The time is written in the timetable."
+        },
+        {
+          "de": "das Datum",
+          "en": "the date",
+          "article": "das",
+          "plural": "die Daten",
+          "pronunciation": "DAH-toom",
+          "example": "Welches Datum ist heute?",
+          "exampleEn": "What is the date today?"
+        },
+        {
+          "de": "der Monat",
+          "en": "the month",
+          "article": "der",
+          "plural": "die Monate",
+          "pronunciation": "MOH-naht",
+          "example": "Der Monat Mai hat 31 Tage.",
+          "exampleEn": "The month of May has 31 days."
+        },
+        {
+          "de": "der Tag",
+          "en": "the day",
+          "article": "der",
+          "plural": "die Tage",
+          "pronunciation": "tahk",
+          "example": "Der erste Tag im Kurs ist am Montag.",
+          "exampleEn": "The first day of the course is on Monday."
+        },
+        {
+          "de": "kosten",
+          "en": "to cost",
+          "pronunciation": "KOS-ten",
+          "example": "Die Fahrkarte kostet vier Euro fünfzig.",
+          "exampleEn": "The ticket costs four euros fifty."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Read each sentence aloud and picture the clock or the calendar.",
+      "items": [
+        {
+          "de": "Es ist halb acht.",
+          "en": "It is half past seven (7:30).",
+          "note": "halb acht is half an hour before eight, so 7:30 — not 8:30."
+        },
+        {
+          "de": "Der Kurs beginnt um neun Uhr.",
+          "en": "The course begins at nine o'clock.",
+          "note": "Clock times take um."
+        },
+        {
+          "de": "Mein Geburtstag ist am zwölften März.",
+          "en": "My birthday is on the twelfth of March.",
+          "note": "Dates use am + ordinal: am zwölften März."
+        },
+        {
+          "de": "Der Kaffee kostet drei Euro fünfzig.",
+          "en": "The coffee costs three euros fifty.",
+          "note": "Prices are read as euro + cents, without a word for “point”."
+        },
+        {
+          "de": "Wir treffen uns am Samstag um elf Uhr.",
+          "en": "We are meeting on Saturday at eleven o'clock.",
+          "note": "Day first with am, then the clock time with um."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "Numbers are short, so a single unclear vowel can change the meaning.",
+      "items": [
+        {
+          "de": "dreißig",
+          "hint": "One word, two syllables: DRY-sig. The ß is a sharp s; never say “dreizig” with a z sound.",
+          "en": "thirty"
+        },
+        {
+          "de": "zwölf",
+          "hint": "Start with ts, then round your lips for ö: TSVURLF. The l is light.",
+          "en": "twelve"
+        },
+        {
+          "de": "sechzehn",
+          "hint": "ZEKH-tsayn. The ch after e is soft, and the second syllable starts with a clean ts.",
+          "en": "sixteen"
+        },
+        {
+          "de": "Viertel",
+          "hint": "FEER-tel. German v sounds like f, and ie is a long ee.",
+          "en": "quarter"
+        },
+        {
+          "de": "Uhr",
+          "hint": "OOR, with a long u. The h is silent and the r is soft.",
+          "en": "o'clock / clock"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Why halb drei means 2:30",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German counts the half hour towards the coming hour. Halb drei is therefore 2:30, literally “half [way] to three”. The same logic appears in Viertel vor drei (2:45) and Viertel nach drei (3:15). English speakers who translate halb as “half past” arrive thirty minutes late."
+        },
+        {
+          "kind": "p",
+          "text": "Timetables, train stations and official documents use the 24-hour clock: 14:30 is vierzehn Uhr dreißig. In speech, most people use the twelve-hour clock with halb and Viertel. Dates are written day.month.year, so 3.5.2026 means the third of May 2026."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "A traveller buys a ticket and asks about the time and the price.",
+      "setting": "At the ticket counter of a train station",
+      "lines": [
+        { "speaker": "Schalter", "de": "Guten Tag, was möchten Sie?", "en": "Good day, what would you like?" },
+        { "speaker": "Reisende", "de": "Eine Fahrkarte nach Hamburg, bitte. Wann fährt der nächste Zug?", "en": "A ticket to Hamburg, please. When does the next train leave?" },
+        { "speaker": "Schalter", "de": "Um vierzehn Uhr zwanzig.", "en": "At 14:20." },
+        { "speaker": "Reisende", "de": "Danke. Was kostet die Fahrkarte?", "en": "Thank you. What does the ticket cost?" },
+        { "speaker": "Schalter", "de": "Vierundzwanzig Euro fünfzig.", "en": "Twenty-four euros fifty." },
+        { "speaker": "Reisende", "de": "Und wie lange dauert die Fahrt?", "en": "And how long does the journey take?" },
+        { "speaker": "Schalter", "de": "Zwei Stunden. Der Zug ist um sechzehn Uhr fünfzig da.", "en": "Two hours. The train arrives at 16:50." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Telling the time without translating from English",
+      "lede": "Learn the clock as a picture, not as a word-for-word translation.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Time", "German", "Built from"],
+          "rows": [
+            ["6:00", "sechs Uhr", "hour + Uhr"],
+            ["6:05", "fünf nach sechs", "minutes after the hour"],
+            ["6:15", "Viertel nach sechs", "quarter after the hour"],
+            ["6:30", "halb sieben", "half towards the next hour"],
+            ["6:45", "Viertel vor sieben", "quarter before the next hour"],
+            ["6:55", "fünf vor sieben", "minutes before the next hour"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Ask the time with Wie viel Uhr ist es? or the more casual Wie spät ist es?",
+            "Answer with Es ist … : Es ist halb sieben.",
+            "For official times, read the hour, then Uhr, then the minutes: neunzehn Uhr dreißig.",
+            "halb always points forward: halb sieben = 6:30, halb eins = 12:30.",
+            "Use um for a clock time and am for a day or date: um acht Uhr am Montag."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Numbers above twenty",
+          "text": "Say the small number first, then und, then the ten: 24 = vierundzwanzig, 38 = achtunddreißig, 61 = einundsechzig. Write it as one word."
+        }
+      ],
+      "tip": "Practise with a real clock: say the German time out loud every time you check your phone for one day."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Check numbers, clock times and calendar words.",
+      "exercises": [
+        {
+          "id": "l3-p1",
+          "type": "mcq",
+          "prompt": "What time is „halb neun“?",
+          "options": ["8:30", "9:00", "9:30", "7:30"],
+          "answer": 0,
+          "explanation": "halb neun is half an hour before nine, so 8:30."
+        },
+        {
+          "id": "l3-p2",
+          "type": "mcq",
+          "prompt": "Which number is „einundzwanzig“?",
+          "options": ["12", "21", "20", "11"],
+          "answer": 1,
+          "explanation": "einundzwanzig = one-and-twenty = 21."
+        },
+        {
+          "id": "l3-p3",
+          "type": "mcq",
+          "prompt": "How do you write 47 in German?",
+          "options": ["vierzigsieben", "siebenundvierzig", "vierundsiebzig", "siebzigvier"],
+          "answer": 1,
+          "explanation": "The unit comes first: sieben + und + vierzig = siebenundvierzig."
+        },
+        {
+          "id": "l3-p4",
+          "type": "mcq",
+          "prompt": "What does „Es ist Viertel vor acht“ mean?",
+          "options": ["7:15", "7:45", "8:15", "8:45"],
+          "answer": 1,
+          "explanation": "Viertel vor acht is a quarter of an hour before eight, so 7:45."
+        },
+        {
+          "id": "l3-p5",
+          "type": "mcq",
+          "prompt": "Which day comes directly after Mittwoch?",
+          "options": ["Dienstag", "Donnerstag", "Freitag", "Montag"],
+          "answer": 1,
+          "explanation": "The order is Montag, Dienstag, Mittwoch, Donnerstag — so Donnerstag follows Mittwoch."
+        },
+        {
+          "id": "l3-p6",
+          "type": "mcq",
+          "prompt": "Complete: „Der Kurs beginnt ___ neun Uhr.“",
+          "options": ["am", "im", "um", "in"],
+          "answer": 2,
+          "explanation": "Clock times take um: um neun Uhr."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Write the missing word in German. Numbers can be written as words.",
+      "exercises": [
+        {
+          "id": "l3-g1",
+          "type": "gap",
+          "prompt": "Es ist halb ___. (2:30)",
+          "answers": ["drei"],
+          "explanation": "halb drei = 2:30, because halb points to the next hour."
+        },
+        {
+          "id": "l3-g2",
+          "type": "gap",
+          "prompt": "Nach Dienstag kommt ___.",
+          "answers": ["Mittwoch"],
+          "explanation": "The week runs Montag, Dienstag, Mittwoch. Days are nouns, so Mittwoch takes a capital."
+        },
+        {
+          "id": "l3-g3",
+          "type": "gap",
+          "prompt": "Der Kurs beginnt ___ neun Uhr.",
+          "answers": ["um"],
+          "explanation": "Use um before a clock time."
+        },
+        {
+          "id": "l3-g4",
+          "type": "gap",
+          "prompt": "Im ___ ist es oft kalt. (January)",
+          "answers": ["Januar"],
+          "explanation": "im Januar = in January. Months take im."
+        },
+        {
+          "id": "l3-g5",
+          "type": "gap",
+          "prompt": "Das Buch kostet ___ Euro. (12)",
+          "answers": ["zwölf"],
+          "explanation": "zwölf = twelve. The ö is a rounded vowel."
+        },
+        {
+          "id": "l3-g6",
+          "type": "gap",
+          "prompt": "Wir treffen uns ___ Freitag.",
+          "answers": ["am"],
+          "explanation": "Days take am: am Freitag."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Build each sentence from the scrambled words.",
+      "exercises": [
+        {
+          "id": "l3-o1",
+          "type": "order",
+          "prompt": "Build: “It is half past two.”",
+          "tokens": ["drei", "Es", "halb", "ist"],
+          "answer": "Es ist halb drei.",
+          "explanation": "halb drei = 2:30. The verb ist comes second."
+        },
+        {
+          "id": "l3-o2",
+          "type": "order",
+          "prompt": "Build: “The course begins at nine o'clock.”",
+          "tokens": ["um", "Der", "neun", "beginnt", "Kurs", "Uhr"],
+          "answer": "Der Kurs beginnt um neun Uhr.",
+          "explanation": "Subject, then verb, then the time phrase with um."
+        },
+        {
+          "id": "l3-o3",
+          "type": "order",
+          "prompt": "Build: “My birthday is in May.”",
+          "tokens": ["Mai", "Geburtstag", "Mein", "im", "ist"],
+          "answer": "Mein Geburtstag ist im Mai.",
+          "explanation": "Months take im: im Mai."
+        },
+        {
+          "id": "l3-o4",
+          "type": "order",
+          "prompt": "Build: “The ticket costs twenty euros.”",
+          "tokens": ["Euro", "Die", "zwanzig", "kostet", "Fahrkarte"],
+          "answer": "Die Fahrkarte kostet zwanzig Euro.",
+          "explanation": "kostet is the er/sie/es form of kosten. Euro stays the same in the plural."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen to the phone call twice. Then answer without the transcript.",
+      "speaker": "A patient calling a doctor's practice",
+      "script": [
+        { "speaker": "Praxis", "de": "Guten Tag, Praxis Dr. Berg.", "en": "Good day, Dr Berg's practice." },
+        { "speaker": "Kunde", "de": "Guten Tag. Ich brauche einen Termin.", "en": "Good day. I need an appointment." },
+        { "speaker": "Praxis", "de": "Geht es am Dienstag um zehn Uhr?", "en": "Does Tuesday at ten o'clock work?" },
+        { "speaker": "Kunde", "de": "Nein, am Dienstag arbeite ich. Geht es am Mittwoch?", "en": "No, I work on Tuesday. Does Wednesday work?" },
+        { "speaker": "Praxis", "de": "Ja, Mittwoch um halb vier.", "en": "Yes, Wednesday at half past three." },
+        { "speaker": "Kunde", "de": "Danke, bis Mittwoch.", "en": "Thank you, see you Wednesday." }
+      ],
+      "questions": [
+        {
+          "id": "l3-lq1",
+          "type": "mcq",
+          "prompt": "On which day is the appointment?",
+          "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+          "answer": 2,
+          "explanation": "The practice suggests Mittwoch, and the caller accepts."
+        },
+        {
+          "id": "l3-lq2",
+          "type": "mcq",
+          "prompt": "What time is the appointment?",
+          "options": ["3:30", "4:00", "4:30", "3:00"],
+          "answer": 0,
+          "explanation": "halb vier is half an hour before four, so 3:30."
+        },
+        {
+          "id": "l3-lq3",
+          "type": "mcq",
+          "prompt": "Why does the caller say no to Tuesday?",
+          "options": ["The practice is closed.", "He works on Tuesday.", "He is on holiday.", "Tuesday is too early."],
+          "answer": 1,
+          "explanation": "He says: Am Dienstag arbeite ich — on Tuesday I work."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Say three facts about your week out loud, using numbers, days and a time.",
+      "prompt": "Give the date of your birthday, say which day your German course is on and what time it starts.",
+      "model": {
+        "de": "Mein Geburtstag ist am siebten April. Mein Deutschkurs ist am Montag. Er beginnt um halb sieben.",
+        "en": "My birthday is on the seventh of April. My German course is on Monday. It begins at 6:30."
+      },
+      "tips": [
+        "Say the time twice: once with halb or Viertel, once with Uhr and minutes, so you hear the difference.",
+        "Keep the preposition with its noun: am Montag, im April, um sechs Uhr.",
+        "Record yourself and check that halb sieben came out as 6:30, not 7:30."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "These four errors come from translating English patterns too directly.",
+      "items": [
+        {
+          "wrong": "Ich habe zwanzig Jahre.",
+          "right": "Ich bin zwanzig Jahre alt.",
+          "why": "Age uses sein + Jahre alt. haben would mean that you own the years."
+        },
+        {
+          "wrong": "Der Kurs beginnt in neun Uhr.",
+          "right": "Der Kurs beginnt um neun Uhr.",
+          "why": "Clock times take um. In is used for months, seasons and years."
+        },
+        {
+          "wrong": "7:45 = Viertel nach sieben",
+          "right": "7:45 = Viertel vor acht",
+          "why": "Viertel nach means a quarter after the hour; 7:45 is a quarter before eight."
+        },
+        {
+          "wrong": "Das kostet zwanzig Euros.",
+          "right": "Das kostet zwanzig Euro.",
+          "why": "Euro and Cent do not take an -s in the plural: zwei Euro, fünfzig Cent."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Ten questions. Score 70% or more to unlock the next lesson.",
+      "questions": [
+        {
+          "id": "l3-a1",
+          "type": "mcq",
+          "prompt": "What time is „halb zwei“?",
+          "options": ["1:30", "2:00", "2:30", "12:30"],
+          "answer": 0,
+          "explanation": "halb zwei is half an hour before two, so 1:30."
+        },
+        {
+          "id": "l3-a2",
+          "type": "mcq",
+          "prompt": "Which number is „dreiundvierzig“?",
+          "options": ["34", "43", "44", "33"],
+          "answer": 1,
+          "explanation": "drei + und + vierzig = three-and-forty = 43."
+        },
+        {
+          "id": "l3-a3",
+          "type": "mcq",
+          "prompt": "Which month comes between Juni and August?",
+          "options": ["Mai", "Juli", "September", "März"],
+          "answer": 1,
+          "explanation": "The order is Juni, Juli, August."
+        },
+        {
+          "id": "l3-a4",
+          "type": "mcq",
+          "prompt": "Complete: „Wir sehen uns ___ Sonntag.“",
+          "options": ["um", "im", "am", "in"],
+          "answer": 2,
+          "explanation": "Days take am: am Sonntag."
+        },
+        {
+          "id": "l3-a5",
+          "type": "mcq",
+          "prompt": "How do you say 18:45 in the official 24-hour style?",
+          "options": ["achtzehn Uhr fünfundvierzig", "sechs Uhr fünfundvierzig", "Viertel vor sechs", "achtzehn Uhr fünfzehn"],
+          "answer": 0,
+          "explanation": "Official style reads hour, then Uhr, then minutes: achtzehn Uhr fünfundvierzig."
+        },
+        {
+          "id": "l3-a6",
+          "type": "gap",
+          "prompt": "Der Deutschkurs beginnt ___ zehn Uhr.",
+          "answers": ["um"],
+          "explanation": "Clock times take um: um zehn Uhr."
+        },
+        {
+          "id": "l3-a7",
+          "type": "gap",
+          "prompt": "Es ist halb ___. (4:30)",
+          "answers": ["fünf"],
+          "explanation": "halb fünf = 4:30."
+        },
+        {
+          "id": "l3-a8",
+          "type": "gap",
+          "prompt": "Der Monat nach März ist ___.",
+          "answers": ["April"],
+          "explanation": "The months run März, April, Mai. April is a noun and keeps its capital."
+        },
+        {
+          "id": "l3-a9",
+          "type": "order",
+          "prompt": "Build: “The ticket costs twelve euros.”",
+          "tokens": ["Euro", "Die", "zwölf", "kostet", "Fahrkarte"],
+          "answer": "Die Fahrkarte kostet zwölf Euro.",
+          "explanation": "Subject, verb, then the price. Euro has no plural ending."
+        },
+        {
+          "id": "l3-a10",
+          "type": "order",
+          "prompt": "Build: “It is a quarter past seven.”",
+          "tokens": ["nach", "Es", "sieben", "Viertel", "ist"],
+          "answer": "Es ist Viertel nach sieben.",
+          "explanation": "Viertel nach sieben = 7:15. The verb ist stays in second position."
+        }
+      ]
+    }
+  ]
+}

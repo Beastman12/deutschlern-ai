@@ -1,0 +1,662 @@
+{
+  "id": "c2-m2-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 3,
+      "prompt": "Read the opening of Kafka's Die Verwandlung aloud. Then read it again, this time listening for the tone.",
+      "items": [
+        "Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheuren Ungeziefer verwandelt.",
+        "Der Erzähler lässt die Grenze zwischen Traum und Wirklichkeit verschwimmen.",
+        "Die Mehrdeutigkeit des Schlusses hat zu widersprüchlichen Deutungen geführt."
+      ],
+      "lede": "Literary analysis begins with noticing how something is told, not only what is told."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to describe narrative technique and support an interpretation with textual evidence."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 5,
+      "lede": "A literary text does not simply report events. It chooses a voice, an angle and a pace — and those choices produce meaning.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Literary analysis in German is built on a small set of precise terms: Erzähler, Erzählperspektive, Erzählzeit, Motiv, Bildsprache and Mehrdeutigkeit. The terms are not labels to decorate an essay. Each one names a decision the text has made and a question the reader can ask: Who speaks? From where? In what tense? With what recurring images? And why does the text allow more than one answer?"
+        },
+        {
+          "kind": "de",
+          "text": "Der Erzähler lässt die Grenze zwischen Traum und Wirklichkeit verschwimmen.",
+          "en": "The narrator blurs the boundary between dream and reality."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The Erzähler is a construction inside the text, not the author. Kafka is not Gregor, and Kafka is not the narrator either.",
+            "Erzählperspektive describes the angle of knowledge: first-person, third-person limited, or omniscient.",
+            "Erzählzeit is the time of telling; erzählte Zeit is the time told. A novel can cover twenty years in one sentence or one afternoon in fifty pages.",
+            "A Motiv is a recurring element — an object, image or situation — that accumulates meaning through repetition.",
+            "Mehrdeutigkeit is not vagueness. It means the text supports more than one defensible reading, and the analysis must show why."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "The evidence rule",
+          "text": "Every interpretive claim needs a Textbeleg: a quotation or a precise reference. Name the device, quote the passage, then explain the effect. Without the middle step, the interpretation is only an opinion."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "These four distinctions do most of the work in a literary essay.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Distinction", "Question to ask", "Example"],
+          "rows": [
+            ["Autor vs. Erzähler", "Who speaks inside the text, and what do they know?", "Kafka wrote the text; the narrator tells it."],
+            ["Personale vs. auktoriale Perspektive", "Is knowledge limited to one figure or does the narrator know more?", "Gregor's view only vs. a narrator who comments on everyone."],
+            ["Erzählzeit vs. erzählte Zeit", "How long does the telling take, and how much time does it cover?", "One sentence can span years."],
+            ["Motiv vs. Thema", "Is it a recurring element or the overarching idea?", "The window as a motif; transformation as a theme."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use the literary present when you analyse: Der Erzähler beschreibt …, not Der Erzähler beschrieb ….",
+            "Separate description from interpretation. First say what the text does; then say what it achieves.",
+            "Avoid the intentional fallacy. Do not claim what the author “wanted to say”; claim what the text makes possible.",
+            "Quote precisely. A paraphrase is useful for summary, but an interpretation needs the wording that carries the effect.",
+            "Treat ambiguity as a finding, not a failure. Show the two readings and the textual detail that keeps both alive."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "The working vocabulary of literary analysis. Learn the gender with the term.",
+      "items": [
+        {
+          "de": "der Erzähler",
+          "en": "the narrator",
+          "article": "der",
+          "plural": "die Erzähler",
+          "pronunciation": "ɛɐ̯ˈtsɛːlɐ",
+          "example": "Der Erzähler beschreibt das Ungeheuerliche mit nüchterner Stimme.",
+          "exampleEn": "The narrator describes the monstrous in a sober voice."
+        },
+        {
+          "de": "die Erzählperspektive",
+          "en": "the narrative perspective",
+          "article": "die",
+          "plural": "die Erzählperspektiven",
+          "pronunciation": "ɛɐ̯ˈtsɛːlpɛʁspɛkˌtiːvə",
+          "example": "Die Erzählperspektive bleibt eng an Gregors Wahrnehmung gebunden.",
+          "exampleEn": "The narrative perspective stays closely bound to Gregor's perception."
+        },
+        {
+          "de": "das Motiv",
+          "en": "the motif",
+          "article": "das",
+          "plural": "die Motive",
+          "pronunciation": "moˈtiːf",
+          "example": "Das Motiv der Verwandlung kehrt in vielen Deutungen wieder.",
+          "exampleEn": "The motif of transformation recurs in many interpretations."
+        },
+        {
+          "de": "die Mehrdeutigkeit",
+          "en": "the ambiguity, multiple meaning",
+          "article": "die",
+          "plural": "die Mehrdeutigkeiten",
+          "pronunciation": "ˈmeːɐ̯dɔɪ̯tɪçkaɪ̯t",
+          "example": "Die Mehrdeutigkeit des Schlusses hat zu widersprüchlichen Deutungen geführt.",
+          "exampleEn": "The ambiguity of the ending has led to contradictory interpretations."
+        },
+        {
+          "de": "die Bildsprache",
+          "en": "the imagery, figurative language",
+          "article": "die",
+          "plural": "die Bildsprachen",
+          "pronunciation": "ˈbɪltʃpʁaːxə",
+          "example": "Die Bildsprache des Textes verbindet Kälte mit Ordnung.",
+          "exampleEn": "The text's imagery connects coldness with order."
+        },
+        {
+          "de": "die Deutung",
+          "en": "the interpretation, reading",
+          "article": "die",
+          "plural": "die Deutungen",
+          "pronunciation": "ˈdɔɪ̯tʊŋ",
+          "example": "Eine schlüssige Deutung stützt sich auf Belege im Text.",
+          "exampleEn": "A coherent interpretation relies on evidence in the text."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 5,
+      "lede": "These are sentences you could use in a seminar paper. Notice how each one moves from observation to claim.",
+      "items": [
+        {
+          "de": "Der Erzähler lässt die Grenze zwischen Traum und Wirklichkeit verschwimmen.",
+          "en": "The narrator blurs the boundary between dream and reality.",
+          "note": "A claim about technique, supported by the opening's dream imagery."
+        },
+        {
+          "de": "Kafka erzählt im Präteritum, doch die Zeit scheint stillzustehen.",
+          "en": "Kafka narrates in the preterite, yet time seems to stand still.",
+          "note": "The tense is named, then its effect is described."
+        },
+        {
+          "de": "Die Erzählperspektive bleibt eng an Gregors Wahrnehmung gebunden.",
+          "en": "The narrative perspective stays closely bound to Gregor's perception.",
+          "note": "This describes a limited third-person perspective without calling it first-person."
+        },
+        {
+          "de": "Das Motiv der Verwandlung kehrt in vielen Deutungen wieder.",
+          "en": "The motif of transformation recurs in many interpretations.",
+          "note": "Motiv is a recurring element, not the same as the theme."
+        },
+        {
+          "de": "Die Mehrdeutigkeit des Schlusses hat zu widersprüchlichen Deutungen geführt.",
+          "en": "The ambiguity of the ending has led to contradictory interpretations.",
+          "note": "The sentence treats ambiguity as a property of the text, not as a reader's confusion."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 4,
+      "lede": "Literary terms are long but regular. Stress them correctly and they sound natural in a seminar.",
+      "items": [
+        {
+          "de": "Erzähler",
+          "hint": "Stress the second syllable: er-TSÄH-ler. The initial Er- is a light vowel, not “air”.",
+          "en": "narrator"
+        },
+        {
+          "de": "Perspektive",
+          "hint": "Stress the third syllable: per-spek-TEE-ve. The final -e is weak.",
+          "en": "perspective"
+        },
+        {
+          "de": "Mehrdeutigkeit",
+          "hint": "Stress the first syllable; the ei in -deut- is a diphthong: MEHR-doi-tig-keit.",
+          "en": "ambiguity"
+        },
+        {
+          "de": "Bildsprache",
+          "hint": "Join the words cleanly: BILT-shpra-khe. The final ch is soft.",
+          "en": "imagery"
+        },
+        {
+          "de": "verschwimmen",
+          "hint": "The prefix ver- is unvoiced; stress the second syllable: fer-SHVIM-men.",
+          "en": "to blur"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 3,
+      "heading": "Interpretation as a school genre",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In German-speaking schools, the Interpretation is a taught genre. Pupils learn to summarise, describe narrative technique, analyse language and then develop a Deutungshypothese supported by Textbelege. The vocabulary in this lesson is therefore not academic decoration; it is the shared language of the classroom and the Abitur examination."
+        },
+        {
+          "kind": "p",
+          "text": "Kafka's Die Verwandlung, published in 1915, is one of the most frequently taught German texts. Kafka was born in Prague in 1883 and wrote in German as part of the German-speaking literary culture of the city. The text's opening is famous for its matter-of-fact tone, and that tone is usually the first thing a class is asked to explain."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "A literature seminar discusses the first sentence. Listen for the difference between a description and an interpretation.",
+      "setting": "A university seminar on Kafka",
+      "lines": [
+        {
+          "speaker": "Studentin",
+          "de": "Ich verstehe den ersten Satz nicht. Ist Gregor wirklich ein Insekt?",
+          "en": "I don't understand the first sentence. Is Gregor really an insect?"
+        },
+        {
+          "speaker": "Student",
+          "de": "Der Text sagt „ein ungeheures Ungeziefer“ — das bleibt absichtlich unbestimmt.",
+          "en": "The text says “a monstrous vermin” — that is deliberately left indeterminate."
+        },
+        {
+          "speaker": "Studentin",
+          "de": "Also ist die Mehrdeutigkeit Teil der Deutung?",
+          "en": "So the ambiguity is part of the interpretation?"
+        },
+        {
+          "speaker": "Student",
+          "de": "Ja. Der Erzähler beschreibt alles sachlich, als wäre es normal.",
+          "en": "Yes. The narrator describes everything matter-of-factly, as if it were normal."
+        },
+        {
+          "speaker": "Studentin",
+          "de": "Das macht die Wirkung unheimlich.",
+          "en": "That makes the effect uncanny."
+        },
+        {
+          "speaker": "Dozent",
+          "de": "Genau. Und achtet darauf, dass der Erzähler nicht mit Kafka gleichzusetzen ist.",
+          "en": "Exactly. And make sure not to equate the narrator with Kafka."
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Erzählzeit, Perspektive und Distanz",
+      "lede": "Literary tenses are not a separate grammar. They are the ordinary forms used with unusual precision.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Device", "Function", "Example", "English"],
+          "rows": [
+            ["Präteritum", "default narrative tense in written fiction", "Er erwachte.", "He woke."],
+            ["Plusquamperfekt", "events before the narrative present", "Er hatte geschlafen.", "He had slept."],
+            ["Historisches Präsens", "immediacy, dramatic focus", "Er öffnet die Tür.", "He opens the door."],
+            ["Erlebte Rede", "free indirect discourse", "Morgen würde er es bereuen.", "Tomorrow he would regret it."],
+            ["Innerer Monolog", "direct thought, often without quotation marks", "Was soll das alles?", "What is all this about?"],
+            ["Auktoriale Perspektive", "narrator knows more than the figures", "Der Erzähler weiß, was später geschieht.", "The narrator knows what happens later."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The Präteritum is the default narrative tense in German fiction, but it does not by itself create distance. The narrator's tone does that.",
+            "Erlebte Rede keeps the third person but borrows a figure's vocabulary and judgments. It is often signalled by modal particles, subjunctive forms or sudden evaluative language.",
+            "A first-person narrator can report only what the “I” knows. A third-person limited narrator can stay close to one figure without becoming that figure.",
+            "The historical present is common in summaries and dramatic passages, but a full novel in the present tense is a deliberate stylistic choice.",
+            "Name the perspective precisely. “Personal” means limited to a figure's perception; “auktorial” means the narrator knows and comments more."
+          ]
+        }
+      ],
+      "tip": "In an essay, use one sentence for the device and one for its effect: Der Erzähler beschreibt das Ungeheuerliche sachlich, wodurch die Verwandlung als Alltäglichkeit erscheint. Observation, then consequence."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 5,
+      "lede": "Test the terms, then test the distinctions between them.",
+      "exercises": [
+        {
+          "id": "c2m2l1-p1",
+          "type": "mcq",
+          "prompt": "Which term describes the angle from which a story is told?",
+          "options": ["die Erzählzeit", "die Erzählperspektive", "die Bildsprache", "der Textbeleg"],
+          "answer": 1,
+          "explanation": "Die Erzählperspektive is the narrative perspective, the angle of knowledge and voice."
+        },
+        {
+          "id": "c2m2l1-p2",
+          "type": "mcq",
+          "prompt": "Which tense is the default narrative tense in German fiction?",
+          "options": ["das Präsens", "das Perfekt", "das Präteritum", "das Futur I"],
+          "answer": 2,
+          "explanation": "Written German fiction normally narrates in the Präteritum. The present tense can be used for immediacy, but it is marked."
+        },
+        {
+          "id": "c2m2l1-p3",
+          "type": "mcq",
+          "prompt": "What does Mehrdeutigkeit mean in literary analysis?",
+          "options": ["A text is badly written.", "A text supports more than one defensible reading.", "A text has no narrator.", "A text uses only one image."],
+          "answer": 1,
+          "explanation": "Mehrdeutigkeit is productive ambiguity: the text allows multiple readings, and the analysis shows what supports each one."
+        },
+        {
+          "id": "c2m2l1-p4",
+          "type": "mcq",
+          "prompt": "Which sentence is the clearest example of erlebte Rede?",
+          "options": ["„Ich komme morgen“, sagte er.", "Morgen würde er es bereuen.", "Er kam am nächsten Tag.", "Der Erzähler weiß alles."],
+          "answer": 1,
+          "explanation": "Erlebte Rede keeps the third person but carries a figure's thought and evaluative stance, often with the subjunctive: Morgen würde er es bereuen."
+        },
+        {
+          "id": "c2m2l1-p5",
+          "type": "mcq",
+          "prompt": "Which statement about the narrator is accurate?",
+          "options": ["The narrator is always the author.", "The narrator is a construction inside the text.", "The narrator must be a character in the story.", "The narrator cannot know anything beyond the first page."],
+          "answer": 1,
+          "explanation": "The narrator is a textual construction. Equating the narrator with the author is a basic error in literary analysis."
+        },
+        {
+          "id": "c2m2l1-p6",
+          "type": "mcq",
+          "prompt": "What is a Motiv?",
+          "options": ["A recurring element that accumulates meaning", "The author's biography", "The grammatical tense of a text", "A summary of the plot"],
+          "answer": 0,
+          "explanation": "A motif is a recurring image, object or situation. Through repetition it gathers meaning, but it is not the same as the theme."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 5,
+      "lede": "Use the analytical term that fits. Watch the gender and the case.",
+      "exercises": [
+        {
+          "id": "c2m2l1-g1",
+          "type": "gap",
+          "prompt": "Der ___ lässt die Grenze zwischen Traum und Wirklichkeit verschwimmen.",
+          "answers": ["Erzähler"],
+          "explanation": "Der Erzähler is the narrator; the verb lässt takes the accusative object die Grenze."
+        },
+        {
+          "id": "c2m2l1-g2",
+          "type": "gap",
+          "prompt": "Die ___ bleibt eng an Gregors Wahrnehmung gebunden.",
+          "answers": ["Erzählperspektive"],
+          "explanation": "Die Erzählperspektive is the narrative perspective; bleiben + an + dative expresses the close binding."
+        },
+        {
+          "id": "c2m2l1-g3",
+          "type": "gap",
+          "prompt": "Das ___ der Verwandlung kehrt in vielen Deutungen wieder.",
+          "answers": ["Motiv"],
+          "explanation": "Das Motiv is the motif; the genitive der Verwandlung identifies it."
+        },
+        {
+          "id": "c2m2l1-g4",
+          "type": "gap",
+          "prompt": "Die ___ des Schlusses hat zu widersprüchlichen Deutungen geführt.",
+          "answers": ["Mehrdeutigkeit"],
+          "explanation": "Die Mehrdeutigkeit is the ambiguity; the genitive des Schlusses shows what is ambiguous."
+        },
+        {
+          "id": "c2m2l1-g5",
+          "type": "gap",
+          "prompt": "Eine schlüssige ___ stützt sich auf Belege im Text.",
+          "answers": ["Deutung"],
+          "explanation": "Die Deutung is the interpretation; sich stützen auf takes the accusative Belege."
+        },
+        {
+          "id": "c2m2l1-g6",
+          "type": "gap",
+          "prompt": "Kafka erzählt die Geschichte im ___.",
+          "answers": ["Präteritum"],
+          "explanation": "The narrative tense is das Präteritum; im is the contraction of in dem."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 4,
+      "lede": "Build analytical sentences. Each one states an observation before its effect.",
+      "exercises": [
+        {
+          "id": "c2m2l1-o1",
+          "type": "order",
+          "prompt": "Build: “The narrator blurs the boundary between dream and reality.”",
+          "tokens": ["zwischen", "Erzähler", "Wirklichkeit", "Der", "Grenze", "lässt", "Traum", "die", "verschwimmen", "und"],
+          "answer": "Der Erzähler lässt die Grenze zwischen Traum und Wirklichkeit verschwimmen.",
+          "explanation": "Lässt is the second-position verb; the infinitive verschwimmen stands at the end of the clause."
+        },
+        {
+          "id": "c2m2l1-o2",
+          "type": "order",
+          "prompt": "Build: “The narrative perspective stays closely bound to Gregor's perception.”",
+          "tokens": ["Wahrnehmung", "Erzählperspektive", "Die", "gebunden", "an", "bleibt", "eng", "Gregors"],
+          "answer": "Die Erzählperspektive bleibt eng an Gregors Wahrnehmung gebunden.",
+          "explanation": "Bleibt … gebunden is a verb-plus-participle frame; an Gregors Wahrnehmung is a dative phrase."
+        },
+        {
+          "id": "c2m2l1-o3",
+          "type": "order",
+          "prompt": "Build: “The motif of transformation recurs in many interpretations.”",
+          "tokens": ["Verwandlung", "wieder", "Motiv", "vielen", "Das", "kehrt", "Deutungen", "der", "in"],
+          "answer": "Das Motiv der Verwandlung kehrt in vielen Deutungen wieder.",
+          "explanation": "The separable verb wiederkehren splits: kehrt … wieder. In vielen Deutungen is a dative plural phrase."
+        },
+        {
+          "id": "c2m2l1-o4",
+          "type": "order",
+          "prompt": "Build: “The interpretation of the ending is disputed.”",
+          "tokens": ["umstritten", "des", "Die", "Schlusses", "Deutung", "ist"],
+          "answer": "Die Deutung des Schlusses ist umstritten.",
+          "explanation": "Des Schlusses is the genitive form; umstritten is a predicate adjective after ist."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 5,
+      "lede": "A seminar teacher models a close reading. Listen for the move from description to effect.",
+      "speaker": "A seminar teacher",
+      "script": [
+        {
+          "speaker": "Dozentin",
+          "de": "Achten Sie im ersten Absatz auf den Ton. Gregor erwacht als Ungeziefer, und der Erzähler beschreibt das wie eine lästige Verspätung.",
+          "en": "Pay attention to the tone in the first paragraph. Gregor wakes up as a vermin, and the narrator describes it like an annoying delay."
+        },
+        {
+          "speaker": "Dozentin",
+          "de": "Dieser sachliche Ton ist keine Neutralität; er erzeugt Komik und Entsetzen zugleich.",
+          "en": "This matter-of-fact tone is not neutrality; it produces comedy and horror at the same time."
+        },
+        {
+          "speaker": "Dozentin",
+          "de": "Die Perspektive bleibt an Gregors Wahrnehmung gebunden, aber der Erzähler ist nicht Gregor.",
+          "en": "The perspective stays bound to Gregor's perception, but the narrator is not Gregor."
+        },
+        {
+          "speaker": "Dozentin",
+          "de": "Wenn Sie deuten, zitieren Sie eine Stelle und erklären Sie, welche Wirkung sie hat.",
+          "en": "When you interpret, quote a passage and explain what effect it has."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2m2l1-lq1",
+          "type": "mcq",
+          "prompt": "What does the teacher ask the students to notice first?",
+          "options": ["The length of the sentences", "The tone of the first paragraph", "The author's biography", "The book cover"],
+          "answer": 1,
+          "explanation": "She asks them to pay attention to the tone in the first paragraph."
+        },
+        {
+          "id": "c2m2l1-lq2",
+          "type": "mcq",
+          "prompt": "What effect does the matter-of-fact tone create, according to the teacher?",
+          "options": ["Pure neutrality", "Comedy and horror at once", "A happy ending", "A historical distance"],
+          "answer": 1,
+          "explanation": "She says the tone produces Komik und Entsetzen zugleich — comedy and horror at the same time."
+        },
+        {
+          "id": "c2m2l1-lq3",
+          "type": "mcq",
+          "prompt": "What should students do when they interpret?",
+          "options": ["Quote a passage and explain its effect", "Summarise the whole plot", "Describe the author's life", "Avoid mentioning the text"],
+          "answer": 0,
+          "explanation": "Her instruction is to quote a passage and explain what effect it has."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 5,
+      "lede": "Give a short interpretive statement, not a plot summary. Name the device and its effect.",
+      "prompt": "Interpret the opening sentence of Die Verwandlung in four sentences. Name the perspective, one motif and one ambiguity.",
+      "model": {
+        "de": "Der erste Satz führt eine Verwandlung ein, ohne sie zu erklären. Der Erzähler berichtet sachlich, als handele es sich um eine Alltäglichkeit. Die Perspektive bleibt an Gregors Wahrnehmung gebunden, doch der Erzähler ist nicht Gregor. Gerade diese Nüchternheit macht das Ungeheuerliche unheimlich.",
+        "en": "The first sentence introduces a transformation without explaining it. The narrator reports matter-of-factly, as if it were an everyday occurrence. The perspective stays bound to Gregor's perception, yet the narrator is not Gregor. It is precisely this sobriety that makes the monstrous uncanny."
+      },
+      "tips": [
+        "Use the literary present: Der Erzähler beschreibt, not Der Erzähler beschrieb.",
+        "Keep author and narrator apart in every sentence. A slip here weakens the whole interpretation.",
+        "End with the effect. A list of devices is not yet an analysis; the claim about Wirkung is what makes it one."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 3,
+      "lede": "These errors are common in otherwise strong essays.",
+      "items": [
+        {
+          "wrong": "Der Erzähler ist Kafka.",
+          "right": "Der Erzähler ist nicht mit dem Autor gleichzusetzen.",
+          "why": "The narrator is a construction inside the text. Kafka wrote the text; he does not speak in it."
+        },
+        {
+          "wrong": "Die Geschichte wird von Gregor erzählt.",
+          "right": "Die Geschichte wird überwiegend aus Gregors Sicht erzählt.",
+          "why": "The narration is third-person and limited to Gregor's perception. Gregor is not the narrator."
+        },
+        {
+          "wrong": "Kafka wollte damit sagen, dass …",
+          "right": "Der Text legt die Deutung nahe, dass …",
+          "why": "Claims about an author's intention are hard to prove. Interpret the text and its effects, not the writer's mind."
+        },
+        {
+          "wrong": "Das Motiv ist dasselbe wie das Thema.",
+          "right": "Ein Motiv ist ein wiederkehrendes Element; das Thema ist der übergreifende Gedanke.",
+          "why": "A motif recurs — a window, a meal, a sound. The theme is the larger idea those recurrences help to build."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions. Score 70% or more to complete the lesson check.",
+      "questions": [
+        {
+          "id": "c2m2l1-a1",
+          "type": "mcq",
+          "prompt": "Which term describes the angle from which a story is told?",
+          "options": ["die Erzählzeit", "die Erzählperspektive", "die Bildsprache", "der Textbeleg"],
+          "answer": 1,
+          "explanation": "Die Erzählperspektive is the narrative perspective, the angle of knowledge and voice."
+        },
+        {
+          "id": "c2m2l1-a2",
+          "type": "mcq",
+          "prompt": "Which tense is the default narrative tense in German fiction?",
+          "options": ["das Präsens", "das Perfekt", "das Präteritum", "das Futur I"],
+          "answer": 2,
+          "explanation": "German fiction normally narrates in the Präteritum; the present is a marked choice."
+        },
+        {
+          "id": "c2m2l1-a3",
+          "type": "mcq",
+          "prompt": "Which sentence is the clearest example of erlebte Rede?",
+          "options": ["„Ich komme morgen“, sagte er.", "Morgen würde er es bereuen.", "Er kam am nächsten Tag.", "Der Erzähler weiß alles."],
+          "answer": 1,
+          "explanation": "Erlebte Rede carries a figure's thought in the third person, often with the subjunctive."
+        },
+        {
+          "id": "c2m2l1-a4",
+          "type": "mcq",
+          "prompt": "Which statement about the narrator is accurate?",
+          "options": ["The narrator is always the author.", "The narrator is a construction inside the text.", "The narrator must be a character.", "The narrator cannot know more than the reader."],
+          "answer": 1,
+          "explanation": "The narrator is a textual construction and must not be equated with the author."
+        },
+        {
+          "id": "c2m2l1-a5",
+          "type": "mcq",
+          "prompt": "What does Mehrdeutigkeit mean?",
+          "options": ["The text is badly written.", "The text supports more than one defensible reading.", "The text has no narrator.", "The text uses only one image."],
+          "answer": 1,
+          "explanation": "Mehrdeutigkeit is productive ambiguity: more than one reading is defensible."
+        },
+        {
+          "id": "c2m2l1-a6",
+          "type": "mcq",
+          "prompt": "What is a Motiv?",
+          "options": ["A recurring element that accumulates meaning", "The author's biography", "The grammatical tense", "A plot summary"],
+          "answer": 0,
+          "explanation": "A motif recurs and gathers meaning; it is not the same as the theme."
+        },
+        {
+          "id": "c2m2l1-a7",
+          "type": "gap",
+          "prompt": "Der ___ lässt die Grenze zwischen Traum und Wirklichkeit verschwimmen.",
+          "answers": ["Erzähler"],
+          "explanation": "Der Erzähler is the narrator."
+        },
+        {
+          "id": "c2m2l1-a8",
+          "type": "gap",
+          "prompt": "Die ___ bleibt eng an Gregors Wahrnehmung gebunden.",
+          "answers": ["Erzählperspektive"],
+          "explanation": "Die Erzählperspektive is the narrative perspective."
+        },
+        {
+          "id": "c2m2l1-a9",
+          "type": "gap",
+          "prompt": "Das ___ der Verwandlung kehrt in vielen Deutungen wieder.",
+          "answers": ["Motiv"],
+          "explanation": "Das Motiv is the motif; the genitive der Verwandlung identifies it."
+        },
+        {
+          "id": "c2m2l1-a10",
+          "type": "gap",
+          "prompt": "Kafka erzählt die Geschichte im ___.",
+          "answers": ["Präteritum"],
+          "explanation": "The narrative tense is das Präteritum."
+        },
+        {
+          "id": "c2m2l1-a11",
+          "type": "order",
+          "prompt": "Build: “The narrator blurs the boundary between dream and reality.”",
+          "tokens": ["zwischen", "Erzähler", "Wirklichkeit", "Der", "Grenze", "lässt", "Traum", "die", "verschwimmen", "und"],
+          "answer": "Der Erzähler lässt die Grenze zwischen Traum und Wirklichkeit verschwimmen.",
+          "explanation": "Lässt is the second-position verb; the infinitive verschwimmen closes the clause."
+        },
+        {
+          "id": "c2m2l1-a12",
+          "type": "order",
+          "prompt": "Build: “The interpretation of the ending is disputed.”",
+          "tokens": ["umstritten", "des", "Die", "Schlusses", "Deutung", "ist"],
+          "answer": "Die Deutung des Schlusses ist umstritten.",
+          "explanation": "Des Schlusses is genitive; umstritten is the predicate adjective."
+        }
+      ]
+    }
+  ]
+}

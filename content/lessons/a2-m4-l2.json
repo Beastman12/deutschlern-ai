@@ -1,0 +1,706 @@
+{
+  "id": "a2-m4-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "a2-m4-l2-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "a2-m4-l2",
+      "prompt": "Describe a film, a flat and a colleague with one adjective each.",
+      "items": [
+        "Ich habe den neuen Film gesehen.",
+        "der neue Film",
+        "die kleine Wohnung",
+        "freundliche Kollegen"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "a2-m4-l2-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "a2-m4-l2",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "a2-m4-l2-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "a2-m4-l2",
+      "lede": "An adjective before a noun needs an ending that matches the article, gender and case.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "After a definite article, adjectives take a small set of endings. In the nominative, masculine and neuter nouns take -e (der neue Film, das kleine Haus), while feminine and plural nouns take -e as well (die kleine Wohnung, die freundlichen Kollegen)."
+        },
+        {
+          "kind": "p",
+          "text": "In the accusative, only the masculine form changes: den neuen Film. After ein-words, the adjective often carries the ending that would otherwise be missing: ein neuer Film, eine kleine Wohnung, ein kleines Haus."
+        },
+        {
+          "kind": "note",
+          "title": "Learn the article and adjective together",
+          "text": "Do not memorise endings in isolation. Learn chunks such as der neue Film and den neuen Film as pairs."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l2-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "a2-m4-l2",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "der neue Film",
+              "masculine nominative"
+            ],
+            [
+              "den neuen Film",
+              "masculine accusative"
+            ],
+            [
+              "die kleine Wohnung",
+              "feminine"
+            ],
+            [
+              "freundliche Kollegen",
+              "plural"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "After der/die/das, most adjectives take -e or -en.",
+            "After ein/eine, the adjective often shows the gender: ein neuer Film.",
+            "Adjectives after sein take no ending: Der Film ist neu."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l2-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "a2-m4-l2",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "der neue Film",
+          "en": "the new film",
+          "article": "der",
+          "example": "Ich habe den neuen Film gesehen.",
+          "exampleEn": "I have seen the new film."
+        },
+        {
+          "de": "die kleine Wohnung",
+          "en": "the small flat",
+          "article": "die",
+          "example": "Die kleine Wohnung ist günstig.",
+          "exampleEn": "The small flat is cheap."
+        },
+        {
+          "de": "freundliche Kollegen",
+          "en": "friendly colleagues",
+          "example": "Ich habe freundliche Kollegen.",
+          "exampleEn": "I have friendly colleagues."
+        },
+        {
+          "de": "günstig",
+          "en": "good value, cheap",
+          "example": "Das ist ein günstiger Preis.",
+          "exampleEn": "That is a good price."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l2-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "a2-m4-l2",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Ich habe den neuen Film gesehen.",
+          "en": "I have seen the new film.",
+          "note": "Masculine accusative: den neuen."
+        },
+        {
+          "de": "Die kleine Wohnung ist sehr hell.",
+          "en": "The small flat is very bright.",
+          "note": "Feminine nominative: die kleine."
+        },
+        {
+          "de": "Wir suchen ein günstiges Hotel.",
+          "en": "We are looking for a cheap hotel.",
+          "note": "Neuter after ein: ein günstiges."
+        },
+        {
+          "de": "Die freundlichen Kollegen helfen mir.",
+          "en": "The friendly colleagues help me.",
+          "note": "Plural after die: -en."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l2-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "a2-m4-l2",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "der neue Film",
+          "hint": "The -e in neue is a clear, short schwa: NOY-e."
+        },
+        {
+          "de": "die kleine Wohnung",
+          "hint": "The ie in klein is like “ee”: KLINE-e."
+        },
+        {
+          "de": "günstig",
+          "hint": "The ü is rounded; the -ig ending sounds like -ikh."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l2-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "a2-m4-l2",
+      "heading": "Describing homes and films",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Flat-hunting in Germany means reading many short descriptions full of adjective endings: “helle 2-Zimmer-Wohnung”, “ruhige Lage”, “günstige Miete”. Recognising the endings helps you scan listings quickly."
+        },
+        {
+          "kind": "p",
+          "text": "In reviews, adjectives carry the opinion: “ein spannender Film”, “eine langweilige Handlung”. German reviewers often use a noun phrase rather than a full sentence, so the adjective ending matters."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l2-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "a2-m4-l2",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "Two friends talk about a new flat.",
+      "lines": [
+        {
+          "speaker": "Lena",
+          "de": "Wie ist deine neue Wohnung?",
+          "en": "How is your new flat?"
+        },
+        {
+          "speaker": "Omar",
+          "de": "Die kleine Wohnung ist sehr hell.",
+          "en": "The small flat is very bright."
+        },
+        {
+          "speaker": "Lena",
+          "de": "Und die Küche?",
+          "en": "And the kitchen?"
+        },
+        {
+          "speaker": "Omar",
+          "de": "Ich habe eine moderne Küche und einen großen Balkon.",
+          "en": "I have a modern kitchen and a large balcony."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l2-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "a2-m4-l2",
+      "heading": "Adjective endings after articles",
+      "lede": "The article carries the case; the adjective agrees with it.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "der neue Film",
+              "masculine nominative"
+            ],
+            [
+              "den neuen Film",
+              "masculine accusative"
+            ],
+            [
+              "die kleine Wohnung",
+              "feminine nominative/accusative"
+            ],
+            [
+              "ein neuer Film",
+              "masculine after ein"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "After sein, adjectives do not take endings: Der Film ist neu. Endings appear only when the adjective stands before a noun."
+        }
+      ],
+      "tip": "For the accusative masculine, remember the pair den neuen. The other forms keep -e in the singular."
+    },
+    {
+      "id": "a2-m4-l2-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "a2-m4-l2",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "a2-m4-l2-p-m1",
+          "type": "mcq",
+          "prompt": "Ich sehe ___ Film.",
+          "options": [
+            "der neue",
+            "den neuen",
+            "dem neuen",
+            "das neue"
+          ],
+          "answer": 1,
+          "explanation": "Film is masculine and the direct object, so den neuen."
+        },
+        {
+          "id": "a2-m4-l2-p-m2",
+          "type": "mcq",
+          "prompt": "___ Wohnung ist sehr hell.",
+          "options": [
+            "Der kleine",
+            "Die kleine",
+            "Das kleine",
+            "Den kleinen"
+          ],
+          "answer": 1,
+          "explanation": "Wohnung is feminine, so die kleine."
+        },
+        {
+          "id": "a2-m4-l2-p-m3",
+          "type": "mcq",
+          "prompt": "Wir suchen ___ Hotel.",
+          "options": [
+            "ein günstiges",
+            "eine günstige",
+            "einen günstigen",
+            "ein günstiger"
+          ],
+          "answer": 0,
+          "explanation": "Hotel is neuter, so ein günstiges."
+        },
+        {
+          "id": "a2-m4-l2-p-m4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Der Film ist neu.",
+            "Der Film ist neuer.",
+            "Der neue Film ist neu.",
+            "Der Film ist neuen."
+          ],
+          "answer": 0,
+          "explanation": "After sein, the adjective has no ending."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l2-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "a2-m4-l2",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "a2-m4-l2-p-g1",
+          "type": "gap",
+          "prompt": "Ich habe ___ neuen Film gesehen. (the)",
+          "answers": [
+            "den"
+          ],
+          "explanation": "Film is masculine and the direct object, so den."
+        },
+        {
+          "id": "a2-m4-l2-p-g2",
+          "type": "gap",
+          "prompt": "Die ___ Wohnung ist günstig. (small)",
+          "answers": [
+            "kleine"
+          ],
+          "explanation": "Feminine noun after die takes -e."
+        },
+        {
+          "id": "a2-m4-l2-p-g3",
+          "type": "gap",
+          "prompt": "Das ist ein ___ Preis. (good)",
+          "answers": [
+            "guter"
+          ],
+          "explanation": "Preis is masculine, and after ein the adjective takes -er."
+        },
+        {
+          "id": "a2-m4-l2-p-g4",
+          "type": "gap",
+          "prompt": "Die ___ Kollegen helfen mir. (friendly)",
+          "answers": [
+            "freundlichen"
+          ],
+          "explanation": "Plural after die takes -en."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l2-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "a2-m4-l2",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "a2-m4-l2-p-o1",
+          "type": "order",
+          "prompt": "Build: “I have seen the new film.”",
+          "tokens": [
+            "den",
+            "Ich",
+            "neuen",
+            "habe",
+            "Film",
+            "gesehen."
+          ],
+          "answer": "Ich habe den neuen Film gesehen.",
+          "explanation": "Den neuen Film is the masculine accusative object."
+        },
+        {
+          "id": "a2-m4-l2-p-o2",
+          "type": "order",
+          "prompt": "Build: “The small flat is cheap.”",
+          "tokens": [
+            "günstig.",
+            "Die",
+            "kleine",
+            "Wohnung",
+            "ist"
+          ],
+          "answer": "Die kleine Wohnung ist günstig.",
+          "explanation": "Die kleine agrees with the feminine noun."
+        },
+        {
+          "id": "a2-m4-l2-p-o3",
+          "type": "order",
+          "prompt": "Build: “We are looking for a cheap hotel.”",
+          "tokens": [
+            "ein",
+            "Wir",
+            "günstiges",
+            "suchen",
+            "Hotel."
+          ],
+          "answer": "Wir suchen ein günstiges Hotel.",
+          "explanation": "Hotel is neuter, so ein günstiges."
+        },
+        {
+          "id": "a2-m4-l2-p-o4",
+          "type": "order",
+          "prompt": "Build: “The friendly colleagues help me.”",
+          "tokens": [
+            "mir.",
+            "Die",
+            "freundlichen",
+            "Kollegen",
+            "helfen"
+          ],
+          "answer": "Die freundlichen Kollegen helfen mir.",
+          "explanation": "The plural adjective after die takes -en."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l2-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "a2-m4-l2",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Bei der Wohnungsbesichtigung",
+      "script": [
+        {
+          "speaker": "Maklerin",
+          "de": "Die helle Wohnung hat zwei Zimmer.",
+          "en": "The bright flat has two rooms."
+        },
+        {
+          "speaker": "Interessent",
+          "de": "Gibt es auch einen großen Balkon?",
+          "en": "Is there also a large balcony?"
+        },
+        {
+          "speaker": "Maklerin",
+          "de": "Ja, und die moderne Küche ist neu.",
+          "en": "Yes, and the modern kitchen is new."
+        },
+        {
+          "speaker": "Interessent",
+          "de": "Das klingt gut. Ist die Miete günstig?",
+          "en": "That sounds good. Is the rent reasonable?"
+        }
+      ],
+      "questions": [
+        {
+          "id": "a2-m4-l2-l1",
+          "type": "mcq",
+          "prompt": "How many rooms does the flat have?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+          ],
+          "answer": 1,
+          "explanation": "The agent says “hat zwei Zimmer”."
+        },
+        {
+          "id": "a2-m4-l2-l2",
+          "type": "mcq",
+          "prompt": "What is new?",
+          "options": [
+            "The balcony",
+            "The kitchen",
+            "The bathroom",
+            "The building"
+          ],
+          "answer": 1,
+          "explanation": "The agent says “die moderne Küche ist neu”."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l2-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "a2-m4-l2",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Describe your home or a place you know with three adjective + noun phrases.",
+      "model": {
+        "de": "Ich habe eine kleine Wohnung. Die helle Küche ist neu. Der große Balkon ist mein Lieblingsort.",
+        "en": "I have a small flat. The bright kitchen is new. The large balcony is my favourite place."
+      },
+      "tips": [
+        "Use die + -e for feminine nouns and der + -e for masculine subjects.",
+        "Use den + -en when the masculine noun is a direct object.",
+        "Keep adjectives after sein ending-free."
+      ]
+    },
+    {
+      "id": "a2-m4-l2-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "a2-m4-l2",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Ich sehe der neue Film.",
+          "right": "Ich sehe den neuen Film.",
+          "why": "The masculine accusative article is den and the adjective takes -en."
+        },
+        {
+          "wrong": "Die klein Wohnung ist hell.",
+          "right": "Die kleine Wohnung ist hell.",
+          "why": "The adjective needs the ending -e after die."
+        },
+        {
+          "wrong": "Der Film ist neuer.",
+          "right": "Der Film ist neu.",
+          "why": "After sein, adjectives do not take comparative endings unless you are actually comparing."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l2-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "a2-m4-l2",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "a2-m4-l2-a1",
+          "type": "mcq",
+          "prompt": "Ich sehe ___ Film.",
+          "options": [
+            "der neue",
+            "den neuen",
+            "dem neuen",
+            "das neue"
+          ],
+          "answer": 1,
+          "explanation": "Film is masculine and the direct object, so den neuen."
+        },
+        {
+          "id": "a2-m4-l2-a2",
+          "type": "mcq",
+          "prompt": "___ Wohnung ist sehr hell.",
+          "options": [
+            "Der kleine",
+            "Die kleine",
+            "Das kleine",
+            "Den kleinen"
+          ],
+          "answer": 1,
+          "explanation": "Wohnung is feminine, so die kleine."
+        },
+        {
+          "id": "a2-m4-l2-a3",
+          "type": "mcq",
+          "prompt": "Wir suchen ___ Hotel.",
+          "options": [
+            "ein günstiges",
+            "eine günstige",
+            "einen günstigen",
+            "ein günstiger"
+          ],
+          "answer": 0,
+          "explanation": "Hotel is neuter, so ein günstiges."
+        },
+        {
+          "id": "a2-m4-l2-a4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Der Film ist neu.",
+            "Der Film ist neuer.",
+            "Der neue Film ist neu.",
+            "Der Film ist neuen."
+          ],
+          "answer": 0,
+          "explanation": "After sein, the adjective has no ending."
+        },
+        {
+          "id": "a2-m4-l2-a5",
+          "type": "gap",
+          "prompt": "Ich habe ___ neuen Film gesehen. (the)",
+          "answers": [
+            "den"
+          ],
+          "explanation": "Film is masculine and the direct object, so den."
+        },
+        {
+          "id": "a2-m4-l2-a6",
+          "type": "gap",
+          "prompt": "Die ___ Wohnung ist günstig. (small)",
+          "answers": [
+            "kleine"
+          ],
+          "explanation": "Feminine noun after die takes -e."
+        },
+        {
+          "id": "a2-m4-l2-a7",
+          "type": "gap",
+          "prompt": "Das ist ein ___ Preis. (good)",
+          "answers": [
+            "guter"
+          ],
+          "explanation": "Preis is masculine, and after ein the adjective takes -er."
+        },
+        {
+          "id": "a2-m4-l2-a8",
+          "type": "gap",
+          "prompt": "Die ___ Kollegen helfen mir. (friendly)",
+          "answers": [
+            "freundlichen"
+          ],
+          "explanation": "Plural after die takes -en."
+        },
+        {
+          "id": "a2-m4-l2-a9",
+          "type": "order",
+          "prompt": "Build: “I have seen the new film.”",
+          "tokens": [
+            "den",
+            "Ich",
+            "neuen",
+            "habe",
+            "Film",
+            "gesehen."
+          ],
+          "answer": "Ich habe den neuen Film gesehen.",
+          "explanation": "Den neuen Film is the masculine accusative object."
+        },
+        {
+          "id": "a2-m4-l2-a10",
+          "type": "order",
+          "prompt": "Build: “The small flat is cheap.”",
+          "tokens": [
+            "günstig.",
+            "Die",
+            "kleine",
+            "Wohnung",
+            "ist"
+          ],
+          "answer": "Die kleine Wohnung ist günstig.",
+          "explanation": "Die kleine agrees with the feminine noun."
+        },
+        {
+          "id": "a2-m4-l2-a11",
+          "type": "order",
+          "prompt": "Build: “We are looking for a cheap hotel.”",
+          "tokens": [
+            "ein",
+            "Wir",
+            "günstiges",
+            "suchen",
+            "Hotel."
+          ],
+          "answer": "Wir suchen ein günstiges Hotel.",
+          "explanation": "Hotel is neuter, so ein günstiges."
+        },
+        {
+          "id": "a2-m4-l2-a12",
+          "type": "order",
+          "prompt": "Build: “The friendly colleagues help me.”",
+          "tokens": [
+            "mir.",
+            "Die",
+            "freundlichen",
+            "Kollegen",
+            "helfen"
+          ],
+          "answer": "Die freundlichen Kollegen helfen mir.",
+          "explanation": "The plural adjective after die takes -en."
+        }
+      ]
+    }
+  ]
+}

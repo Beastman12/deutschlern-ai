@@ -1,0 +1,675 @@
+{
+  "id": "c1-m3-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "c1-m3-l2-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "c1-m3-l2",
+      "prompt": "Describe a disagreement you mediated. What did each side actually want?",
+      "items": [
+        "Lassen Sie uns auf die gemeinsamen Interessen konzentrieren.",
+        "vermitteln",
+        "die Interessen",
+        "die Lösung"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "c1-m3-l2-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "c1-m3-l2",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "c1-m3-l2-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "c1-m3-l2",
+      "lede": "Mediation moves the conversation from positions to interests, and from blame to shared options.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A position is what someone says they want; an interest is why they want it. “Wir brauchen mehr Personal” is a position; “we are afraid of missing deadlines” may be the interest. Mediation works by making interests visible on both sides."
+        },
+        {
+          "kind": "p",
+          "text": "Use diplomatic language to reframe: “Wenn ich Sie richtig verstehe, geht es Ihnen vor allem um …”. Summarise both positions fairly before proposing options. A solution that addresses the underlying interests is more durable than a compromise on the stated positions."
+        },
+        {
+          "kind": "note",
+          "title": "Slow down to speed up",
+          "text": "The first minutes of a mediation are for understanding, not solving. A premature solution often ignores the real interest."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l2-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "c1-m3-l2",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "reframe",
+              "Wenn ich Sie richtig verstehe, geht es Ihnen vor allem um …"
+            ],
+            [
+              "summarise both sides",
+              "Auf der einen Seite … auf der anderen Seite …"
+            ],
+            [
+              "propose options",
+              "Lassen Sie uns auf die gemeinsamen Interessen konzentrieren."
+            ],
+            [
+              "make a concession",
+              "Wir könnten Ihnen in diesem Punkt entgegenkommen."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "“Entgegenkommen” takes the dative: Ihnen entgegenkommen.",
+            "Use “einerseits … andererseits” to present two positions fairly.",
+            "Avoid blame language: “Es ist passiert” rather than “Sie haben …”."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l2-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "c1-m3-l2",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "vermitteln",
+          "en": "to mediate",
+          "example": "Ich versuche, zwischen den beiden Teams zu vermitteln.",
+          "exampleEn": "I am trying to mediate between the two teams."
+        },
+        {
+          "de": "die Interessen",
+          "en": "interests",
+          "article": "die",
+          "example": "Lassen Sie uns auf die gemeinsamen Interessen konzentrieren.",
+          "exampleEn": "Let us focus on the shared interests."
+        },
+        {
+          "de": "die Lösung",
+          "en": "solution",
+          "article": "die",
+          "plural": "die Lösungen",
+          "example": "Wir suchen eine Lösung, die beide Seiten akzeptieren.",
+          "exampleEn": "We are looking for a solution that both sides accept."
+        },
+        {
+          "de": "entgegenkommen",
+          "en": "to accommodate, to meet halfway",
+          "example": "Wir könnten Ihnen bei der Frist entgegenkommen.",
+          "exampleEn": "We could accommodate you on the deadline."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l2-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "c1-m3-l2",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Lassen Sie uns auf die gemeinsamen Interessen konzentrieren.",
+          "en": "Let us focus on the shared interests.",
+          "note": "A standard mediation move."
+        },
+        {
+          "de": "Wenn ich Sie richtig verstehe, geht es Ihnen vor allem um Planungssicherheit.",
+          "en": "If I understand you correctly, your main concern is planning certainty.",
+          "note": "Reframing a position as an interest."
+        },
+        {
+          "de": "Auf der einen Seite braucht das Team Zeit, auf der anderen Seite steht die Frist.",
+          "en": "On the one hand the team needs time, on the other hand there is the deadline.",
+          "note": "A balanced summary of both sides."
+        },
+        {
+          "de": "Wir könnten Ihnen bei der Frist entgegenkommen.",
+          "en": "We could accommodate you on the deadline.",
+          "note": "A concrete concession."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l2-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "c1-m3-l2",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "vermitteln",
+          "hint": "Stress the second syllable: fer-MIT-teln."
+        },
+        {
+          "de": "die Interessen",
+          "hint": "Stress the third syllable: in-te-RES-sen."
+        },
+        {
+          "de": "entgegenkommen",
+          "hint": "Stress the second syllable: ent-GEH-gen-ko-men."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l2-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "c1-m3-l2",
+      "heading": "Mediation and directness",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German workplace culture values directness, but mediation still requires care. Naming a problem directly is acceptable; assigning blame is not."
+        },
+        {
+          "kind": "p",
+          "text": "A mediator often summarises what each side has said before proposing anything. This “active summary” is a sign of respect and prevents escalation."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l2-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "c1-m3-l2",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A manager mediates between two teams with conflicting deadlines.",
+      "lines": [
+        {
+          "speaker": "Managerin",
+          "de": "Wenn ich Sie richtig verstehe, geht es Ihnen vor allem um Planungssicherheit.",
+          "en": "If I understand you correctly, your main concern is planning certainty."
+        },
+        {
+          "speaker": "Team A",
+          "de": "Genau. Wir können nicht jede Woche neue Prioritäten bekommen.",
+          "en": "Exactly. We cannot get new priorities every week."
+        },
+        {
+          "speaker": "Team B",
+          "de": "Wir brauchen aber schnelle Ergebnisse für den Kunden.",
+          "en": "But we need fast results for the client."
+        },
+        {
+          "speaker": "Managerin",
+          "de": "Auf der einen Seite steht die Planung, auf der anderen die Frist. Lassen Sie uns eine Lösung suchen, die beides berücksichtigt.",
+          "en": "On the one hand there is planning, on the other the deadline. Let us look for a solution that considers both."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l2-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "c1-m3-l2",
+      "heading": "Mediation language",
+      "lede": "Reframe, summarise and propose without taking sides.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Wenn ich Sie richtig verstehe, …",
+              "reframe an interest"
+            ],
+            [
+              "Auf der einen Seite … auf der anderen Seite …",
+              "summarise both sides"
+            ],
+            [
+              "Wir könnten Ihnen entgegenkommen.",
+              "offer a concession"
+            ],
+            [
+              "Lassen Sie uns … konzentrieren.",
+              "propose a focus"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "“Entgegenkommen” is separable and takes the dative: Wir kommen Ihnen entgegen. The prefix comes at the end in a main clause."
+        }
+      ],
+      "tip": "Repeat the other side’s interest in your own words before you respond. It lowers the temperature and buys you time."
+    },
+    {
+      "id": "c1-m3-l2-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "c1-m3-l2",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "c1-m3-l2-p-m1",
+          "type": "mcq",
+          "prompt": "Wir könnten Ihnen bei der Frist ___.",
+          "options": [
+            "entgegenkommen",
+            "entgegenkommt",
+            "kommen entgegen",
+            "entgegen"
+          ],
+          "answer": 0,
+          "explanation": "After the modal, the infinitive entgegenkommen stays at the end."
+        },
+        {
+          "id": "c1-m3-l2-p-m2",
+          "type": "mcq",
+          "prompt": "Which phrase reframes an interest?",
+          "options": [
+            "Sie haben unrecht.",
+            "Wenn ich Sie richtig verstehe, geht es Ihnen vor allem um …",
+            "Das ist nicht mein Problem.",
+            "Sie müssen sich ändern."
+          ],
+          "answer": 1,
+          "explanation": "It checks understanding and names the underlying concern."
+        },
+        {
+          "id": "c1-m3-l2-p-m3",
+          "type": "mcq",
+          "prompt": "Which pair presents both sides fairly?",
+          "options": [
+            "Einerseits … andererseits …",
+            "Zwar … obwohl …",
+            "Weil … deshalb …",
+            "Sowohl … als auch …"
+          ],
+          "answer": 0,
+          "explanation": "Einerseits … andererseits presents two contrasting sides."
+        },
+        {
+          "id": "c1-m3-l2-p-m4",
+          "type": "mcq",
+          "prompt": "Which verb means to mediate?",
+          "options": [
+            "vermitteln",
+            "vermeiden",
+            "verhandeln",
+            "verursachen"
+          ],
+          "answer": 0,
+          "explanation": "Vermitteln means to mediate."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l2-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m3-l2",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "c1-m3-l2-p-g1",
+          "type": "gap",
+          "prompt": "Wir könnten Ihnen bei der Frist ___.",
+          "answers": [
+            "entgegenkommen"
+          ],
+          "explanation": "Entgegenkommen means to accommodate."
+        },
+        {
+          "id": "c1-m3-l2-p-g2",
+          "type": "gap",
+          "prompt": "Lassen Sie uns auf die gemeinsamen ___ konzentrieren.",
+          "answers": [
+            "Interessen"
+          ],
+          "explanation": "Interessen means interests."
+        },
+        {
+          "id": "c1-m3-l2-p-g3",
+          "type": "gap",
+          "prompt": "Ich versuche, zwischen den Teams zu ___.",
+          "answers": [
+            "vermitteln"
+          ],
+          "explanation": "Vermitteln means to mediate."
+        },
+        {
+          "id": "c1-m3-l2-p-g4",
+          "type": "gap",
+          "prompt": "Auf der einen Seite …, auf der ___ Seite …",
+          "answers": [
+            "anderen"
+          ],
+          "explanation": "The fixed pair is auf der einen Seite … auf der anderen Seite."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l2-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m3-l2",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "c1-m3-l2-p-o1",
+          "type": "order",
+          "prompt": "Build: “Let us focus on the shared interests.”",
+          "tokens": [
+            "auf",
+            "Lassen",
+            "die",
+            "Sie",
+            "gemeinsamen",
+            "uns",
+            "Interessen",
+            "konzentrieren."
+          ],
+          "answer": "Lassen Sie uns auf die gemeinsamen Interessen konzentrieren.",
+          "explanation": "Lassen Sie uns is followed by the infinitive at the end."
+        },
+        {
+          "id": "c1-m3-l2-p-o2",
+          "type": "order",
+          "prompt": "Build: “We could accommodate you on the deadline.”",
+          "tokens": [
+            "bei",
+            "Wir",
+            "der",
+            "könnten",
+            "Ihnen",
+            "Frist",
+            "entgegenkommen."
+          ],
+          "answer": "Wir könnten Ihnen bei der Frist entgegenkommen.",
+          "explanation": "The infinitive entgegenkommen closes the sentence."
+        },
+        {
+          "id": "c1-m3-l2-p-o3",
+          "type": "order",
+          "prompt": "Build: “I am trying to mediate between the teams.”",
+          "tokens": [
+            "zwischen",
+            "Ich",
+            "den",
+            "versuche,",
+            "Teams",
+            "zu",
+            "vermitteln."
+          ],
+          "answer": "Ich versuche, zwischen den Teams zu vermitteln.",
+          "explanation": "The zu-infinitive comes at the end."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l2-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "c1-m3-l2",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Ein Gespräch mit einer Mediatorin",
+      "script": [
+        {
+          "speaker": "Moderator",
+          "de": "Wie beginnen Sie eine mediation?",
+          "en": "How do you begin a mediation?"
+        },
+        {
+          "speaker": "Mediatorin",
+          "de": "Ich frage zuerst nach den Interessen, nicht nach den Positionen.",
+          "en": "I first ask about interests, not positions."
+        },
+        {
+          "speaker": "Moderator",
+          "de": "Und wenn die Fronten verhärtet sind?",
+          "en": "And when the fronts are hardened?"
+        },
+        {
+          "speaker": "Mediatorin",
+          "de": "Dann fasse ich beide Seiten zusammen und suche nach einer gemeinsamen Lösung.",
+          "en": "Then I summarise both sides and look for a shared solution."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c1-m3-l2-l1",
+          "type": "mcq",
+          "prompt": "What does the mediator ask about first?",
+          "options": [
+            "Positions",
+            "Interests",
+            "Costs",
+            "Deadlines"
+          ],
+          "answer": 1,
+          "explanation": "She asks about interests, not positions."
+        },
+        {
+          "id": "c1-m3-l2-l2",
+          "type": "mcq",
+          "prompt": "What does she do when the fronts are hardened?",
+          "options": [
+            "End the mediation",
+            "Summarise both sides and look for a shared solution",
+            "Choose a winner",
+            "Call a lawyer"
+          ],
+          "answer": 1,
+          "explanation": "She summarises both sides and searches for a shared solution."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l2-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "c1-m3-l2",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Mediate a small conflict: name both interests, summarise them fairly and propose one option.",
+      "model": {
+        "de": "Wenn ich Sie richtig verstehe, geht es Ihnen vor allem um Planungssicherheit. Auf der einen Seite braucht das Team Zeit, auf der anderen Seite steht die Frist. Lassen Sie uns eine Lösung suchen, die beides berücksichtigt.",
+        "en": "If I understand you correctly, your main concern is planning certainty. On the one hand the team needs time, on the other hand there is the deadline. Let us look for a solution that considers both."
+      },
+      "tips": [
+        "Name interests, not positions.",
+        "Summarise both sides before proposing anything.",
+        "Offer one concrete option, not a list."
+      ]
+    },
+    {
+      "id": "c1-m3-l2-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "c1-m3-l2",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Wir können Ihnen bei der Frist entgegenkommen.",
+          "right": "Wir können Ihnen bei der Frist entgegenkommen.",
+          "why": "This sentence is correct; note that entgegenkommen takes the dative Ihnen."
+        },
+        {
+          "wrong": "Wir kommen Ihnen bei der Frist entgegenkommen.",
+          "right": "Wir kommen Ihnen bei der Frist entgegen.",
+          "why": "The separable prefix replaces the full infinitive in a main clause."
+        },
+        {
+          "wrong": "Lassen Sie uns auf die gemeinsamen Interessen konzentrieren uns.",
+          "right": "Lassen Sie uns auf die gemeinsamen Interessen konzentrieren.",
+          "why": "The reflexive pronoun appears once, right after uns."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l2-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "c1-m3-l2",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "c1-m3-l2-a1",
+          "type": "mcq",
+          "prompt": "Wir könnten Ihnen bei der Frist ___.",
+          "options": [
+            "entgegenkommen",
+            "entgegenkommt",
+            "kommen entgegen",
+            "entgegen"
+          ],
+          "answer": 0,
+          "explanation": "After the modal, the infinitive entgegenkommen stays at the end."
+        },
+        {
+          "id": "c1-m3-l2-a2",
+          "type": "mcq",
+          "prompt": "Which phrase reframes an interest?",
+          "options": [
+            "Sie haben unrecht.",
+            "Wenn ich Sie richtig verstehe, geht es Ihnen vor allem um …",
+            "Das ist nicht mein Problem.",
+            "Sie müssen sich ändern."
+          ],
+          "answer": 1,
+          "explanation": "It checks understanding and names the underlying concern."
+        },
+        {
+          "id": "c1-m3-l2-a3",
+          "type": "mcq",
+          "prompt": "Which pair presents both sides fairly?",
+          "options": [
+            "Einerseits … andererseits …",
+            "Zwar … obwohl …",
+            "Weil … deshalb …",
+            "Sowohl … als auch …"
+          ],
+          "answer": 0,
+          "explanation": "Einerseits … andererseits presents two contrasting sides."
+        },
+        {
+          "id": "c1-m3-l2-a4",
+          "type": "mcq",
+          "prompt": "Which verb means to mediate?",
+          "options": [
+            "vermitteln",
+            "vermeiden",
+            "verhandeln",
+            "verursachen"
+          ],
+          "answer": 0,
+          "explanation": "Vermitteln means to mediate."
+        },
+        {
+          "id": "c1-m3-l2-a5",
+          "type": "gap",
+          "prompt": "Wir könnten Ihnen bei der Frist ___.",
+          "answers": [
+            "entgegenkommen"
+          ],
+          "explanation": "Entgegenkommen means to accommodate."
+        },
+        {
+          "id": "c1-m3-l2-a6",
+          "type": "gap",
+          "prompt": "Lassen Sie uns auf die gemeinsamen ___ konzentrieren.",
+          "answers": [
+            "Interessen"
+          ],
+          "explanation": "Interessen means interests."
+        },
+        {
+          "id": "c1-m3-l2-a7",
+          "type": "gap",
+          "prompt": "Ich versuche, zwischen den Teams zu ___.",
+          "answers": [
+            "vermitteln"
+          ],
+          "explanation": "Vermitteln means to mediate."
+        },
+        {
+          "id": "c1-m3-l2-a8",
+          "type": "gap",
+          "prompt": "Auf der einen Seite …, auf der ___ Seite …",
+          "answers": [
+            "anderen"
+          ],
+          "explanation": "The fixed pair is auf der einen Seite … auf der anderen Seite."
+        },
+        {
+          "id": "c1-m3-l2-a9",
+          "type": "order",
+          "prompt": "Build: “Let us focus on the shared interests.”",
+          "tokens": [
+            "auf",
+            "Lassen",
+            "die",
+            "Sie",
+            "gemeinsamen",
+            "uns",
+            "Interessen",
+            "konzentrieren."
+          ],
+          "answer": "Lassen Sie uns auf die gemeinsamen Interessen konzentrieren.",
+          "explanation": "Lassen Sie uns is followed by the infinitive at the end."
+        },
+        {
+          "id": "c1-m3-l2-a10",
+          "type": "order",
+          "prompt": "Build: “We could accommodate you on the deadline.”",
+          "tokens": [
+            "bei",
+            "Wir",
+            "der",
+            "könnten",
+            "Ihnen",
+            "Frist",
+            "entgegenkommen."
+          ],
+          "answer": "Wir könnten Ihnen bei der Frist entgegenkommen.",
+          "explanation": "The infinitive entgegenkommen closes the sentence."
+        }
+      ]
+    }
+  ]
+}

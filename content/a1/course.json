@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "id": "a1",
+  "code": "A1",
+  "name": "Beginner",
+  "title": "First Words, First Confidence",
+  "tagline": "Introduce yourself, ask simple questions and master the everyday basics.",
+  "overview": "A1 is where German starts to feel possible. You will build your first sentences from the ground up: sounds, greetings, core verbs, gender and the cases that hold the language together. Every lesson pairs a clear English explanation with real German you can use the same day.",
+  "levelGoal": "By the end of A1 you can introduce yourself, ask and answer simple questions, shop, order food, and describe your family and daily routine in short, connected sentences.",
+  "hours": 90,
+  "color": "indigo",
+  "canDo": [
+    "Greet people formally and informally and introduce yourself.",
+    "Ask and answer simple questions about your home, family and work.",
+    "Order food, shop for everyday items and ask for prices.",
+    "Describe your daily routine and ask for directions."
+  ],
+  "modules": [
+    {
+      "id": "a1-m1",
+      "number": 1,
+      "title": "First Contact",
+      "titleDe": "Erste Kontakte",
+      "summary": "The sounds, greetings and numbers you need to make a confident first impression.",
+      "lessons": [
+        {
+          "id": "a1-m1-l1",
+          "number": 1,
+          "title": "The German Alphabet & Sounds",
+          "titleDe": "Alphabet und Laute",
+          "summary": "Meet the alphabet, the umlauts and the German sounds that English speakers find most surprising.",
+          "minutes": 18,
+          "skills": ["Pronunciation", "Vocabulary"],
+          "objectives": [
+            "Pronounce all 26 letters and the umlauts ä, ö and ü.",
+            "Distinguish the sounds ch, sch, ei and ie.",
+            "Spell your own name using the German alphabet."
+          ],
+          "vocab": ["das Alphabet", "der Buchstabe", "der Umlaut", "das Eszett"],
+          "keyPhrase": { "de": "Wie buchstabiert man das?", "en": "How do you spell that?" },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "a1-m1-l2",
+          "number": 2,
+          "title": "Greetings & Introductions",
+          "titleDe": "Begrüßungen und Vorstellung",
+          "summary": "Greet people appropriately at any time of day and introduce yourself with name and origin.",
+          "minutes": 20,
+          "skills": ["Speaking", "Vocabulary"],
+          "objectives": [
+            "Choose between informal du and formal Sie.",
+            "Introduce your name and where you come from.",
+            "Ask someone their name and where they are from."
+          ],
+          "vocab": ["Guten Tag", "Hallo", "Ich heiße …", "Woher kommst du?"],
+          "keyPhrase": { "de": "Freut mich, dich kennenzulernen.", "en": "Nice to meet you." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "a1-m1-l3",
+          "number": 3,
+          "title": "Numbers, Dates & Time",
+          "titleDe": "Zahlen, Datum und Uhrzeit",
+          "summary": "Count from zero to one hundred, tell the time the German way and talk about days and months.",
+          "minutes": 22,
+          "skills": ["Vocabulary", "Listening"],
+          "objectives": [
+            "Count to 100 and understand prices spoken aloud.",
+            "Tell the time using Uhr and halb.",
+            "Name the days of the week and months of the year."
+          ],
+          "vocab": ["die Zahl", "die Uhrzeit", "das Datum", "der Monat"],
+          "keyPhrase": { "de": "Es ist halb drei.", "en": "It is half past two (2:30)." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "a1-m2",
+      "number": 2,
+      "title": "Core Sentences",
+      "titleDe": "Grundlegende Sätze",
+      "summary": "Build your first real sentences with the two essential verbs, the present tense and questions.",
+      "lessons": [
+        {
+          "id": "a1-m2-l1",
+          "number": 1,
+          "title": "Sein & Haben",
+          "titleDe": "Sein und haben",
+          "summary": "The two most important German verbs: who you are and what you have.",
+          "minutes": 20,
+          "skills": ["Grammar", "Speaking"],
+          "objectives": [
+            "Conjugate sein and haben in the present tense.",
+            "Describe yourself and others using sein.",
+            "Say what you have using haben and the accusative."
+          ],
+          "vocab": ["sein", "haben", "ich bin", "du hast"],
+          "keyPhrase": { "de": "Ich habe einen Bruder.", "en": "I have a brother." },
+          "assessment": { "type": "Lesson check", "questions": 8, "passScore": 70 }
+        },
+        {
+          "id": "a1-m2-l2",
+          "number": 2,
+          "title": "The Present Tense",
+          "titleDe": "Das Präsens",
+          "summary": "Regular verb endings are your engine — learn them once and use them everywhere.",
+          "minutes": 24,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Conjugate regular verbs such as wohnen, lernen and arbeiten.",
+            "Handle stems ending in -t and -d.",
+            "Form simple statements with correct word order."
+          ],
+          "vocab": ["wohnen", "lernen", "arbeiten", "spielen"],
+          "keyPhrase": { "de": "Ich wohne in Berlin.", "en": "I live in Berlin." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "a1-m2-l3",
+          "number": 3,
+          "title": "Questions & Question Words",
+          "titleDe": "Fragen und Fragewörter",
+          "summary": "Ask for information with W-questions and turn statements into yes/no questions.",
+          "minutes": 22,
+          "skills": ["Grammar", "Speaking"],
+          "objectives": [
+            "Use wer, was, wo, wann, wie and warum.",
+            "Form yes/no questions with verb-first word order.",
+            "Answer questions naturally with short responses."
+          ],
+          "vocab": ["wer", "wo", "wann", "warum"],
+          "keyPhrase": { "de": "Sprichst du Englisch?", "en": "Do you speak English?" },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "a1-m3",
+      "number": 3,
+      "title": "Nouns & Cases",
+      "titleDe": "Nomen und Fälle",
+      "summary": "Gender, articles and the accusative: the grammar that makes German sentences work.",
+      "lessons": [
+        {
+          "id": "a1-m3-l1",
+          "number": 1,
+          "title": "Gender & Definite Articles",
+          "titleDe": "Genus und bestimmte Artikel",
+          "summary": "Why is it der Tisch, die Tür and das Fenster? Learn how German nouns are organised.",
+          "minutes": 22,
+          "skills": ["Grammar", "Vocabulary"],
+          "objectives": [
+            "Recognise masculine, feminine and neuter nouns with der, die and das.",
+            "Apply common gender clues for people and word endings.",
+            "Form the plural using the five main patterns."
+          ],
+          "vocab": ["der Tisch", "die Tür", "das Fenster", "die Möbel"],
+          "keyPhrase": { "de": "Das ist ein Tisch.", "en": "That is a table." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "a1-m3-l2",
+          "number": 2,
+          "title": "The Accusative Case",
+          "titleDe": "Der Akkusativ",
+          "summary": "Mark the direct object of a sentence and use ein, eine and the accusative pronouns.",
+          "minutes": 24,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Change der to den in the accusative.",
+            "Distinguish ein from einen.",
+            "Use mich, dich, ihn and sie as object pronouns."
+          ],
+          "vocab": ["der Hund", "einen", "mich", "dich"],
+          "keyPhrase": { "de": "Ich sehe den Hund.", "en": "I see the dog." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "a1-m3-l3",
+          "number": 3,
+          "title": "Negation & Possessives",
+          "titleDe": "Verneinung und Possessivartikel",
+          "summary": "Say no correctly with nicht and kein, then say what belongs to whom.",
+          "minutes": 24,
+          "skills": ["Grammar", "Speaking"],
+          "objectives": [
+            "Choose between nicht and kein.",
+            "Use mein, dein, sein and ihr before nouns.",
+            "Place nicht in the correct position in a sentence."
+          ],
+          "vocab": ["nicht", "kein", "mein", "dein"],
+          "keyPhrase": { "de": "Das ist nicht mein Schlüssel.", "en": "That is not my key." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "a1-m4",
+      "number": 4,
+      "title": "Everyday Life",
+      "titleDe": "Alltag",
+      "summary": "Family, food, shopping and routines — the vocabulary and phrases for daily life.",
+      "lessons": [
+        {
+          "id": "a1-m4-l1",
+          "number": 1,
+          "title": "Family & Describing People",
+          "titleDe": "Familie und Personen beschreiben",
+          "summary": "Talk about your family and describe people using adjectives and the verb sein.",
+          "minutes": 20,
+          "skills": ["Speaking", "Vocabulary"],
+          "objectives": [
+            "Name close and extended family members.",
+            "Use possessive articles to introduce family members.",
+            "Describe age, appearance and character in simple sentences."
+          ],
+          "vocab": ["die Familie", "die Schwester", "der Bruder", "freundlich"],
+          "keyPhrase": { "de": "Meine Schwester ist sehr freundlich.", "en": "My sister is very friendly." },
+          "assessment": { "type": "Lesson check", "questions": 8, "passScore": 70 }
+        },
+        {
+          "id": "a1-m4-l2",
+          "number": 2,
+          "title": "Food, Shopping & Prices",
+          "titleDe": "Essen, Einkaufen und Preise",
+          "summary": "Order in a café, shop at the market and understand prices without panic.",
+          "minutes": 26,
+          "skills": ["Speaking", "Listening"],
+          "objectives": [
+            "Use polite request phrases with ich hätte gern.",
+            "Ask for prices and understand euro amounts.",
+            "Name common foods and drinks with their articles."
+          ],
+          "vocab": ["das Brot", "der Kaffee", "die Rechnung", "der Preis"],
+          "keyPhrase": { "de": "Ich hätte gern einen Kaffee, bitte.", "en": "I would like a coffee, please." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "a1-m4-l3",
+          "number": 3,
+          "title": "Daily Routine & Prepositions",
+          "titleDe": "Tagesablauf und Präpositionen",
+          "summary": "Describe your day with separable verbs and the prepositions um, am and im.",
+          "minutes": 24,
+          "skills": ["Speaking", "Grammar"],
+          "objectives": [
+            "Conjugate separable verbs such as aufstehen and einkaufen.",
+            "Talk about times with um, am and im.",
+            "Link your daily activities in a short paragraph."
+          ],
+          "vocab": ["aufstehen", "einkaufen", "um", "am"],
+          "keyPhrase": { "de": "Ich stehe um sieben Uhr auf.", "en": "I get up at seven o'clock." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        }
+      ]
+    }
+  ],
+  "scenarios": [
+    { "title": "Introducing yourself", "titleDe": "Sich vorstellen" },
+    { "title": "Meeting new people", "titleDe": "Neue Leute kennenlernen" },
+    { "title": "Ordering food", "titleDe": "Essen bestellen" },
+    { "title": "Shopping", "titleDe": "Einkaufen" },
+    { "title": "Asking for directions", "titleDe": "Nach dem Weg fragen" },
+    { "title": "Talking about family", "titleDe": "Über die Familie sprechen" },
+    { "title": "Describing your daily routine", "titleDe": "Den Tagesablauf beschreiben" }
+  ]
+}

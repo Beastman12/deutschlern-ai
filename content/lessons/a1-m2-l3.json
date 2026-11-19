@@ -1,0 +1,626 @@
+{
+  "id": "a1-m2-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "prompt": "Read the questions aloud with a rising voice at the end. Do not add an English “do”.",
+      "items": [
+        "Wer ist das?",
+        "Wo wohnst du?",
+        "Wann beginnt der Kurs?",
+        "Warum lernst du Deutsch?",
+        "Sprichst du Englisch?"
+      ],
+      "lede": "German questions are built with word order, not with an extra helping verb."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to ask for information and answer simple questions."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "German has two question patterns: one starts with a question word, the other starts with the verb.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A W-question asks for information and begins with a question word such as wer, was, wo, wann, wie or warum. A yes/no question asks for a confirmation and begins with the conjugated verb. Both patterns are short, and both keep the verb in a fixed place."
+        },
+        {
+          "kind": "de",
+          "text": "Wo wohnst du? Wohnst du in Berlin?",
+          "en": "Where do you live? Do you live in Berlin?"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "W-question: question word + verb + subject. Wo wohnst du?",
+            "Yes/no question: verb + subject + rest. Wohnst du in Berlin?",
+            "There is no German equivalent of “do”. The main verb moves to the front instead.",
+            "Answers can be short: Ja. / Nein. / In Berlin. / Aus Brasilien."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "The polite form",
+          "text": "With Sie the verb ends in -en: Wo wohnen Sie? / Wohnen Sie in Berlin? The pattern stays exactly the same."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "Six question words cover most of what you need at A1.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Question word", "Meaning", "Example", "English"],
+          "rows": [
+            ["wer", "who", "Wer ist das?", "Who is that?"],
+            ["was", "what", "Was ist das?", "What is that?"],
+            ["wo", "where", "Wo wohnst du?", "Where do you live?"],
+            ["wann", "when", "Wann beginnt der Kurs?", "When does the course start?"],
+            ["wie", "how", "Wie geht es dir?", "How are you?"],
+            ["warum", "why", "Warum lernst du Deutsch?", "Why are you learning German?"]
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Question", "Pattern", "Answer"],
+          "rows": [
+            ["Wo wohnst du?", "question word + verb + subject", "In Berlin."],
+            ["Wohnst du in Berlin?", "verb + subject + rest", "Ja. / Nein."],
+            ["Wann kommt er?", "question word + verb + subject", "Um acht Uhr."],
+            ["Kommt er um acht?", "verb + subject + time", "Ja, um acht."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "wo asks about a place, wann about a time, warum about a reason.",
+            "woher asks about origin: Woher kommst du? wohin asks about direction: Wohin gehst du?",
+            "wie viel asks about an amount or a price: Wie viel kostet das?",
+            "The polite Sie form keeps the same order: Woher kommen Sie? / Kommen Sie aus Spanien?"
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Answering a negative question",
+          "text": "If someone asks Wohnst du nicht in Berlin?, a simple Ja would be confusing. German uses Doch to correct the assumption: Doch, ich wohne in Berlin. It means “yes, I do”, against the negative question."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "Four question words and two nouns for talking about questions themselves.",
+      "items": [
+        {
+          "de": "wer",
+          "en": "who",
+          "pronunciation": "vair",
+          "example": "Wer ist das?",
+          "exampleEn": "Who is that?"
+        },
+        {
+          "de": "wo",
+          "en": "where",
+          "pronunciation": "voh",
+          "example": "Wo wohnst du?",
+          "exampleEn": "Where do you live?"
+        },
+        {
+          "de": "wann",
+          "en": "when",
+          "pronunciation": "vahn",
+          "example": "Wann beginnt der Kurs?",
+          "exampleEn": "When does the course start?"
+        },
+        {
+          "de": "warum",
+          "en": "why",
+          "pronunciation": "va-ROOM",
+          "example": "Warum lernst du Deutsch?",
+          "exampleEn": "Why are you learning German?"
+        },
+        {
+          "de": "die Frage",
+          "en": "the question",
+          "article": "die",
+          "plural": "die Fragen",
+          "pronunciation": "FRAH-guh",
+          "example": "Die Frage ist leicht.",
+          "exampleEn": "The question is easy."
+        },
+        {
+          "de": "antworten",
+          "en": "to answer",
+          "pronunciation": "ANT-vor-ten",
+          "example": "Er antwortet nicht.",
+          "exampleEn": "He does not answer."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Each question is followed by a natural short answer.",
+      "items": [
+        {
+          "de": "Wer ist das? — Das ist meine Lehrerin.",
+          "en": "Who is that? — That is my teacher.",
+          "note": "wer asks about people."
+        },
+        {
+          "de": "Was ist das? — Das ist ein Schlüssel.",
+          "en": "What is that? — That is a key.",
+          "note": "was asks about things."
+        },
+        {
+          "de": "Wo wohnst du? — In Berlin.",
+          "en": "Where do you live? — In Berlin.",
+          "note": "A short answer with the place is enough."
+        },
+        {
+          "de": "Wann beginnt der Kurs? — Um neun Uhr.",
+          "en": "When does the course start? — At nine o'clock.",
+          "note": "wann asks about time."
+        },
+        {
+          "de": "Warum lernst du Deutsch? — Weil ich in Berlin arbeite.",
+          "en": "Why are you learning German? — Because I work in Berlin.",
+          "note": "warum asks for a reason; the answer often starts with weil."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "All German question words except wer and was begin with a v sound.",
+      "items": [
+        {
+          "de": "wer",
+          "hint": "Vair. The w is a v sound, and the e is open.",
+          "en": "who"
+        },
+        {
+          "de": "wo",
+          "hint": "Voh. Round your lips for the o and keep it long.",
+          "en": "where"
+        },
+        {
+          "de": "wann",
+          "hint": "Vahn. A short a, and the double n is held briefly.",
+          "en": "when"
+        },
+        {
+          "de": "warum",
+          "hint": "va-ROOM. Stress the second syllable, with a long oo.",
+          "en": "why"
+        },
+        {
+          "de": "Frage",
+          "hint": "FRAH-guh. The g is soft, and the final e is a weak “uh”.",
+          "en": "question"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "How to ask again politely",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "If you did not understand a question, Wie bitte? is the standard way to ask someone to repeat it. It is polite and works in shops, offices and classrooms. Entschuldigung at the start of a question makes it softer: Entschuldigung, wo ist der Bahnhof?"
+        },
+        {
+          "kind": "p",
+          "text": "German yes/no questions are answered with Ja or Nein, and a negative question can be answered with Doch. That small word is very common in conversation: it confirms the positive fact against a negative assumption. There is no single English word for it, which is why it is worth learning as a fixed reply."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "A new learner asks about a German course. Listen for the question words.",
+      "setting": "Information desk at a community college",
+      "lines": [
+        { "speaker": "Kundin", "de": "Guten Tag. Ich habe eine Frage. Wann beginnt der Deutschkurs?", "en": "Good day. I have a question. When does the German course start?" },
+        { "speaker": "Mitarbeiter", "de": "Der Kurs beginnt am Montag um sechs Uhr.", "en": "The course starts on Monday at six o'clock." },
+        { "speaker": "Kundin", "de": "Und wo ist der Kurs?", "en": "And where is the course?" },
+        { "speaker": "Mitarbeiter", "de": "Im Raum 204, im zweiten Stock.", "en": "In room 204, on the second floor." },
+        { "speaker": "Kundin", "de": "Wie viel kostet der Kurs?", "en": "How much does the course cost?" },
+        { "speaker": "Mitarbeiter", "de": "Er kostet neunzig Euro.", "en": "It costs ninety euros." },
+        { "speaker": "Kundin", "de": "Danke. Und wer ist die Lehrerin?", "en": "Thank you. And who is the teacher?" },
+        { "speaker": "Mitarbeiter", "de": "Frau Yilmaz. Sie kommt aus der Türkei.", "en": "Ms Yilmaz. She comes from Turkey." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Two ways to ask, one verb position",
+      "lede": "The verb is the anchor: in second position after a question word, in first position in a yes/no question.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Type", "Position 1", "Position 2", "Position 3"],
+          "rows": [
+            ["W-question", "Wo", "wohnst", "du?"],
+            ["W-question", "Wann", "beginnt", "der Kurs?"],
+            ["W-question", "Warum", "lernst", "du Deutsch?"],
+            ["Yes/no question", "Wohnst", "du", "in Berlin?"],
+            ["Yes/no question", "Hast", "du", "Zeit?"],
+            ["Yes/no question", "Sprichst", "du", "Englisch?"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "In a W-question the question word occupies position one, so the verb is still in position two.",
+            "In a yes/no question there is no question word, so the verb itself moves to position one.",
+            "The subject follows the verb in both patterns: wohnst du, wohnen Sie.",
+            "Do not use “do” or “does”. The German verb carries the question on its own."
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Question", "Positive answer", "Negative answer"],
+          "rows": [
+            ["Wohnst du in Berlin?", "Ja, ich wohne in Berlin.", "Nein, ich wohne nicht in Berlin."],
+            ["Hast du Zeit?", "Ja, ich habe Zeit.", "Nein, ich habe keine Zeit."],
+            ["Wohnst du nicht in Berlin?", "Doch, ich wohne in Berlin.", "Nein, ich wohne in Potsdam."]
+          ]
+        }
+      ],
+      "tip": "Read a statement, then turn it into both question types: Du wohnst in Berlin. → Wo wohnst du? → Wohnst du in Berlin?"
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Choose the question word that fits the answer.",
+      "exercises": [
+        {
+          "id": "m2l3-p1",
+          "type": "mcq",
+          "prompt": "___ heißt du?",
+          "options": ["Wo", "Wer", "Wie", "Wann"],
+          "answer": 2,
+          "explanation": "wie asks “how”, and Wie heißt du? is the standard way to ask someone's name."
+        },
+        {
+          "id": "m2l3-p2",
+          "type": "mcq",
+          "prompt": "___ wohnst du? — In Berlin.",
+          "options": ["Wann", "Wo", "Warum", "Wer"],
+          "answer": 1,
+          "explanation": "wo asks about a place. The answer In Berlin gives a place."
+        },
+        {
+          "id": "m2l3-p3",
+          "type": "mcq",
+          "prompt": "___ beginnt der Film? — Um acht Uhr.",
+          "options": ["Wann", "Wo", "Wer", "Was"],
+          "answer": 0,
+          "explanation": "wann asks about time. Um acht Uhr is a time."
+        },
+        {
+          "id": "m2l3-p4",
+          "type": "mcq",
+          "prompt": "___ lernst du Deutsch? — Weil ich in Berlin arbeite.",
+          "options": ["Wann", "Wo", "Warum", "Wer"],
+          "answer": 2,
+          "explanation": "warum asks for a reason, and the answer starts with weil."
+        },
+        {
+          "id": "m2l3-p5",
+          "type": "mcq",
+          "prompt": "Which of these is a yes/no question?",
+          "options": ["Wo wohnst du?", "Sprichst du Deutsch?", "Wann kommst du?", "Wer ist das?"],
+          "answer": 1,
+          "explanation": "Sprichst du Deutsch? starts with the verb and has no question word."
+        },
+        {
+          "id": "m2l3-p6",
+          "type": "mcq",
+          "prompt": "___ ist das? — Das ist meine Schwester.",
+          "options": ["Was", "Wer", "Wo", "Wie"],
+          "answer": 1,
+          "explanation": "The answer is a person, so the question word is wer (who)."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the question word. Use the answer as your clue.",
+      "exercises": [
+        {
+          "id": "m2l3-g1",
+          "type": "gap",
+          "prompt": "___ kommst du? — Aus Brasilien.",
+          "answers": ["Woher"],
+          "explanation": "Origin takes woher: Woher kommst du?"
+        },
+        {
+          "id": "m2l3-g2",
+          "type": "gap",
+          "prompt": "___ ist das? — Das ist Herr Klein.",
+          "answers": ["Wer"],
+          "explanation": "The answer is a person, so use wer."
+        },
+        {
+          "id": "m2l3-g3",
+          "type": "gap",
+          "prompt": "___ wohnst du? — In Berlin.",
+          "answers": ["Wo"],
+          "explanation": "wo asks about a place."
+        },
+        {
+          "id": "m2l3-g4",
+          "type": "gap",
+          "prompt": "___ kostet das Buch? — Zehn Euro.",
+          "answers": ["Wie viel"],
+          "explanation": "Prices take wie viel: Wie viel kostet das Buch?"
+        },
+        {
+          "id": "m2l3-g5",
+          "type": "gap",
+          "prompt": "___ beginnt der Kurs? — Um neun Uhr.",
+          "answers": ["Wann"],
+          "explanation": "wann asks about time."
+        },
+        {
+          "id": "m2l3-g6",
+          "type": "gap",
+          "prompt": "___ lernst du Deutsch? — Weil ich in Berlin arbeite.",
+          "answers": ["Warum"],
+          "explanation": "warum asks for a reason."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Question word, verb, subject — or verb, subject for a yes/no question.",
+      "exercises": [
+        {
+          "id": "m2l3-o1",
+          "type": "order",
+          "prompt": "Build: “Where do you live?” (informal)",
+          "tokens": ["wohnst", "Wo", "du"],
+          "answer": "Wo wohnst du?",
+          "explanation": "The question word is first, the verb second, the subject third."
+        },
+        {
+          "id": "m2l3-o2",
+          "type": "order",
+          "prompt": "Build: “Do you speak English?”",
+          "tokens": ["Englisch", "du", "Sprichst"],
+          "answer": "Sprichst du Englisch?",
+          "explanation": "A yes/no question starts with the conjugated verb."
+        },
+        {
+          "id": "m2l3-o3",
+          "type": "order",
+          "prompt": "Build: “When does the course start?”",
+          "tokens": ["beginnt", "der", "Wann", "Kurs"],
+          "answer": "Wann beginnt der Kurs?",
+          "explanation": "Wann is position one, beginnt is position two, and the subject follows."
+        },
+        {
+          "id": "m2l3-o4",
+          "type": "order",
+          "prompt": "Build: “Why are you learning German?” (informal)",
+          "tokens": ["Deutsch", "du", "Warum", "lernst"],
+          "answer": "Warum lernst du Deutsch?",
+          "explanation": "warum + verb + subject + object."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice, then answer the questions without the transcript.",
+      "speaker": "A visitor asking about a German course",
+      "script": [
+        { "speaker": "Tom", "de": "Entschuldigung, wann beginnt der Deutschkurs?", "en": "Excuse me, when does the German course start?" },
+        { "speaker": "Frau Roth", "de": "Der Kurs beginnt um neun Uhr.", "en": "The course starts at nine o'clock." },
+        { "speaker": "Tom", "de": "Und wo ist der Kurs?", "en": "And where is the course?" },
+        { "speaker": "Frau Roth", "de": "Im Zimmer 12.", "en": "In room 12." },
+        { "speaker": "Tom", "de": "Wie viel kostet der Kurs?", "en": "How much does the course cost?" },
+        { "speaker": "Frau Roth", "de": "Er kostet hundert Euro.", "en": "It costs one hundred euros." }
+      ],
+      "questions": [
+        {
+          "id": "m2l3-lq1",
+          "type": "mcq",
+          "prompt": "When does the course start?",
+          "options": ["At eight o'clock", "At nine o'clock", "At ten o'clock", "At twelve o'clock"],
+          "answer": 1,
+          "explanation": "Frau Roth says: Der Kurs beginnt um neun Uhr."
+        },
+        {
+          "id": "m2l3-lq2",
+          "type": "mcq",
+          "prompt": "Where is the course?",
+          "options": ["In room 2", "In room 10", "In room 12", "In room 20"],
+          "answer": 2,
+          "explanation": "She says: Im Zimmer 12."
+        },
+        {
+          "id": "m2l3-lq3",
+          "type": "mcq",
+          "prompt": "How much does the course cost?",
+          "options": ["90 euros", "100 euros", "110 euros", "120 euros"],
+          "answer": 1,
+          "explanation": "Er kostet hundert Euro — one hundred euros."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Ask three questions to get to know a new classmate.",
+      "prompt": "Ask for a name, an origin and a reason for learning German. Then answer one of them yourself.",
+      "model": {
+        "de": "Wie heißt du? Woher kommst du? Warum lernst du Deutsch? — Ich lerne Deutsch, weil ich in Deutschland studiere.",
+        "en": "What is your name? Where do you come from? Why are you learning German? — I am learning German because I study in Germany."
+      },
+      "tips": [
+        "Start each question with the question word and keep the verb directly after it.",
+        "For a yes/no question, begin with the verb and let your voice rise at the end.",
+        "Record the three questions, then listen for the difference between wo, wann and warum."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "Word order is the main source of errors in German questions.",
+      "items": [
+        {
+          "wrong": "Wo du wohnst?",
+          "right": "Wo wohnst du?",
+          "why": "In a W-question the verb comes immediately after the question word, before the subject."
+        },
+        {
+          "wrong": "Du sprichst Deutsch?",
+          "right": "Sprichst du Deutsch?",
+          "why": "A yes/no question starts with the verb. The statement order Du sprichst Deutsch is only a statement, or a question marked purely by intonation in casual speech."
+        },
+        {
+          "wrong": "Wer ist das? — Das ist ein Buch.",
+          "right": "Was ist das? — Das ist ein Buch.",
+          "why": "wer asks about people; was asks about things. A book is a thing."
+        },
+        {
+          "wrong": "Wann wohnst du?",
+          "right": "Wo wohnst du?",
+          "why": "wann asks about time, wo about place. Living somewhere is a place, so the question needs wo."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Ten questions. Score 70% or more to unlock the next lesson.",
+      "questions": [
+        {
+          "id": "m2l3-a1",
+          "type": "mcq",
+          "prompt": "___ heißt du?",
+          "options": ["Wo", "Wie", "Wann", "Warum"],
+          "answer": 1,
+          "explanation": "Wie heißt du? is the standard question for someone's name."
+        },
+        {
+          "id": "m2l3-a2",
+          "type": "mcq",
+          "prompt": "___ wohnst du? — In Hamburg.",
+          "options": ["Wann", "Wo", "Wer", "Was"],
+          "answer": 1,
+          "explanation": "The answer is a place, so the question word is wo."
+        },
+        {
+          "id": "m2l3-a3",
+          "type": "mcq",
+          "prompt": "___ beginnt der Film? — Um acht Uhr.",
+          "options": ["Wann", "Wo", "Warum", "Wer"],
+          "answer": 0,
+          "explanation": "The answer gives a time, so the question word is wann."
+        },
+        {
+          "id": "m2l3-a4",
+          "type": "mcq",
+          "prompt": "Which sentence is a correct yes/no question?",
+          "options": ["Du sprichst Englisch?", "Sprichst du Englisch?", "Sprichst Englisch du?", "Englisch du sprichst?"],
+          "answer": 1,
+          "explanation": "The verb comes first, then the subject: Sprichst du Englisch?"
+        },
+        {
+          "id": "m2l3-a5",
+          "type": "mcq",
+          "prompt": "___ ist das? — Das ist meine Schwester.",
+          "options": ["Was", "Wer", "Wo", "Wann"],
+          "answer": 1,
+          "explanation": "The answer is a person, so the question word is wer."
+        },
+        {
+          "id": "m2l3-a6",
+          "type": "gap",
+          "prompt": "___ kommst du? — Aus Brasilien.",
+          "answers": ["Woher"],
+          "explanation": "Origin takes woher: Woher kommst du?"
+        },
+        {
+          "id": "m2l3-a7",
+          "type": "gap",
+          "prompt": "___ kostet das Buch? — Zehn Euro.",
+          "answers": ["Wie viel"],
+          "explanation": "wie viel asks about an amount or price."
+        },
+        {
+          "id": "m2l3-a8",
+          "type": "gap",
+          "prompt": "___ lernst du Deutsch? — Weil ich in Berlin arbeite.",
+          "answers": ["Warum"],
+          "explanation": "warum asks for a reason."
+        },
+        {
+          "id": "m2l3-a9",
+          "type": "order",
+          "prompt": "Build: “Where is the course?”",
+          "tokens": ["der", "Wo", "Kurs", "ist"],
+          "answer": "Wo ist der Kurs?",
+          "explanation": "Question word, then verb, then subject: Wo ist der Kurs?"
+        },
+        {
+          "id": "m2l3-a10",
+          "type": "order",
+          "prompt": "Build: “Do you have time?” (informal)",
+          "tokens": ["Zeit", "du", "Hast"],
+          "answer": "Hast du Zeit?",
+          "explanation": "A yes/no question begins with the verb: Hast du Zeit?"
+        }
+      ]
+    }
+  ]
+}

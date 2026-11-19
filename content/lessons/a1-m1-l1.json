@@ -1,0 +1,577 @@
+{
+  "id": "a1-m1-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "prompt": "Read these aloud before you begin. You do not need to understand every word yet — listen for the German sounds.",
+      "items": [
+        "Hallo! Ich heiße Anna.",
+        "Wie buchstabiert man das?",
+        "Straße, Übung, Öl, Äpfel"
+      ],
+      "lede": "Two minutes of speaking warms up the sounds you are about to learn."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "German uses the same Latin alphabet as English, with four extra letters and some very different sound habits.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "The German alphabet has 26 basic letters, plus the three umlauts ä, ö and ü and the special letter ß (Eszett). Once you know the letter names and the main sound patterns, you can spell your name, read addresses and ask someone to repeat a word."
+        },
+        {
+          "kind": "de",
+          "text": "Das deutsche Alphabet hat 26 Buchstaben.",
+          "en": "The German alphabet has 26 letters."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Most consonants sound close to English, but German is more consistent: a written letter is usually pronounced the same way every time.",
+            "The umlauts change the vowel sound: a → ä, o → ö, u → ü.",
+            "ß is pronounced like a sharp s. It appears after long vowels and never at the start of a word.",
+            "German nouns are always written with a capital letter."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Good news for English speakers",
+          "text": "You already know most of the letter shapes. The work is in the sounds, not in learning a new script."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "These four sound patterns unlock most German words you will meet at A1.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Spelling", "Sound", "Example", "English"],
+          "rows": [
+            ["ei", "like English “eye”", "mein", "my"],
+            ["ie", "like English “ee”", "wie", "how"],
+            ["sch", "like English “sh”", "Schule", "school"],
+            ["ch", "soft, breathy; no exact English match", "ich", "I"],
+            ["w", "like English “v”", "Wasser", "water"],
+            ["v", "often like English “f”", "Vater", "father"],
+            ["z", "like “ts”", "Zeit", "time"],
+            ["ß", "sharp s", "Straße", "street"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Say ei as one glide: e → i. Do not say the English letter name “E-I”.",
+            "Say ie as a long ee. The e is silent.",
+            "For ch, start an English “y” sound and let air pass; after a, o and u it is rougher, as in Bach.",
+            "German z always carries a t: Zeit sounds like “tsait”."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Letter names you will need",
+          "text": "When spelling aloud, Germans say “Ah, Beh, Ceh, Deh, Eh, Eff, Geh, Ha, Ih, Jott, Ka, Ell, Emm, Enn, Oh, Peh, Qu, Err, Ess, Teh, Uh, Vau, Weh, Ix, Ypsilon, Zett”."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "Listen to each word, then repeat it. The article tells you the noun's gender.",
+      "items": [
+        {
+          "de": "das Alphabet",
+          "en": "the alphabet",
+          "article": "das",
+          "plural": "die Alphabete",
+          "pronunciation": "al-fa-BET",
+          "example": "Das Alphabet beginnt mit A.",
+          "exampleEn": "The alphabet begins with A."
+        },
+        {
+          "de": "der Buchstabe",
+          "en": "the letter (of the alphabet)",
+          "article": "der",
+          "plural": "die Buchstaben",
+          "pronunciation": "BOOCH-shta-buh",
+          "example": "Der Buchstabe B kommt nach A.",
+          "exampleEn": "The letter B comes after A."
+        },
+        {
+          "de": "der Umlaut",
+          "en": "the umlaut",
+          "article": "der",
+          "plural": "die Umlaute",
+          "pronunciation": "OOM-lowt",
+          "example": "Ä, ö und ü sind Umlaute.",
+          "exampleEn": "Ä, ö and ü are umlauts."
+        },
+        {
+          "de": "das Eszett",
+          "en": "the letter ß",
+          "article": "das",
+          "plural": "die Eszett",
+          "pronunciation": "ESS-tset",
+          "example": "Das Eszett steht in „Straße“.",
+          "exampleEn": "The Eszett appears in “Straße”."
+        },
+        {
+          "de": "buchstabieren",
+          "en": "to spell",
+          "pronunciation": "BOOCH-shta-BEE-ren",
+          "example": "Können Sie das bitte buchstabieren?",
+          "exampleEn": "Could you spell that, please?"
+        },
+        {
+          "de": "die Sprache",
+          "en": "the language",
+          "article": "die",
+          "plural": "die Sprachen",
+          "pronunciation": "SHPRA-khuh",
+          "example": "Deutsch ist eine germanische Sprache.",
+          "exampleEn": "German is a Germanic language."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Read each sentence aloud. Notice the capital letter on every noun.",
+      "items": [
+        {
+          "de": "Wie buchstabiert man deinen Namen?",
+          "en": "How do you spell your name?",
+          "note": "buchstabiert is the formal and general “one spells” form."
+        },
+        {
+          "de": "Mein Name ist Müller: M, Ü, L, L, E, R.",
+          "en": "My name is Müller: M, U-umlaut, L, L, E, R.",
+          "note": "Germans often name the umlaut rather than saying the plain letter."
+        },
+        {
+          "de": "Das Wort „Straße“ hat ein Eszett.",
+          "en": "The word “Straße” has an Eszett."
+        },
+        {
+          "de": "Sprichst du Deutsch?",
+          "en": "Do you speak German?",
+          "note": "Sprichst begins with sch + p; say “shpr-”."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 4,
+      "lede": "These four sounds separate a clear German accent from an English one.",
+      "items": [
+        {
+          "de": "ich",
+          "hint": "Softer than “ick”. Let air escape between tongue and palate; do not press the tongue hard.",
+          "en": "I"
+        },
+        {
+          "de": "Bach",
+          "hint": "Rougher ch after a, o or u. Think of clearing condensation from a window.",
+          "en": "stream / brook"
+        },
+        {
+          "de": "Schule",
+          "hint": "Start with a clean “sh”, then “oo-luh”. No hard k.",
+          "en": "school"
+        },
+        {
+          "de": "Zeit",
+          "hint": "Say “ts” as one sound, then “ait”. Never an English z.",
+          "en": "time"
+        },
+        {
+          "de": "über",
+          "hint": "Round your lips for “oo”, then try to say “ee” without moving them.",
+          "en": "over"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Why ß still exists",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In 1996 a spelling reform reduced the number of ß spellings, but the letter remains in words such as Straße, heißen and groß. Switzerland and Liechtenstein do not use ß at all; they write Strasse and heissen."
+        },
+        {
+          "kind": "p",
+          "text": "If your keyboard has no ß, writing ss is usually understood, but official German texts expect ß after a long vowel."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lede": "Anna calls a language school and has to spell her surname.",
+      "setting": "On the phone with a language school receptionist",
+      "lines": [
+        { "speaker": "Empfang", "de": "Guten Tag, Sprachschule Berlin. Wie ist Ihr Name?", "en": "Good day, Berlin Language School. What is your name?" },
+        { "speaker": "Anna", "de": "Guten Tag. Mein Name ist Anna Weiß.", "en": "Good day. My name is Anna Weiß." },
+        { "speaker": "Empfang", "de": "Wie buchstabiert man Ihren Nachnamen?", "en": "How do you spell your surname?" },
+        { "speaker": "Anna", "de": "W, E, I, Eszett.", "en": "W, E, I, Eszett." },
+        { "speaker": "Empfang", "de": "Danke. Und Ihre E-Mail-Adresse?", "en": "Thank you. And your email address?" },
+        { "speaker": "Anna", "de": "Anna Punkt Weiß at Beispiel Punkt de.", "en": "Anna dot Weiß at Beispiel dot de." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "heading": "Capital letters: nouns are always capitalised",
+      "lede": "German capitalises more than English, but the rule is simple and regular.",
+      "blocks": [
+        {
+          "kind": "list",
+          "items": [
+            "Every noun is capitalised, wherever it appears: das Haus, in der Schule, mit meiner Familie.",
+            "The first word of every sentence is capitalised, as in English.",
+            "The polite pronoun Sie is capitalised, but the informal du is not.",
+            "Adjectives, verbs and adverbs stay lowercase unless they begin a sentence."
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["German", "English", "Why"],
+          "rows": [
+            ["Ich sehe den Mann.", "I see the man.", "Mann is a noun → capital M."],
+            ["Das ist eine gute Idee.", "That is a good idea.", "Idee is a noun; gute is an adjective."],
+            ["Kommst du aus Deutschland?", "Do you come from Germany?", "du is a pronoun, not a noun."]
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Exam habit",
+          "text": "When you write German, check every noun for a capital letter. Missing noun capitals is one of the most common A1 writing errors."
+        }
+      ]
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Check your understanding of the alphabet, sounds and capitalisation.",
+      "exercises": [
+        {
+          "id": "l1-p1",
+          "type": "mcq",
+          "prompt": "Which word contains the sound “sh” at the beginning?",
+          "options": ["Schule", "Zeit", "Vater", "Buch"],
+          "answer": 0,
+          "explanation": "sch is pronounced “sh”. Schule begins with this sound."
+        },
+        {
+          "id": "l1-p2",
+          "type": "mcq",
+          "prompt": "How is the letter ß pronounced?",
+          "options": ["like a soft English th", "like a sharp s", "like English z", "like English k"],
+          "answer": 1,
+          "explanation": "ß is a sharp s, as in Straße."
+        },
+        {
+          "id": "l1-p3",
+          "type": "mcq",
+          "prompt": "Which spelling is correct?",
+          "options": ["ich habe ein hund", "Ich habe ein Hund", "Ich habe einen Hund", "ich habe einen hund"],
+          "answer": 2,
+          "explanation": "The sentence starts with a capital letter and Hund is a noun, so it also takes a capital. Hund is masculine, so ein becomes einen in the accusative."
+        },
+        {
+          "id": "l1-p4",
+          "type": "mcq",
+          "prompt": "Which letter combination sounds like English “ee”?",
+          "options": ["ei", "ie", "eu", "au"],
+          "answer": 1,
+          "explanation": "ie is a long ee sound, as in wie. ei sounds like “eye”."
+        },
+        {
+          "id": "l1-p5",
+          "type": "mcq",
+          "prompt": "What does “Wie buchstabiert man das?” mean?",
+          "options": ["How do you write that?", "How do you spell that?", "How do you say that?", "How do you read that?"],
+          "answer": 1,
+          "explanation": "buchstabieren means to spell, so the question asks how something is spelled."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing word. Pay attention to capitals.",
+      "exercises": [
+        {
+          "id": "l1-g1",
+          "type": "gap",
+          "prompt": "Das ___ beginnt mit A.",
+          "answers": ["Alphabet"],
+          "explanation": "das Alphabet = the alphabet. Nouns take a capital letter."
+        },
+        {
+          "id": "l1-g2",
+          "type": "gap",
+          "prompt": "Wie ___ man deinen Namen?",
+          "answers": ["buchstabiert"],
+          "explanation": "buchstabieren → man buchstabiert = one spells."
+        },
+        {
+          "id": "l1-g3",
+          "type": "gap",
+          "prompt": "Ä, ö und ü sind ___.",
+          "answers": ["Umlaute"],
+          "explanation": "der Umlaut → die Umlaute (plural)."
+        },
+        {
+          "id": "l1-g4",
+          "type": "gap",
+          "prompt": "Das Wort „Straße“ hat ein ___.",
+          "answers": ["Eszett", "ß"],
+          "explanation": "The letter ß is called das Eszett."
+        },
+        {
+          "id": "l1-g5",
+          "type": "gap",
+          "prompt": "Deutsch ist eine ___.",
+          "answers": ["Sprache"],
+          "explanation": "die Sprache = language. It is a noun, so it is capitalised."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Click the words in the correct order, then check your sentence.",
+      "exercises": [
+        {
+          "id": "l1-o1",
+          "type": "order",
+          "prompt": "Build: “How do you spell your name?”",
+          "tokens": ["buchstabiert", "Wie", "Namen", "man", "deinen"],
+          "answer": "Wie buchstabiert man deinen Namen?",
+          "explanation": "A W-question starts with the question word, then the verb: Wie buchstabiert man …?"
+        },
+        {
+          "id": "l1-o2",
+          "type": "order",
+          "prompt": "Build: “My name is Anna Weiß.”",
+          "tokens": ["ist", "Mein", "Anna", "Name", "Weiß"],
+          "answer": "Mein Name ist Anna Weiß.",
+          "explanation": "Mein Name ist … is the standard way to give your name."
+        },
+        {
+          "id": "l1-o3",
+          "type": "order",
+          "prompt": "Build: “Do you speak German?”",
+          "tokens": ["Deutsch", "du", "Sprichst"],
+          "answer": "Sprichst du Deutsch?",
+          "explanation": "Yes/no questions start with the verb: Sprichst du …?"
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen to the dialogue twice. Then answer without reading the transcript.",
+      "speaker": "Language-school receptionist and learner",
+      "script": [
+        { "speaker": "Empfang", "de": "Guten Tag. Wie heißen Sie?", "en": "Good day. What is your name?" },
+        { "speaker": "Lena", "de": "Ich heiße Lena Schröder.", "en": "My name is Lena Schröder." },
+        { "speaker": "Empfang", "de": "Wie buchstabiert man Schröder?", "en": "How do you spell Schröder?" },
+        { "speaker": "Lena", "de": "S, C, H, R, Ö, D, E, R.", "en": "S, C, H, R, O-umlaut, D, E, R." },
+        { "speaker": "Empfang", "de": "Danke. Und woher kommen Sie?", "en": "Thank you. And where are you from?" },
+        { "speaker": "Lena", "de": "Ich komme aus Österreich.", "en": "I come from Austria." }
+      ],
+      "questions": [
+        {
+          "id": "l1-lq1",
+          "type": "mcq",
+          "prompt": "How does Lena spell the umlaut in her surname?",
+          "options": ["as O", "as Ö", "as U", "as E"],
+          "answer": 1,
+          "explanation": "She names the umlaut: Ö."
+        },
+        {
+          "id": "l1-lq2",
+          "type": "mcq",
+          "prompt": "Where does Lena come from?",
+          "options": ["Germany", "Switzerland", "Austria", "Luxembourg"],
+          "answer": 2,
+          "explanation": "Sie sagt: Ich komme aus Österreich. Österreich is Austria."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Say your own name and spell it aloud. Repeat until the letter names feel automatic.",
+      "prompt": "Introduce yourself and spell your first name letter by letter.",
+      "model": {
+        "de": "Guten Tag. Ich heiße Alex. A, L, E, X.",
+        "en": "Good day. My name is Alex. A, L, E, X."
+      },
+      "tips": [
+        "Say the German letter names, not the English ones: Ah, Beh, Ceh, Deh …",
+        "If your name contains an umlaut, say the letter name and add “Umlaut”: Ü = “U-Umlaut”.",
+        "Record yourself, then compare your pace with the model. Clarity matters more than speed."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "These errors are normal at the start. Notice the pattern behind each correction.",
+      "items": [
+        {
+          "wrong": "Ich heiße anna.",
+          "right": "Ich heiße Anna.",
+          "why": "Names take a capital letter, and German nouns are always capitalised."
+        },
+        {
+          "wrong": "Wie buchstabieren du das?",
+          "right": "Wie buchstabierst du das?",
+          "why": "The verb must agree with du: buchstabieren → buchstabierst."
+        },
+        {
+          "wrong": "Ich komme aus indien.",
+          "right": "Ich komme aus Indien.",
+          "why": "Countries are nouns and are capitalised in German."
+        },
+        {
+          "wrong": "Straße with a soft s",
+          "right": "Straße with a sharp s",
+          "why": "ß is always a sharp s, never voiced like English z."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 3,
+      "passScore": 70,
+      "lede": "Ten questions. Score 70% or more to unlock the next lesson. You can retake this check as often as you need.",
+      "questions": [
+        {
+          "id": "l1-a1",
+          "type": "mcq",
+          "prompt": "Which letter combination is pronounced like English “eye”?",
+          "options": ["ie", "ei", "sch", "ch"],
+          "answer": 1,
+          "explanation": "ei sounds like “eye”, as in mein. ie sounds like “ee”."
+        },
+        {
+          "id": "l1-a2",
+          "type": "mcq",
+          "prompt": "How many umlauts does German have?",
+          "options": ["Two", "Three", "Four", "Five"],
+          "answer": 1,
+          "explanation": "The umlauts are ä, ö and ü — three in total."
+        },
+        {
+          "id": "l1-a3",
+          "type": "mcq",
+          "prompt": "Which sentence uses capital letters correctly?",
+          "options": ["ich sehe den mann.", "Ich sehe den Mann.", "Ich sehe den mann.", "ich Sehe den Mann."],
+          "answer": 1,
+          "explanation": "The sentence starts with a capital, and Mann is a noun, so both are capitalised."
+        },
+        {
+          "id": "l1-a4",
+          "type": "mcq",
+          "prompt": "What is the German name for the letter ß?",
+          "options": ["Umlaut", "Eszett", "Buchstabe", "Alphabet"],
+          "answer": 1,
+          "explanation": "ß is called das Eszett."
+        },
+        {
+          "id": "l1-a5",
+          "type": "mcq",
+          "prompt": "Which word begins with the “ts” sound?",
+          "options": ["Schule", "Zeit", "Wasser", "über"],
+          "answer": 1,
+          "explanation": "German z is pronounced “ts”, so Zeit begins with a ts sound."
+        },
+        {
+          "id": "l1-a6",
+          "type": "gap",
+          "prompt": "Wie ___ man deinen Namen?",
+          "answers": ["buchstabiert"],
+          "explanation": "man buchstabiert = one spells. The verb ends in -t with man."
+        },
+        {
+          "id": "l1-a7",
+          "type": "gap",
+          "prompt": "Das ___ beginnt mit A.",
+          "answers": ["Alphabet"],
+          "explanation": "das Alphabet = the alphabet."
+        },
+        {
+          "id": "l1-a8",
+          "type": "gap",
+          "prompt": "Ich komme aus ___.",
+          "answers": ["Indien"],
+          "explanation": "Countries are nouns and take a capital letter: Indien."
+        },
+        {
+          "id": "l1-a9",
+          "type": "order",
+          "prompt": "Build: “My name is Anna.”",
+          "tokens": ["Anna", "Name", "Mein", "ist"],
+          "answer": "Mein Name ist Anna.",
+          "explanation": "Mein Name ist … is the standard introduction pattern."
+        },
+        {
+          "id": "l1-a10",
+          "type": "order",
+          "prompt": "Build: “How do you spell that?”",
+          "tokens": ["das", "buchstabiert", "man", "Wie"],
+          "answer": "Wie buchstabiert man das?",
+          "explanation": "Question word + verb + subject: Wie buchstabiert man das?"
+        }
+      ]
+    }
+  ]
+}

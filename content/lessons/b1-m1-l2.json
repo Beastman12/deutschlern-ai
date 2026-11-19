@@ -1,0 +1,645 @@
+{
+  "id": "b1-m1-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Read the pairs aloud. Listen for where the verb lands.",
+      "prompt": "Read each pair. In the second sentence of each pair, clap once on the verb. What do you notice?",
+      "items": [
+        "Es regnet. Trotzdem gehe ich spazieren.",
+        "Ich bin müde. Deshalb bleibe ich heute zu Hause.",
+        "Ich lerne Deutsch. Ich möchte in Wien studieren.",
+        "Ich lerne Deutsch, weil ich in Wien studieren möchte."
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "A connector is not just a linking word: it tells you where the verb must go.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "B1 writing and speaking depend on linking ideas. German connectors fall into three groups, and each group has its own word order. Learn the group first, then the meaning. If you know the group, the verb position follows automatically."
+        },
+        {
+          "kind": "table",
+          "headers": ["Group", "Connectors", "Word order"],
+          "rows": [
+            ["Coordinating", "und, aber, oder, denn, sondern", "Position 0: the order stays exactly as it was."],
+            ["Adverbial", "deshalb, darum, deswegen, trotzdem, außerdem, allerdings", "Position 1: the connector occupies the first slot, so the verb comes second."],
+            ["Subordinating", "weil, obwohl, dass, wenn, damit, während", "Verb final: the conjugated verb goes to the end of the clause."]
+          ]
+        },
+        {
+          "kind": "de",
+          "text": "Es regnet, trotzdem gehe ich spazieren, weil ich frische Luft brauche.",
+          "en": "It is raining; nevertheless I am going for a walk because I need fresh air."
+        },
+        {
+          "kind": "p",
+          "text": "The sentence above contains all three groups. Trotzdem is an adverb in position one, so gehe is the second element. Weil is a subordinating connector, so brauche moves to the very end. Nothing is optional here: the position is part of the grammar, not a style choice."
+        },
+        {
+          "kind": "note",
+          "title": "A useful test",
+          "text": "Cover the connector. If the rest of the clause still has a complete verb-second pattern, the connector is adverbial. If the verb would have to move, the connector is subordinating."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "These four habits prevent most connector errors at B1.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Connector", "Meaning", "Pattern", "Example"],
+          "rows": [
+            ["deshalb", "therefore, that is why", "adverb + verb + subject", "Ich bin müde, deshalb gehe ich ins Bett."],
+            ["trotzdem", "nevertheless", "adverb + verb + subject", "Es regnet, trotzdem gehe ich spazieren."],
+            ["außerdem", "in addition, besides", "adverb + verb + subject", "Das Zimmer ist klein, außerdem ist es laut."],
+            ["allerdings", "however, though", "adverb + verb + subject", "Die Wohnung ist schön, allerdings ist sie teuer."],
+            ["weil", "because", "subordinate clause, verb final", "Ich bleibe zu Hause, weil ich krank bin."],
+            ["obwohl", "although", "subordinate clause, verb final", "Obwohl es regnet, gehe ich spazieren."],
+            ["denn", "because", "position 0, normal order", "Ich bleibe zu Hause, denn ich bin krank."],
+            ["sondern", "but rather", "position 0, after a negation", "Das ist kein Fehler, sondern ein Test."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "deshalb, darum and deswegen mean the same thing. Choose one and use it consistently in a text.",
+            "deshalb answers “what is the consequence?”; weil answers “what is the cause?”. Do not reverse them.",
+            "trotzdem introduces a result that is surprising: the rain does not stop the walk.",
+            "allerdings limits or qualifies what you just said. It is common in formal writing and sounds more measured than aber.",
+            "After denn the word order does not change: denn ich bin krank, not denn ich krank bin."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Comma habit",
+          "text": "Put a comma before aber, sondern and denn, and between two main clauses joined by deshalb, trotzdem, außerdem or allerdings. The comma marks the boundary between the two verb positions."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These six connectors and nouns carry most of the lesson.",
+      "items": [
+        {
+          "de": "deshalb",
+          "en": "therefore, that is why",
+          "pronunciation": "ˈdɛshalp",
+          "example": "Ich habe verschlafen, deshalb komme ich zu spät.",
+          "exampleEn": "I overslept, therefore I am late."
+        },
+        {
+          "de": "trotzdem",
+          "en": "nevertheless, anyway",
+          "pronunciation": "ˈtʁɔtsdeːm",
+          "example": "Der Kurs war schwer, trotzdem hat er Spaß gemacht.",
+          "exampleEn": "The course was difficult; nevertheless, it was fun."
+        },
+        {
+          "de": "außerdem",
+          "en": "in addition, besides",
+          "pronunciation": "ˈaʊ̯sɐdeːm",
+          "example": "Die Wohnung ist zentral, außerdem ist sie günstig.",
+          "exampleEn": "The flat is central; besides, it is cheap."
+        },
+        {
+          "de": "allerdings",
+          "en": "however, though",
+          "pronunciation": "ˈalɐdɪŋs",
+          "example": "Der Plan klingt gut, allerdings fehlt uns die Zeit.",
+          "exampleEn": "The plan sounds good; however, we lack the time."
+        },
+        {
+          "de": "der Grund",
+          "en": "the reason",
+          "article": "der",
+          "plural": "die Gründe",
+          "pronunciation": "ɡʁʊnt",
+          "example": "Der Grund für meine Verspätung war der Streik.",
+          "exampleEn": "The reason for my delay was the strike."
+        },
+        {
+          "de": "die Folge",
+          "en": "the consequence",
+          "article": "die",
+          "plural": "die Folgen",
+          "pronunciation": "ˈfɔlɡə",
+          "example": "Die Folge war, dass wir den Zug verpasst haben.",
+          "exampleEn": "The consequence was that we missed the train."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Read each sentence and name the connector group before you translate it.",
+      "items": [
+        {
+          "de": "Ich habe keine Zeit, deshalb sagen wir das Treffen ab.",
+          "en": "I have no time, so we are cancelling the meeting.",
+          "note": "deshalb in position one; the verb sagen follows immediately."
+        },
+        {
+          "de": "Der Zug hatte Verspätung, trotzdem waren wir pünktlich.",
+          "en": "The train was delayed; nevertheless, we were on time.",
+          "note": "trotzdem + waren + wir: verb second after the adverb."
+        },
+        {
+          "de": "Wir suchen eine neue Wohnung, weil die alte zu klein ist.",
+          "en": "We are looking for a new flat because the old one is too small.",
+          "note": "weil sends ist to the end of the clause."
+        },
+        {
+          "de": "Obwohl es stark geregnet hat, sind wir gewandert.",
+          "en": "Although it rained heavily, we went hiking.",
+          "note": "The subordinate clause comes first, so the main clause starts with its verb."
+        },
+        {
+          "de": "Das Angebot ist günstig, außerdem ist der Liefertermin sehr früh.",
+          "en": "The offer is cheap; in addition, the delivery date is very early.",
+          "note": "außerdem adds a second point in favour."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "Connectors are unstressed in fast speech, but their vowels must stay clear.",
+      "items": [
+        {
+          "de": "deshalb",
+          "hint": "Stress the first syllable; the final -b sounds like a light p: DES-halp.",
+          "en": "therefore"
+        },
+        {
+          "de": "trotzdem",
+          "hint": "z is “ts”: TROTS-dame. Keep the second syllable short and unstressed.",
+          "en": "nevertheless"
+        },
+        {
+          "de": "außerdem",
+          "hint": "Start with an open “ow” diphthong, then a sharp s: OW-ser-dame.",
+          "en": "in addition"
+        },
+        {
+          "de": "allerdings",
+          "hint": "Short a, clear double l, light -dings: AL-ler-dings.",
+          "en": "however"
+        },
+        {
+          "de": "Grund",
+          "hint": "Long oo, and the final d is devoiced to a t: groont.",
+          "en": "reason"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Linking ideas is a B1 skill, not decoration",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In German writing, readers expect explicit links between sentences. A text made of short, unconnected statements can feel abrupt even when every sentence is correct. Connectors such as deshalb, trotzdem and außerdem show the logic of your argument and make a text easier to follow."
+        },
+        {
+          "kind": "p",
+          "text": "Register matters when you choose between them. In a formal email, allerdings and dennoch sound more measured than aber; in a message to a friend, aber and trotzdem are perfectly normal. Sondern is only possible after a negative statement: nicht …, sondern …."
+        },
+        {
+          "kind": "note",
+          "title": "Speaking versus writing",
+          "text": "In conversation, Germans often begin a sentence with Aber … or Trotzdem … and then finish the thought. In writing, keep the connector inside a clear sentence with a visible verb position."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "Two colleagues discuss a delayed report. Notice how each connector changes the verb position.",
+      "setting": "In the office, the day before a client deadline",
+      "lines": [
+        { "speaker": "Nina", "de": "Sag mal, ist der Bericht für Freitag schon fertig?", "en": "Tell me, is the report for Friday ready yet?" },
+        { "speaker": "Berk", "de": "Leider nicht. Zwei Kollegen sind krank, deshalb brauchen wir ein paar Tage mehr.", "en": "Unfortunately not. Two colleagues are ill, so we need a few more days." },
+        { "speaker": "Nina", "de": "Das ist ein Problem, denn der Kunde wartet auf die Zahlen.", "en": "That is a problem, because the client is waiting for the figures." },
+        { "speaker": "Berk", "de": "Ich weiß. Trotzdem möchte ich nichts Halbes abliefern.", "en": "I know. Nevertheless, I do not want to deliver something half-finished." },
+        { "speaker": "Nina", "de": "Verstehe. Könnten wir den Kunden wenigstens heute informieren?", "en": "I see. Could we at least inform the client today?" },
+        { "speaker": "Berk", "de": "Ja, außerdem schlage ich einen neuen Termin vor: Mittwoch nächste Woche.", "en": "Yes; in addition, I suggest a new date: next Wednesday." },
+        { "speaker": "Nina", "de": "Gut. Allerdings muss der Entwurf dann am Montag bei mir sein.", "en": "Good. However, the draft has to be with me on Monday, then." },
+        { "speaker": "Berk", "de": "Das schaffe ich. Ich schicke ihn am Sonntagabend.", "en": "I can manage that. I will send it on Sunday evening." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Verb position after connectors",
+      "lede": "The same content can be expressed with three different word orders. Choose the connector and the order follows.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Connector", "Clause pattern", "Full example"],
+          "rows": [
+            ["und / aber / denn", "…, connector + subject + verb …", "Ich bleibe zu Hause, denn ich bin krank."],
+            ["deshalb / trotzdem", "…, connector + verb + subject …", "Ich bin krank, deshalb bleibe ich zu Hause."],
+            ["weil / obwohl", "…, connector + subject + … + verb", "Ich bleibe zu Hause, weil ich krank bin."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "If a subordinate clause comes first, the main clause begins with the verb: Weil ich krank bin, bleibe ich zu Hause.",
+            "With two verbs in a subordinate clause, the conjugated verb is last: …, weil ich habe arbeiten müssen.",
+            "deshalb and trotzdem can also stand inside the clause for emphasis: Ich bleibe deshalb zu Hause.",
+            "Do not mix the patterns: “weil ich bin krank” and “deshalb ich bleibe” are both wrong."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Cause or consequence?",
+          "text": "weil introduces the cause, deshalb introduces the consequence. Ich bin krank, deshalb bleibe ich zu Hause. = Ich bleibe zu Hause, weil ich krank bin. The facts are the same; the direction of the link is reversed."
+        }
+      ],
+      "tip": "When you write a B1 text, underline every connector and check the verb that follows it. Two seconds per connector prevents the most visible word-order errors."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 5,
+      "lede": "Decide by grammar first, then by meaning.",
+      "exercises": [
+        {
+          "id": "b1m1l2-p1",
+          "type": "mcq",
+          "prompt": "Which connector sends the conjugated verb to the end of the clause?",
+          "options": ["deshalb", "aber", "weil", "außerdem"],
+          "answer": 2,
+          "explanation": "weil is subordinating: …, weil ich krank bin. The other three do not push the verb to the end."
+        },
+        {
+          "id": "b1m1l2-p2",
+          "type": "mcq",
+          "prompt": "Complete: “Es regnet, ___ gehe ich spazieren.”",
+          "options": ["deshalb", "trotzdem", "weil", "dass"],
+          "answer": 1,
+          "explanation": "The walk is surprising in the rain, so trotzdem fits. It also takes verb second: trotzdem gehe ich."
+        },
+        {
+          "id": "b1m1l2-p3",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": ["Ich bin müde, deshalb ich gehe nach Hause.", "Ich bin müde, deshalb gehe ich nach Hause.", "Ich bin müde, deshalb ich nach Hause gehe.", "Ich bin müde, deshalb gehe nach Hause ich."],
+          "answer": 1,
+          "explanation": "deshalb occupies position one, so the verb gehe is second and the subject follows."
+        },
+        {
+          "id": "b1m1l2-p4",
+          "type": "mcq",
+          "prompt": "Complete: “Ich habe keine Zeit, ___ ich muss noch arbeiten.”",
+          "options": ["denn", "deshalb", "weil", "obwohl"],
+          "answer": 0,
+          "explanation": "After denn the normal word order stays: denn ich muss noch arbeiten. weil and obwohl would need the verb at the end."
+        },
+        {
+          "id": "b1m1l2-p5",
+          "type": "mcq",
+          "prompt": "Which sentence uses “allerdings” correctly?",
+          "options": ["Das Hotel war teuer, allerdings war es sehr sauber.", "Das Hotel war teuer, allerdings es war sehr sauber.", "Das Hotel war teuer, allerdings sehr sauber es war.", "Das Hotel war teuer, allerdings war sehr sauber es."],
+          "answer": 0,
+          "explanation": "allerdings is an adverbial connector: it takes position one, then the verb, then the subject."
+        },
+        {
+          "id": "b1m1l2-p6",
+          "type": "mcq",
+          "prompt": "Which pair has the same function?",
+          "options": ["deshalb and weil", "deshalb and darum", "trotzdem and obwohl", "aber and weil"],
+          "answer": 1,
+          "explanation": "deshalb, darum and deswegen are synonyms and share the same word order. weil and obwohl are subordinating; deshalb is adverbial."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 5,
+      "lede": "Type the connector that fits the meaning and the word order around the gap.",
+      "exercises": [
+        {
+          "id": "b1m1l2-g1",
+          "type": "gap",
+          "prompt": "Ich bin müde, ___ gehe ich ins Bett.",
+          "answers": ["deshalb", "darum", "deswegen"],
+          "explanation": "A consequence follows, and the verb is second: deshalb gehe ich."
+        },
+        {
+          "id": "b1m1l2-g2",
+          "type": "gap",
+          "prompt": "Es regnet, ___ nehme ich einen Regenschirm mit.",
+          "answers": ["trotzdem"],
+          "explanation": "The action happens despite the rain, so trotzdem is the right link."
+        },
+        {
+          "id": "b1m1l2-g3",
+          "type": "gap",
+          "prompt": "Ich lerne Deutsch, ___ ich in Wien studieren möchte.",
+          "answers": ["weil"],
+          "explanation": "möchte is at the end, so the clause is subordinate: weil ich … möchte."
+        },
+        {
+          "id": "b1m1l2-g4",
+          "type": "gap",
+          "prompt": "Sie ist nicht Lehrerin, ___ Ärztin.",
+          "answers": ["sondern"],
+          "explanation": "After a negative statement, sondern corrects it: nicht Lehrerin, sondern Ärztin."
+        },
+        {
+          "id": "b1m1l2-g5",
+          "type": "gap",
+          "prompt": "___ der Zug Verspätung hatte, kam er pünktlich an.",
+          "answers": ["Obwohl"],
+          "explanation": "hatte is at the end of the first clause, so a subordinating connector is needed. The contrast is concessive: obwohl."
+        },
+        {
+          "id": "b1m1l2-g6",
+          "type": "gap",
+          "prompt": "Der Kurs ist günstig, ___ liegt er direkt am Bahnhof.",
+          "answers": ["außerdem"],
+          "explanation": "A second advantage is added; außerdem takes position one and the verb follows."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 4,
+      "lede": "Build the sentence, then say which connector group it belongs to.",
+      "exercises": [
+        {
+          "id": "b1m1l2-o1",
+          "type": "order",
+          "prompt": "Build: “I am tired, so I am going home.”",
+          "tokens": ["müde", "Ich", "deshalb", "bin", "gehe", "nach", "Hause", "ich"],
+          "answer": "Ich bin müde, deshalb gehe ich nach Hause.",
+          "explanation": "deshalb is an adverb in position one; gehe is the second element."
+        },
+        {
+          "id": "b1m1l2-o2",
+          "type": "order",
+          "prompt": "Build: “It is raining; nevertheless, I am going for a walk.”",
+          "tokens": ["regnet", "Es", "trotzdem", "gehe", "spazieren", "ich"],
+          "answer": "Es regnet, trotzdem gehe ich spazieren.",
+          "explanation": "trotzdem + verb + subject, with the separable verb spazieren gehen split at the end."
+        },
+        {
+          "id": "b1m1l2-o3",
+          "type": "order",
+          "prompt": "Build: “I am staying at home because I am ill.”",
+          "tokens": ["zu", "bleibe", "Ich", "Hause", "weil", "krank", "ich", "bin"],
+          "answer": "Ich bleibe zu Hause, weil ich krank bin.",
+          "explanation": "weil is subordinating, so bin is the final word of the clause."
+        },
+        {
+          "id": "b1m1l2-o4",
+          "type": "order",
+          "prompt": "Build: “Although the train was delayed, it arrived on time.”",
+          "tokens": ["Verspätung", "Obwohl", "Zug", "der", "hatte", "kam", "pünktlich", "er", "an"],
+          "answer": "Obwohl der Zug Verspätung hatte, kam er pünktlich an.",
+          "explanation": "The subordinate clause ends with hatte; the main clause then starts with the verb kam."
+        },
+        {
+          "id": "b1m1l2-o5",
+          "type": "order",
+          "prompt": "Build: “The hotel was expensive; besides, the room was loud.”",
+          "tokens": ["teuer", "Das", "außerdem", "Hotel", "war", "das", "war", "Zimmer", "laut"],
+          "answer": "Das Hotel war teuer, außerdem war das Zimmer laut.",
+          "explanation": "außerdem opens the second clause and is followed by the verb war."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen for the reason and the consequence, not for every word.",
+      "speaker": "Two students, Mia and Tom",
+      "script": [
+        { "speaker": "Mia", "de": "Kommst du morgen zum Kurs?", "en": "Are you coming to the course tomorrow?" },
+        { "speaker": "Tom", "de": "Ich glaube nicht, denn ich habe am Vormittag einen Arzttermin.", "en": "I don't think so, because I have a doctor's appointment in the morning." },
+        { "speaker": "Mia", "de": "Der Kurs beginnt allerdings schon um acht.", "en": "The course does start at eight, though." },
+        { "speaker": "Tom", "de": "Das weiß ich. Trotzdem kann ich nicht kommen, weil der Termin wichtig ist.", "en": "I know. Nevertheless I can't come, because the appointment is important." },
+        { "speaker": "Mia", "de": "Verstehe. Deshalb frage ich die Dozentin, ob sie die Folien online stellt.", "en": "I see. That's why I'll ask the lecturer whether she will put the slides online." },
+        { "speaker": "Tom", "de": "Danke. Außerdem schreibe ich ihr eine kurze E-Mail.", "en": "Thanks. I'll also write her a short email." }
+      ],
+      "questions": [
+        {
+          "id": "b1m1l2-lq1",
+          "type": "mcq",
+          "prompt": "Why can Tom not come to the course?",
+          "options": ["He is ill.", "He has a doctor's appointment.", "He has to work.", "He is travelling."],
+          "answer": 1,
+          "explanation": "Er sagt: Ich habe am Vormittag einen Arzttermin."
+        },
+        {
+          "id": "b1m1l2-lq2",
+          "type": "mcq",
+          "prompt": "When does the course begin?",
+          "options": ["At seven", "At eight", "At nine", "At ten"],
+          "answer": 1,
+          "explanation": "Mia says: Der Kurs beginnt allerdings schon um acht."
+        },
+        {
+          "id": "b1m1l2-lq3",
+          "type": "mcq",
+          "prompt": "What will Mia do?",
+          "options": ["Cancel the course", "Ask the lecturer about the slides", "Write Tom's email", "Move the appointment"],
+          "answer": 1,
+          "explanation": "Deshalb frage ich die Dozentin, ob sie die Folien online stellt."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Use at least three different connectors. Record once, listen, then record again with a calmer pace.",
+      "prompt": "Explain how you organise a busy week. Mention one problem, one consequence and one thing you do in addition.",
+      "model": {
+        "de": "In einer vollen Woche mache ich am Sonntag einen Plan, weil ich sonst zu viel vergesse. Montags habe ich meistens zwei Termine, deshalb stehe ich früher auf. Außerdem lasse ich abends das Handy im anderen Zimmer. Allerdings klappt das nicht immer.",
+        "en": "In a busy week I make a plan on Sunday because otherwise I forget too much. On Mondays I usually have two appointments, so I get up earlier. I also leave my phone in another room in the evening. However, that does not always work."
+      },
+      "tips": [
+        "Plan your verb position before you speak: deshalb + verb + subject, weil + subject + verb.",
+        "Use one clear example per connector. Three well-linked sentences beat six short, unconnected ones.",
+        "Stress the connector slightly so the listener can follow the logic of your answer."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "All four errors come from using the right word with the wrong word order.",
+      "items": [
+        {
+          "wrong": "Ich bin müde, deshalb ich gehe nach Hause.",
+          "right": "Ich bin müde, deshalb gehe ich nach Hause.",
+          "why": "deshalb takes position one. The verb must be the second element, before the subject."
+        },
+        {
+          "wrong": "Ich bleibe zu Hause, weil ich bin krank.",
+          "right": "Ich bleibe zu Hause, weil ich krank bin.",
+          "why": "weil is subordinating, so the conjugated verb bin belongs at the end."
+        },
+        {
+          "wrong": "Trotzdem es regnet, gehe ich spazieren.",
+          "right": "Obwohl es regnet, gehe ich spazieren.",
+          "why": "trotzdem is an adverb and cannot introduce a subordinate clause. Use obwohl when the verb goes to the end."
+        },
+        {
+          "wrong": "Ich habe keine Zeit, trotzdem ich komme.",
+          "right": "Ich habe keine Zeit, trotzdem komme ich.",
+          "why": "After trotzdem the verb comes before the subject: trotzdem komme ich."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions on meaning and word order. Score 70% or more to unlock the next lesson.",
+      "questions": [
+        {
+          "id": "b1m1l2-a1",
+          "type": "mcq",
+          "prompt": "Which group of connectors is subordinating?",
+          "options": ["deshalb, trotzdem, außerdem", "und, aber, denn", "weil, obwohl, dass", "darum, deswegen, allerdings"],
+          "answer": 2,
+          "explanation": "weil, obwohl and dass send the conjugated verb to the end of the clause."
+        },
+        {
+          "id": "b1m1l2-a2",
+          "type": "mcq",
+          "prompt": "What does “deshalb” express?",
+          "options": ["A contrast", "A consequence", "An addition", "A condition"],
+          "answer": 1,
+          "explanation": "deshalb introduces the consequence of what was just said: therefore, that is why."
+        },
+        {
+          "id": "b1m1l2-a3",
+          "type": "gap",
+          "prompt": "Es regnet, ___ gehe ich spazieren.",
+          "answers": ["trotzdem"],
+          "explanation": "The walk happens despite the rain: trotzdem + verb + subject."
+        },
+        {
+          "id": "b1m1l2-a4",
+          "type": "gap",
+          "prompt": "Ich bleibe zu Hause, ___ ich krank bin.",
+          "answers": ["weil"],
+          "explanation": "bin is at the end, so the connector must be subordinating: weil."
+        },
+        {
+          "id": "b1m1l2-a5",
+          "type": "order",
+          "prompt": "Build: “I am tired, so I am going home.”",
+          "tokens": ["müde", "Ich", "deshalb", "bin", "gehe", "nach", "Hause", "ich"],
+          "answer": "Ich bin müde, deshalb gehe ich nach Hause.",
+          "explanation": "deshalb + verb + subject: deshalb gehe ich."
+        },
+        {
+          "id": "b1m1l2-a6",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": ["Das Zimmer ist klein, außerdem es ist laut.", "Das Zimmer ist klein, außerdem ist es laut.", "Das Zimmer ist klein, außerdem laut es ist.", "Das Zimmer ist klein, außerdem ist laut es."],
+          "answer": 1,
+          "explanation": "außerdem takes position one, then comes the verb ist, then the subject es."
+        },
+        {
+          "id": "b1m1l2-a7",
+          "type": "mcq",
+          "prompt": "What is the function of “allerdings”?",
+          "options": ["It adds a second reason.", "It introduces a limitation or contrast.", "It marks a direct command.", "It turns a statement into a question."],
+          "answer": 1,
+          "explanation": "allerdings qualifies the previous statement: however, though."
+        },
+        {
+          "id": "b1m1l2-a8",
+          "type": "gap",
+          "prompt": "Sie ist nicht Lehrerin, ___ Ärztin.",
+          "answers": ["sondern"],
+          "explanation": "After nicht, sondern corrects the statement: not a teacher, but a doctor."
+        },
+        {
+          "id": "b1m1l2-a9",
+          "type": "order",
+          "prompt": "Build: “Although it is raining, I am going for a walk.”",
+          "tokens": ["regnet", "Obwohl", "es", "gehe", "spazieren", "ich"],
+          "answer": "Obwohl es regnet, gehe ich spazieren.",
+          "explanation": "The subordinate clause ends with regnet; the main clause begins with the verb gehe."
+        },
+        {
+          "id": "b1m1l2-a10",
+          "type": "mcq",
+          "prompt": "How does “denn” affect word order?",
+          "options": ["The verb moves to the end.", "The verb moves to position one.", "The word order stays the same.", "The subject is dropped."],
+          "answer": 2,
+          "explanation": "denn is coordinating: …, denn ich bin krank. Normal subject–verb order remains."
+        },
+        {
+          "id": "b1m1l2-a11",
+          "type": "gap",
+          "prompt": "___ der Kurs teuer ist, ist er sehr gut.",
+          "answers": ["Obwohl"],
+          "explanation": "The first clause ends with ist, so it is subordinate. The contrast is concessive: Obwohl."
+        },
+        {
+          "id": "b1m1l2-a12",
+          "type": "order",
+          "prompt": "Build: “The hotel was expensive; besides, the room was loud.”",
+          "tokens": ["teuer", "Das", "außerdem", "Hotel", "war", "das", "war", "Zimmer", "laut"],
+          "answer": "Das Hotel war teuer, außerdem war das Zimmer laut.",
+          "explanation": "außerdem + verb war + subject das Zimmer."
+        }
+      ]
+    }
+  ]
+}

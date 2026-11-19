@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "id": "b1",
+  "code": "B1",
+  "name": "Intermediate",
+  "title": "Independent and Understood",
+  "tagline": "Share opinions, tell stories and cope confidently with most situations.",
+  "overview": "B1 is the independence level. You stop translating every sentence and start linking ideas: relative clauses, connectors, the passive and polite Konjunktiv II. The course adds formal writing and workplace and university communication, so your German works outside the classroom.",
+  "levelGoal": "By the end of B1 you can explain and defend an opinion, write a formal email, understand the main points of authentic texts, and deal with unexpected everyday problems.",
+  "hours": 130,
+  "color": "teal",
+  "canDo": [
+    "Express and justify opinions on familiar topics.",
+    "Write formal and semi-formal emails and letters.",
+    "Follow the main points of clear standard German.",
+    "Describe experiences and solve problems in everyday situations."
+  ],
+  "modules": [
+    {
+      "id": "b1-m1",
+      "number": 1,
+      "title": "Opinions & Connections",
+      "titleDe": "Meinungen und Verknüpfungen",
+      "summary": "Politeness, contrast and cause: the language of a thoughtful conversation.",
+      "lessons": [
+        {
+          "id": "b1-m1-l1",
+          "number": 1,
+          "title": "Konjunktiv II for Polite Requests",
+          "titleDe": "Konjunktiv II für höfliche Bitten",
+          "summary": "Sound considerate rather than demanding with könnte, würde and hätte.",
+          "minutes": 24,
+          "skills": ["Grammar", "Speaking"],
+          "objectives": [
+            "Form the most common Konjunktiv II verbs.",
+            "Ask for help, permission and favours politely.",
+            "Recognise unreal wishes and hypothetical situations."
+          ],
+          "vocab": ["könnte", "würde", "hätte", "wäre"],
+          "keyPhrase": { "de": "Könnten Sie mir bitte helfen?", "en": "Could you help me, please?" },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "b1-m1-l2",
+          "number": 2,
+          "title": "Connectors & Word Order",
+          "titleDe": "Konnektoren und Wortstellung",
+          "summary": "Link ideas with deshalb, trotzdem and außerdem — and keep the verb in the right place.",
+          "minutes": 26,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Use deshalb, darum and deswegen to express consequence.",
+            "Contrast ideas with aber, trotzdem and allerdings.",
+            "Apply correct word order after coordinating and subordinating connectors."
+          ],
+          "vocab": ["deshalb", "trotzdem", "außerdem", "allerdings"],
+          "keyPhrase": { "de": "Es regnet, trotzdem gehe ich spazieren.", "en": "It is raining; nevertheless, I am going for a walk." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "b1-m1-l3",
+          "number": 3,
+          "title": "Expressing & Justifying Opinions",
+          "titleDe": "Meinungen äußern und begründen",
+          "summary": "Agree, disagree and explain why without sounding blunt.",
+          "minutes": 24,
+          "skills": ["Speaking", "Writing"],
+          "objectives": [
+            "Introduce opinions with meiner Meinung nach and ich finde, dass.",
+            "Give balanced agreement and disagreement.",
+            "Support an opinion with reasons and examples."
+          ],
+          "vocab": ["meiner Meinung nach", "zustimmen", "widersprechen", "einerseits"],
+          "keyPhrase": { "de": "Meiner Meinung nach sollte man mehr Rad fahren.", "en": "In my opinion, people should cycle more." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "b1-m2",
+      "number": 2,
+      "title": "Complex Sentences",
+      "titleDe": "Komplexe Sätze",
+      "summary": "Relative clauses, zu-infinitives and verb-preposition combinations.",
+      "lessons": [
+        {
+          "id": "b1-m2-l1",
+          "number": 1,
+          "title": "Relative Clauses",
+          "titleDe": "Relativsätze",
+          "summary": "Add detail to a noun with der, die, das and the right case.",
+          "minutes": 28,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Choose relative pronouns by gender, number and case.",
+            "Place the conjugated verb at the end of the clause.",
+            "Combine two sentences into one fluent relative sentence."
+          ],
+          "vocab": ["der", "den", "dem", "dessen"],
+          "keyPhrase": { "de": "Das ist der Kollege, der mir geholfen hat.", "en": "That is the colleague who helped me." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "b1-m2-l2",
+          "number": 2,
+          "title": "Infinitive Clauses with zu",
+          "titleDe": "Infinitivsätze mit zu",
+          "summary": "Express intentions, plans and obligations with zu + infinitive and um … zu.",
+          "minutes": 24,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Use zu + infinitive after verbs such as vorhaben and vergessen.",
+            "Express purpose with um … zu.",
+            "Place zu correctly with separable verbs."
+          ],
+          "vocab": ["vorhaben", "vergessen", "versuchen", "um … zu"],
+          "keyPhrase": { "de": "Ich habe vor, im Sommer nach Wien zu fahren.", "en": "I plan to go to Vienna in the summer." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "b1-m2-l3",
+          "number": 3,
+          "title": "Verb–Preposition Combinations",
+          "titleDe": "Verben mit Präpositionen",
+          "summary": "Learn the preposition each verb demands and ask questions with wo- and da-compounds.",
+          "minutes": 26,
+          "skills": ["Grammar", "Vocabulary"],
+          "objectives": [
+            "Use high-frequency verb–preposition pairs correctly.",
+            "Form questions with worauf, womit and wofür.",
+            "Use da-compounds such as darauf and damit."
+          ],
+          "vocab": ["warten auf", "sich interessieren für", "sich freuen auf", "denken an"],
+          "keyPhrase": { "de": "Ich interessiere mich für deutsche Geschichte.", "en": "I am interested in German history." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "b1-m3",
+      "number": 3,
+      "title": "Written German",
+      "titleDe": "Schriftliches Deutsch",
+      "summary": "From a quick message to a formal email — register, structure and the passive.",
+      "lessons": [
+        {
+          "id": "b1-m3-l1",
+          "number": 1,
+          "title": "Formal vs Informal Register",
+          "titleDe": "Formell und informell",
+          "summary": "Choose between du and Sie, and adjust tone for work, officials and friends.",
+          "minutes": 22,
+          "skills": ["Writing", "Speaking"],
+          "objectives": [
+            "Select formal or informal address for different relationships.",
+            "Use formal request and apology formulas.",
+            "Recognise register shifts in authentic emails."
+          ],
+          "vocab": ["Sehr geehrte", "Mit freundlichen Grüßen", "entschuldigen Sie", "Liebe Grüße"],
+          "keyPhrase": { "de": "Sehr geehrte Damen und Herren,", "en": "Dear Sir or Madam," },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "b1-m3-l2",
+          "number": 2,
+          "title": "Emails & Letters",
+          "titleDe": "E-Mails und Briefe",
+          "summary": "Structure a German email: subject, salutation, request, closing.",
+          "minutes": 26,
+          "skills": ["Writing"],
+          "objectives": [
+            "Write an appropriate subject line and salutation.",
+            "Make a clear request and provide context.",
+            "Close formally and informally with the right formula."
+          ],
+          "vocab": ["der Betreff", "die Anrede", "die Bitte", "der Gruß"],
+          "keyPhrase": { "de": "Mit freundlichen Grüßen", "en": "Kind regards" },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "b1-m3-l3",
+          "number": 3,
+          "title": "The Passive Voice: An Introduction",
+          "titleDe": "Das Passiv: eine Einführung",
+          "summary": "Shift focus from who acts to what happens with werden + past participle.",
+          "minutes": 26,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Form the present and past passive.",
+            "Decide when the passive is more appropriate than the active.",
+            "Understand agent phrases with von and durch."
+          ],
+          "vocab": ["werden", "bezahlt", "gebaut", "von"],
+          "keyPhrase": { "de": "Die Rechnung wird morgen bezahlt.", "en": "The invoice will be paid tomorrow." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "b1-m4",
+      "number": 4,
+      "title": "Real-World Contexts",
+      "titleDe": "Alltag in Studium und Beruf",
+      "summary": "University, workplace and the language of sorting things out.",
+      "lessons": [
+        {
+          "id": "b1-m4-l1",
+          "number": 1,
+          "title": "University Communication",
+          "titleDe": "Kommunikation an der Universität",
+          "summary": "Enrol, ask questions and write to lecturers with confidence.",
+          "minutes": 24,
+          "skills": ["Speaking", "Writing"],
+          "objectives": [
+            "Ask about enrolment, deadlines and course requirements.",
+            "Write a short, polite email to a lecturer.",
+            "Understand common university abbreviations."
+          ],
+          "vocab": ["die Anmeldung", "die Vorlesung", "die Frist", "der Dozent"],
+          "keyPhrase": { "de": "Ich würde gern einen Termin mit Ihnen vereinbaren.", "en": "I would like to arrange an appointment with you." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "b1-m4-l2",
+          "number": 2,
+          "title": "Workplace Communication",
+          "titleDe": "Kommunikation im Beruf",
+          "summary": "Meetings, clarifications and the small talk that keeps work human.",
+          "minutes": 26,
+          "skills": ["Speaking", "Listening"],
+          "objectives": [
+            "Contribute to a meeting with clear updates.",
+            "Ask for clarification without losing the thread.",
+            "Use appropriate small-talk phrases with colleagues."
+          ],
+          "vocab": ["die Besprechung", "die Aufgabe", "sich abstimmen", "der Kollege"],
+          "keyPhrase": { "de": "Können wir das später besprechen?", "en": "Can we discuss that later?" },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "b1-m4-l3",
+          "number": 3,
+          "title": "Solving Everyday Problems",
+          "titleDe": "Alltagsprobleme lösen",
+          "summary": "Complain, explain and negotiate a solution calmly and clearly.",
+          "minutes": 24,
+          "skills": ["Speaking", "Writing"],
+          "objectives": [
+            "Describe a problem precisely and politely.",
+            "Request a replacement, refund or repair.",
+            "Respond to an apology and agree on next steps."
+          ],
+          "vocab": ["die Beschwerde", "die Lösung", "defekt", "erstatten"],
+          "keyPhrase": { "de": "Ich habe ein Problem mit meiner Bestellung.", "en": "I have a problem with my order." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        }
+      ]
+    }
+  ],
+  "scenarios": [
+    { "title": "Explaining opinions", "titleDe": "Meinungen erklären" },
+    { "title": "Discussing current affairs", "titleDe": "Über aktuelle Themen sprechen" },
+    { "title": "University communication", "titleDe": "An der Universität" },
+    { "title": "Workplace communication", "titleDe": "Im Beruf" },
+    { "title": "Describing personal experiences", "titleDe": "Persönliche Erfahrungen" },
+    { "title": "Solving everyday problems", "titleDe": "Alltagsprobleme lösen" }
+  ]
+}

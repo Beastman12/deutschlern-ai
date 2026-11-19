@@ -1,0 +1,660 @@
+{
+  "id": "a1-m4-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "a1-m4-l3-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "a1-m4-l3",
+      "prompt": "Say what time you get up, then one thing you do after breakfast.",
+      "items": [
+        "Ich stehe um sieben Uhr auf.",
+        "aufstehen",
+        "einkaufen",
+        "um"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "a1-m4-l3-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "a1-m4-l3",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "a1-m4-l3-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "a1-m4-l3",
+      "lede": "Describe your day with separable verbs and three small time words.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Separable verbs have a prefix that moves to the end of a main clause: aufstehen becomes Ich stehe um sieben Uhr auf. The conjugated verb stays in second position and the prefix waits at the end."
+        },
+        {
+          "kind": "p",
+          "text": "Use um for clock times (um sieben Uhr), am for days and parts of the day (am Montag, am Morgen), and im for months and seasons (im Januar, im Sommer). These prepositions do not change the noun after them."
+        },
+        {
+          "kind": "note",
+          "title": "The prefix is not optional",
+          "text": "In a main clause, the prefix must go to the end. \"Ich aufstehe um sieben\" is not German."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l3-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "a1-m4-l3",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "aufstehen → ich stehe … auf",
+              "Ich stehe um sieben Uhr auf."
+            ],
+            [
+              "einkaufen → ich kaufe … ein",
+              "Ich kaufe am Samstag ein."
+            ],
+            [
+              "um + clock time",
+              "Der Kurs beginnt um neun Uhr."
+            ],
+            [
+              "am + day / part of day",
+              "Am Morgen trinke ich Kaffee."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The prefix goes to the very end of the main clause.",
+            "Use am with days: am Montag, am Wochenende.",
+            "Use im with months and seasons: im Mai, im Winter."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l3-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "a1-m4-l3",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "aufstehen",
+          "en": "to get up",
+          "example": "Ich stehe um sieben Uhr auf.",
+          "exampleEn": "I get up at seven o’clock."
+        },
+        {
+          "de": "einkaufen",
+          "en": "to shop",
+          "example": "Wir kaufen samstags ein.",
+          "exampleEn": "We shop on Saturdays."
+        },
+        {
+          "de": "um",
+          "en": "at (clock time)",
+          "example": "Der Film beginnt um acht Uhr.",
+          "exampleEn": "The film begins at eight o’clock."
+        },
+        {
+          "de": "am",
+          "en": "on (day or part of day)",
+          "example": "Am Montag arbeite ich nicht.",
+          "exampleEn": "On Monday I do not work."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l3-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "a1-m4-l3",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Ich stehe um sieben Uhr auf.",
+          "en": "I get up at seven o’clock.",
+          "note": "The prefix auf moves to the end."
+        },
+        {
+          "de": "Am Morgen trinke ich einen Kaffee.",
+          "en": "In the morning I drink a coffee.",
+          "note": "Am is used with parts of the day."
+        },
+        {
+          "de": "Wir kaufen am Samstag ein.",
+          "en": "We shop on Saturday.",
+          "note": "The prefix ein goes to the end."
+        },
+        {
+          "de": "Im Sommer fahre ich nach Berlin.",
+          "en": "In summer I travel to Berlin.",
+          "note": "Im is used with seasons."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l3-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "a1-m4-l3",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "aufstehen",
+          "hint": "Stress the first syllable: OWF-shtay-en."
+        },
+        {
+          "de": "einkaufen",
+          "hint": "The ei sounds like \"eye\": INE-kow-fen."
+        },
+        {
+          "de": "um sieben Uhr",
+          "hint": "Link the words smoothly: um-SEE-ben-oor."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l3-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "a1-m4-l3",
+      "heading": "The German day",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Many German workplaces start early, and \"Feierabend\" is the everyday word for the end of the working day. Shops in smaller towns may close earlier than in big cities, and Sunday remains a quiet day for most retail."
+        },
+        {
+          "kind": "p",
+          "text": "Mealtimes vary by region and family. \"Frühstück\" can be a full meal with bread, cheese and coffee, while \"Abendbrot\" is often a light evening meal rather than a cooked dinner."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l3-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "a1-m4-l3",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "Two colleagues compare their morning routines.",
+      "lines": [
+        {
+          "speaker": "Nina",
+          "de": "Wann stehst du morgens auf?",
+          "en": "When do you get up in the morning?"
+        },
+        {
+          "speaker": "Paul",
+          "de": "Ich stehe um sechs Uhr auf und trinke Kaffee.",
+          "en": "I get up at six and drink coffee."
+        },
+        {
+          "speaker": "Nina",
+          "de": "Ich stehe erst um sieben auf.",
+          "en": "I only get up at seven."
+        },
+        {
+          "speaker": "Paul",
+          "de": "Am Wochenende kaufe ich dann samstags ein.",
+          "en": "At the weekend I shop on Saturdays."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l3-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "a1-m4-l3",
+      "heading": "Separable verbs in a main clause",
+      "lede": "The conjugated verb stays in position two; the prefix moves to the end.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "aufstehen",
+              "Ich stehe um sieben Uhr auf."
+            ],
+            [
+              "einkaufen",
+              "Wir kaufen am Samstag ein."
+            ],
+            [
+              "anrufen",
+              "Er ruft seine Mutter an."
+            ],
+            [
+              "um / am / im",
+              "um acht Uhr · am Montag · im Winter"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "In a subordinate clause the prefix stays with the verb, but at A1 focus on the main-clause pattern."
+        }
+      ],
+      "tip": "Say the whole sentence aloud and put the prefix at the very end. If it sounds cut off, you have probably placed it correctly."
+    },
+    {
+      "id": "a1-m4-l3-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "a1-m4-l3",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "a1-m4-l3-p-m1",
+          "type": "mcq",
+          "prompt": "Ich ___ um sieben Uhr ___.",
+          "options": [
+            "stehe … auf",
+            "aufstehe … —",
+            "stehe … an",
+            "auf … stehe"
+          ],
+          "answer": 0,
+          "explanation": "Aufstehen separates: the conjugated stehe stays in second position and auf goes to the end."
+        },
+        {
+          "id": "a1-m4-l3-p-m2",
+          "type": "mcq",
+          "prompt": "Der Kurs beginnt ___ neun Uhr.",
+          "options": [
+            "am",
+            "im",
+            "um",
+            "in"
+          ],
+          "answer": 2,
+          "explanation": "Clock times take um: um neun Uhr."
+        },
+        {
+          "id": "a1-m4-l3-p-m3",
+          "type": "mcq",
+          "prompt": "___ Montag arbeite ich nicht.",
+          "options": [
+            "Um",
+            "Am",
+            "Im",
+            "An"
+          ],
+          "answer": 1,
+          "explanation": "Days take am: am Montag."
+        },
+        {
+          "id": "a1-m4-l3-p-m4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Ich aufstehe um sechs.",
+            "Ich stehe um sechs auf.",
+            "Ich stehe auf um sechs.",
+            "Ich um sechs stehe auf."
+          ],
+          "answer": 1,
+          "explanation": "The conjugated verb is second and the prefix is at the end."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l3-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "a1-m4-l3",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "a1-m4-l3-p-g1",
+          "type": "gap",
+          "prompt": "Ich stehe um sieben Uhr ___.",
+          "answers": [
+            "auf"
+          ],
+          "explanation": "The prefix of aufstehen goes to the end of the main clause."
+        },
+        {
+          "id": "a1-m4-l3-p-g2",
+          "type": "gap",
+          "prompt": "Der Film beginnt ___ acht Uhr.",
+          "answers": [
+            "um"
+          ],
+          "explanation": "Clock times use um."
+        },
+        {
+          "id": "a1-m4-l3-p-g3",
+          "type": "gap",
+          "prompt": "___ Winter ist es hier kalt.",
+          "answers": [
+            "Im"
+          ],
+          "explanation": "Seasons use im: im Winter."
+        },
+        {
+          "id": "a1-m4-l3-p-g4",
+          "type": "gap",
+          "prompt": "Wir kaufen am Samstag ___.",
+          "answers": [
+            "ein"
+          ],
+          "explanation": "The prefix of einkaufen goes to the end."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l3-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "a1-m4-l3",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "a1-m4-l3-p-o1",
+          "type": "order",
+          "prompt": "Build: “I get up at seven o’clock.”",
+          "tokens": [
+            "um",
+            "Ich",
+            "sieben",
+            "stehe",
+            "Uhr",
+            "auf"
+          ],
+          "answer": "Ich stehe um sieben Uhr auf.",
+          "explanation": "The verb is second and the prefix auf is at the end."
+        },
+        {
+          "id": "a1-m4-l3-p-o2",
+          "type": "order",
+          "prompt": "Build: “On Monday I work.”",
+          "tokens": [
+            "arbeite",
+            "Am",
+            "ich",
+            "Montag"
+          ],
+          "answer": "Am Montag arbeite ich.",
+          "explanation": "The time phrase comes first, so the verb follows immediately."
+        },
+        {
+          "id": "a1-m4-l3-p-o3",
+          "type": "order",
+          "prompt": "Build: “We shop on Saturday.”",
+          "tokens": [
+            "ein",
+            "Wir",
+            "am",
+            "kaufen",
+            "Samstag"
+          ],
+          "answer": "Wir kaufen am Samstag ein.",
+          "explanation": "The separable prefix ein closes the sentence."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l3-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "a1-m4-l3",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Ein Gespräch im Büro",
+      "script": [
+        {
+          "speaker": "Chef",
+          "de": "Wann beginnt deine Schicht?",
+          "en": "When does your shift begin?"
+        },
+        {
+          "speaker": "Mira",
+          "de": "Um acht Uhr. Ich stehe um sechs Uhr auf.",
+          "en": "At eight. I get up at six."
+        },
+        {
+          "speaker": "Chef",
+          "de": "Und am Wochenende?",
+          "en": "And at the weekend?"
+        },
+        {
+          "speaker": "Mira",
+          "de": "Am Samstag kaufe ich ein, aber am Sonntag arbeite ich nicht.",
+          "en": "On Saturday I shop, but on Sunday I do not work."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a1-m4-l3-l1",
+          "type": "mcq",
+          "prompt": "When does Mira get up?",
+          "options": [
+            "At six",
+            "At seven",
+            "At eight",
+            "At nine"
+          ],
+          "answer": 0,
+          "explanation": "She says \"Ich stehe um sechs Uhr auf.\""
+        },
+        {
+          "id": "a1-m4-l3-l2",
+          "type": "mcq",
+          "prompt": "What does she do on Saturday?",
+          "options": [
+            "She works",
+            "She shops",
+            "She studies",
+            "She visits her parents"
+          ],
+          "answer": 1,
+          "explanation": "She says \"Am Samstag kaufe ich ein\", so she shops on Saturday."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l3-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "a1-m4-l3",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Describe your morning in three sentences. Use one separable verb and one time phrase.",
+      "model": {
+        "de": "Ich stehe um sieben Uhr auf. Am Morgen trinke ich Kaffee. Dann kaufe ich ein.",
+        "en": "I get up at seven. In the morning I drink coffee. Then I shop."
+      },
+      "tips": [
+        "Start with \"Ich stehe … auf\" and put the prefix at the end.",
+        "Use am for parts of the day and um for clock times.",
+        "Connect your sentences with dann or danach to sound more fluent."
+      ]
+    },
+    {
+      "id": "a1-m4-l3-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "a1-m4-l3",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Ich aufstehe um sieben.",
+          "right": "Ich stehe um sieben auf.",
+          "why": "The conjugated verb must be in second position, with the prefix at the end."
+        },
+        {
+          "wrong": "Ich stehe auf um sieben.",
+          "right": "Ich stehe um sieben auf.",
+          "why": "The time phrase comes before the final prefix."
+        },
+        {
+          "wrong": "Am acht Uhr beginnt der Kurs.",
+          "right": "Um acht Uhr beginnt der Kurs.",
+          "why": "Clock times use um, not am."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l3-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "a1-m4-l3",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "a1-m4-l3-a1",
+          "type": "mcq",
+          "prompt": "Ich ___ um sieben Uhr ___.",
+          "options": [
+            "stehe … auf",
+            "aufstehe … —",
+            "stehe … an",
+            "auf … stehe"
+          ],
+          "answer": 0,
+          "explanation": "Aufstehen separates: the conjugated stehe stays in second position and auf goes to the end."
+        },
+        {
+          "id": "a1-m4-l3-a2",
+          "type": "mcq",
+          "prompt": "Der Kurs beginnt ___ neun Uhr.",
+          "options": [
+            "am",
+            "im",
+            "um",
+            "in"
+          ],
+          "answer": 2,
+          "explanation": "Clock times take um: um neun Uhr."
+        },
+        {
+          "id": "a1-m4-l3-a3",
+          "type": "mcq",
+          "prompt": "___ Montag arbeite ich nicht.",
+          "options": [
+            "Um",
+            "Am",
+            "Im",
+            "An"
+          ],
+          "answer": 1,
+          "explanation": "Days take am: am Montag."
+        },
+        {
+          "id": "a1-m4-l3-a4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Ich aufstehe um sechs.",
+            "Ich stehe um sechs auf.",
+            "Ich stehe auf um sechs.",
+            "Ich um sechs stehe auf."
+          ],
+          "answer": 1,
+          "explanation": "The conjugated verb is second and the prefix is at the end."
+        },
+        {
+          "id": "a1-m4-l3-a5",
+          "type": "gap",
+          "prompt": "Ich stehe um sieben Uhr ___.",
+          "answers": [
+            "auf"
+          ],
+          "explanation": "The prefix of aufstehen goes to the end of the main clause."
+        },
+        {
+          "id": "a1-m4-l3-a6",
+          "type": "gap",
+          "prompt": "Der Film beginnt ___ acht Uhr.",
+          "answers": [
+            "um"
+          ],
+          "explanation": "Clock times use um."
+        },
+        {
+          "id": "a1-m4-l3-a7",
+          "type": "gap",
+          "prompt": "___ Winter ist es hier kalt.",
+          "answers": [
+            "Im"
+          ],
+          "explanation": "Seasons use im: im Winter."
+        },
+        {
+          "id": "a1-m4-l3-a8",
+          "type": "gap",
+          "prompt": "Wir kaufen am Samstag ___.",
+          "answers": [
+            "ein"
+          ],
+          "explanation": "The prefix of einkaufen goes to the end."
+        },
+        {
+          "id": "a1-m4-l3-a9",
+          "type": "order",
+          "prompt": "Build: “I get up at seven o’clock.”",
+          "tokens": [
+            "um",
+            "Ich",
+            "sieben",
+            "stehe",
+            "Uhr",
+            "auf"
+          ],
+          "answer": "Ich stehe um sieben Uhr auf.",
+          "explanation": "The verb is second and the prefix auf is at the end."
+        },
+        {
+          "id": "a1-m4-l3-a10",
+          "type": "order",
+          "prompt": "Build: “On Monday I work.”",
+          "tokens": [
+            "arbeite",
+            "Am",
+            "ich",
+            "Montag"
+          ],
+          "answer": "Am Montag arbeite ich.",
+          "explanation": "The time phrase comes first, so the verb follows immediately."
+        }
+      ]
+    }
+  ]
+}

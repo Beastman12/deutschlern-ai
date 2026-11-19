@@ -1,0 +1,594 @@
+{
+  "id": "c1-m1-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Read the four sentences aloud and underline the word that carries the logical link.",
+      "prompt": "Read each sentence aloud. Notice how the connector tells you what kind of step comes next: a consequence, a concession, a reason or a reference.",
+      "items": [
+        "Die Lieferung verzögert sich; infolgedessen verschiebt sich der Projektstart.",
+        "Das Angebot ist attraktiv, nichtsdestotrotz bleiben die Risiken erheblich.",
+        "Eine Einigung ist dringend, zumal die Kosten weiter steigen.",
+        "Diesbezüglich liegen uns noch keine verlässlichen Zahlen vor."
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "This lesson trains the two things a long German text needs: clear logical links and steady reference."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "Cohesion is what makes a text feel like one text rather than a list of correct sentences.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German formal writing creates cohesion in two ways: explicit connectors that name the relationship between ideas, and reference chains that keep the topic visible without repeating the same noun. The first is grammar; the second is style. A text needs both, but more connectors do not automatically mean more clarity."
+        },
+        {
+          "kind": "de",
+          "text": "Die Lieferung verzögert sich; infolgedessen verschiebt sich der Projektstart.",
+          "en": "The delivery is delayed; consequently, the start of the project is postponed."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Adverb connectors (infolgedessen, nichtsdestotrotz, folglich) occupy position one, so the conjugated verb comes second.",
+            "Subordinating connectors (zumal, sofern, wenngleich) send the conjugated verb to the end of the clause.",
+            "Reference words (dieser, dabei, hierdurch, darauf, diesbezüglich) carry a topic forward without repeating it.",
+            "Too many connectors make a text mechanical. If the relationship is obvious, a semicolon or a full stop often does the job better."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Rule of thumb",
+          "text": "One connector per sentence is usually enough. Two connectors marking the same relationship is a warning sign."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "Sort the connector by function first, then check its word order.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Connector", "Function", "Word order", "Example"],
+          "rows": [
+            ["infolgedessen", "consequence", "adverb: position 1, verb 2", "Infolgedessen verschiebt sich der Termin."],
+            ["nichtsdestotrotz", "concession", "adverb: position 1, verb 2", "Nichtsdestotrotz bleibt das Risiko hoch."],
+            ["zumal", "cause, “especially since”", "subordinating: verb final", "Eine Einigung ist dringend, zumal die Kosten steigen."],
+            ["sofern", "condition", "subordinating: verb final", "Sofern die Mittel reichen, beginnen wir im Mai."],
+            ["diesbezüglich", "reference, “in this regard”", "adverbial or attributive", "Diesbezüglich liegen keine Zahlen vor."],
+            ["hinsichtlich", "reference + genitive", "preposition + genitive", "Hinsichtlich der Kosten gibt es Fragen."],
+            ["folglich", "consequence, more formal", "adverb: position 1, verb 2", "Die Frist ist abgelaufen; folglich ist der Antrag ungültig."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Adverb connectors take position one, so the verb follows immediately: Infolgedessen verschiebt sich der Termin — not Infolgedessen sich verschiebt.",
+            "Subordinating connectors are part of the clause and push the verb to the end: ..., zumal die Kosten weiter steigen.",
+            "zumal usually follows the claim it supports. It introduces a reason the reader is expected to find persuasive.",
+            "nichtsdestotrotz is correct and common in journalistic prose, but it is heavier than trotzdem. Do not use it in every second sentence."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Formality ladder",
+          "text": "deshalb → infolgedessen → folglich all express consequence, but the last two belong to formal written German."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "Learn each connector with its word-order pattern, not as a translation pair.",
+      "items": [
+        {
+          "de": "infolgedessen",
+          "en": "consequently",
+          "pronunciation": "in-FOL-ge-des-sen",
+          "example": "Die Mittel wurden gekürzt; infolgedessen muss das Projekt kleiner werden.",
+          "exampleEn": "The funds were cut; consequently, the project has to become smaller."
+        },
+        {
+          "de": "nichtsdestotrotz",
+          "en": "nevertheless",
+          "pronunciation": "NICHTS-des-to-TROTS",
+          "example": "Das Konzept ist gut, nichtsdestotrotz fehlt das Geld.",
+          "exampleEn": "The concept is good; nevertheless, the money is missing."
+        },
+        {
+          "de": "zumal",
+          "en": "especially since",
+          "pronunciation": "tsu-MAHL",
+          "example": "Wir sollten zügig entscheiden, zumal die Frist näher rückt.",
+          "exampleEn": "We should decide quickly, especially since the deadline is approaching."
+        },
+        {
+          "de": "diesbezüglich",
+          "en": "in this regard",
+          "pronunciation": "DEES-be-tsüg-likh",
+          "example": "Diesbezüglich bitten wir um eine kurze Rückmeldung.",
+          "exampleEn": "In this regard, we ask for a brief response."
+        },
+        {
+          "de": "die Kohäsion",
+          "en": "cohesion",
+          "article": "die",
+          "pronunciation": "ko-hä-ZIOHN",
+          "example": "Kohäsion entsteht durch Verweise und Konnektoren.",
+          "exampleEn": "Cohesion is created by references and connectors."
+        },
+        {
+          "de": "die Überleitung",
+          "en": "the transition",
+          "article": "die",
+          "plural": "die Überleitungen",
+          "pronunciation": "ü-ber-LAI-tung",
+          "example": "Eine kurze Überleitung verbindet die beiden Absätze.",
+          "exampleEn": "A short transition links the two paragraphs."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Read each sentence twice: once for meaning, once for the position of the verb.",
+      "items": [
+        {
+          "de": "Die Nachfrage ist gestiegen; infolgedessen wurden die Lieferzeiten länger.",
+          "en": "Demand has risen; consequently, delivery times have become longer.",
+          "note": "The semicolon separates the two main clauses; infolgedessen opens the second and the verb follows."
+        },
+        {
+          "de": "Das Verfahren ist aufwendig, nichtsdestotrotz lohnt es sich.",
+          "en": "The procedure is elaborate; nevertheless, it is worth it.",
+          "note": "nichtsdestotrotz is a one-word concession; no comma is needed before it beyond the clause boundary."
+        },
+        {
+          "de": "Wir sollten die Entscheidung nicht aufschieben, zumal die Frist Ende Mai endet.",
+          "en": "We should not postpone the decision, especially since the deadline ends at the end of May.",
+          "note": "zumal introduces a supporting reason and sends the verb enden to the end."
+        },
+        {
+          "de": "Diesbezüglich verweisen wir auf unser Schreiben von letzter Woche.",
+          "en": "In this regard, we refer to our letter from last week.",
+          "note": "A standard opening in formal correspondence: it points back without repeating the topic."
+        },
+        {
+          "de": "Die Daten sind unvollständig; folglich lässt sich noch keine belastbare Aussage treffen.",
+          "en": "The data are incomplete; consequently, no reliable statement can yet be made.",
+          "note": "folglich is the more formal sibling of deshalb and infolgedessen."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "Long connectors need a clear stress pattern, otherwise they blur into the sentence.",
+      "items": [
+        {
+          "de": "infolgedessen",
+          "hint": "Stress on FOL; the final -sen is a weak syllable, not “zen”.",
+          "en": "consequently"
+        },
+        {
+          "de": "nichtsdestotrotz",
+          "hint": "Four units: nichts – des – to – trotz. Stress the last syllable, and keep the final tz as a sharp ts.",
+          "en": "nevertheless"
+        },
+        {
+          "de": "zumal",
+          "hint": "tsu-MAHL: long a, stress on the second syllable.",
+          "en": "especially since"
+        },
+        {
+          "de": "Kohäsion",
+          "hint": "ko-hä-ZIOHN: the h is silent, ä is open, and the stress falls on the last syllable.",
+          "en": "cohesion"
+        },
+        {
+          "de": "Überleitung",
+          "hint": "ü-ber-LAI-tung: round the ü, then a clear ai; -ung is a full syllable, not “unk”.",
+          "en": "transition"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Why German formal texts signpost so much",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German administrative, academic and journalistic prose tends to make relationships explicit. A reader should be able to see whether a sentence continues, contrasts or concludes. That is why connectors such as infolgedessen and nichtsdestotrotz survive in writing even though they are rare in speech."
+        },
+        {
+          "kind": "p",
+          "text": "The style has limits. A text that announces every step — zunächst, sodann, ferner, darüber hinaus, abschließend — can feel bureaucratic. Good academic German varies the signals: sometimes a connector, sometimes a colon, sometimes a new paragraph that does the same work."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lede": "A supplier has delayed a delivery and the project team has to react.",
+      "setting": "A short project meeting after a delay notification",
+      "lines": [
+        { "speaker": "Projektleiterin", "de": "Die Lieferung kommt erst nächste Woche; infolgedessen verschiebt sich unser Testlauf.", "en": "The delivery will not arrive until next week; consequently, our test run is postponed." },
+        { "speaker": "Kollege", "de": "Nichtsdestotrotz sollten wir den Kunden heute informieren.", "en": "Nevertheless, we should inform the client today." },
+        { "speaker": "Projektleiterin", "de": "Sehe ich auch so, zumal er ohnehin schon nach dem Zeitplan gefragt hat.", "en": "I agree, especially since he has already asked about the schedule anyway." },
+        { "speaker": "Kollege", "de": "Diesbezüglich schlage ich eine kurze E-Mail vor – sachlich, ohne Schuldzuweisung.", "en": "In this regard, I suggest a short email — factual, without apportioning blame." },
+        { "speaker": "Projektleiterin", "de": "Gut. Formulieren Sie bitte auch die neue Frist hinein.", "en": "Good. Please also include the new deadline in it." },
+        { "speaker": "Kollege", "de": "Mache ich. Ich schicke Ihnen den Entwurf bis heute Nachmittag.", "en": "Will do. I will send you the draft by this afternoon." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Reference words: keeping the topic visible",
+      "lede": "Connectors link clauses; reference words link sentences. Together they carry the reader through a long text.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Weak: repetition", "Cohesive: reference", "English"],
+          "rows": [
+            ["Die Maßnahme wurde beschlossen. Die Maßnahme soll bald greifen.", "Die Maßnahme wurde beschlossen. Sie soll bald greifen.", "The measure was adopted. It is to take effect soon."],
+            ["Die Daten fehlen. Wegen der fehlenden Daten ist eine Aussage schwierig.", "Die Daten fehlen; deshalb ist eine Aussage schwierig.", "The data are missing; for that reason, a statement is difficult."],
+            ["Wir prüfen den Vorschlag. Zu dem Vorschlag haben wir Fragen.", "Wir prüfen den Vorschlag; diesbezüglich haben wir Fragen.", "We are reviewing the proposal; in this regard, we have questions."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use dieser/diese/dieses when you need to be unambiguous; er/sie/es is lighter but can be ambiguous when two nouns share a gender.",
+            "dabei and hierbei refer to an activity; darauf and daraufhin refer to a point just made; dadurch refers to a means or cause.",
+            "A reference word needs a clear antecedent in the preceding sentence or two. If the reader has to search, repeat the noun.",
+            "Thematic progression works best when the topic stays at the start and the new information lands at the end."
+          ]
+        }
+      ],
+      "tip": "Read your paragraph and underline every pronoun. If two of them point to the same antecedent, replace one with a noun."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Check both the meaning of the connector and the word order that follows it.",
+      "exercises": [
+        {
+          "id": "l2-p1",
+          "type": "mcq",
+          "prompt": "Which connector is a subordinating conjunction?",
+          "options": ["infolgedessen", "nichtsdestotrotz", "zumal", "folglich"],
+          "answer": 2,
+          "explanation": "zumal introduces a subordinate clause, so the conjugated verb goes to the end."
+        },
+        {
+          "id": "l2-p2",
+          "type": "mcq",
+          "prompt": "Which sentence has the correct word order?",
+          "options": ["Infolgedessen sich der Termin verschiebt.", "Infolgedessen verschiebt sich der Termin.", "Infolgedessen der Termin sich verschiebt.", "Infolgedessen verschiebt der Termin sich."],
+          "answer": 1,
+          "explanation": "infolgedessen fills position one, so the verb verschiebt comes second and the subject follows."
+        },
+        {
+          "id": "l2-p3",
+          "type": "mcq",
+          "prompt": "What does nichtsdestotrotz mean?",
+          "options": ["as a result", "nevertheless", "provided that", "in this regard"],
+          "answer": 1,
+          "explanation": "nichtsdestotrotz is a formal concession: despite what was just said."
+        },
+        {
+          "id": "l2-p4",
+          "type": "mcq",
+          "prompt": "Which sentence uses diesbezüglich correctly?",
+          "options": ["Diesbezüglich liegen uns keine Zahlen vor.", "Diesbezüglich Zahlen liegen uns nicht vor.", "Wir liegen diesbezüglich keine Zahlen vor.", "Diesbezüglich wir keine Zahlen haben."],
+          "answer": 0,
+          "explanation": "diesbezüglich is an adverbial; when it opens the sentence, the verb follows in second position."
+        },
+        {
+          "id": "l2-p5",
+          "type": "mcq",
+          "prompt": "Which version is the most cohesive?",
+          "options": ["Die Reform wurde beschlossen. Die Reform tritt im Mai in Kraft. Die Reform betrifft alle Betriebe.", "Die Reform wurde beschlossen. Sie tritt im Mai in Kraft und betrifft alle Betriebe.", "Die Reform wurde beschlossen, und die Reform tritt im Mai in Kraft, und die Reform betrifft alle Betriebe.", "Die Reform wurde beschlossen; die Reform, sie tritt im Mai in Kraft."],
+          "answer": 1,
+          "explanation": "The pronoun and the coordinated verb avoid repetition without creating ambiguity."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the connector that fits the logical relationship.",
+      "exercises": [
+        {
+          "id": "l2-g1",
+          "type": "gap",
+          "prompt": "Die Kosten steigen; ___ wird das Projekt teurer.",
+          "answers": ["infolgedessen", "folglich"],
+          "explanation": "Both express consequence; infolgedessen is the more formal option."
+        },
+        {
+          "id": "l2-g2",
+          "type": "gap",
+          "prompt": "Das Wetter war schlecht, ___ fand die Veranstaltung statt.",
+          "answers": ["nichtsdestotrotz"],
+          "explanation": "The sentence concedes the bad weather and keeps the main statement: nevertheless."
+        },
+        {
+          "id": "l2-g3",
+          "type": "gap",
+          "prompt": "Wir sollten handeln, ___ die Zeit knapp wird.",
+          "answers": ["zumal"],
+          "explanation": "zumal introduces a supporting reason and sends the verb to the end."
+        },
+        {
+          "id": "l2-g4",
+          "type": "gap",
+          "prompt": "___ der Kosten gibt es noch offene Fragen.",
+          "answers": ["Hinsichtlich", "Bezüglich"],
+          "explanation": "Both prepositions take the genitive: hinsichtlich/bezüglich der Kosten."
+        },
+        {
+          "id": "l2-g5",
+          "type": "gap",
+          "prompt": "___ die Unterlagen vollständig sind, können wir den Vertrag prüfen.",
+          "answers": ["Sobald", "Falls", "Sofern"],
+          "explanation": "All three introduce a conditional or temporal subordinate clause with the verb at the end."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Build each sentence, then check where the conjugated verb lands.",
+      "exercises": [
+        {
+          "id": "l2-o1",
+          "type": "order",
+          "prompt": "Build: “Consequently, the start of the event is postponed.”",
+          "tokens": ["verschiebt", "Infolgedessen", "der", "sich", "Beginn", "Veranstaltung", "der"],
+          "answer": "Infolgedessen verschiebt sich der Beginn der Veranstaltung.",
+          "explanation": "The connector occupies position one; the reflexive verb verschiebt sich follows."
+        },
+        {
+          "id": "l2-o2",
+          "type": "order",
+          "prompt": "Build: “The offer is attractive; nevertheless, the risks remain considerable.”",
+          "tokens": ["Das", "Angebot", "ist", "attraktiv", "nichtsdestotrotz", "bleiben", "die", "Risiken", "erheblich"],
+          "answer": "Das Angebot ist attraktiv, nichtsdestotrotz bleiben die Risiken erheblich.",
+          "explanation": "nichtsdestotrotz opens the second clause, so bleiben comes before the subject."
+        },
+        {
+          "id": "l2-o3",
+          "type": "order",
+          "prompt": "Build: “An agreement is urgent, especially since costs continue to rise.”",
+          "tokens": ["Eine", "Einigung", "ist", "dringend", "zumal", "die", "Kosten", "weiter", "steigen"],
+          "answer": "Eine Einigung ist dringend, zumal die Kosten weiter steigen.",
+          "explanation": "zumal is subordinating, so the verb steigen goes to the end."
+        },
+        {
+          "id": "l2-o4",
+          "type": "order",
+          "prompt": "Build: “In this regard, we still have no reliable figures.”",
+          "tokens": ["Diesbezüglich", "liegen", "uns", "noch", "keine", "verlässlichen", "Zahlen", "vor"],
+          "answer": "Diesbezüglich liegen uns noch keine verlässlichen Zahlen vor.",
+          "explanation": "The separable verb vorliegen splits: liegen ... vor."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "A short phone update. Listen for the logical steps, not for every word.",
+      "speaker": "Project update on the phone",
+      "script": [
+        { "speaker": "Daniel", "de": "Hallo Frau Berger, hier ist Daniel Roth.", "en": "Hello Ms Berger, this is Daniel Roth." },
+        { "speaker": "Daniel", "de": "Ich melde mich wegen des neuen Zeitplans.", "en": "I am calling about the new schedule." },
+        { "speaker": "Daniel", "de": "Die Lieferung verzögert sich um zwei Wochen; infolgedessen müssen wir die Präsentation verschieben.", "en": "The delivery is delayed by two weeks; consequently, we have to postpone the presentation." },
+        { "speaker": "Daniel", "de": "Nichtsdestotrotz bleibt der Vertragstext unverändert.", "en": "Nevertheless, the contract text remains unchanged." },
+        { "speaker": "Daniel", "de": "Diesbezüglich schicke ich Ihnen heute noch eine kurze Zusammenfassung.", "en": "In this regard, I will send you a short summary today." }
+      ],
+      "questions": [
+        {
+          "id": "l2-lq1",
+          "type": "mcq",
+          "prompt": "Why does the presentation have to be postponed?",
+          "options": ["because the contract changed", "because the delivery is delayed", "because the client cancelled", "because the team is on holiday"],
+          "answer": 1,
+          "explanation": "Die Lieferung verzögert sich ... infolgedessen müssen wir die Präsentation verschieben."
+        },
+        {
+          "id": "l2-lq2",
+          "type": "mcq",
+          "prompt": "What does Daniel say about the contract text?",
+          "options": ["It will be revised.", "It remains unchanged.", "It has been cancelled.", "It will be signed today."],
+          "answer": 1,
+          "explanation": "Nichtsdestotrotz bleibt der Vertragstext unverändert."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "A three-sentence summary is enough to practise cohesion under pressure.",
+      "prompt": "Summarise a decision and its consequence in three sentences. Use one formal consequence connector, one concessive connector and one reference word.",
+      "model": {
+        "de": "Die Lieferung verzögert sich um zwei Wochen; infolgedessen verschiebt sich der Testlauf. Nichtsdestotrotz bleibt der Vertrag unverändert. Diesbezüglich informieren wir den Kunden noch heute.",
+        "en": "The delivery is delayed by two weeks; consequently, the test run is postponed. Nevertheless, the contract remains unchanged. In this regard, we will inform the client today."
+      },
+      "tips": [
+        "Put the connector first only when you want to stress the logical step; otherwise keep the subject first.",
+        "Use one concessive move, not three. A single nichtsdestotrotz is a position; three sound defensive.",
+        "Say the paragraph aloud and mark where you pause. A connector should be audible but not theatrical."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 3,
+      "lede": "Most connector errors are double signals or the wrong word class.",
+      "items": [
+        {
+          "wrong": "Weil die Lieferung sich verzögert, infolgedessen verschiebt sich der Termin.",
+          "right": "Die Lieferung verzögert sich; infolgedessen verschiebt sich der Termin.",
+          "why": "Weil and infolgedessen both mark the link, and the comma splice has no main clause. Choose one structure."
+        },
+        {
+          "wrong": "Trotzdem ich müde war, ging ich noch einkaufen.",
+          "right": "Obwohl ich müde war, ging ich noch einkaufen.",
+          "why": "trotzdem is an adverb, not a subordinating conjunction. obwohl sends the verb to the end."
+        },
+        {
+          "wrong": "Obwohl die Zahlen schlecht sind, trotzdem investieren wir.",
+          "right": "Obwohl die Zahlen schlecht sind, investieren wir.",
+          "why": "obwohl already carries the concession. A second marker makes the sentence sound uncertain rather than emphatic."
+        },
+        {
+          "wrong": "Die Maßnahme wurde beschlossen. Die Maßnahme soll bald greifen. Die Maßnahme betrifft alle.",
+          "right": "Die Maßnahme wurde beschlossen. Sie soll bald greifen und betrifft alle.",
+          "why": "Repeating the noun blocks the flow. A pronoun or a coordinated clause creates cohesion."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions on connectors, word order and cohesion. Score 70% or more to complete the lesson check.",
+      "questions": [
+        {
+          "id": "l2-a1",
+          "type": "mcq",
+          "prompt": "Which connector expresses a consequence in formal written German?",
+          "options": ["zumal", "sofern", "infolgedessen", "wenngleich"],
+          "answer": 2,
+          "explanation": "infolgedessen means consequently and belongs to formal written style."
+        },
+        {
+          "id": "l2-a2",
+          "type": "mcq",
+          "prompt": "Which sentence is correct after nichtsdestotrotz?",
+          "options": ["Nichtsdestotrotz der Plan bleibt gültig.", "Nichtsdestotrotz bleibt der Plan gültig.", "Nichtsdestotrotz der Plan gültig bleibt.", "Nichtsdestotrotz bleibt gültig der Plan."],
+          "answer": 1,
+          "explanation": "The adverb occupies position one, so the verb bleibt comes second."
+        },
+        {
+          "id": "l2-a3",
+          "type": "mcq",
+          "prompt": "What does zumal introduce?",
+          "options": ["a consequence", "a supporting reason", "a condition", "a reference to an earlier paragraph"],
+          "answer": 1,
+          "explanation": "zumal means especially since and adds a reason the speaker expects to be persuasive."
+        },
+        {
+          "id": "l2-a4",
+          "type": "mcq",
+          "prompt": "Which word best fills the gap? „Die Daten sind unvollständig; ___ lässt sich noch keine Aussage treffen.“",
+          "options": ["folglich", "zumal", "sofern", "nichtsdestotrotz"],
+          "answer": 0,
+          "explanation": "The second clause is a consequence of the incomplete data, so folglich fits."
+        },
+        {
+          "id": "l2-a5",
+          "type": "mcq",
+          "prompt": "Which revision improves cohesion most?",
+          "options": ["Den Antrag geprüft. Den Antrag kommentiert. Den Antrag weitergeleitet.", "Der Antrag wurde geprüft, kommentiert und weitergeleitet.", "Der Antrag wurde geprüft. Der Antrag wurde kommentiert. Der Antrag wurde weitergeleitet.", "Der Antrag, er wurde geprüft und kommentiert und weitergeleitet."],
+          "answer": 1,
+          "explanation": "One subject with a shared verb phrase is tighter than repetition or fragments."
+        },
+        {
+          "id": "l2-a6",
+          "type": "gap",
+          "prompt": "Die Frist ist abgelaufen; ___ ist der Antrag ungültig.",
+          "answers": ["folglich", "infolgedessen"],
+          "explanation": "The second clause states the consequence of the expired deadline."
+        },
+        {
+          "id": "l2-a7",
+          "type": "gap",
+          "prompt": "___ die Mittel reichen, beginnen wir im Mai.",
+          "answers": ["Sofern", "Falls"],
+          "explanation": "A conditional connector introduces the clause; the verb reichen is final."
+        },
+        {
+          "id": "l2-a8",
+          "type": "gap",
+          "prompt": "Das Verfahren ist aufwendig, ___ lohnt es sich.",
+          "answers": ["nichtsdestotrotz"],
+          "explanation": "The sentence concedes the effort and maintains the positive conclusion."
+        },
+        {
+          "id": "l2-a9",
+          "type": "gap",
+          "prompt": "Eine Entscheidung ist dringend, ___ die Frist näher rückt.",
+          "answers": ["zumal"],
+          "explanation": "zumal adds the supporting reason and sends the verb to the end."
+        },
+        {
+          "id": "l2-a10",
+          "type": "order",
+          "prompt": "Build: “Consequently, the start of the event is postponed.”",
+          "tokens": ["verschiebt", "Infolgedessen", "der", "sich", "Beginn", "Veranstaltung", "der"],
+          "answer": "Infolgedessen verschiebt sich der Beginn der Veranstaltung.",
+          "explanation": "Connector first, verb second, subject after the reflexive pronoun."
+        },
+        {
+          "id": "l2-a11",
+          "type": "order",
+          "prompt": "Build: “Nevertheless, the risk remains high.”",
+          "tokens": ["bleibt", "Nichtsdestotrotz", "das", "Risiko", "hoch"],
+          "answer": "Nichtsdestotrotz bleibt das Risiko hoch.",
+          "explanation": "nichtsdestotrotz occupies position one; bleibt follows in second position."
+        },
+        {
+          "id": "l2-a12",
+          "type": "order",
+          "prompt": "Build: “In this regard, we ask for a brief response.”",
+          "tokens": ["Diesbezüglich", "bitten", "wir", "um", "eine", "kurze", "Rückmeldung"],
+          "answer": "Diesbezüglich bitten wir um eine kurze Rückmeldung.",
+          "explanation": "The reference word opens the sentence and the verb bitten comes second."
+        }
+      ]
+    }
+  ]
+}

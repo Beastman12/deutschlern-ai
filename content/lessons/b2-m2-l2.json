@@ -1,0 +1,622 @@
+{
+  "id": "b2-m2-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "prompt": "Read each sentence aloud. Notice whether the situation is real or imagined.",
+      "items": [
+        "Wenn ich Zeit habe, komme ich mit.",
+        "Wenn ich Zeit hätte, würde ich mitkommen.",
+        "Wenn ich Zeit gehabt hätte, wäre ich mitgekommen.",
+        "An deiner Stelle würde ich mit dem Team sprechen."
+      ],
+      "lede": "Two minutes of reading contrasts a real condition with an unreal one."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "Konjunktiv II is the mood of the imagined: what would be, what could happen, what would have been different.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German distinguishes a real condition from an unreal one. Wenn ich Zeit habe, komme ich describes a realistic possibility. Wenn ich Zeit hätte, würde ich kommen describes a situation that is not true now. The second sentence uses Konjunktiv II in both clauses."
+        },
+        {
+          "kind": "de",
+          "text": "Wenn ich mehr Zeit hätte, würde ich öfter lesen.",
+          "en": "If I had more time, I would read more often."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The most useful forms are hätte, wäre, könnte, müsste, sollte and würde + infinitive.",
+            "Use würde + infinitive for most regular verbs; use the short forms hätte, wäre and the modals for the rest.",
+            "Present unreal: Wenn ich Zeit hätte, würde ich kommen.",
+            "Past unreal: Wenn ich Zeit gehabt hätte, wäre ich gekommen.",
+            "A conditional can drop wenn and start with the verb: Hätte ich Zeit, würde ich kommen."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Not a tense",
+          "text": "Konjunktiv II is a mood, not a tense. It can refer to the present (hätte), the past (hätte gehabt) or the future (würde kommen). The form tells you it is unreal, not when it happens."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "Three building blocks: the condition, the consequence and the polite request.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Function", "Form", "Example", "English"],
+          "rows": [
+            ["unreal present", "wenn + hätte/wäre, würde + infinitive", "Wenn ich Zeit hätte, würde ich kommen.", "If I had time, I would come."],
+            ["unreal present with modal", "wenn + könnte/müsste, main clause with KII", "Wenn ich dürfte, könnte ich früher gehen.", "If I were allowed, I could leave earlier."],
+            ["unreal past", "wenn + hätte/wäre + participle", "Wenn er früher losgefahren wäre, hätte er den Zug erreicht.", "If he had left earlier, he would have caught the train."],
+            ["condition without wenn", "verb first", "Hätte ich Zeit, würde ich kommen.", "If I had time, I would come."],
+            ["formal condition", "unter der Bedingung, dass + verb-final", "Unter der Bedingung, dass alle zustimmen, setzen wir den Plan um.", "On condition that everyone agrees, we will implement the plan."],
+            ["polite request", "könnten / würden", "Könnten Sie mir bitte helfen?", "Could you help me, please?"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Do not use würde in both clauses if a short form exists: Wenn ich Zeit hätte, würde ich kommen — not Wenn ich Zeit haben würde, würde ich kommen.",
+            "For the past unreal, use hätte or wäre plus the past participle: hätte gemacht, wäre gefahren.",
+            "The real condition uses the indicative: Wenn es regnet, bleiben wir zu Hause.",
+            "The unreal condition uses Konjunktiv II: Wenn es regnen würde, blieben wir zu Hause.",
+            "Use an deiner Stelle / an Ihrer Stelle for advice: An deiner Stelle würde ich warten."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Politeness is also Konjunktiv II",
+          "text": "Könnten Sie …? and Würden Sie …? are softer than Können Sie …? and Werden Sie …?. This is the Konjunktiv der Höflichkeit — the same form used for hypotheses."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These nouns and phrases frame a hypothesis in academic and professional discussion.",
+      "items": [
+        {
+          "de": "die Bedingung",
+          "en": "the condition",
+          "article": "die",
+          "plural": "die Bedingungen",
+          "pronunciation": "bəˈdɪŋʊŋ",
+          "example": "Unter der Bedingung, dass alle zustimmen, setzen wir den Plan um.",
+          "exampleEn": "On condition that everyone agrees, we will implement the plan."
+        },
+        {
+          "de": "die Hypothese",
+          "en": "the hypothesis",
+          "article": "die",
+          "plural": "die Hypothesen",
+          "pronunciation": "hypoˈteːzə",
+          "example": "Die Hypothese lässt sich mit den vorhandenen Daten prüfen.",
+          "exampleEn": "The hypothesis can be tested with the available data."
+        },
+        {
+          "de": "die Folge",
+          "en": "the consequence",
+          "article": "die",
+          "plural": "die Folgen",
+          "pronunciation": "ˈfɔlɡə",
+          "example": "Eine mögliche Folge wäre ein höherer Zeitaufwand.",
+          "exampleEn": "A possible consequence would be a higher time requirement."
+        },
+        {
+          "de": "die Annahme",
+          "en": "the assumption",
+          "article": "die",
+          "plural": "die Annahmen",
+          "pronunciation": "ˈanaːmə",
+          "example": "Diese Annahme ist plausibel, aber nicht bewiesen.",
+          "exampleEn": "This assumption is plausible but not proven."
+        },
+        {
+          "de": "hypothetisch",
+          "en": "hypothetical",
+          "pronunciation": "hypoˈteːtɪʃ",
+          "example": "Das ist nur ein hypothetisches Szenario.",
+          "exampleEn": "That is only a hypothetical scenario."
+        },
+        {
+          "de": "unter der Bedingung, dass",
+          "en": "on condition that",
+          "pronunciation": "ˈʊntɐ deːɐ̯ bəˈdɪŋʊŋ das",
+          "example": "Unter der Bedingung, dass die Kosten sinken, stimmen wir zu.",
+          "exampleEn": "On condition that the costs fall, we will agree."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Each sentence describes something that is not currently true — or asks politely for something.",
+      "items": [
+        {
+          "de": "Wenn ich mehr Zeit hätte, würde ich öfter lesen.",
+          "en": "If I had more time, I would read more often.",
+          "note": "hätte and würde mark the situation as unreal."
+        },
+        {
+          "de": "Wäre das Wetter besser, könnten wir wandern.",
+          "en": "If the weather were better, we could go hiking.",
+          "note": "No wenn: the verb wäre starts the conditional clause."
+        },
+        {
+          "de": "Wenn er früher losgefahren wäre, hätte er den Zug erreicht.",
+          "en": "If he had left earlier, he would have caught the train.",
+          "note": "Past unreal: wäre + participle in the condition, hätte + participle in the result."
+        },
+        {
+          "de": "Unter der Bedingung, dass alle zustimmen, setzen wir den Plan um.",
+          "en": "On condition that everyone agrees, we will implement the plan.",
+          "note": "This is a real condition, so the indicative zustimmen is correct."
+        },
+        {
+          "de": "An deiner Stelle würde ich mit dem Team sprechen.",
+          "en": "If I were you, I would speak to the team.",
+          "note": "An deiner Stelle is a fixed phrase for giving advice."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 4,
+      "lede": "The umlaut distinguishes Konjunktiv II from the past tense. Keep it short and clear.",
+      "items": [
+        {
+          "de": "hätte",
+          "hint": "Short open ä: HET-tuh. Contrast hatte, which has a short a and no umlaut.",
+          "en": "would have"
+        },
+        {
+          "de": "wäre",
+          "hint": "Long open ä: VÄH-ruh. Hold the vowel and keep the final -e light.",
+          "en": "would be"
+        },
+        {
+          "de": "würde",
+          "hint": "Short ü with rounded lips: VÜR-duh. Do not say “wurde”.",
+          "en": "would"
+        },
+        {
+          "de": "könnte",
+          "hint": "Short ö with rounded lips: KÖN-tuh. The double n is clearly pronounced.",
+          "en": "could"
+        },
+        {
+          "de": "Bedingung",
+          "hint": "Stress the second syllable: be-DING-ung. The ng is one sound, as in English “sing”.",
+          "en": "condition"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "The polite subjunctive",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German politeness often works through Konjunktiv II. A request such as Könnten Sie mir bitte weiterhelfen? sounds noticeably softer than Können Sie mir helfen? The same forms appear in formal emails, customer service and negotiations."
+        },
+        {
+          "kind": "p",
+          "text": "In academic and professional writing, Konjunktiv II also frames hypotheses carefully. A sentence such as Eine höhere Nachfrage würde zu längeren Wartezeiten führen presents a consequence without claiming that it has already happened."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lede": "Two colleagues plan an outdoor event and consider what would happen if it rained.",
+      "setting": "A planning meeting for a company summer event",
+      "lines": [
+        { "speaker": "Mara", "de": "Was machen wir, wenn es am Samstag regnet?", "en": "What will we do if it rains on Saturday?" },
+        { "speaker": "Jan", "de": "Wenn es regnen würde, könnten wir in die Stadthalle ausweichen.", "en": "If it rained, we could move into the city hall." },
+        { "speaker": "Mara", "de": "Hätten wir dort genug Platz für alle Gäste?", "en": "Would we have enough space there for all the guests?" },
+        { "speaker": "Jan", "de": "Unter der Bedingung, dass die Halle frei ist, ja. Ich rufe heute noch an.", "en": "On condition that the hall is free, yes. I will call today." },
+        { "speaker": "Mara", "de": "Und wenn wir keine Halle finden?", "en": "And if we do not find a hall?" },
+        { "speaker": "Jan", "de": "Dann verschieben wir die Veranstaltung. An deiner Stelle würde ich aber zuerst die Halle reservieren.", "en": "Then we will postpone the event. If I were you, though, I would reserve the hall first." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "heading": "Real or unreal? Choose the mood",
+      "lede": "The same wenn-clause can be realistic or hypothetical. The verb form decides.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Type", "Condition", "Result", "Meaning"],
+          "rows": [
+            ["real", "Wenn ich Zeit habe,", "komme ich mit.", "It is possible that I have time."],
+            ["unreal present", "Wenn ich Zeit hätte,", "würde ich mitkommen.", "I do not have time now."],
+            ["unreal past", "Wenn ich Zeit gehabt hätte,", "wäre ich mitgekommen.", "I did not have time, so I did not come."],
+            ["unreal without wenn", "Hätte ich Zeit,", "würde ich mitkommen.", "Same meaning, more formal."],
+            ["polite request", "Könnten Sie", "mir bitte helfen?", "A softer request."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Real conditions use the indicative in both clauses: Wenn es regnet, bleiben wir zu Hause.",
+            "Unreal present conditions use Konjunktiv II: Wenn es regnen würde, blieben wir zu Hause.",
+            "Unreal past conditions use hätte/wäre + past participle: Wenn er gekommen wäre, hätten wir begonnen.",
+            "Do not combine hätte with würde in the same clause: hätte gemacht, not würde gemacht haben.",
+            "After unter der Bedingung, dass, the verb goes to the end: …, dass alle zustimmen."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "A useful shortcut",
+          "text": "If you can add “but I don't” or “but it isn't” to the condition without changing the meaning, the sentence is unreal and needs Konjunktiv II."
+        }
+      ],
+      "tip": "Use hätte, wäre and the modals as short forms. Reserve würde + infinitive for verbs that have no common short form."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Check the forms and the difference between real and unreal conditions.",
+      "exercises": [
+        {
+          "id": "b2m2l2-p1",
+          "type": "mcq",
+          "prompt": "What is the Konjunktiv II form of “ich habe”?",
+          "options": ["ich hatte", "ich hätte", "ich habe", "ich würde haben"],
+          "answer": 1,
+          "explanation": "haben → ich hätte. ich hatte is the simple past."
+        },
+        {
+          "id": "b2m2l2-p2",
+          "type": "mcq",
+          "prompt": "What is the Konjunktiv II form of “er ist”?",
+          "options": ["er war", "er wäre", "er sei", "er würde sein"],
+          "answer": 1,
+          "explanation": "sein → er wäre. er war is the simple past; er sei is Konjunktiv I."
+        },
+        {
+          "id": "b2m2l2-p3",
+          "type": "mcq",
+          "prompt": "Which sentence describes an unreal present situation?",
+          "options": [
+            "Wenn ich Zeit habe, komme ich mit.",
+            "Wenn ich Zeit hätte, würde ich mitkommen.",
+            "Wenn ich Zeit hatte, kam ich mit.",
+            "Wenn ich Zeit haben werde, komme ich mit."
+          ],
+          "answer": 1,
+          "explanation": "hätte + würde mark the situation as contrary to fact now."
+        },
+        {
+          "id": "b2m2l2-p4",
+          "type": "mcq",
+          "prompt": "Which sentence describes an unreal past situation?",
+          "options": [
+            "Wenn er früher losfährt, erreicht er den Zug.",
+            "Wenn er früher losfahren würde, würde er den Zug erreichen.",
+            "Wenn er früher losgefahren wäre, hätte er den Zug erreicht.",
+            "Wenn er früher losgefahren ist, hat er den Zug erreicht."
+          ],
+          "answer": 2,
+          "explanation": "wäre + participle in the condition and hätte + participle in the result express an unreal past."
+        },
+        {
+          "id": "b2m2l2-p5",
+          "type": "mcq",
+          "prompt": "What does “An deiner Stelle würde ich warten” mean?",
+          "options": [
+            "In your position, I would wait.",
+            "I waited at your place.",
+            "You should have waited for me.",
+            "I am waiting instead of you."
+          ],
+          "answer": 0,
+          "explanation": "An deiner Stelle = if I were you / in your position. It introduces advice."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing Konjunktiv II form or noun.",
+      "exercises": [
+        {
+          "id": "b2m2l2-g1",
+          "type": "gap",
+          "prompt": "Wenn ich mehr Zeit ___, würde ich öfter lesen.",
+          "answers": ["hätte"],
+          "explanation": "haben → ich hätte in an unreal present condition."
+        },
+        {
+          "id": "b2m2l2-g2",
+          "type": "gap",
+          "prompt": "Wenn das Wetter besser ___, könnten wir wandern.",
+          "answers": ["wäre"],
+          "explanation": "sein → es wäre; the condition is contrary to fact."
+        },
+        {
+          "id": "b2m2l2-g3",
+          "type": "gap",
+          "prompt": "Wenn er früher losgefahren ___, hätte er den Zug erreicht.",
+          "answers": ["wäre"],
+          "explanation": "The unreal past condition uses wäre + past participle: losgefahren wäre."
+        },
+        {
+          "id": "b2m2l2-g4",
+          "type": "gap",
+          "prompt": "Unter der ___, dass alle zustimmen, setzen wir den Plan um.",
+          "answers": ["Bedingung"],
+          "explanation": "die Bedingung = condition; unter der Bedingung, dass = on condition that."
+        },
+        {
+          "id": "b2m2l2-g5",
+          "type": "gap",
+          "prompt": "An deiner ___ würde ich mit dem Team sprechen.",
+          "answers": ["Stelle"],
+          "explanation": "An deiner Stelle = if I were you / in your position."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Build each hypothesis. Keep the Konjunktiv II forms in both clauses.",
+      "exercises": [
+        {
+          "id": "b2m2l2-o1",
+          "type": "order",
+          "prompt": "Build: “If I had more time, I would read more often.”",
+          "tokens": ["öfter", "Wenn", "hätte", "würde", "ich", "lesen", "mehr", "Zeit", "ich"],
+          "answer": "Wenn ich mehr Zeit hätte, würde ich öfter lesen.",
+          "explanation": "Unreal present: hätte in the condition, würde + infinitive in the result."
+        },
+        {
+          "id": "b2m2l2-o2",
+          "type": "order",
+          "prompt": "Build: “If the weather were better, we could go hiking.”",
+          "tokens": ["besser", "Wäre", "wandern", "das", "könnten", "Wetter", "wir"],
+          "answer": "Wäre das Wetter besser, könnten wir wandern.",
+          "explanation": "The conditional clause starts with wäre; no wenn is needed."
+        },
+        {
+          "id": "b2m2l2-o3",
+          "type": "order",
+          "prompt": "Build: “If he had left earlier, he would have caught the train.”",
+          "tokens": ["erreicht", "Wenn", "früher", "hätte", "er", "losgefahren", "den", "Zug", "wäre", "er"],
+          "answer": "Wenn er früher losgefahren wäre, hätte er den Zug erreicht.",
+          "explanation": "Unreal past: wäre + losgefahren, then hätte + erreicht."
+        },
+        {
+          "id": "b2m2l2-o4",
+          "type": "order",
+          "prompt": "Build: “On condition that everyone agrees, we will implement the plan.”",
+          "tokens": ["alle", "Unter", "setzen", "der", "zustimmen", "dass", "Bedingung", "wir", "Plan", "den", "um"],
+          "answer": "Unter der Bedingung, dass alle zustimmen, setzen wir den Plan um.",
+          "explanation": "dass sends zustimmen to the end; the main clause begins with setzen."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice. The speakers are weighing a Plan B.",
+      "speaker": "Two colleagues planning an outdoor event",
+      "script": [
+        { "speaker": "Mara", "de": "Was machen wir, wenn es am Samstag regnet?", "en": "What will we do if it rains on Saturday?" },
+        { "speaker": "Jan", "de": "Wenn es regnen würde, könnten wir in die Stadthalle ausweichen.", "en": "If it rained, we could move into the city hall." },
+        { "speaker": "Mara", "de": "Hätten wir dort genug Platz für alle Gäste?", "en": "Would we have enough space there for all the guests?" },
+        { "speaker": "Jan", "de": "Unter der Bedingung, dass die Halle frei ist, ja. Ich rufe heute noch an.", "en": "On condition that the hall is free, yes. I will call today." },
+        { "speaker": "Mara", "de": "Gut. Wenn wir keine Halle finden, verschieben wir die Veranstaltung.", "en": "Good. If we do not find a hall, we will postpone the event." }
+      ],
+      "questions": [
+        {
+          "id": "b2m2l2-lq1",
+          "type": "mcq",
+          "prompt": "What would they do if it rained?",
+          "options": ["Cancel the event immediately", "Move into the city hall", "Invite fewer guests", "Change the date"],
+          "answer": 1,
+          "explanation": "Jan says: Wenn es regnen würde, könnten wir in die Stadthalle ausweichen."
+        },
+        {
+          "id": "b2m2l2-lq2",
+          "type": "mcq",
+          "prompt": "What condition must be met for the city hall option?",
+          "options": ["The hall must be free.", "The guests must pay.", "The weather must improve.", "The team must work longer."],
+          "answer": 0,
+          "explanation": "Jan says: Unter der Bedingung, dass die Halle frei ist, ja."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Practise hypothetical thinking aloud. Use both a present and a past hypothesis.",
+      "prompt": "Describe what you would do differently in your job or studies if you had more time or money. Include one unreal past sentence.",
+      "model": {
+        "de": "Wenn ich mehr Zeit hätte, würde ich einen zusätzlichen Sprachkurs besuchen. Außerdem würde ich mehr lesen, weil mir das beim Schreiben hilft. Wenn ich vor zwei Jahren mehr Geld gehabt hätte, wäre ich für ein Semester ins Ausland gegangen. Heute würde ich das anders planen.",
+        "en": "If I had more time, I would take an additional language course. I would also read more because that helps me with writing. If I had had more money two years ago, I would have gone abroad for a semester. Today I would plan that differently."
+      },
+      "tips": [
+        "Use hätte and wäre for the condition, and würde + infinitive for the result.",
+        "For the past, use hätte/wäre + past participle: hätte gehabt, wäre gegangen.",
+        "Add a short explanation after each hypothesis so that it sounds like a real answer, not a grammar drill."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "These errors usually involve mixing real and unreal forms.",
+      "items": [
+        {
+          "wrong": "Wenn ich Zeit hätte, würde ich mitkommen würde.",
+          "right": "Wenn ich Zeit hätte, würde ich mitkommen.",
+          "why": "würde is already the conjugated verb; the main verb stays in the infinitive at the end."
+        },
+        {
+          "wrong": "Wenn ich Zeit haben würde, würde ich lesen.",
+          "right": "Wenn ich Zeit hätte, würde ich lesen.",
+          "why": "Use the short Konjunktiv II form hätte instead of würde + haben."
+        },
+        {
+          "wrong": "Wenn er früher losgefahren hätte, hätte er den Zug erreicht.",
+          "right": "Wenn er früher losgefahren wäre, hätte er den Zug erreicht.",
+          "why": "losfahren takes sein, so the unreal past uses wäre + participle."
+        },
+        {
+          "wrong": "Wenn es regnet würde, bleiben wir zu Hause.",
+          "right": "Wenn es regnen würde, blieben wir zu Hause.",
+          "why": "An unreal condition needs Konjunktiv II in both clauses; bleiben becomes blieben."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Ten questions. Score 70% or more to unlock the next lesson. You can retake this check as often as you need.",
+      "questions": [
+        {
+          "id": "b2m2l2-a1",
+          "type": "mcq",
+          "prompt": "Which form is Konjunktiv II of “ich habe”?",
+          "options": ["ich hatte", "ich hätte", "ich habe", "ich gehabt"],
+          "answer": 1,
+          "explanation": "haben → ich hätte."
+        },
+        {
+          "id": "b2m2l2-a2",
+          "type": "mcq",
+          "prompt": "Which sentence is a real condition?",
+          "options": [
+            "Wenn ich Zeit hätte, würde ich kommen.",
+            "Wenn ich Zeit habe, komme ich.",
+            "Wenn ich Zeit gehabt hätte, wäre ich gekommen.",
+            "Hätte ich Zeit, würde ich kommen."
+          ],
+          "answer": 1,
+          "explanation": "The indicative habe/komme presents the condition as realistic."
+        },
+        {
+          "id": "b2m2l2-a3",
+          "type": "mcq",
+          "prompt": "Which sentence expresses an unreal past?",
+          "options": [
+            "Wenn er kommt, sprechen wir.",
+            "Wenn er käme, würden wir sprechen.",
+            "Wenn er gekommen wäre, hätten wir gesprochen.",
+            "Wenn er kommen wird, sprechen wir."
+          ],
+          "answer": 2,
+          "explanation": "wäre + gekommen and hätten + gesprochen describe a past that did not happen."
+        },
+        {
+          "id": "b2m2l2-a4",
+          "type": "mcq",
+          "prompt": "Why is “Könnten Sie mir helfen?” more polite than “Können Sie mir helfen?”",
+          "options": [
+            "It is in the past tense.",
+            "Konjunktiv II softens the request.",
+            "It uses a different pronoun.",
+            "It is a command."
+          ],
+          "answer": 1,
+          "explanation": "Konjunktiv II creates distance and makes the request sound less direct."
+        },
+        {
+          "id": "b2m2l2-a5",
+          "type": "gap",
+          "prompt": "Wenn ich mehr Zeit ___, würde ich öfter lesen.",
+          "answers": ["hätte"],
+          "explanation": "The unreal present condition uses hätte."
+        },
+        {
+          "id": "b2m2l2-a6",
+          "type": "gap",
+          "prompt": "Wenn das Wetter besser ___, könnten wir wandern.",
+          "answers": ["wäre"],
+          "explanation": "sein → wäre in the unreal condition."
+        },
+        {
+          "id": "b2m2l2-a7",
+          "type": "gap",
+          "prompt": "Wenn er früher losgefahren ___, hätte er den Zug erreicht.",
+          "answers": ["wäre"],
+          "explanation": "The unreal past of losfahren uses wäre + participle."
+        },
+        {
+          "id": "b2m2l2-a8",
+          "type": "gap",
+          "prompt": "Unter der ___, dass alle zustimmen, setzen wir den Plan um.",
+          "answers": ["Bedingung"],
+          "explanation": "unter der Bedingung, dass = on condition that."
+        },
+        {
+          "id": "b2m2l2-a9",
+          "type": "order",
+          "prompt": "Build: “If I had more time, I would read more often.”",
+          "tokens": ["öfter", "Wenn", "hätte", "würde", "ich", "lesen", "mehr", "Zeit", "ich"],
+          "answer": "Wenn ich mehr Zeit hätte, würde ich öfter lesen.",
+          "explanation": "hätte in the condition, würde + infinitive in the result."
+        },
+        {
+          "id": "b2m2l2-a10",
+          "type": "order",
+          "prompt": "Build: “If the weather were better, we could go hiking.”",
+          "tokens": ["besser", "Wäre", "wandern", "das", "könnten", "Wetter", "wir"],
+          "answer": "Wäre das Wetter besser, könnten wir wandern.",
+          "explanation": "The conditional clause begins with wäre; könnten follows in the main clause."
+        }
+      ]
+    }
+  ]
+}

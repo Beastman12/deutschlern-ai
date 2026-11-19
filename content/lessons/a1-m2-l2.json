@@ -1,0 +1,627 @@
+{
+  "id": "a1-m2-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "prompt": "Read the verb chains aloud. Keep the stem steady and change only the ending.",
+      "items": [
+        "ich wohne — du wohnst — er wohnt",
+        "ich lerne — du lernst — sie lernt",
+        "ich arbeite — du arbeitest — er arbeitet",
+        "Wir spielen Fußball.",
+        "Ich wohne in Berlin."
+      ],
+      "lede": "One stem plus six endings is the engine behind most German verbs."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to conjugate regular verbs and build simple statements."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "Most German verbs follow one regular pattern in the present tense. Learn it once and you can use hundreds of verbs.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Take the infinitive, remove the ending -en, and you are left with the stem. Add the personal ending to the stem and you have the present tense. For wohnen the stem is wohn-, so ich wohne, du wohnst, er wohnt. The present tense covers both “I live” and “I am living”."
+        },
+        {
+          "kind": "de",
+          "text": "Ich wohne in Berlin und lerne Deutsch.",
+          "en": "I live in Berlin and am learning German."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The endings are -e, -st, -t, -en, -t, -en for ich, du, er/sie/es, wir, ihr, sie/Sie.",
+            "wir and sie/Sie use the infinitive form, so they are the easiest to remember.",
+            "du and ihr both end in -t or -st, but only du has the s: du wohnst, ihr wohnt.",
+            "The verb stays in second position in a statement, even when the sentence starts with a time word: Heute lerne ich Deutsch."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "No continuous form",
+          "text": "German has no separate “-ing” form in the present. Ich lerne Deutsch can mean “I learn German” or “I am learning German”. Context decides."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "The regular endings, plus the small adjustment for stems in -t and -d.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Pronoun", "wohnen", "lernen", "spielen"],
+          "rows": [
+            ["ich", "wohne", "lerne", "spiele"],
+            ["du", "wohnst", "lernst", "spielst"],
+            ["er / sie / es", "wohnt", "lernt", "spielt"],
+            ["wir", "wohnen", "lernen", "spielen"],
+            ["ihr", "wohnt", "lernt", "spielt"],
+            ["sie / Sie", "wohnen", "lernen", "spielen"]
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Infinitive", "Stem", "du", "er / sie / es", "ihr"],
+          "rows": [
+            ["arbeiten", "arbeit-", "arbeitest", "arbeitet", "arbeitet"],
+            ["finden", "find-", "findest", "findet", "findet"],
+            ["warten", "wart-", "wartest", "wartet", "wartet"],
+            ["atmen", "atm-", "atmest", "atmet", "atmet"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "If the stem ends in -t or -d, add an extra e before -st and -t: du arbeitest, er arbeitet.",
+            "The same extra e appears in stems ending in -m or -n after another consonant: du atmest.",
+            "A few common verbs change their vowel in the du and er/sie/es forms and must be learned separately: sprechen → du sprichst, er spricht; fahren → du fährst, er fährt.",
+            "Separable verbs come later; for now, keep the whole verb together."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Word order in three steps",
+          "text": "1) Choose the subject. 2) Put the conjugated verb second. 3) Add the rest. Ich wohne in Berlin. / Am Montag arbeite ich. / Heute lernt sie Deutsch."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "Four regular verbs and two nouns you can use in the same sentences.",
+      "items": [
+        {
+          "de": "wohnen",
+          "en": "to live, to reside",
+          "pronunciation": "VOH-nen",
+          "example": "Ich wohne in Berlin.",
+          "exampleEn": "I live in Berlin."
+        },
+        {
+          "de": "lernen",
+          "en": "to learn",
+          "pronunciation": "LER-nen",
+          "example": "Du lernst Deutsch.",
+          "exampleEn": "You are learning German."
+        },
+        {
+          "de": "arbeiten",
+          "en": "to work",
+          "pronunciation": "AR-by-ten",
+          "example": "Er arbeitet viel.",
+          "exampleEn": "He works a lot."
+        },
+        {
+          "de": "spielen",
+          "en": "to play",
+          "pronunciation": "SHPEE-len",
+          "example": "Wir spielen Fußball.",
+          "exampleEn": "We play football."
+        },
+        {
+          "de": "die Arbeit",
+          "en": "the work, the job",
+          "article": "die",
+          "plural": "die Arbeiten",
+          "pronunciation": "AR-byt",
+          "example": "Die Arbeit beginnt um neun Uhr.",
+          "exampleEn": "Work begins at nine o'clock."
+        },
+        {
+          "de": "das Zimmer",
+          "en": "the room",
+          "article": "das",
+          "plural": "die Zimmer",
+          "pronunciation": "TSIM-mer",
+          "example": "Das Zimmer ist klein.",
+          "exampleEn": "The room is small."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Notice that the verb never moves from second position in these statements.",
+      "items": [
+        {
+          "de": "Ich wohne in Hamburg.",
+          "en": "I live in Hamburg.",
+          "note": "wohnen → wohne with ich."
+        },
+        {
+          "de": "Du lernst jeden Tag Deutsch.",
+          "en": "You learn German every day.",
+          "note": "The -st ending marks du."
+        },
+        {
+          "de": "Er arbeitet von Montag bis Freitag.",
+          "en": "He works from Monday to Friday.",
+          "note": "arbeiten adds an extra e: er arbeitet."
+        },
+        {
+          "de": "Wir spielen am Wochenende Fußball.",
+          "en": "We play football at the weekend.",
+          "note": "wir uses the infinitive form spielen."
+        },
+        {
+          "de": "Am Montag arbeite ich nicht.",
+          "en": "On Monday I do not work.",
+          "note": "The time phrase comes first, so the verb stays second and the subject follows it."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "The endings are quiet. Do not stress them.",
+      "items": [
+        {
+          "de": "wohnen",
+          "hint": "VOH-nen. German w sounds like English v, and the o is long.",
+          "en": "to live"
+        },
+        {
+          "de": "lernen",
+          "hint": "LER-nen. The r is soft and the first e is open, close to “air” without the r.",
+          "en": "to learn"
+        },
+        {
+          "de": "arbeiten",
+          "hint": "AR-by-ten. The ei is one glide like “eye”, not two separate vowels.",
+          "en": "to work"
+        },
+        {
+          "de": "spielen",
+          "hint": "SHPEE-len. Initial sp is “shp”, and ie is a long ee.",
+          "en": "to play"
+        },
+        {
+          "de": "Zimmer",
+          "hint": "TSIM-mer. German z is “ts”, and the i is short.",
+          "en": "room"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "wohnen or leben?",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Both wohnen and leben can be translated as “to live”, but they are not interchangeable. wohnen refers to where you reside: Ich wohne in Köln. leben is broader and can mean being alive or spending your life somewhere: Ich lebe gern in Deutschland. For an address or a city, wohnen is the safer choice."
+        },
+        {
+          "kind": "p",
+          "text": "When you talk about work, German distinguishes arbeiten (to work) from studieren (to study at a university). A student might say Ich studiere Informatik, while a shop assistant says Ich arbeite im Supermarkt. Both sentences use the same regular present-tense endings."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "A teacher asks her class where they live and work. Listen for the endings.",
+      "setting": "First lesson of a German course",
+      "lines": [
+        { "speaker": "Lehrerin", "de": "Guten Morgen! Wo wohnt ihr?", "en": "Good morning! Where do you live?" },
+        { "speaker": "Ana", "de": "Ich wohne in Berlin. Und du, Ben?", "en": "I live in Berlin. And you, Ben?" },
+        { "speaker": "Ben", "de": "Ich wohne in Potsdam.", "en": "I live in Potsdam." },
+        { "speaker": "Lehrerin", "de": "Und wo arbeitet ihr?", "en": "And where do you work?" },
+        { "speaker": "Ana", "de": "Ich arbeite im Café. Ich lerne auch Deutsch.", "en": "I work in the café. I am also learning German." },
+        { "speaker": "Ben", "de": "Ich arbeite noch nicht. Ich studiere Informatik.", "en": "I do not work yet. I study computer science." },
+        { "speaker": "Lehrerin", "de": "Sehr gut! Ihr lernt schnell.", "en": "Very good! You are learning fast." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "One stem, six endings",
+      "lede": "The same six endings work for almost every regular verb.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Person", "Ending", "wohnen", "arbeiten"],
+          "rows": [
+            ["ich", "-e", "wohne", "arbeite"],
+            ["du", "-st", "wohnst", "arbeitest"],
+            ["er / sie / es", "-t", "wohnt", "arbeitet"],
+            ["wir", "-en", "wohnen", "arbeiten"],
+            ["ihr", "-t", "wohnt", "arbeitet"],
+            ["sie / Sie", "-en", "wohnen", "arbeiten"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Find the stem by removing -en: lernen → lern-, spielen → spiel-.",
+            "Add the ending to the stem: lern- + -st = lernst.",
+            "For stems in -t or -d, insert e before the ending: arbeit- + -est = arbeitest.",
+            "Keep the conjugated verb in second position: Ich lerne heute Deutsch. Heute lerne ich Deutsch."
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Sentence", "English", "Subject position"],
+          "rows": [
+            ["Ich wohne in Berlin.", "I live in Berlin.", "first"],
+            ["Heute arbeite ich.", "Today I am working.", "after the verb"],
+            ["Am Montag spielt er Fußball.", "On Monday he plays football.", "after the verb"],
+            ["Wir lernen jeden Tag.", "We learn every day.", "first"]
+          ]
+        }
+      ],
+      "tip": "Cover the right-hand columns of the table and recite the six forms from memory. Speed comes from repetition, not from analysis."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Choose the form that matches the pronoun.",
+      "exercises": [
+        {
+          "id": "m2l2-p1",
+          "type": "mcq",
+          "prompt": "Du ___ in München.",
+          "options": ["wohne", "wohnst", "wohnt", "wohnen"],
+          "answer": 1,
+          "explanation": "du takes the ending -st: du wohnst."
+        },
+        {
+          "id": "m2l2-p2",
+          "type": "mcq",
+          "prompt": "Er ___ viel.",
+          "options": ["arbeite", "arbeitest", "arbeitet", "arbeiten"],
+          "answer": 2,
+          "explanation": "The stem arbeit- ends in -t, so er takes -et: er arbeitet."
+        },
+        {
+          "id": "m2l2-p3",
+          "type": "mcq",
+          "prompt": "Wir ___ Deutsch.",
+          "options": ["lerne", "lernst", "lernt", "lernen"],
+          "answer": 3,
+          "explanation": "wir uses the infinitive form: wir lernen."
+        },
+        {
+          "id": "m2l2-p4",
+          "type": "mcq",
+          "prompt": "Ihr ___ Fußball.",
+          "options": ["spiele", "spielst", "spielt", "spielen"],
+          "answer": 2,
+          "explanation": "ihr takes the ending -t: ihr spielt."
+        },
+        {
+          "id": "m2l2-p5",
+          "type": "mcq",
+          "prompt": "Which form is correct for du + arbeiten?",
+          "options": ["du arbeitst", "du arbeitest", "du arbeitet", "du arbeiten"],
+          "answer": 1,
+          "explanation": "The stem ends in -t, so an extra e appears before -st: du arbeitest."
+        },
+        {
+          "id": "m2l2-p6",
+          "type": "mcq",
+          "prompt": "Where does the conjugated verb stand in a German statement?",
+          "options": ["first position", "second position", "at the end", "after the object"],
+          "answer": 1,
+          "explanation": "In a main clause the conjugated verb is always in second position."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing verb form.",
+      "exercises": [
+        {
+          "id": "m2l2-g1",
+          "type": "gap",
+          "prompt": "Ich ___ in Hamburg.",
+          "answers": ["wohne"],
+          "explanation": "The ich form ends in -e: ich wohne."
+        },
+        {
+          "id": "m2l2-g2",
+          "type": "gap",
+          "prompt": "Du ___ sehr schnell.",
+          "answers": ["lernst"],
+          "explanation": "The du form takes -st: du lernst."
+        },
+        {
+          "id": "m2l2-g3",
+          "type": "gap",
+          "prompt": "Maria ___ in Berlin.",
+          "answers": ["arbeitet"],
+          "explanation": "Maria = sie, and the stem arbeit- needs the extra e: arbeitet."
+        },
+        {
+          "id": "m2l2-g4",
+          "type": "gap",
+          "prompt": "Wir ___ am Samstag Tennis.",
+          "answers": ["spielen"],
+          "explanation": "wir uses the infinitive form: wir spielen."
+        },
+        {
+          "id": "m2l2-g5",
+          "type": "gap",
+          "prompt": "Ihr ___ in Köln.",
+          "answers": ["wohnt"],
+          "explanation": "ihr takes -t: ihr wohnt."
+        },
+        {
+          "id": "m2l2-g6",
+          "type": "gap",
+          "prompt": "Er ___ jeden Tag Deutsch.",
+          "answers": ["lernt"],
+          "explanation": "er/sie/es takes -t: er lernt."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Keep the verb in second position, even when a time word comes first.",
+      "exercises": [
+        {
+          "id": "m2l2-o1",
+          "type": "order",
+          "prompt": "Build: “I live in Vienna.”",
+          "tokens": ["Wien", "wohne", "Ich", "in"],
+          "answer": "Ich wohne in Wien.",
+          "explanation": "Subject first, then the verb in second position."
+        },
+        {
+          "id": "m2l2-o2",
+          "type": "order",
+          "prompt": "Build: “She works in Berlin.”",
+          "tokens": ["arbeitet", "Sie", "Berlin", "in"],
+          "answer": "Sie arbeitet in Berlin.",
+          "explanation": "sie (she) takes arbeitet, with the extra e before -t."
+        },
+        {
+          "id": "m2l2-o3",
+          "type": "order",
+          "prompt": "Build: “We play football.”",
+          "tokens": ["Fußball", "Wir", "spielen"],
+          "answer": "Wir spielen Fußball.",
+          "explanation": "wir + spielen, then the object Fußball."
+        },
+        {
+          "id": "m2l2-o4",
+          "type": "order",
+          "prompt": "Build: “Today I work at home.”",
+          "tokens": ["arbeite", "Heute", "Hause", "ich", "zu"],
+          "answer": "Heute arbeite ich zu Hause.",
+          "explanation": "Heute is first, so the verb stays second and ich follows it."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen to the short interview twice, then answer.",
+      "speaker": "A journalist and a music teacher",
+      "script": [
+        { "speaker": "Frau Lang", "de": "Guten Tag. Wo wohnen Sie?", "en": "Good day. Where do you live?" },
+        { "speaker": "Herr Ott", "de": "Ich wohne in Leipzig.", "en": "I live in Leipzig." },
+        { "speaker": "Frau Lang", "de": "Und wo arbeiten Sie?", "en": "And where do you work?" },
+        { "speaker": "Herr Ott", "de": "Ich arbeite an einer Schule. Ich unterrichte Musik.", "en": "I work at a school. I teach music." },
+        { "speaker": "Frau Lang", "de": "Spielen Sie auch selbst Musik?", "en": "Do you also play music yourself?" },
+        { "speaker": "Herr Ott", "de": "Ja, ich spiele Klavier.", "en": "Yes, I play the piano." }
+      ],
+      "questions": [
+        {
+          "id": "m2l2-lq1",
+          "type": "mcq",
+          "prompt": "Where does Herr Ott live?",
+          "options": ["Leipzig", "Berlin", "Hamburg", "Köln"],
+          "answer": 0,
+          "explanation": "He says: Ich wohne in Leipzig."
+        },
+        {
+          "id": "m2l2-lq2",
+          "type": "mcq",
+          "prompt": "Where does he work?",
+          "options": ["in a café", "at a school", "in a bank", "at home"],
+          "answer": 1,
+          "explanation": "He says: Ich arbeite an einer Schule — at a school."
+        },
+        {
+          "id": "m2l2-lq3",
+          "type": "mcq",
+          "prompt": "Which instrument does he play?",
+          "options": ["guitar", "piano", "violin", "drums"],
+          "answer": 1,
+          "explanation": "Er sagt: Ich spiele Klavier. Klavier is the piano."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Give a short introduction about your everyday life.",
+      "prompt": "Say where you live, what you are learning and where you work or study. Use four sentences.",
+      "model": {
+        "de": "Ich wohne in Berlin. Ich lerne Deutsch. Ich arbeite in einem Büro. Am Abend spiele ich Tennis.",
+        "en": "I live in Berlin. I am learning German. I work in an office. In the evening I play tennis."
+      },
+      "tips": [
+        "Say the verb and its ending together, as one word: wohn-e, wohn-st, wohn-t.",
+        "Start one sentence with a time phrase, such as Am Abend, and keep the verb in second position.",
+        "Record yourself and check that every sentence has exactly one conjugated verb."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "These errors all involve the ending or the position of the verb.",
+      "items": [
+        {
+          "wrong": "Ich wohnen in Berlin.",
+          "right": "Ich wohne in Berlin.",
+          "why": "The ich form ends in -e, not -en. The -en form belongs to wir and sie."
+        },
+        {
+          "wrong": "Du arbeitst hier.",
+          "right": "Du arbeitest hier.",
+          "why": "The stem arbeit- ends in -t, so it needs an extra e before -st."
+        },
+        {
+          "wrong": "Er lerne Deutsch.",
+          "right": "Er lernt Deutsch.",
+          "why": "er/sie/es takes the ending -t: er lernt."
+        },
+        {
+          "wrong": "Ich bin wohne in Berlin.",
+          "right": "Ich wohne in Berlin.",
+          "why": "One main clause needs one conjugated verb. Do not add sein to a present-tense verb."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Ten questions. Score 70% or more to unlock the next lesson.",
+      "questions": [
+        {
+          "id": "m2l2-a1",
+          "type": "mcq",
+          "prompt": "Ich ___ in Köln.",
+          "options": ["wohne", "wohnst", "wohnt", "wohnen"],
+          "answer": 0,
+          "explanation": "The ich form of wohnen is wohne."
+        },
+        {
+          "id": "m2l2-a2",
+          "type": "mcq",
+          "prompt": "Du ___ jeden Tag Deutsch.",
+          "options": ["lerne", "lernst", "lernt", "lernen"],
+          "answer": 1,
+          "explanation": "du takes -st: du lernst."
+        },
+        {
+          "id": "m2l2-a3",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": ["Er arbeitet in Berlin.", "Er arbeite in Berlin.", "Er arbeitst in Berlin.", "Er arbeiten in Berlin."],
+          "answer": 0,
+          "explanation": "er takes -et after the stem arbeit-: er arbeitet."
+        },
+        {
+          "id": "m2l2-a4",
+          "type": "mcq",
+          "prompt": "What does „Wir spielen am Wochenende Fußball“ mean?",
+          "options": ["We play football at the weekend.", "We are playing football now.", "They play football at the weekend.", "We watch football at the weekend."],
+          "answer": 0,
+          "explanation": "wir spielen = we play; am Wochenende = at the weekend."
+        },
+        {
+          "id": "m2l2-a5",
+          "type": "gap",
+          "prompt": "Ihr ___ in Hamburg.",
+          "answers": ["wohnt"],
+          "explanation": "ihr takes the ending -t: ihr wohnt."
+        },
+        {
+          "id": "m2l2-a6",
+          "type": "gap",
+          "prompt": "Sie (she) ___ viel.",
+          "answers": ["arbeitet"],
+          "explanation": "The stem arbeit- needs an extra e: sie arbeitet."
+        },
+        {
+          "id": "m2l2-a7",
+          "type": "gap",
+          "prompt": "Wir ___ Deutsch.",
+          "answers": ["lernen"],
+          "explanation": "wir uses the infinitive form: wir lernen."
+        },
+        {
+          "id": "m2l2-a8",
+          "type": "gap",
+          "prompt": "Du ___ in Wien.",
+          "answers": ["wohnst"],
+          "explanation": "The du form ends in -st: du wohnst."
+        },
+        {
+          "id": "m2l2-a9",
+          "type": "order",
+          "prompt": "Build: “She learns German.”",
+          "tokens": ["Deutsch", "Sie", "lernt"],
+          "answer": "Sie lernt Deutsch.",
+          "explanation": "Subject, then the verb in second position, then the object."
+        },
+        {
+          "id": "m2l2-a10",
+          "type": "order",
+          "prompt": "Build: “On Monday I work.”",
+          "tokens": ["arbeite", "Montag", "Am", "ich"],
+          "answer": "Am Montag arbeite ich.",
+          "explanation": "The time phrase is first, so the verb comes second and ich follows it."
+        }
+      ]
+    }
+  ]
+}

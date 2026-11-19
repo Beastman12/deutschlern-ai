@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "id": "c1",
+  "code": "C1",
+  "name": "Advanced",
+  "title": "Fluent, Flexible, Precise",
+  "tagline": "Use German academically and professionally with control and style.",
+  "overview": "C1 is not about adding more rules; it is about making the German you already know flexible. You will work with implicit meaning, modal particles, register and complex cohesion. Lessons are increasingly German-only, and every unit asks you to analyse, summarise and take a position rather than simply reproduce.",
+  "levelGoal": "By the end of C1 you can understand demanding texts, express yourself fluently and spontaneously, and produce clear, well-structured language in academic and professional contexts.",
+  "hours": 170,
+  "color": "rose",
+  "canDo": [
+    "Understand long, demanding texts and implicit meaning.",
+    "Speak fluently and spontaneously without obvious strain.",
+    "Produce formal, well-structured texts for academic or professional purposes.",
+    "Shift register and style according to audience and purpose."
+  ],
+  "modules": [
+    {
+      "id": "c1-m1",
+      "number": 1,
+      "title": "Nuance & Register",
+      "titleDe": "Nuance und Register",
+      "summary": "Say exactly what you mean — and hear what others are really saying.",
+      "lessons": [
+        {
+          "id": "c1-m1-l1",
+          "number": 1,
+          "title": "Nuanced Grammar & Register",
+          "titleDe": "Grammatische Nuancen und Register",
+          "summary": "Modal particles, hedging and the fine line between formal and conversational German.",
+          "minutes": 30,
+          "skills": ["Grammar", "Speaking"],
+          "objectives": [
+            "Use modal particles such as doch, ja, halt and eben naturally.",
+            "Soften statements with appropriate hedging.",
+            "Recognise how register changes grammar and vocabulary."
+          ],
+          "vocab": ["doch", "ja", "halt", "wohl"],
+          "keyPhrase": { "de": "Das dürfte wohl kaum der Fall sein.", "en": "That is hardly likely to be the case." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "c1-m1-l2",
+          "number": 2,
+          "title": "Advanced Connectors & Cohesion",
+          "titleDe": "Fortgeschrittene Konnektoren und Kohäsion",
+          "summary": "Build long texts that hold together with infolgedessen, zumal and nichtsdestotrotz.",
+          "minutes": 28,
+          "skills": ["Writing", "Grammar"],
+          "objectives": [
+            "Use formal connectors for cause, concession and consequence.",
+            "Create cohesion with reference words and thematic progression.",
+            "Avoid overusing connectors where meaning is already clear."
+          ],
+          "vocab": ["infolgedessen", "nichtsdestotrotz", "zumal", "diesbezüglich"],
+          "keyPhrase": { "de": "Zumal die Kosten steigen, ist eine Einigung dringend.", "en": "Especially since costs are rising, an agreement is urgent." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "c1-m1-l3",
+          "number": 3,
+          "title": "Idioms in Context",
+          "titleDe": "Redewendungen im Kontext",
+          "summary": "Use idioms accurately, with the right register and without overdoing it.",
+          "minutes": 26,
+          "skills": ["Vocabulary", "Reading"],
+          "objectives": [
+            "Understand frequent idioms in authentic texts.",
+            "Use idioms where they fit naturally in speech.",
+            "Explain an idiom's meaning and connotation in German."
+          ],
+          "vocab": ["ins Fettnäpfchen treten", "die Daumen drücken", "auf dem Laufenden bleiben", "den Nagel auf den Kopf treffen"],
+          "keyPhrase": { "de": "Mit dieser Aussage tritt er ins Fettnäpfchen.", "en": "With that statement he puts his foot in it." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "c1-m2",
+      "number": 2,
+      "title": "Academic Discourse",
+      "titleDe": "Wissenschaftlicher Diskurs",
+      "summary": "Read critically, present research and argue with precision.",
+      "lessons": [
+        {
+          "id": "c1-m2-l1",
+          "number": 1,
+          "title": "Critical Reading & Analysis",
+          "titleDe": "Kritisches Lesen und Analysieren",
+          "summary": "Identify claims, evidence and hidden assumptions in demanding texts.",
+          "minutes": 30,
+          "skills": ["Reading", "Writing"],
+          "objectives": [
+            "Distinguish thesis, evidence and example in a text.",
+            "Evaluate the strength of an argument.",
+            "Summarise a text's position without distorting it."
+          ],
+          "vocab": ["die These", "die Begründung", "der Beleg", "die Schlussfolgerung"],
+          "keyPhrase": { "de": "Der Text stellt die These auf, dass …", "en": "The text puts forward the thesis that …" },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "c1-m2-l2",
+          "number": 2,
+          "title": "Academic Presentations",
+          "titleDe": "Wissenschaftliche Präsentationen",
+          "summary": "Present research with a clear structure and confident signposting.",
+          "minutes": 28,
+          "skills": ["Speaking", "Writing"],
+          "objectives": [
+            "Structure a research presentation in German.",
+            "Signpost methods, results and limitations.",
+            "Answer questions about your work calmly."
+          ],
+          "vocab": ["die Forschungsfrage", "die Methode", "das Ergebnis", "die Einschränkung"],
+          "keyPhrase": { "de": "Im Folgenden werde ich zunächst auf … eingehen.", "en": "In the following, I will first address …" },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "c1-m2-l3",
+          "number": 3,
+          "title": "Sophisticated Argumentation",
+          "titleDe": "Anspruchsvolle Argumentation",
+          "summary": "Concede, qualify and rebut while keeping the discussion constructive.",
+          "minutes": 30,
+          "skills": ["Speaking", "Writing"],
+          "objectives": [
+            "Concede a valid point without abandoning your position.",
+            "Qualify claims with adverbs and modal verbs.",
+            "Refute an argument precisely rather than emotionally."
+          ],
+          "vocab": ["zwar … jedoch", "insofern", "differenzieren", "einwenden"],
+          "keyPhrase": { "de": "Zwar trifft das zu, jedoch bleibt die Frage offen, …", "en": "That is true, but the question remains open …" },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "c1-m3",
+      "number": 3,
+      "title": "Professional Mastery",
+      "titleDe": "Professionelle Souveränität",
+      "summary": "Write, negotiate and listen at the level of a senior professional.",
+      "lessons": [
+        {
+          "id": "c1-m3-l1",
+          "number": 1,
+          "title": "Professional Writing",
+          "titleDe": "Professionelles Schreiben",
+          "summary": "Reports, proposals and briefings with a clear recommendation.",
+          "minutes": 30,
+          "skills": ["Writing"],
+          "objectives": [
+            "Structure a report with summary, analysis and recommendation.",
+            "Use impersonal, precise professional language.",
+            "Adapt tone to internal and external audiences."
+          ],
+          "vocab": ["der Bericht", "die Empfehlung", "die Maßnahme", "vor diesem Hintergrund"],
+          "keyPhrase": { "de": "Vor diesem Hintergrund empfehle ich, …", "en": "Against this background, I recommend …" },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "c1-m3-l2",
+          "number": 2,
+          "title": "Negotiation & Mediation",
+          "titleDe": "Verhandeln und Vermitteln",
+          "summary": "De-escalate, reframe and find common ground in difficult conversations.",
+          "minutes": 30,
+          "skills": ["Speaking", "Listening"],
+          "objectives": [
+            "Reframe a conflict around shared interests.",
+            "Use diplomatic language to disagree.",
+            "Summarise both positions fairly."
+          ],
+          "vocab": ["vermitteln", "die Interessen", "die Lösung", "entgegenkommen"],
+          "keyPhrase": { "de": "Lassen Sie uns auf die gemeinsamen Interessen konzentrieren.", "en": "Let us focus on the shared interests." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "c1-m3-l3",
+          "number": 3,
+          "title": "Advanced Listening Comprehension",
+          "titleDe": "Fortgeschrittenes Hörverstehen",
+          "summary": "Follow lectures, interviews and fast discussions with implicit meaning.",
+          "minutes": 26,
+          "skills": ["Listening", "Vocabulary"],
+          "objectives": [
+            "Identify the speaker's attitude and intention.",
+            "Take notes while listening to extended speech.",
+            "Use context to infer unfamiliar vocabulary."
+          ],
+          "vocab": ["die Anspielung", "der Zusammenhang", "die Haltung", "implizit"],
+          "keyPhrase": { "de": "Was genau meinen Sie damit?", "en": "What exactly do you mean by that?" },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "c1-m4",
+      "number": 4,
+      "title": "Society & Culture",
+      "titleDe": "Gesellschaft und Kultur",
+      "summary": "Debate social questions and understand the cultural references behind them.",
+      "lessons": [
+        {
+          "id": "c1-m4-l1",
+          "number": 1,
+          "title": "Social & Political Topics",
+          "titleDe": "Soziale und politische Themen",
+          "summary": "Take a position on complex public debates with appropriate nuance.",
+          "minutes": 30,
+          "skills": ["Speaking", "Reading"],
+          "objectives": [
+            "Explain a social issue and its different perspectives.",
+            "Use accurate vocabulary for politics and society.",
+            "Avoid oversimplification when summarising a debate."
+          ],
+          "vocab": ["die Gerechtigkeit", "die Debatte", "die Maßnahme", "der Zusammenhalt"],
+          "keyPhrase": { "de": "Die Debatte um soziale Gerechtigkeit ist vielschichtig.", "en": "The debate about social justice is multi-layered." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "c1-m4-l2",
+          "number": 2,
+          "title": "Research Presentations",
+          "titleDe": "Forschung präsentieren",
+          "summary": "Explain data, interpret findings and acknowledge limitations.",
+          "minutes": 28,
+          "skills": ["Speaking", "Writing"],
+          "objectives": [
+            "Describe data trends precisely.",
+            "Interpret results without overstating them.",
+            "Acknowledge limitations in a professional way."
+          ],
+          "vocab": ["die Daten", "der Trend", "nahelegen", "die Aussagekraft"],
+          "keyPhrase": { "de": "Die Ergebnisse legen nahe, dass …", "en": "The results suggest that …" },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "c1-m4-l3",
+          "number": 3,
+          "title": "Advanced Grammar in Context",
+          "titleDe": "Grammatik im Kontext",
+          "summary": "Function verb phrases and complex structures in professional texts.",
+          "minutes": 28,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Use Funktionsverbgefüge such as zur Anwendung kommen.",
+            "Decide between verbal and nominal expression.",
+            "Edit dense sentences for clarity."
+          ],
+          "vocab": ["zur Anwendung kommen", "in Betracht ziehen", "zur Verfügung stellen", "in Frage stellen"],
+          "keyPhrase": { "de": "Die Maßnahme kommt nur unter bestimmten Bedingungen zur Anwendung.", "en": "The measure is only applied under certain conditions." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        }
+      ]
+    }
+  ],
+  "scenarios": [
+    { "title": "Academic discussions", "titleDe": "Wissenschaftliche Diskussionen" },
+    { "title": "Professional negotiations", "titleDe": "Berufliche Verhandlungen" },
+    { "title": "Research presentations", "titleDe": "Forschungspräsentationen" },
+    { "title": "Social & political topics", "titleDe": "Gesellschaft und Politik" },
+    { "title": "Formal debates", "titleDe": "Formelle Debatten" }
+  ]
+}

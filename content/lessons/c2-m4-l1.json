@@ -1,0 +1,682 @@
+{
+  "id": "c2-m4-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "c2-m4-l1-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "c2-m4-l1",
+      "prompt": "State a controversial claim, then name the assumption it depends on.",
+      "items": [
+        "Man kann die Frage auch aus einer anderen Perspektive betrachten.",
+        "die Prämisse",
+        "der Einwand",
+        "widerlegen"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "c2-m4-l1-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "c2-m4-l1",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "c2-m4-l1-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "c2-m4-l1",
+      "lede": "In a real debate you must frame the question, test the premise and rebut without losing composure.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Framing sets the terms of the debate. A precise question (“Sollte die Stadt den Autoverkehr in der Innenstadt begrenzen?”) is easier to argue than a vague one (“Ist Verkehr gut?”). Name the premise behind each position so the disagreement becomes visible."
+        },
+        {
+          "kind": "p",
+          "text": "A rebuttal targets the argument, not the person. Acknowledge the strongest version of the opposing view, identify the premise you reject, and offer evidence or a counterexample. Keep your tone calm; in German debate, composure is read as competence."
+        },
+        {
+          "kind": "note",
+          "title": "Attack the premise, not the speaker",
+          "text": "“Diese Argumentation setzt voraus, dass …” is a powerful move: it shows what would have to be true for the other side to work."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l1-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "c2-m4-l1",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "frame",
+              "Die entscheidende Frage ist, ob die Maßnahme wirkt."
+            ],
+            [
+              "challenge",
+              "Diese Argumentation setzt voraus, dass die Daten vollständig sind."
+            ],
+            [
+              "rebut",
+              "Dieser Einwand lässt sich widerlegen, weil die Daten fehlen."
+            ],
+            [
+              "counterposition",
+              "Die Gegenposition betont hingegen die langfristigen Kosten."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "“Voraussetzen” means to presuppose: Das setzt voraus, dass …",
+            "“Widerlegen” is stronger than “bezweifeln”; use it only when you can show the argument fails.",
+            "“Hingegen” signals a contrast and often follows the verb."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l1-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "c2-m4-l1",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "die Prämisse",
+          "en": "premise",
+          "article": "die",
+          "plural": "die Prämissen",
+          "example": "Die Prämisse der Argumentation ist umstritten.",
+          "exampleEn": "The premise of the argument is controversial."
+        },
+        {
+          "de": "der Einwand",
+          "en": "objection",
+          "article": "der",
+          "plural": "die Einwände",
+          "example": "Dieser Einwand lässt sich leicht widerlegen.",
+          "exampleEn": "This objection can easily be refuted."
+        },
+        {
+          "de": "widerlegen",
+          "en": "to refute",
+          "example": "Die Studie widerlegt die bisherige Annahme.",
+          "exampleEn": "The study refutes the previous assumption."
+        },
+        {
+          "de": "die Gegenposition",
+          "en": "counterposition",
+          "article": "die",
+          "plural": "die Gegenpositionen",
+          "example": "Die Gegenposition betont hingegen die langfristigen Kosten.",
+          "exampleEn": "The counterposition, by contrast, emphasises the long-term costs."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l1-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "c2-m4-l1",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Die entscheidende Frage ist, ob die Maßnahme wirkt.",
+          "en": "The decisive question is whether the measure works.",
+          "note": "A clear framing question."
+        },
+        {
+          "de": "Diese Argumentation setzt voraus, dass die Daten vollständig sind.",
+          "en": "This argument presupposes that the data are complete.",
+          "note": "Challenging the premise."
+        },
+        {
+          "de": "Dieser Einwand lässt sich widerlegen, weil die Daten fehlen.",
+          "en": "This objection can be refuted because the data are missing.",
+          "note": "A structured rebuttal with a reason."
+        },
+        {
+          "de": "Die Gegenposition betont hingegen die langfristigen Kosten.",
+          "en": "The counterposition, by contrast, emphasises the long-term costs.",
+          "note": "Presenting the other side fairly."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l1-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "c2-m4-l1",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Prämisse",
+          "hint": "Stress the second syllable: pre-MI-se."
+        },
+        {
+          "de": "der Einwand",
+          "hint": "Stress the first syllable: INE-vant."
+        },
+        {
+          "de": "widerlegen",
+          "hint": "Stress the second syllable: vi-der-LEH-gen."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l1-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "c2-m4-l1",
+      "heading": "Debate culture in Germany",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German debate can sound blunt to outsiders, but the norm is argument-based criticism rather than personal attack. Naming a flaw in an argument is expected, not rude."
+        },
+        {
+          "kind": "p",
+          "text": "In formal settings, speakers often begin with a concession (“Zwar …”) before moving to their objection. This signals that they have listened and strengthens the rebuttal."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l1-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "c2-m4-l1",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A televised debate about a city-centre traffic ban.",
+      "lines": [
+        {
+          "speaker": "Moderatorin",
+          "de": "Die entscheidende Frage ist, ob die Maßnahme wirkt.",
+          "en": "The decisive question is whether the measure works."
+        },
+        {
+          "speaker": "Gast A",
+          "de": "Diese Argumentation setzt voraus, dass die Daten vollständig sind.",
+          "en": "This argument presupposes that the data are complete."
+        },
+        {
+          "speaker": "Gast B",
+          "de": "Dieser Einwand lässt sich widerlegen, weil die Daten fehlen.",
+          "en": "This objection can be refuted because the data are missing."
+        },
+        {
+          "speaker": "Gast A",
+          "de": "Die Gegenposition betont hingegen die langfristigen Kosten.",
+          "en": "The counterposition, by contrast, emphasises the long-term costs."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l1-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "c2-m4-l1",
+      "heading": "Framing, challenging, rebutting",
+      "lede": "Each move has a fixed structure that keeps the exchange structured.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Die entscheidende Frage ist, ob …",
+              "frame the debate"
+            ],
+            [
+              "Diese Argumentation setzt voraus, dass …",
+              "challenge a premise"
+            ],
+            [
+              "Dieser Einwand lässt sich widerlegen, weil …",
+              "rebut with a reason"
+            ],
+            [
+              "Die Gegenposition betont hingegen …",
+              "present the other side"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "“Ob” introduces an indirect yes/no question, so the verb goes to the end: Die Frage ist, ob die Maßnahme wirkt."
+        }
+      ],
+      "tip": "Before you rebut, restate the opposing argument in its strongest form. A weak caricature is easy to dismiss and easy to spot."
+    },
+    {
+      "id": "c2-m4-l1-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "c2-m4-l1",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "c2-m4-l1-p-m1",
+          "type": "mcq",
+          "prompt": "Die entscheidende Frage ist, ___ die Maßnahme wirkt.",
+          "options": [
+            "ob",
+            "dass",
+            "weil",
+            "wenn"
+          ],
+          "answer": 0,
+          "explanation": "An indirect yes/no question uses ob."
+        },
+        {
+          "id": "c2-m4-l1-p-m2",
+          "type": "mcq",
+          "prompt": "Diese Argumentation setzt ___, dass die Daten vollständig sind.",
+          "options": [
+            "voraus",
+            "aus",
+            "ein",
+            "auf"
+          ],
+          "answer": 0,
+          "explanation": "The separable verb is voraussetzen: setzt … voraus."
+        },
+        {
+          "id": "c2-m4-l1-p-m3",
+          "type": "mcq",
+          "prompt": "Which sentence rebuts with a reason?",
+          "options": [
+            "Das ist falsch.",
+            "Dieser Einwand lässt sich widerlegen, weil die Daten fehlen.",
+            "Sie haben keine Ahnung.",
+            "Nein."
+          ],
+          "answer": 1,
+          "explanation": "It names the objection and gives a reason."
+        },
+        {
+          "id": "c2-m4-l1-p-m4",
+          "type": "mcq",
+          "prompt": "Die Gegenposition ___ hingegen die langfristigen Kosten.",
+          "options": [
+            "betont",
+            "betonen",
+            "betonte",
+            "Betonung"
+          ],
+          "answer": 0,
+          "explanation": "The singular subject die Gegenposition takes betont."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l1-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "c2-m4-l1",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "c2-m4-l1-p-g1",
+          "type": "gap",
+          "prompt": "Diese Argumentation setzt voraus, dass die ___ stimmt.",
+          "answers": [
+            "Prämisse"
+          ],
+          "explanation": "Prämisse means premise."
+        },
+        {
+          "id": "c2-m4-l1-p-g2",
+          "type": "gap",
+          "prompt": "Dieser ___ lässt sich leicht widerlegen.",
+          "answers": [
+            "Einwand"
+          ],
+          "explanation": "Einwand means objection."
+        },
+        {
+          "id": "c2-m4-l1-p-g3",
+          "type": "gap",
+          "prompt": "Die ___ betont hingegen die langfristigen Kosten.",
+          "answers": [
+            "Gegenposition"
+          ],
+          "explanation": "Gegenposition means counterposition."
+        },
+        {
+          "id": "c2-m4-l1-p-g4",
+          "type": "gap",
+          "prompt": "Dieser Einwand lässt sich ___, weil die Daten fehlen.",
+          "answers": [
+            "widerlegen"
+          ],
+          "explanation": "Widerlegen means to refute."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l1-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "c2-m4-l1",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "c2-m4-l1-p-o1",
+          "type": "order",
+          "prompt": "Build: “The decisive question is whether the measure works.”",
+          "tokens": [
+            "ist,",
+            "Die",
+            "entscheidende",
+            "Frage",
+            "ob",
+            "die",
+            "Maßnahme",
+            "wirkt."
+          ],
+          "answer": "Die entscheidende Frage ist, ob die Maßnahme wirkt.",
+          "explanation": "The ob-clause ends with the verb wirkt."
+        },
+        {
+          "id": "c2-m4-l1-p-o2",
+          "type": "order",
+          "prompt": "Build: “This objection can be refuted because the data are missing.”",
+          "tokens": [
+            "lässt",
+            "Dieser",
+            "Einwand",
+            "sich",
+            "widerlegen,",
+            "weil",
+            "die",
+            "Daten",
+            "fehlen."
+          ],
+          "answer": "Dieser Einwand lässt sich widerlegen, weil die Daten fehlen.",
+          "explanation": "Sich lassen plus infinitive expresses possibility; the weil-clause ends with fehlen."
+        },
+        {
+          "id": "c2-m4-l1-p-o3",
+          "type": "order",
+          "prompt": "Build: “The counterposition, by contrast, emphasises the long-term costs.”",
+          "tokens": [
+            "betont",
+            "Die",
+            "Gegenposition",
+            "hingegen",
+            "die",
+            "langfristigen",
+            "Kosten."
+          ],
+          "answer": "Die Gegenposition betont hingegen die langfristigen Kosten.",
+          "explanation": "Hingegen signals the contrast and follows the verb."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l1-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "c2-m4-l1",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Eine Debatte im Radio",
+      "script": [
+        {
+          "speaker": "Moderator",
+          "de": "Die entscheidende Frage ist, ob die Maßnahme wirkt.",
+          "en": "The decisive question is whether the measure works."
+        },
+        {
+          "speaker": "Gast A",
+          "de": "Diese Argumentation setzt voraus, dass die Daten vollständig sind.",
+          "en": "This argument presupposes that the data are complete."
+        },
+        {
+          "speaker": "Gast B",
+          "de": "Dieser Einwand lässt sich widerlegen, weil die Daten fehlen.",
+          "en": "This objection can be refuted because the data are missing."
+        },
+        {
+          "speaker": "Moderator",
+          "de": "Die Gegenposition betont hingegen die langfristigen Kosten.",
+          "en": "The counterposition, by contrast, emphasises the long-term costs."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2-m4-l1-l1",
+          "type": "mcq",
+          "prompt": "What does the first guest question?",
+          "options": [
+            "Whether the data are complete",
+            "Whether the measure is cheap",
+            "Whether the city is large",
+            "Whether the debate is over"
+          ],
+          "answer": 0,
+          "explanation": "The guest says the argument presupposes that the data are complete."
+        },
+        {
+          "id": "c2-m4-l1-l2",
+          "type": "mcq",
+          "prompt": "What does the counterposition emphasise?",
+          "options": [
+            "Short-term benefits",
+            "Long-term costs",
+            "The weather",
+            "Public opinion"
+          ],
+          "answer": 1,
+          "explanation": "The counterposition emphasises the long-term costs."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l1-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "c2-m4-l1",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Frame a debate question, challenge one premise and rebut one objection.",
+      "model": {
+        "de": "Die entscheidende Frage ist, ob die Stadt den Autoverkehr begrenzen sollte. Diese Argumentation setzt voraus, dass alle Pendler Alternativen haben. Dieser Einwand lässt sich widerlegen, weil es bereits ein dichtes Busnetz gibt.",
+        "en": "The decisive question is whether the city should limit car traffic. This argument presupposes that all commuters have alternatives. This objection can be refuted because there is already a dense bus network."
+      },
+      "tips": [
+        "Frame the question before you argue.",
+        "Challenge the premise, not the person.",
+        "Give a concrete reason or example in the rebuttal."
+      ]
+    },
+    {
+      "id": "c2-m4-l1-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "c2-m4-l1",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Die Frage ist, ob wirkt die Maßnahme.",
+          "right": "Die Frage ist, ob die Maßnahme wirkt.",
+          "why": "The ob-clause puts the verb at the end."
+        },
+        {
+          "wrong": "Diese Argumentation setzt voraus, dass die Daten sind vollständig.",
+          "right": "Diese Argumentation setzt voraus, dass die Daten vollständig sind.",
+          "why": "The dass-clause ends with the verb sind."
+        },
+        {
+          "wrong": "Dieser Einwand lässt sich widerlegen, weil die Daten fehlen fehlen.",
+          "right": "Dieser Einwand lässt sich widerlegen, weil die Daten fehlen.",
+          "why": "The verb appears once, at the end of the weil-clause."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l1-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "c2-m4-l1",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "c2-m4-l1-a1",
+          "type": "mcq",
+          "prompt": "Die entscheidende Frage ist, ___ die Maßnahme wirkt.",
+          "options": [
+            "ob",
+            "dass",
+            "weil",
+            "wenn"
+          ],
+          "answer": 0,
+          "explanation": "An indirect yes/no question uses ob."
+        },
+        {
+          "id": "c2-m4-l1-a2",
+          "type": "mcq",
+          "prompt": "Diese Argumentation setzt ___, dass die Daten vollständig sind.",
+          "options": [
+            "voraus",
+            "aus",
+            "ein",
+            "auf"
+          ],
+          "answer": 0,
+          "explanation": "The separable verb is voraussetzen: setzt … voraus."
+        },
+        {
+          "id": "c2-m4-l1-a3",
+          "type": "mcq",
+          "prompt": "Which sentence rebuts with a reason?",
+          "options": [
+            "Das ist falsch.",
+            "Dieser Einwand lässt sich widerlegen, weil die Daten fehlen.",
+            "Sie haben keine Ahnung.",
+            "Nein."
+          ],
+          "answer": 1,
+          "explanation": "It names the objection and gives a reason."
+        },
+        {
+          "id": "c2-m4-l1-a4",
+          "type": "mcq",
+          "prompt": "Die Gegenposition ___ hingegen die langfristigen Kosten.",
+          "options": [
+            "betont",
+            "betonen",
+            "betonte",
+            "Betonung"
+          ],
+          "answer": 0,
+          "explanation": "The singular subject die Gegenposition takes betont."
+        },
+        {
+          "id": "c2-m4-l1-a5",
+          "type": "gap",
+          "prompt": "Diese Argumentation setzt voraus, dass die ___ stimmt.",
+          "answers": [
+            "Prämisse"
+          ],
+          "explanation": "Prämisse means premise."
+        },
+        {
+          "id": "c2-m4-l1-a6",
+          "type": "gap",
+          "prompt": "Dieser ___ lässt sich leicht widerlegen.",
+          "answers": [
+            "Einwand"
+          ],
+          "explanation": "Einwand means objection."
+        },
+        {
+          "id": "c2-m4-l1-a7",
+          "type": "gap",
+          "prompt": "Die ___ betont hingegen die langfristigen Kosten.",
+          "answers": [
+            "Gegenposition"
+          ],
+          "explanation": "Gegenposition means counterposition."
+        },
+        {
+          "id": "c2-m4-l1-a8",
+          "type": "gap",
+          "prompt": "Dieser Einwand lässt sich ___, weil die Daten fehlen.",
+          "answers": [
+            "widerlegen"
+          ],
+          "explanation": "Widerlegen means to refute."
+        },
+        {
+          "id": "c2-m4-l1-a9",
+          "type": "order",
+          "prompt": "Build: “The decisive question is whether the measure works.”",
+          "tokens": [
+            "ist,",
+            "Die",
+            "entscheidende",
+            "Frage",
+            "ob",
+            "die",
+            "Maßnahme",
+            "wirkt."
+          ],
+          "answer": "Die entscheidende Frage ist, ob die Maßnahme wirkt.",
+          "explanation": "The ob-clause ends with the verb wirkt."
+        },
+        {
+          "id": "c2-m4-l1-a10",
+          "type": "order",
+          "prompt": "Build: “This objection can be refuted because the data are missing.”",
+          "tokens": [
+            "lässt",
+            "Dieser",
+            "Einwand",
+            "sich",
+            "widerlegen,",
+            "weil",
+            "die",
+            "Daten",
+            "fehlen."
+          ],
+          "answer": "Dieser Einwand lässt sich widerlegen, weil die Daten fehlen.",
+          "explanation": "Sich lassen plus infinitive expresses possibility; the weil-clause ends with fehlen."
+        }
+      ]
+    }
+  ]
+}

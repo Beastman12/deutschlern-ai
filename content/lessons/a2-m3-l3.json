@@ -1,0 +1,720 @@
+{
+  "id": "a2-m3-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "a2-m3-l3-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "a2-m3-l3",
+      "prompt": "Give one reason why you are learning German, then one condition for your next holiday.",
+      "items": [
+        "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.",
+        "weil",
+        "dass",
+        "wenn"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "a2-m3-l3-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "a2-m3-l3",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "a2-m3-l3-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "a2-m3-l3",
+      "lede": "Subordinate clauses with weil, dass, wenn and obwohl send the conjugated verb to the end.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A subordinate clause cannot stand alone; it explains or completes the main clause. The conjugated verb moves to the final position: Ich lerne Deutsch, weil ich in Deutschland studieren möchte."
+        },
+        {
+          "kind": "p",
+          "text": "Use weil for a reason, dass for a statement or fact, wenn for a condition or repeated event, and obwohl for a contrast. The main clause keeps normal word order, and a comma separates the two clauses."
+        },
+        {
+          "kind": "note",
+          "title": "Verb final, not verb second",
+          "text": "In a subordinate clause the verb is last: …, weil ich müde bin. Do not use the normal second-position rule here."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l3-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "a2-m3-l3",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "weil + reason",
+              "Ich bleibe zu Hause, weil ich krank bin."
+            ],
+            [
+              "dass + statement",
+              "Ich glaube, dass er recht hat."
+            ],
+            [
+              "wenn + condition",
+              "Wenn es regnet, bleiben wir drinnen."
+            ],
+            [
+              "obwohl + contrast",
+              "Sie geht joggen, obwohl es kalt ist."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The conjugated verb is the final word in the subordinate clause.",
+            "A separable prefix stays attached in a subordinate clause: …, weil ich früh aufstehe.",
+            "If the subordinate clause comes first, the main clause begins with its verb."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l3-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "a2-m3-l3",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "weil",
+          "en": "because",
+          "example": "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.",
+          "exampleEn": "I am learning German because I want to study in Germany."
+        },
+        {
+          "de": "dass",
+          "en": "that",
+          "example": "Ich hoffe, dass du kommst.",
+          "exampleEn": "I hope that you are coming."
+        },
+        {
+          "de": "wenn",
+          "en": "when, if",
+          "example": "Wenn ich Zeit habe, lese ich.",
+          "exampleEn": "When I have time, I read."
+        },
+        {
+          "de": "obwohl",
+          "en": "although",
+          "example": "Er arbeitet, obwohl er müde ist.",
+          "exampleEn": "He is working although he is tired."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l3-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "a2-m3-l3",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.",
+          "en": "I am learning German because I want to study in Germany.",
+          "note": "Möchte is the final conjugated verb."
+        },
+        {
+          "de": "Ich glaube, dass er recht hat.",
+          "en": "I think that he is right.",
+          "note": "Hat is the final verb in the dass-clause."
+        },
+        {
+          "de": "Wenn es morgen regnet, bleiben wir zu Hause.",
+          "en": "If it rains tomorrow, we will stay at home.",
+          "note": "The main clause starts with its verb after the comma."
+        },
+        {
+          "de": "Sie kommt, obwohl sie krank ist.",
+          "en": "She is coming although she is ill.",
+          "note": "Obwohl introduces a contrast."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l3-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "a2-m3-l3",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "weil",
+          "hint": "The ei sounds like “eye”: vile."
+        },
+        {
+          "de": "obwohl",
+          "hint": "Stress the second syllable: op-VOHL."
+        },
+        {
+          "de": "dass",
+          "hint": "The a is short and open: dahss."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l3-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "a2-m3-l3",
+      "heading": "Explaining yourself in German",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German conversation values clear reasons, and weil is one of the most frequent conjunctions in everyday speech. A short “weil ich keine Zeit habe” is a complete and polite explanation."
+        },
+        {
+          "kind": "p",
+          "text": "In formal writing, da can replace weil at the start of a sentence. In speech, weil is more common, and in casual spoken German you may hear a second word order — but learners should use the standard verb-final pattern."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l3-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "a2-m3-l3",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "At a language school, two students talk about their plans.",
+      "lines": [
+        {
+          "speaker": "Ali",
+          "de": "Warum lernst du Deutsch?",
+          "en": "Why are you learning German?"
+        },
+        {
+          "speaker": "Nora",
+          "de": "Ich lerne Deutsch, weil ich in Berlin studieren möchte.",
+          "en": "I am learning German because I want to study in Berlin."
+        },
+        {
+          "speaker": "Ali",
+          "de": "Ich hoffe, dass ich die Prüfung schaffe.",
+          "en": "I hope that I will pass the exam."
+        },
+        {
+          "speaker": "Nora",
+          "de": "Wenn du jeden Tag übst, wird es klappen.",
+          "en": "If you practise every day, it will work out."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l3-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "a2-m3-l3",
+      "heading": "Subordinate clause word order",
+      "lede": "The conjunction opens the clause and the conjugated verb closes it.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "weil",
+              "reason: Ich komme nicht, weil ich krank bin."
+            ],
+            [
+              "dass",
+              "statement: Ich weiß, dass du recht hast."
+            ],
+            [
+              "wenn",
+              "condition: Wenn ich Zeit habe, komme ich."
+            ],
+            [
+              "obwohl",
+              "contrast: Er bleibt, obwohl er gehen muss."
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "In a subordinate clause with a modal verb, the modal is the final conjugated verb and the infinitive sits just before it: …, weil ich arbeiten muss."
+        }
+      ],
+      "tip": "Say the subordinate clause out loud and stop on the verb. If the verb feels stranded at the end, the word order is correct."
+    },
+    {
+      "id": "a2-m3-l3-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "a2-m3-l3",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "a2-m3-l3-p-m1",
+          "type": "mcq",
+          "prompt": "Ich bleibe zu Hause, ___ ich krank bin.",
+          "options": [
+            "weil",
+            "dass",
+            "obwohl",
+            "wenn"
+          ],
+          "answer": 0,
+          "explanation": "Weil introduces the reason for staying at home."
+        },
+        {
+          "id": "a2-m3-l3-p-m2",
+          "type": "mcq",
+          "prompt": "Ich glaube, dass er recht ___.",
+          "options": [
+            "hat",
+            "haben",
+            "hast",
+            "habe"
+          ],
+          "answer": 0,
+          "explanation": "The conjugated verb hat goes to the end of the dass-clause."
+        },
+        {
+          "id": "a2-m3-l3-p-m3",
+          "type": "mcq",
+          "prompt": "___ es regnet, bleiben wir drinnen.",
+          "options": [
+            "Wenn",
+            "Dass",
+            "Weil",
+            "Obwohl"
+          ],
+          "answer": 0,
+          "explanation": "Wenn introduces the condition."
+        },
+        {
+          "id": "a2-m3-l3-p-m4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Ich lerne Deutsch, weil ich mag die Sprache.",
+            "Ich lerne Deutsch, weil ich die Sprache mag.",
+            "Ich lerne Deutsch, weil mag ich die Sprache.",
+            "Ich lerne Deutsch, weil die Sprache ich mag."
+          ],
+          "answer": 1,
+          "explanation": "The conjugated verb mag must be at the end of the weil-clause."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l3-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "a2-m3-l3",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "a2-m3-l3-p-g1",
+          "type": "gap",
+          "prompt": "Ich komme nicht, ___ ich keine Zeit habe.",
+          "answers": [
+            "weil"
+          ],
+          "explanation": "The clause gives a reason, so use weil."
+        },
+        {
+          "id": "a2-m3-l3-p-g2",
+          "type": "gap",
+          "prompt": "Ich hoffe, ___ du morgen kommst.",
+          "answers": [
+            "dass"
+          ],
+          "explanation": "Dass introduces the content of the hope."
+        },
+        {
+          "id": "a2-m3-l3-p-g3",
+          "type": "gap",
+          "prompt": "___ ich Zeit habe, rufe ich dich an.",
+          "answers": [
+            "Wenn"
+          ],
+          "explanation": "Wenn introduces a condition."
+        },
+        {
+          "id": "a2-m3-l3-p-g4",
+          "type": "gap",
+          "prompt": "Er arbeitet, ___ er müde ist.",
+          "answers": [
+            "obwohl"
+          ],
+          "explanation": "Obwohl introduces a contrast."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l3-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "a2-m3-l3",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "a2-m3-l3-p-o1",
+          "type": "order",
+          "prompt": "Build: “I am learning German because I want to study in Germany.”",
+          "tokens": [
+            "Deutsch,",
+            "weil",
+            "Ich",
+            "lerne",
+            "ich",
+            "in",
+            "Deutschland",
+            "studieren",
+            "möchte."
+          ],
+          "answer": "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.",
+          "explanation": "The modal möchte is the final conjugated verb."
+        },
+        {
+          "id": "a2-m3-l3-p-o2",
+          "type": "order",
+          "prompt": "Build: “I think that he is right.”",
+          "tokens": [
+            "recht",
+            "Ich",
+            "glaube,",
+            "dass",
+            "er",
+            "hat."
+          ],
+          "answer": "Ich glaube, dass er recht hat.",
+          "explanation": "The dass-clause ends with the verb hat."
+        },
+        {
+          "id": "a2-m3-l3-p-o3",
+          "type": "order",
+          "prompt": "Build: “She is coming although she is ill.”",
+          "tokens": [
+            "krank",
+            "Sie",
+            "kommt,",
+            "obwohl",
+            "sie",
+            "ist."
+          ],
+          "answer": "Sie kommt, obwohl sie krank ist.",
+          "explanation": "The verb ist closes the obwohl-clause."
+        },
+        {
+          "id": "a2-m3-l3-p-o4",
+          "type": "order",
+          "prompt": "Build: “I am staying at home because I am ill.”",
+          "tokens": [
+            "zu",
+            "Ich",
+            "Hause,",
+            "bleibe",
+            "weil",
+            "ich",
+            "krank",
+            "bin."
+          ],
+          "answer": "Ich bleibe zu Hause, weil ich krank bin.",
+          "explanation": "The weil-clause ends with the conjugated verb bin."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l3-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "a2-m3-l3",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Im Sprachkurs",
+      "script": [
+        {
+          "speaker": "Lehrerin",
+          "de": "Warum fehlen Sie morgen?",
+          "en": "Why are you absent tomorrow?"
+        },
+        {
+          "speaker": "Kurs",
+          "de": "Ich habe einen Termin, weil ich zum Arzt muss.",
+          "en": "I have an appointment because I have to go to the doctor."
+        },
+        {
+          "speaker": "Lehrerin",
+          "de": "Verstehe. Ich hoffe, dass es nichts Ernstes ist.",
+          "en": "I see. I hope that it is nothing serious."
+        },
+        {
+          "speaker": "Kurs",
+          "de": "Danke. Wenn ich zurück bin, hole ich die Aufgaben nach.",
+          "en": "Thanks. When I am back, I will catch up on the tasks."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a2-m3-l3-l1",
+          "type": "mcq",
+          "prompt": "Why will the student miss the lesson?",
+          "options": [
+            "A holiday",
+            "A doctor’s appointment",
+            "A work meeting",
+            "A train delay"
+          ],
+          "answer": 1,
+          "explanation": "The student says “weil ich zum Arzt muss”."
+        },
+        {
+          "id": "a2-m3-l3-l2",
+          "type": "mcq",
+          "prompt": "What does the teacher hope?",
+          "options": [
+            "That the student returns soon",
+            "That it is nothing serious",
+            "That the exam is easy",
+            "That the student calls"
+          ],
+          "answer": 1,
+          "explanation": "The teacher says “Ich hoffe, dass es nichts Ernstes ist.”"
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l3-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "a2-m3-l3",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Give a reason for learning German, a condition for practising, and a contrast about your schedule.",
+      "model": {
+        "de": "Ich lerne Deutsch, weil ich in Deutschland arbeiten möchte. Wenn ich Zeit habe, sehe ich deutsche Serien. Ich lerne auch am Wochenende, obwohl ich oft müde bin.",
+        "en": "I am learning German because I want to work in Germany. When I have time, I watch German series. I also study at the weekend although I am often tired."
+      },
+      "tips": [
+        "Put the conjugated verb at the very end of each subordinate clause.",
+        "Use a comma before weil, dass, wenn and obwohl.",
+        "Start with wenn to vary your sentence rhythm."
+      ]
+    },
+    {
+      "id": "a2-m3-l3-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "a2-m3-l3",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Ich lerne Deutsch, weil ich möchte in Deutschland studieren.",
+          "right": "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.",
+          "why": "In a weil-clause the conjugated verb goes to the end."
+        },
+        {
+          "wrong": "Ich glaube, dass er hat recht.",
+          "right": "Ich glaube, dass er recht hat.",
+          "why": "The verb belongs at the end of the dass-clause."
+        },
+        {
+          "wrong": "Obwohl es regnet, wir bleiben drinnen.",
+          "right": "Obwohl es regnet, bleiben wir drinnen.",
+          "why": "When the subordinate clause comes first, the main clause starts with its verb."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l3-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "a2-m3-l3",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "a2-m3-l3-a1",
+          "type": "mcq",
+          "prompt": "Ich bleibe zu Hause, ___ ich krank bin.",
+          "options": [
+            "weil",
+            "dass",
+            "obwohl",
+            "wenn"
+          ],
+          "answer": 0,
+          "explanation": "Weil introduces the reason for staying at home."
+        },
+        {
+          "id": "a2-m3-l3-a2",
+          "type": "mcq",
+          "prompt": "Ich glaube, dass er recht ___.",
+          "options": [
+            "hat",
+            "haben",
+            "hast",
+            "habe"
+          ],
+          "answer": 0,
+          "explanation": "The conjugated verb hat goes to the end of the dass-clause."
+        },
+        {
+          "id": "a2-m3-l3-a3",
+          "type": "mcq",
+          "prompt": "___ es regnet, bleiben wir drinnen.",
+          "options": [
+            "Wenn",
+            "Dass",
+            "Weil",
+            "Obwohl"
+          ],
+          "answer": 0,
+          "explanation": "Wenn introduces the condition."
+        },
+        {
+          "id": "a2-m3-l3-a4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Ich lerne Deutsch, weil ich mag die Sprache.",
+            "Ich lerne Deutsch, weil ich die Sprache mag.",
+            "Ich lerne Deutsch, weil mag ich die Sprache.",
+            "Ich lerne Deutsch, weil die Sprache ich mag."
+          ],
+          "answer": 1,
+          "explanation": "The conjugated verb mag must be at the end of the weil-clause."
+        },
+        {
+          "id": "a2-m3-l3-a5",
+          "type": "gap",
+          "prompt": "Ich komme nicht, ___ ich keine Zeit habe.",
+          "answers": [
+            "weil"
+          ],
+          "explanation": "The clause gives a reason, so use weil."
+        },
+        {
+          "id": "a2-m3-l3-a6",
+          "type": "gap",
+          "prompt": "Ich hoffe, ___ du morgen kommst.",
+          "answers": [
+            "dass"
+          ],
+          "explanation": "Dass introduces the content of the hope."
+        },
+        {
+          "id": "a2-m3-l3-a7",
+          "type": "gap",
+          "prompt": "___ ich Zeit habe, rufe ich dich an.",
+          "answers": [
+            "Wenn"
+          ],
+          "explanation": "Wenn introduces a condition."
+        },
+        {
+          "id": "a2-m3-l3-a8",
+          "type": "gap",
+          "prompt": "Er arbeitet, ___ er müde ist.",
+          "answers": [
+            "obwohl"
+          ],
+          "explanation": "Obwohl introduces a contrast."
+        },
+        {
+          "id": "a2-m3-l3-a9",
+          "type": "order",
+          "prompt": "Build: “I am learning German because I want to study in Germany.”",
+          "tokens": [
+            "Deutsch,",
+            "weil",
+            "Ich",
+            "lerne",
+            "ich",
+            "in",
+            "Deutschland",
+            "studieren",
+            "möchte."
+          ],
+          "answer": "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.",
+          "explanation": "The modal möchte is the final conjugated verb."
+        },
+        {
+          "id": "a2-m3-l3-a10",
+          "type": "order",
+          "prompt": "Build: “I think that he is right.”",
+          "tokens": [
+            "recht",
+            "Ich",
+            "glaube,",
+            "dass",
+            "er",
+            "hat."
+          ],
+          "answer": "Ich glaube, dass er recht hat.",
+          "explanation": "The dass-clause ends with the verb hat."
+        },
+        {
+          "id": "a2-m3-l3-a11",
+          "type": "order",
+          "prompt": "Build: “She is coming although she is ill.”",
+          "tokens": [
+            "krank",
+            "Sie",
+            "kommt,",
+            "obwohl",
+            "sie",
+            "ist."
+          ],
+          "answer": "Sie kommt, obwohl sie krank ist.",
+          "explanation": "The verb ist closes the obwohl-clause."
+        },
+        {
+          "id": "a2-m3-l3-a12",
+          "type": "order",
+          "prompt": "Build: “I am staying at home because I am ill.”",
+          "tokens": [
+            "zu",
+            "Ich",
+            "Hause,",
+            "bleibe",
+            "weil",
+            "ich",
+            "krank",
+            "bin."
+          ],
+          "answer": "Ich bleibe zu Hause, weil ich krank bin.",
+          "explanation": "The weil-clause ends with the conjugated verb bin."
+        }
+      ]
+    }
+  ]
+}

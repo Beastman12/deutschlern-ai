@@ -1,0 +1,618 @@
+{
+  "id": "b2-m1-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "prompt": "Read these sentences aloud. Pause briefly at each comma, then keep the verb at the end of the first clause.",
+      "items": [
+        "Sobald die Ergebnisse vorliegen, informieren wir Sie.",
+        "Während die einen zustimmen, lehnen die anderen ab.",
+        "Indem man täglich übt, verbessert man seine Aussprache.",
+        "Anstatt zu warten, rufen wir lieber selbst an."
+      ],
+      "lede": "Two minutes of reading trains the rhythm of the German sentence bracket."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "Advanced subordination is not about longer sentences. It is about showing exactly how two ideas relate.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "At B2 you already control dass, weil and obwohl. Advanced connectors add precision: they tell the reader whether something happens at the same time, immediately afterwards, as a consequence or by a particular method. The word-order rule stays the same — the conjugated verb moves to the end of the subordinate clause."
+        },
+        {
+          "kind": "de",
+          "text": "Sobald die Ergebnisse vorliegen, informieren wir Sie.",
+          "en": "As soon as the results are available, we will inform you."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "In a subordinate clause, the conjugated verb is the final element.",
+            "When the subordinate clause comes first, it occupies position one, so the main clause starts with its verb: Sobald …, informieren wir …",
+            "während can mean “while” (time) or “whereas” (contrast). Context makes the meaning clear.",
+            "indem explains the method, sodass explains the consequence, and anstatt … zu explains what is not done."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Keep it readable",
+          "text": "One main clause plus one subordinate clause is usually enough. Stacking three or four subordinate clauses makes a sentence technically correct but hard to follow."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "These six connectors cover most of the relationships you need in reports, meetings and essays.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Connector", "Meaning", "Example", "English"],
+          "rows": [
+            ["während", "while / whereas", "Während sie telefonierte, machte er Notizen.", "While she was on the phone, he took notes."],
+            ["sobald", "as soon as", "Sobald er ankommt, beginnen wir.", "As soon as he arrives, we will begin."],
+            ["sodass", "so that / with the result that", "Es regnete stark, sodass das Spiel ausfiel.", "It rained heavily, so the match was cancelled."],
+            ["indem", "by (doing something)", "Man lernt eine Sprache, indem man sie täglich spricht.", "You learn a language by speaking it every day."],
+            ["nachdem", "after", "Nachdem sie gegessen hatte, ging sie.", "After she had eaten, she left."],
+            ["anstatt … zu", "instead of (doing something)", "Anstatt zu warten, rief er an.", "Instead of waiting, he called."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "All six connectors send the conjugated verb to the end of their clause.",
+            "nachdem refers to an earlier action, so it normally takes the Plusquamperfekt: Nachdem ich gegessen hatte, …",
+            "Use anstatt … zu when both clauses share the same subject. Use anstatt dass + verb-final when the subjects differ.",
+            "sodass expresses a result. For a purpose, use damit or um … zu: Ich lerne, damit ich die Prüfung bestehe."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "während vs. während",
+          "text": "As a temporal conjunction, während introduces two simultaneous actions. As a contrastive conjunction, it works like English “whereas”: Während die einen sparen wollen, fordern die anderen mehr Investitionen."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "Learn each connector as a signal word: the signal tells you what kind of clause follows.",
+      "items": [
+        {
+          "de": "während",
+          "en": "while / whereas",
+          "pronunciation": "ˈvɛːʁənt",
+          "example": "Während die einen zustimmen, lehnen die anderen ab.",
+          "exampleEn": "While some agree, others reject it."
+        },
+        {
+          "de": "sobald",
+          "en": "as soon as",
+          "pronunciation": "zoˈbalt",
+          "example": "Sobald die Ergebnisse vorliegen, melde ich mich.",
+          "exampleEn": "As soon as the results are available, I will get in touch."
+        },
+        {
+          "de": "sodass",
+          "en": "so that / with the result that",
+          "pronunciation": "zoˈdas",
+          "example": "Die Sitzung wurde verschoben, sodass wir mehr Zeit hatten.",
+          "exampleEn": "The meeting was postponed, so we had more time."
+        },
+        {
+          "de": "indem",
+          "en": "by (doing something)",
+          "pronunciation": "ɪnˈdeːm",
+          "example": "Indem wir Aufgaben teilen, sparen wir Zeit.",
+          "exampleEn": "By dividing tasks, we save time."
+        },
+        {
+          "de": "die Voraussetzung",
+          "en": "the prerequisite / condition",
+          "article": "die",
+          "plural": "die Voraussetzungen",
+          "pronunciation": "foˈʁaʊ̯sˌzɛtsʊŋ",
+          "example": "Eine gute Voraussetzung für das Projekt ist ein klarer Plan.",
+          "exampleEn": "A good prerequisite for the project is a clear plan."
+        },
+        {
+          "de": "berücksichtigen",
+          "en": "to take into account",
+          "pronunciation": "bəˈʁʏksɪçtɪɡn̩",
+          "example": "Bitte berücksichtigen Sie alle Rückmeldungen.",
+          "exampleEn": "Please take all feedback into account."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Read each sentence twice: first for meaning, then for the verb at the end of the first clause.",
+      "items": [
+        {
+          "de": "Sobald die Ergebnisse vorliegen, informieren wir Sie.",
+          "en": "As soon as the results are available, we will inform you.",
+          "note": "vorliegen is a separable verb; in the subordinate clause it stays together at the end."
+        },
+        {
+          "de": "Während die einen für die Reform stimmen, lehnen die anderen sie ab.",
+          "en": "While some vote for the reform, others reject it.",
+          "note": "Here während signals contrast, not simultaneous time."
+        },
+        {
+          "de": "Indem man früher anfängt, vermeidet man unnötigen Stress.",
+          "en": "By starting earlier, you avoid unnecessary stress.",
+          "note": "indem answers the question “how?”."
+        },
+        {
+          "de": "Die Sitzung wurde verschoben, sodass wir mehr Zeit für die Prüfung haben.",
+          "en": "The meeting was postponed, so we have more time for the exam.",
+          "note": "sodass introduces the result of the first clause."
+        },
+        {
+          "de": "Anstatt die Aufgabe aufzuschieben, erledigte sie die Aufgabe sofort.",
+          "en": "Instead of postponing the task, she completed it immediately.",
+          "note": "Both clauses share the subject sie, so anstatt … zu is correct."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 4,
+      "lede": "These connectors carry stress on a different syllable from their English equivalents.",
+      "items": [
+        {
+          "de": "während",
+          "hint": "Long open ä as in wäh, then a light -rend. The final d sounds like a soft t.",
+          "en": "while / whereas"
+        },
+        {
+          "de": "sobald",
+          "hint": "Stress the second syllable: zo-BALT. The initial s is voiced, like English z.",
+          "en": "as soon as"
+        },
+        {
+          "de": "sodass",
+          "hint": "Stress the second syllable: zo-DAS. Keep both s sounds sharp and short.",
+          "en": "so that"
+        },
+        {
+          "de": "indem",
+          "hint": "Stress the second syllable: in-DEEM. Close the final m without adding a vowel.",
+          "en": "by doing so"
+        },
+        {
+          "de": "berücksichtigen",
+          "hint": "Stress the second syllable. Round the lips for ü and keep the ch soft, as in ich.",
+          "en": "to take into account"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Why German loves the end position",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German formal writing often places the most important information at the end of a clause. This is why reports, news texts and academic prose contain so many subordinate clauses: the verb-final position creates a clear bracket around the information and lets the writer add detail before the conclusion."
+        },
+        {
+          "kind": "p",
+          "text": "In everyday speech, speakers often shorten these structures or split them into two sentences. A well-placed subordinate clause sounds educated and precise; four in a row sound bureaucratic. The skill at B2 is knowing when to stop."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lede": "A project team decides how to react to a delay.",
+      "setting": "A project meeting at a software company in Berlin",
+      "lines": [
+        { "speaker": "Projektleitung", "de": "Bevor wir beginnen: Sobald die Testphase abgeschlossen ist, brauchen wir eine klare Entscheidung.", "en": "Before we begin: as soon as the test phase is finished, we need a clear decision." },
+        { "speaker": "Entwicklerin", "de": "Indem wir die Tests automatisieren, sparen wir langfristig Zeit.", "en": "By automating the tests, we save time in the long term." },
+        { "speaker": "Projektleitung", "de": "Einverstanden. Während das Team die Tests vorbereitet, kümmern Sie sich bitte um den Zeitplan.", "en": "Agreed. While the team prepares the tests, please take care of the schedule." },
+        { "speaker": "Entwickler", "de": "Anstatt den Plan zu verschieben, könnten wir die ersten Module früher freigeben.", "en": "Instead of postponing the plan, we could release the first modules earlier." },
+        { "speaker": "Projektleitung", "de": "Gute Idee. Wir geben die Module früher frei, sodass wir bereits nächste Woche Feedback erhalten.", "en": "Good idea. We will release the modules earlier so that we receive feedback as early as next week." },
+        { "speaker": "Entwicklerin", "de": "Ich schicke Ihnen die Übersicht, sobald sie fertig ist.", "en": "I will send you the overview as soon as it is ready." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "heading": "The sentence bracket: verb-final, then verb-first",
+      "lede": "A fronted subordinate clause changes the word order of the main clause. This is the single most common B2 error.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Position", "Clause", "Verb position"],
+          "rows": [
+            ["Subordinate clause first", "Sobald die Ergebnisse vorliegen,", "verb-final: vorliegen"],
+            ["Main clause after it", "informieren wir Sie.", "verb-first: informieren"],
+            ["Main clause first", "Wir informieren Sie,", "verb-second: informieren"],
+            ["Subordinate clause second", "sobald die Ergebnisse vorliegen.", "verb-final: vorliegen"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The comma before the subordinate clause is obligatory in German.",
+            "If the subordinate clause is fronted, do not add a second subject in the main clause: Sobald … , informieren wir Sie — not Sobald …, wir informieren Sie.",
+            "With nachdem, use the Plusquamperfekt in the subordinate clause when the main clause is in the past: Nachdem er gegessen hatte, ging er.",
+            "With anstatt … zu, the infinitive goes to the end: Anstatt zu warten, …"
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Test yourself",
+          "text": "Cover the main clause and say it aloud. If the first word after the comma is not a verb, the sentence is probably wrong."
+        }
+      ],
+      "tip": "Think of the comma as a hinge: it closes the verb-final clause and opens a verb-first main clause."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Check the meaning and word order of the six connectors.",
+      "exercises": [
+        {
+          "id": "b2m1l1-p1",
+          "type": "mcq",
+          "prompt": "Which connector introduces a consequence?",
+          "options": ["während", "sobald", "sodass", "indem"],
+          "answer": 2,
+          "explanation": "sodass means “so that” or “with the result that” and introduces a consequence."
+        },
+        {
+          "id": "b2m1l1-p2",
+          "type": "mcq",
+          "prompt": "Which sentence has the correct word order?",
+          "options": [
+            "Sobald ich habe die Ergebnisse, melde ich mich.",
+            "Sobald ich die Ergebnisse habe, melde ich mich.",
+            "Sobald ich die Ergebnisse habe, ich melde mich.",
+            "Sobald habe ich die Ergebnisse, melde ich mich."
+          ],
+          "answer": 1,
+          "explanation": "The subordinate clause is verb-final (habe), and the main clause begins with its verb (melde)."
+        },
+        {
+          "id": "b2m1l1-p3",
+          "type": "mcq",
+          "prompt": "What does “Indem er jeden Tag übt, verbessert er sein Deutsch” mean?",
+          "options": [
+            "Although he practises every day, his German improves.",
+            "By practising every day, he improves his German.",
+            "As soon as he practises, his German improves.",
+            "Instead of practising, he improves his German."
+          ],
+          "answer": 1,
+          "explanation": "indem answers the question “how?” and introduces the method."
+        },
+        {
+          "id": "b2m1l1-p4",
+          "type": "mcq",
+          "prompt": "Which phrase correctly means “instead of waiting”?",
+          "options": ["Anstatt zu warten", "Anstatt warten", "Anstatt zu gewartet", "Anstatt das Warten zu"],
+          "answer": 0,
+          "explanation": "The pattern is anstatt + zu + infinitive: anstatt zu warten."
+        },
+        {
+          "id": "b2m1l1-p5",
+          "type": "mcq",
+          "prompt": "Which tense is normally used with nachdem for an earlier action?",
+          "options": ["Präsens", "Präteritum", "Plusquamperfekt", "Futur I"],
+          "answer": 2,
+          "explanation": "nachdem marks an action completed before another past action, so the Plusquamperfekt is standard: Nachdem sie gegessen hatte, …"
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing connector. Keep the capital letter at the start of a sentence.",
+      "exercises": [
+        {
+          "id": "b2m1l1-g1",
+          "type": "gap",
+          "prompt": "___ die Ergebnisse vorliegen, informieren wir Sie.",
+          "answers": ["Sobald"],
+          "explanation": "sobald = as soon as. It introduces a verb-final clause."
+        },
+        {
+          "id": "b2m1l1-g2",
+          "type": "gap",
+          "prompt": "Sie verbessert ihr Deutsch, ___ sie jeden Tag liest.",
+          "answers": ["indem"],
+          "explanation": "indem introduces the method: by reading every day."
+        },
+        {
+          "id": "b2m1l1-g3",
+          "type": "gap",
+          "prompt": "Der Zug hatte Verspätung, ___ wir den Termin verpassten.",
+          "answers": ["sodass"],
+          "explanation": "sodass introduces the result of the delay."
+        },
+        {
+          "id": "b2m1l1-g4",
+          "type": "gap",
+          "prompt": "___ ich die Prüfung bestanden hatte, begann ich eine Ausbildung.",
+          "answers": ["Nachdem"],
+          "explanation": "nachdem + Plusquamperfekt (bestanden hatte) describes the earlier action."
+        },
+        {
+          "id": "b2m1l1-g5",
+          "type": "gap",
+          "prompt": "___ stundenlang zu warten, rief sie beim Kundenservice an.",
+          "answers": ["Anstatt"],
+          "explanation": "Anstatt … zu + infinitive means “instead of doing something”."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Click the words in the correct order. Watch the verb at the end of the subordinate clause.",
+      "exercises": [
+        {
+          "id": "b2m1l1-o1",
+          "type": "order",
+          "prompt": "Build: “As soon as the results are available, we will inform you.”",
+          "tokens": ["informieren", "die", "Sobald", "wir", "Sie", "Ergebnisse", "vorliegen"],
+          "answer": "Sobald die Ergebnisse vorliegen, informieren wir Sie.",
+          "explanation": "Subordinate clause first (verb-final), then a verb-first main clause."
+        },
+        {
+          "id": "b2m1l1-o2",
+          "type": "order",
+          "prompt": "Build: “By practising regularly, you improve your pronunciation.”",
+          "tokens": ["verbessert", "Indem", "die", "man", "übt", "regelmäßig", "Aussprache", "man"],
+          "answer": "Indem man regelmäßig übt, verbessert man die Aussprache.",
+          "explanation": "indem + verb-final clause; the main clause starts with verbessert."
+        },
+        {
+          "id": "b2m1l1-o3",
+          "type": "order",
+          "prompt": "Build: “While some agree, the others reject the proposal.”",
+          "tokens": ["die", "Vorschlag", "Während", "lehnen", "einen", "den", "zustimmen", "anderen", "ab", "die"],
+          "answer": "Während die einen zustimmen, lehnen die anderen den Vorschlag ab.",
+          "explanation": "während introduces a contrast; the separable verb lehnen … ab stays at the end."
+        },
+        {
+          "id": "b2m1l1-o4",
+          "type": "order",
+          "prompt": "Build: “Instead of complaining, he looked for a solution.”",
+          "tokens": ["eine", "Anstatt", "er", "zu", "Lösung", "suchte", "klagen"],
+          "answer": "Anstatt zu klagen, suchte er eine Lösung.",
+          "explanation": "Anstatt zu klagen is a fronted infinitive phrase; the main clause begins with suchte."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice. Answer from what you hear, not from the transcript.",
+      "speaker": "Two colleagues in a project meeting",
+      "script": [
+        { "speaker": "Kollegin", "de": "Hast du die Ergebnisse der Umfrage schon gesehen?", "en": "Have you seen the survey results yet?" },
+        { "speaker": "Kollege", "de": "Ja, ich habe sie gestern ausgewertet. Sobald der Bericht fertig ist, schicke ich ihn dir.", "en": "Yes, I evaluated them yesterday. As soon as the report is finished, I will send it to you." },
+        { "speaker": "Kollegin", "de": "Danke. Während du daran arbeitest, bereite ich die Präsentation vor.", "en": "Thanks. While you work on it, I will prepare the presentation." },
+        { "speaker": "Kollege", "de": "Gut. Indem wir die Aufgaben teilen, schaffen wir es bis Freitag.", "en": "Good. By dividing the tasks, we will manage it by Friday." },
+        { "speaker": "Kollegin", "de": "Genau. Ich melde mich, sobald ich die Folien fertig habe.", "en": "Exactly. I will get in touch as soon as I have finished the slides." }
+      ],
+      "questions": [
+        {
+          "id": "b2m1l1-lq1",
+          "type": "mcq",
+          "prompt": "What will the woman do while the man works on the report?",
+          "options": ["Prepare the presentation", "Analyse the survey", "Write the report", "Call the client"],
+          "answer": 0,
+          "explanation": "She says: Während du daran arbeitest, bereite ich die Präsentation vor."
+        },
+        {
+          "id": "b2m1l1-lq2",
+          "type": "mcq",
+          "prompt": "How do they plan to finish by Friday?",
+          "options": ["By postponing the deadline", "By dividing the tasks", "By hiring a colleague", "By shortening the report"],
+          "answer": 1,
+          "explanation": "The man says: Indem wir die Aufgaben teilen, schaffen wir es bis Freitag."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Use the connectors to describe a real process. Speak for about one minute.",
+      "prompt": "Describe how you organise a busy week. Use sobald, indem and sodass at least once each.",
+      "model": {
+        "de": "Zunächst sammle ich alle Aufgaben. Sobald ich die wichtigsten Termine kenne, plane ich meine Woche. Indem ich große Aufgaben in kleinere Schritte teile, bleibt der Plan realistisch. Ich reserviere außerdem feste Pausen, sodass ich konzentriert bleibe.",
+        "en": "First I collect all my tasks. As soon as I know the most important appointments, I plan my week. By dividing large tasks into smaller steps, the plan stays realistic. I also schedule fixed breaks so that I stay focused."
+      },
+      "tips": [
+        "Say the subordinate clause first, then let the main clause begin with its verb.",
+        "Use one connector per relationship. Do not translate every “and” or “so” with sodass.",
+        "Record yourself and check that each verb-final clause really ends with the conjugated verb."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "These errors are typical at B2 because the meaning is clear even when the word order is wrong.",
+      "items": [
+        {
+          "wrong": "Sobald ich habe die Ergebnisse, melde ich mich.",
+          "right": "Sobald ich die Ergebnisse habe, melde ich mich.",
+          "why": "The conjugated verb habe must be the final word of the subordinate clause."
+        },
+        {
+          "wrong": "Indem man täglich übt, man lernt schneller.",
+          "right": "Indem man täglich übt, lernt man schneller.",
+          "why": "After a fronted subordinate clause, the main clause begins with its verb."
+        },
+        {
+          "wrong": "Anstatt dass sie wartete, sie rief an.",
+          "right": "Anstatt zu warten, rief sie an.",
+          "why": "With the same subject, use anstatt … zu + infinitive. The main clause then starts with its verb."
+        },
+        {
+          "wrong": "Nachdem ich gefrühstückt habe, ging ich los.",
+          "right": "Nachdem ich gefrühstückt hatte, ging ich los.",
+          "why": "nachdem marks an earlier action, so the subordinate clause takes the Plusquamperfekt."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions. Score 70% or more to unlock the next lesson. You can retake this check as often as you need.",
+      "questions": [
+        {
+          "id": "b2m1l1-a1",
+          "type": "mcq",
+          "prompt": "Which connector means “as soon as”?",
+          "options": ["während", "sobald", "sodass", "indem"],
+          "answer": 1,
+          "explanation": "sobald = as soon as: Sobald er ankommt, beginnen wir."
+        },
+        {
+          "id": "b2m1l1-a2",
+          "type": "mcq",
+          "prompt": "Which sentence is grammatically correct?",
+          "options": [
+            "Während sie telefonierte, er machte Notizen.",
+            "Während sie telefonierte, machte er Notizen.",
+            "Während sie telefonierte, machte er Notizen tat.",
+            "Während telefonierte sie, machte er Notizen."
+          ],
+          "answer": 1,
+          "explanation": "The subordinate clause is verb-final, and the main clause starts with machte."
+        },
+        {
+          "id": "b2m1l1-a3",
+          "type": "mcq",
+          "prompt": "Which connector expresses the method by which something is done?",
+          "options": ["sobald", "sodass", "indem", "nachdem"],
+          "answer": 2,
+          "explanation": "indem answers “how?”: Man lernt, indem man übt."
+        },
+        {
+          "id": "b2m1l1-a4",
+          "type": "mcq",
+          "prompt": "Which sentence expresses a purpose rather than a result?",
+          "options": [
+            "Es regnete, sodass das Spiel ausfiel.",
+            "Ich lerne jeden Tag, damit ich die Prüfung bestehe.",
+            "Der Kurs war voll, sodass wir warten mussten.",
+            "Sie war müde, sodass sie früh ins Bett ging."
+          ],
+          "answer": 1,
+          "explanation": "damit introduces a purpose. sodass introduces a consequence or result."
+        },
+        {
+          "id": "b2m1l1-a5",
+          "type": "mcq",
+          "prompt": "Which form is correct for “instead of waiting”?",
+          "options": ["Anstatt zu warten", "Anstatt warten zu", "Anstatt gewartet", "Anstatt zu gewartet"],
+          "answer": 0,
+          "explanation": "The construction is anstatt + zu + infinitive: anstatt zu warten."
+        },
+        {
+          "id": "b2m1l1-a6",
+          "type": "gap",
+          "prompt": "___ die Testphase endet, starten wir den Verkauf.",
+          "answers": ["Sobald"],
+          "explanation": "sobald = as soon as, with the verb endet at the end of the clause."
+        },
+        {
+          "id": "b2m1l1-a7",
+          "type": "gap",
+          "prompt": "Wir sparen Zeit, ___ wir die Aufgaben teilen.",
+          "answers": ["indem"],
+          "explanation": "indem introduces the method: by dividing the tasks."
+        },
+        {
+          "id": "b2m1l1-a8",
+          "type": "gap",
+          "prompt": "___ sie die Prüfung bestanden hatte, begann sie eine Ausbildung.",
+          "answers": ["Nachdem"],
+          "explanation": "nachdem + Plusquamperfekt describes the earlier action."
+        },
+        {
+          "id": "b2m1l1-a9",
+          "type": "gap",
+          "prompt": "Der Termin wurde verschoben, ___ wir mehr Zeit hatten.",
+          "answers": ["sodass"],
+          "explanation": "sodass introduces the result of the postponement."
+        },
+        {
+          "id": "b2m1l1-a10",
+          "type": "order",
+          "prompt": "Build: “As soon as the test phase ends, we will start the sale.”",
+          "tokens": ["die", "starten", "Sobald", "wir", "Verkauf", "Testphase", "den", "endet"],
+          "answer": "Sobald die Testphase endet, starten wir den Verkauf.",
+          "explanation": "Verb-final endet, then verb-first starten."
+        },
+        {
+          "id": "b2m1l1-a11",
+          "type": "order",
+          "prompt": "Build: “By dividing tasks, we save time.”",
+          "tokens": ["wir", "Indem", "Zeit", "Aufgaben", "sparen", "teilen", "wir"],
+          "answer": "Indem wir Aufgaben teilen, sparen wir Zeit.",
+          "explanation": "indem + verb-final teilen; the main clause starts with sparen."
+        },
+        {
+          "id": "b2m1l1-a12",
+          "type": "mcq",
+          "prompt": "Which tense completes the sentence correctly? “Nachdem er die E-Mail ___, rief er an.”",
+          "options": ["schreibt", "geschrieben hat", "geschrieben hatte", "schreiben wird"],
+          "answer": 2,
+          "explanation": "nachdem requires the Plusquamperfekt for the earlier action: geschrieben hatte."
+        }
+      ]
+    }
+  ]
+}

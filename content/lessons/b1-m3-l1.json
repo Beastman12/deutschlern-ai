@@ -1,0 +1,666 @@
+{
+  "id": "b1-m3-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "b1-m3-l1-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "b1-m3-l1",
+      "prompt": "Write the first and last line of a formal email, then the same for a message to a friend.",
+      "items": [
+        "Sehr geehrte Damen und Herren,",
+        "Sehr geehrte Damen und Herren,",
+        "Mit freundlichen Grüßen",
+        "entschuldigen Sie"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "b1-m3-l1-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "b1-m3-l1",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "b1-m3-l1-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "b1-m3-l1",
+      "lede": "German has two parallel systems of address: du for people close to you and Sie for almost everyone else.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Use du with friends, family, children, students and most colleagues in informal teams. Use Sie with strangers, officials, customers, doctors and anyone where distance and respect matter. The pronoun Sie is always capitalised in letters and emails."
+        },
+        {
+          "kind": "p",
+          "text": "Register is more than a pronoun. Formal German uses full forms, titles and formulas such as “Sehr geehrte Damen und Herren” and “Mit freundlichen Grüßen”. Informal German uses first names, contractions and “Liebe Grüße” or “Viele Grüße”."
+        },
+        {
+          "kind": "note",
+          "title": "When in doubt, choose Sie",
+          "text": "A switch from Sie to du is usually offered by the older or more senior person. If nobody offers it, stay with Sie — it is never rude, while premature du can be."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l1-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "b1-m3-l1",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "du + first name",
+              "Hallo Jonas, wie geht es dir?"
+            ],
+            [
+              "Sie + surname",
+              "Guten Tag Frau Weber, wie geht es Ihnen?"
+            ],
+            [
+              "formal closing",
+              "Mit freundlichen Grüßen, Anna Klein"
+            ],
+            [
+              "informal closing",
+              "Liebe Grüße, Anna"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The verb with Sie takes the same form as the plural: Sie kommen, Sie haben.",
+            "The possessive for Sie is Ihr/Ihre: Ist das Ihr Mantel?",
+            "Use “entschuldigen Sie” in formal apologies and “sorry” or “entschuldige” in informal ones."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l1-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "b1-m3-l1",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "Sehr geehrte Damen und Herren,",
+          "en": "Dear Sir or Madam,",
+          "example": "Sehr geehrte Damen und Herren, ich interessiere mich für Ihre Anzeige.",
+          "exampleEn": "Dear Sir or Madam, I am interested in your advertisement."
+        },
+        {
+          "de": "Mit freundlichen Grüßen",
+          "en": "Kind regards",
+          "example": "Mit freundlichen Grüßen, Anna Klein",
+          "exampleEn": "Kind regards, Anna Klein"
+        },
+        {
+          "de": "entschuldigen Sie",
+          "en": "excuse me / I apologise (formal)",
+          "example": "Entschuldigen Sie die Verspätung.",
+          "exampleEn": "I apologise for the delay."
+        },
+        {
+          "de": "Liebe Grüße",
+          "en": "best wishes (informal)",
+          "example": "Liebe Grüße aus Hamburg, deine Mia",
+          "exampleEn": "Best wishes from Hamburg, your Mia"
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l1-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "b1-m3-l1",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Könnten Sie mir bitte weitere Informationen schicken?",
+          "en": "Could you please send me further information?",
+          "note": "Könnten plus Sie is a polite formal request."
+        },
+        {
+          "de": "Hast du am Freitag Zeit?",
+          "en": "Do you have time on Friday?",
+          "note": "Du with a first name signals an informal relationship."
+        },
+        {
+          "de": "Ich würde mich über eine Antwort freuen.",
+          "en": "I would be glad to receive a reply.",
+          "note": "A standard formal closing sentence."
+        },
+        {
+          "de": "Melde dich, wenn du angekommen bist.",
+          "en": "Let me know when you have arrived.",
+          "note": "A natural informal request."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l1-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "b1-m3-l1",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "Sehr geehrte",
+          "hint": "Stress the first syllable: ZEHR ge-EHR-te."
+        },
+        {
+          "de": "entschuldigen",
+          "hint": "The sch is one sound: ent-SHUL-di-gen."
+        },
+        {
+          "de": "Grüßen",
+          "hint": "The ü is rounded and long; the ß is a sharp s."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l1-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "b1-m3-l1",
+      "heading": "Du and Sie in everyday Germany",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German workplaces vary. Start-ups often use du from day one, while banks, authorities and older companies may keep Sie for years. Listen to how others address you and mirror it."
+        },
+        {
+          "kind": "p",
+          "text": "In shops and cafés, Sie is the safe default, but many young staff now use du. A polite “Entschuldigung” works in both registers and avoids the choice entirely."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l1-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "b1-m3-l1",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A new employee writes to a senior colleague for the first time.",
+      "lines": [
+        {
+          "speaker": "E-Mail",
+          "de": "Sehr geehrte Frau Berger, ich beginne am Montag in Ihrem Team.",
+          "en": "Dear Ms Berger, I am starting in your team on Monday."
+        },
+        {
+          "speaker": "E-Mail",
+          "de": "Könnten Sie mir bitte sagen, wo die erste Besprechung stattfindet?",
+          "en": "Could you please tell me where the first meeting takes place?"
+        },
+        {
+          "speaker": "Antwort",
+          "de": "Guten Tag Herr Yildiz, willkommen im Team. Die Besprechung ist um neun Uhr im Raum 2.14.",
+          "en": "Hello Mr Yildiz, welcome to the team. The meeting is at nine in room 2.14."
+        },
+        {
+          "speaker": "Antwort",
+          "de": "Mit freundlichen Grüßen, Sabine Berger",
+          "en": "Kind regards, Sabine Berger"
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l1-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "b1-m3-l1",
+      "heading": "Register at a glance",
+      "lede": "The pronoun determines the verb form, the possessive and the whole tone of the message.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "du / ihr",
+              "informal: Wie geht es dir? Wie geht es euch?"
+            ],
+            [
+              "Sie",
+              "formal: Wie geht es Ihnen?"
+            ],
+            [
+              "dein / deine",
+              "informal possessive: Ist das dein Schlüssel?"
+            ],
+            [
+              "Ihr / Ihre",
+              "formal possessive: Ist das Ihr Schlüssel?"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "In formal letters, place the comma after the salutation and start the next line with a lower-case word: Sehr geehrte Frau Berger, ich schreibe Ihnen …"
+        }
+      ],
+      "tip": "Learn the pair “Wie geht es dir?” and “Wie geht es Ihnen?” together. The pronoun changes, but the rest of the phrase stays the same."
+    },
+    {
+      "id": "b1-m3-l1-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "b1-m3-l1",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "b1-m3-l1-p-m1",
+          "type": "mcq",
+          "prompt": "You are writing to a doctor you have never met. Which greeting is appropriate?",
+          "options": [
+            "Hallo Doktor,",
+            "Sehr geehrte Frau Doktor Weber,",
+            "Liebe Frau Weber,",
+            "Hi Weber,"
+          ],
+          "answer": 1,
+          "explanation": "Formal letters use Sehr geehrte/r plus title and surname."
+        },
+        {
+          "id": "b1-m3-l1-p-m2",
+          "type": "mcq",
+          "prompt": "Wie geht es ___?",
+          "options": [
+            "dir",
+            "Ihnen",
+            "euch",
+            "dich"
+          ],
+          "answer": 1,
+          "explanation": "The formal dative pronoun after Sie is Ihnen."
+        },
+        {
+          "id": "b1-m3-l1-p-m3",
+          "type": "mcq",
+          "prompt": "Which closing fits a formal email?",
+          "options": [
+            "Liebe Grüße",
+            "Bis später",
+            "Mit freundlichen Grüßen",
+            "Ciao"
+          ],
+          "answer": 2,
+          "explanation": "Mit freundlichen Grüßen is the standard formal closing."
+        },
+        {
+          "id": "b1-m3-l1-p-m4",
+          "type": "mcq",
+          "prompt": "Which sentence addresses a colleague formally?",
+          "options": [
+            "Kannst du mir helfen?",
+            "Können Sie mir bitte helfen?",
+            "Hilf mir mal.",
+            "Kannste helfen?"
+          ],
+          "answer": 1,
+          "explanation": "Können Sie plus bitte is formal and polite."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l1-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "b1-m3-l1",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "b1-m3-l1-p-g1",
+          "type": "gap",
+          "prompt": "Guten Tag Frau Weber, wie geht es ___?",
+          "answers": [
+            "Ihnen"
+          ],
+          "explanation": "The formal dative pronoun is Ihnen."
+        },
+        {
+          "id": "b1-m3-l1-p-g2",
+          "type": "gap",
+          "prompt": "Sehr ___ Damen und Herren,",
+          "answers": [
+            "geehrte"
+          ],
+          "explanation": "The fixed formal salutation is Sehr geehrte Damen und Herren."
+        },
+        {
+          "id": "b1-m3-l1-p-g3",
+          "type": "gap",
+          "prompt": "Mit freundlichen ___",
+          "answers": [
+            "Grüßen"
+          ],
+          "explanation": "The formal closing ends with Grüßen."
+        },
+        {
+          "id": "b1-m3-l1-p-g4",
+          "type": "gap",
+          "prompt": "Hallo Jonas, wie geht es ___?",
+          "answers": [
+            "dir"
+          ],
+          "explanation": "The informal dative pronoun is dir."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l1-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "b1-m3-l1",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "b1-m3-l1-p-o1",
+          "type": "order",
+          "prompt": "Build: “Could you send me the information?”",
+          "tokens": [
+            "mir",
+            "Könnten",
+            "die",
+            "Sie",
+            "Informationen",
+            "schicken?"
+          ],
+          "answer": "Könnten Sie mir die Informationen schicken?",
+          "explanation": "The modal starts the question and the infinitive goes to the end."
+        },
+        {
+          "id": "b1-m3-l1-p-o2",
+          "type": "order",
+          "prompt": "Build: “I would be glad to receive a reply.”",
+          "tokens": [
+            "mich",
+            "Ich",
+            "über",
+            "würde",
+            "eine",
+            "Antwort",
+            "freuen."
+          ],
+          "answer": "Ich würde mich über eine Antwort freuen.",
+          "explanation": "Würde plus infinitive is a polite formal formula."
+        },
+        {
+          "id": "b1-m3-l1-p-o3",
+          "type": "order",
+          "prompt": "Build: “Do you have time on Friday?” (informal)",
+          "tokens": [
+            "am",
+            "Hast",
+            "Freitag",
+            "du",
+            "Zeit?"
+          ],
+          "answer": "Hast du am Freitag Zeit?",
+          "explanation": "The informal yes/no question starts with the verb."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l1-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "b1-m3-l1",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Eine Nachricht auf dem Anrufbeantworter",
+      "script": [
+        {
+          "speaker": "Anruferin",
+          "de": "Guten Tag, hier spricht Petra Lang von der Firma Meyer.",
+          "en": "Hello, this is Petra Lang from Meyer company."
+        },
+        {
+          "speaker": "Anruferin",
+          "de": "Entschuldigen Sie die Störung. Ich möchte einen Termin verschieben.",
+          "en": "I apologise for the interruption. I would like to move an appointment."
+        },
+        {
+          "speaker": "Anruferin",
+          "de": "Könnten Sie mich bitte zurückrufen? Meine Nummer ist 0176 44 22 11.",
+          "en": "Could you please call me back? My number is 0176 44 22 11."
+        },
+        {
+          "speaker": "Anruferin",
+          "de": "Vielen Dank. Auf Wiederhören.",
+          "en": "Thank you very much. Goodbye."
+        }
+      ],
+      "questions": [
+        {
+          "id": "b1-m3-l1-l1",
+          "type": "mcq",
+          "prompt": "Why is Petra Lang calling?",
+          "options": [
+            "To cancel a contract",
+            "To move an appointment",
+            "To apply for a job",
+            "To complain about a bill"
+          ],
+          "answer": 1,
+          "explanation": "She says “Ich möchte einen Termin verschieben.”"
+        },
+        {
+          "id": "b1-m3-l1-l2",
+          "type": "mcq",
+          "prompt": "What does she ask the listener to do?",
+          "options": [
+            "Send an email",
+            "Call her back",
+            "Come to the office",
+            "Pay an invoice"
+          ],
+          "answer": 1,
+          "explanation": "She asks “Könnten Sie mich bitte zurückrufen?”"
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l1-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "b1-m3-l1",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Introduce yourself formally on the phone, state your request and close politely.",
+      "model": {
+        "de": "Guten Tag, mein Name ist Ali Yildiz. Ich rufe wegen meines Termins an. Könnten Sie mir bitte einen neuen Termin geben? Vielen Dank. Auf Wiederhören.",
+        "en": "Hello, my name is Ali Yildiz. I am calling about my appointment. Could you please give me a new appointment? Thank you. Goodbye."
+      },
+      "tips": [
+        "Use Sie and your full name in formal calls.",
+        "State the reason with “Ich rufe wegen … an”.",
+        "Close with “Vielen Dank. Auf Wiederhören.”"
+      ]
+    },
+    {
+      "id": "b1-m3-l1-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "b1-m3-l1",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Sehr geehrte Damen und Herren, hallo zusammen.",
+          "right": "Sehr geehrte Damen und Herren,",
+          "why": "Do not mix formal and informal greetings in the same message."
+        },
+        {
+          "wrong": "Wie geht es Sie?",
+          "right": "Wie geht es Ihnen?",
+          "why": "The phrase requires the dative pronoun Ihnen."
+        },
+        {
+          "wrong": "Können Sie mir helfen, Anna?",
+          "right": "Können Sie mir helfen, Frau Klein?",
+          "why": "Formal address uses the surname, not the first name."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l1-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "b1-m3-l1",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "b1-m3-l1-a1",
+          "type": "mcq",
+          "prompt": "You are writing to a doctor you have never met. Which greeting is appropriate?",
+          "options": [
+            "Hallo Doktor,",
+            "Sehr geehrte Frau Doktor Weber,",
+            "Liebe Frau Weber,",
+            "Hi Weber,"
+          ],
+          "answer": 1,
+          "explanation": "Formal letters use Sehr geehrte/r plus title and surname."
+        },
+        {
+          "id": "b1-m3-l1-a2",
+          "type": "mcq",
+          "prompt": "Wie geht es ___?",
+          "options": [
+            "dir",
+            "Ihnen",
+            "euch",
+            "dich"
+          ],
+          "answer": 1,
+          "explanation": "The formal dative pronoun after Sie is Ihnen."
+        },
+        {
+          "id": "b1-m3-l1-a3",
+          "type": "mcq",
+          "prompt": "Which closing fits a formal email?",
+          "options": [
+            "Liebe Grüße",
+            "Bis später",
+            "Mit freundlichen Grüßen",
+            "Ciao"
+          ],
+          "answer": 2,
+          "explanation": "Mit freundlichen Grüßen is the standard formal closing."
+        },
+        {
+          "id": "b1-m3-l1-a4",
+          "type": "mcq",
+          "prompt": "Which sentence addresses a colleague formally?",
+          "options": [
+            "Kannst du mir helfen?",
+            "Können Sie mir bitte helfen?",
+            "Hilf mir mal.",
+            "Kannste helfen?"
+          ],
+          "answer": 1,
+          "explanation": "Können Sie plus bitte is formal and polite."
+        },
+        {
+          "id": "b1-m3-l1-a5",
+          "type": "gap",
+          "prompt": "Guten Tag Frau Weber, wie geht es ___?",
+          "answers": [
+            "Ihnen"
+          ],
+          "explanation": "The formal dative pronoun is Ihnen."
+        },
+        {
+          "id": "b1-m3-l1-a6",
+          "type": "gap",
+          "prompt": "Sehr ___ Damen und Herren,",
+          "answers": [
+            "geehrte"
+          ],
+          "explanation": "The fixed formal salutation is Sehr geehrte Damen und Herren."
+        },
+        {
+          "id": "b1-m3-l1-a7",
+          "type": "gap",
+          "prompt": "Mit freundlichen ___",
+          "answers": [
+            "Grüßen"
+          ],
+          "explanation": "The formal closing ends with Grüßen."
+        },
+        {
+          "id": "b1-m3-l1-a8",
+          "type": "gap",
+          "prompt": "Hallo Jonas, wie geht es ___?",
+          "answers": [
+            "dir"
+          ],
+          "explanation": "The informal dative pronoun is dir."
+        },
+        {
+          "id": "b1-m3-l1-a9",
+          "type": "order",
+          "prompt": "Build: “Could you send me the information?”",
+          "tokens": [
+            "mir",
+            "Könnten",
+            "die",
+            "Sie",
+            "Informationen",
+            "schicken?"
+          ],
+          "answer": "Könnten Sie mir die Informationen schicken?",
+          "explanation": "The modal starts the question and the infinitive goes to the end."
+        },
+        {
+          "id": "b1-m3-l1-a10",
+          "type": "order",
+          "prompt": "Build: “I would be glad to receive a reply.”",
+          "tokens": [
+            "mich",
+            "Ich",
+            "über",
+            "würde",
+            "eine",
+            "Antwort",
+            "freuen."
+          ],
+          "answer": "Ich würde mich über eine Antwort freuen.",
+          "explanation": "Würde plus infinitive is a polite formal formula."
+        }
+      ]
+    }
+  ]
+}

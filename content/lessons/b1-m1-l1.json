@@ -1,0 +1,617 @@
+{
+  "id": "b1-m1-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Say these requests aloud. Listen for how the verb softens the tone.",
+      "prompt": "Read each line twice: once flatly, once with a friendly, rising melody. Which version sounds more like a real request?",
+      "items": [
+        "Könnten Sie mir bitte helfen?",
+        "Ich hätte eine Frage.",
+        "Wäre es möglich, den Termin zu verschieben?",
+        "Ich würde gern einen Tisch reservieren."
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "German has a special verb form for requests that should not sound like commands.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "The Konjunktiv II is the “would” form of German. It moves a request away from reality: instead of stating what you want, you describe what would be possible or desirable. That small distance is what makes a sentence polite. English does something similar with could, would and the past form had: Could you help me? I would like a coffee. I had a question."
+        },
+        {
+          "kind": "de",
+          "text": "Könnten Sie mir bitte helfen?",
+          "en": "Could you help me, please?"
+        },
+        {
+          "kind": "p",
+          "text": "Four forms cover most everyday situations: könnte (could), würde (would), hätte (had / would have) and wäre (were / would be). With würde you add a second verb in the infinitive at the end. The other three are used on their own."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "könnte softens a question about ability or possibility: Könnten Sie das wiederholen?",
+            "würde introduces a wish or intention: Ich würde gern einen Termin vereinbaren.",
+            "hätte makes a request for something concrete: Ich hätte gern die Speisekarte.",
+            "wäre asks about a possibility or describes an ideal: Wäre es möglich, später zu kommen?"
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Politeness is not uncertainty",
+          "text": "A Konjunktiv II request is not weaker in meaning. “Könnten Sie …?” still expects an answer. It simply gives the other person room to say no, which is why it is standard in offices, shops and emails."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "Learn the short forms as whole words; then the word order becomes easy.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Infinitive", "Present (ich)", "Konjunktiv II (ich)", "Typical polite use"],
+          "rows": [
+            ["können", "kann", "könnte", "Könnte ich kurz stören?"],
+            ["haben", "habe", "hätte", "Ich hätte eine Bitte."],
+            ["sein", "bin", "wäre", "Das wäre sehr nett."],
+            ["werden", "werde", "würde", "Ich würde gern mitkommen."],
+            ["müssen", "muss", "müsste", "Ich müsste Sie kurz sprechen."],
+            ["dürfen", "darf", "dürfte", "Dürfte ich hier warten?"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "For most verbs, use würde + infinitive at the end: Ich würde gern bezahlen. Not “ich würde bezahle”.",
+            "Do not build würde forms of haben, sein or the modal verbs. Say ich hätte, ich wäre, ich könnte — never “ich würde haben”.",
+            "The polite word bitte fits after the pronoun: Könnten Sie mir bitte helfen?",
+            "gern softens a wish further: Ich würde gern einen Termin vereinbaren.",
+            "In a subordinate clause the conjugated form goes to the end: Ich frage, ob Sie mir helfen könnten."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Memory hook",
+          "text": "The umlaut does the polite work: kann → könnte, habe → hätte, bin → wäre, werde → würde. If you can see an umlaut, you are probably in Konjunktiv II."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These words appear again in the dialogue and the listening task.",
+      "items": [
+        {
+          "de": "die Bitte",
+          "en": "the request",
+          "article": "die",
+          "plural": "die Bitten",
+          "pronunciation": "ˈbɪtə",
+          "example": "Ich habe eine Bitte: Könnten Sie mir kurz helfen?",
+          "exampleEn": "I have a request: could you help me for a moment?"
+        },
+        {
+          "de": "höflich",
+          "en": "polite",
+          "pronunciation": "ˈhøːflɪç",
+          "example": "Eine höfliche Bitte beginnt oft mit „Könnten Sie …?“",
+          "exampleEn": "A polite request often begins with “Could you …?”"
+        },
+        {
+          "de": "der Termin",
+          "en": "the appointment",
+          "article": "der",
+          "plural": "die Termine",
+          "pronunciation": "tɛʁˈmiːn",
+          "example": "Ich würde gern einen Termin vereinbaren.",
+          "exampleEn": "I would like to arrange an appointment."
+        },
+        {
+          "de": "sich erkundigen",
+          "en": "to enquire",
+          "pronunciation": "zɪç ɛɐ̯ˈkʊndɪɡn̩",
+          "example": "Sie erkundigt sich nach den Öffnungszeiten.",
+          "exampleEn": "She is enquiring about the opening hours."
+        },
+        {
+          "de": "die Auskunft",
+          "en": "the information",
+          "article": "die",
+          "plural": "die Auskünfte",
+          "pronunciation": "ˈaʊ̯skʊnft",
+          "example": "Könnten Sie mir eine Auskunft geben?",
+          "exampleEn": "Could you give me some information?"
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Read each sentence aloud. The polite form is in bold in your mind, not in the text — find it first.",
+      "items": [
+        {
+          "de": "Könnten Sie das bitte wiederholen?",
+          "en": "Could you repeat that, please?",
+          "note": "könnte + Sie; the infinitive wiederholen stands at the end."
+        },
+        {
+          "de": "Ich hätte eine Frage zu meiner Rechnung.",
+          "en": "I have a question about my invoice.",
+          "note": "hätte makes the statement less abrupt than Ich habe eine Frage."
+        },
+        {
+          "de": "Wäre es möglich, den Termin zu verschieben?",
+          "en": "Would it be possible to postpone the appointment?",
+          "note": "wäre + es; the zu-infinitive comes after the comma."
+        },
+        {
+          "de": "Ich würde gern ein Zimmer für zwei Nächte reservieren.",
+          "en": "I would like to book a room for two nights.",
+          "note": "würde gern + infinitive at the end."
+        },
+        {
+          "de": "Dürfte ich Sie kurz stören?",
+          "en": "May I disturb you for a moment?",
+          "note": "dürfte asks for permission in a very considerate way."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 4,
+      "lede": "The umlauts carry the polite form, so they deserve extra practice.",
+      "items": [
+        {
+          "de": "könnte",
+          "hint": "Round your lips for “o”, then say “e” without moving them. The final -e is a soft schwa, not “ee”.",
+          "en": "could"
+        },
+        {
+          "de": "hätte",
+          "hint": "A short, open ä as in “bed”. The double t cuts the vowel short: HET-tuh.",
+          "en": "had / would have"
+        },
+        {
+          "de": "würde",
+          "hint": "Round the lips for ü, and pronounce w like English v: VUR-duh.",
+          "en": "would"
+        },
+        {
+          "de": "möchten",
+          "hint": "Short ö, then a soft ch. Keep the tongue high and let air pass: MÖCH-ten.",
+          "en": "would like"
+        },
+        {
+          "de": "Termin",
+          "hint": "Stress the second syllable and keep the final -n light: ter-MEEN.",
+          "en": "appointment"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Why German requests sound so indirect",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In German-speaking countries, the polite Sie is the safe choice with strangers, officials and service staff. A request built with könnten, würden or hätte fits that relationship: it signals respect without sounding stiff. Among friends and colleagues who use du, the same forms still work, often with a relaxed melody."
+        },
+        {
+          "kind": "p",
+          "text": "Service situations show the pattern clearly. In a restaurant you will hear “Ich hätte gern …” rather than “Ich will …”; on the phone “Könnten Sie mich bitte zurückrufen?” is standard. The direct imperative exists too, but it belongs to instructions, signs and emergencies, not to a favour."
+        },
+        {
+          "kind": "note",
+          "title": "Regional greeting",
+          "text": "When you approach someone in Austria or southern Germany, “Grüß Gott” is a common polite greeting; in Switzerland “Grüezi” is usual. The Konjunktiv II request that follows is the same everywhere."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lede": "A patient needs to move an appointment and does it without sounding demanding.",
+      "setting": "On the phone with a doctor's practice",
+      "lines": [
+        { "speaker": "Praxis", "de": "Praxis Dr. Neumann, guten Morgen. Was kann ich für Sie tun?", "en": "Dr Neumann's practice, good morning. What can I do for you?" },
+        { "speaker": "Patient", "de": "Guten Morgen. Ich hätte eine Frage: Ich habe am Donnerstag einen Termin, aber ich muss leider verreisen. Könnte ich den Termin verschieben?", "en": "Good morning. I have a question: I have an appointment on Thursday, but unfortunately I have to travel. Could I postpone it?" },
+        { "speaker": "Praxis", "de": "Natürlich. Wäre Ihnen Montag um zehn Uhr recht?", "en": "Of course. Would Monday at ten suit you?" },
+        { "speaker": "Patient", "de": "Montag passt mir leider nicht. Würde es auch am Dienstagnachmittag gehen?", "en": "Monday does not suit me, unfortunately. Would Tuesday afternoon work as well?" },
+        { "speaker": "Praxis", "de": "Dienstag um halb vier hätte ich noch einen Platz frei.", "en": "On Tuesday at half past three I would still have a slot free." },
+        { "speaker": "Patient", "de": "Das wäre ideal. Vielen Dank.", "en": "That would be ideal. Thank you very much." },
+        { "speaker": "Praxis", "de": "Gern. Soll ich Ihnen eine Bestätigung per E-Mail schicken?", "en": "You're welcome. Shall I send you a confirmation by email?" },
+        { "speaker": "Patient", "de": "Ja, bitte. Das wäre sehr freundlich.", "en": "Yes, please. That would be very kind." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Building a polite request",
+      "lede": "Three patterns cover almost every request you will need at B1.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Pattern", "Example", "English"],
+          "rows": [
+            ["Könnten Sie + infinitive …?", "Könnten Sie mir das Formular schicken?", "Could you send me the form?"],
+            ["Ich würde gern + infinitive …", "Ich würde gern einen Termin machen.", "I would like to make an appointment."],
+            ["Ich hätte gern + accusative …", "Ich hätte gern einen Kaffee.", "I would like a coffee."],
+            ["Wäre es möglich, … zu …?", "Wäre es möglich, später zu kommen?", "Would it be possible to come later?"],
+            ["Dürfte ich + infinitive …?", "Dürfte ich hier Platz nehmen?", "May I sit here?"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "After a modal verb or würde, the second verb is a bare infinitive at the end — no zu.",
+            "hätte gern takes the accusative: einen Tee, eine Cola, ein Wasser.",
+            "The question Wäre es möglich, …? needs a zu-infinitive: Wäre es möglich, das zu ändern?",
+            "To refuse politely, use leider and a short reason: Das geht leider nicht, weil ich um zwei einen Termin habe."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Sound native, not over-formal",
+          "text": "One polite marker is enough. “Könnten Sie mir bitte freundlicherweise helfen?” piles on too much. Choose könnten or bitte, not both plus freundlicherweise."
+        }
+      ],
+      "tip": "If you can replace the request with a command and it still means the same thing, add a Konjunktiv II form or bitte — usually both is too much."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Check the form, the word order and the tone.",
+      "exercises": [
+        {
+          "id": "b1m1l1-p1",
+          "type": "mcq",
+          "prompt": "Which is the Konjunktiv II form of “können” with “Sie”?",
+          "options": ["können", "könnten", "konnte", "gekonnt"],
+          "answer": 1,
+          "explanation": "können → könnte; with Sie the ending is -en, so Könnten Sie …?"
+        },
+        {
+          "id": "b1m1l1-p2",
+          "type": "mcq",
+          "prompt": "Which request sounds most polite?",
+          "options": ["Helfen Sie mir!", "Können Sie mir helfen?", "Könnten Sie mir bitte helfen?", "Du hilfst mir jetzt."],
+          "answer": 2,
+          "explanation": "Könnten plus bitte is the considerate standard. The imperative and the direct statement sound demanding."
+        },
+        {
+          "id": "b1m1l1-p3",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": ["Ich würde gern einen Kaffee trinken.", "Ich würde gern einen Kaffee zu trinken.", "Ich würde gern trinke einen Kaffee.", "Ich würde gern einen Kaffee getrunken."],
+          "answer": 0,
+          "explanation": "würde + bare infinitive at the end: … einen Kaffee trinken. No zu, no conjugated second verb."
+        },
+        {
+          "id": "b1m1l1-p4",
+          "type": "mcq",
+          "prompt": "Complete: “___ es möglich, den Termin zu verschieben?”",
+          "options": ["Ist", "Wäre", "Wird", "War"],
+          "answer": 1,
+          "explanation": "Wäre es möglich …? is the polite hypothetical question. The other forms ask about facts, not possibilities."
+        },
+        {
+          "id": "b1m1l1-p5",
+          "type": "mcq",
+          "prompt": "What does “Ich hätte eine Frage” express?",
+          "options": ["A finished event in the past", "A polite request for attention", "A command", "A refusal"],
+          "answer": 1,
+          "explanation": "hätte is Konjunktiv II here. The sentence politely announces a question; it does not describe the past."
+        },
+        {
+          "id": "b1m1l1-p6",
+          "type": "mcq",
+          "prompt": "Which sentence is NOT correct?",
+          "options": ["Ich wäre Ihnen sehr dankbar.", "Ich würde gern mitkommen.", "Ich würde sein sehr froh.", "Das wäre nett."],
+          "answer": 2,
+          "explanation": "sein has its own Konjunktiv II, wäre. “Ich würde sein” does not exist."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type one word. The verb in brackets tells you which form to use.",
+      "exercises": [
+        {
+          "id": "b1m1l1-g1",
+          "type": "gap",
+          "prompt": "___ Sie mir bitte helfen? (können)",
+          "answers": ["Könnten"],
+          "explanation": "können → könnten with Sie: Könnten Sie mir bitte helfen?"
+        },
+        {
+          "id": "b1m1l1-g2",
+          "type": "gap",
+          "prompt": "Ich ___ gern einen Termin vereinbaren. (werden)",
+          "answers": ["würde"],
+          "explanation": "würde + infinitive at the end: Ich würde gern einen Termin vereinbaren."
+        },
+        {
+          "id": "b1m1l1-g3",
+          "type": "gap",
+          "prompt": "___ es möglich, dass Sie mir das erklären? (sein)",
+          "answers": ["Wäre"],
+          "explanation": "sein → wäre. Wäre es möglich, dass …? is a polite possibility question."
+        },
+        {
+          "id": "b1m1l1-g4",
+          "type": "gap",
+          "prompt": "Ich ___ gern die Speisekarte. (haben)",
+          "answers": ["hätte"],
+          "explanation": "haben → hätte. Ich hätte gern … is the standard polite order."
+        },
+        {
+          "id": "b1m1l1-g5",
+          "type": "gap",
+          "prompt": "___ ich Sie kurz stören? (dürfen)",
+          "answers": ["Dürfte"],
+          "explanation": "dürfen → dürfte. Dürfte ich …? asks for permission politely."
+        },
+        {
+          "id": "b1m1l1-g6",
+          "type": "gap",
+          "prompt": "Wir ___ die Rechnung leider heute bezahlen. (müssen)",
+          "answers": ["müssten"],
+          "explanation": "müssen → müssten. The Konjunktiv II softens an obligation that is unpleasant for both sides."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Click the words in the correct order. Watch the position of the infinitive.",
+      "exercises": [
+        {
+          "id": "b1m1l1-o1",
+          "type": "order",
+          "prompt": "Build: “Could you help me, please?”",
+          "tokens": ["mir", "Könnten", "bitte", "Sie", "helfen"],
+          "answer": "Könnten Sie mir bitte helfen?",
+          "explanation": "Modal first, then subject, pronoun, bitte, infinitive: Könnten Sie mir bitte helfen?"
+        },
+        {
+          "id": "b1m1l1-o2",
+          "type": "order",
+          "prompt": "Build: “I would like to arrange an appointment.”",
+          "tokens": ["gern", "einen", "würde", "Termin", "Ich", "vereinbaren"],
+          "answer": "Ich würde gern einen Termin vereinbaren.",
+          "explanation": "Subject + würde + gern + object + infinitive at the end."
+        },
+        {
+          "id": "b1m1l1-o3",
+          "type": "order",
+          "prompt": "Build: “Would it be possible to postpone the appointment?”",
+          "tokens": ["möglich", "den", "Wäre", "es", "verschieben", "Termin", "zu"],
+          "answer": "Wäre es möglich, den Termin zu verschieben?",
+          "explanation": "Wäre es möglich, …? takes a zu-infinitive at the end of the clause."
+        },
+        {
+          "id": "b1m1l1-o4",
+          "type": "order",
+          "prompt": "Build: “May I disturb you for a moment?”",
+          "tokens": ["kurz", "ich", "Dürfte", "Sie", "stören"],
+          "answer": "Dürfte ich Sie kurz stören?",
+          "explanation": "Dürfte ich …? + accusative Sie + adverb + infinitive at the end."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice. The first time, note the two things the guest asks for.",
+      "speaker": "Hotel guest and receptionist",
+      "script": [
+        { "speaker": "Rezeption", "de": "Guten Abend, Hotel Sonne. Wie kann ich Ihnen helfen?", "en": "Good evening, Hotel Sonne. How can I help you?" },
+        { "speaker": "Gast", "de": "Guten Abend. Ich wohne in Zimmer 214. Könnte ich morgen etwas später auschecken?", "en": "Good evening. I am staying in room 214. Could I check out a little later tomorrow?" },
+        { "speaker": "Rezeption", "de": "Bis wann bräuchten Sie das Zimmer denn?", "en": "Until when would you need the room, then?" },
+        { "speaker": "Gast", "de": "Wäre zwölf Uhr möglich? Mein Zug fährt erst um zwei.", "en": "Would twelve o'clock be possible? My train does not leave until two." },
+        { "speaker": "Rezeption", "de": "Zwölf Uhr ist kein Problem. Ich trage es ein. Möchten Sie noch ein Frühstück dazubuchen?", "en": "Twelve o'clock is no problem. I will make a note of it. Would you like to add breakfast?" },
+        { "speaker": "Gast", "de": "Nein, danke. Aber könnten Sie mir ein Taxi zum Bahnhof bestellen?", "en": "No, thank you. But could you order me a taxi to the station?" },
+        { "speaker": "Rezeption", "de": "Natürlich. Ich rufe Sie morgen um elf Uhr an, bevor das Taxi kommt.", "en": "Of course. I will call you tomorrow at eleven, before the taxi arrives." }
+      ],
+      "questions": [
+        {
+          "id": "b1m1l1-lq1",
+          "type": "mcq",
+          "prompt": "What does the guest want first?",
+          "options": ["A different room", "A later checkout", "Breakfast in the room", "A taxi to the airport"],
+          "answer": 1,
+          "explanation": "The guest asks: Könnte ich morgen etwas später auschecken?"
+        },
+        {
+          "id": "b1m1l1-lq2",
+          "type": "mcq",
+          "prompt": "Until what time can the guest keep the room?",
+          "options": ["Ten o'clock", "Eleven o'clock", "Twelve o'clock", "Two o'clock"],
+          "answer": 2,
+          "explanation": "The receptionist agrees to twelve o'clock: Zwölf Uhr ist kein Problem."
+        },
+        {
+          "id": "b1m1l1-lq3",
+          "type": "mcq",
+          "prompt": "What does the receptionist promise to do the next morning?",
+          "options": ["Bring breakfast", "Call the guest at eleven", "Clean the room early", "Drive the guest to the station"],
+          "answer": 1,
+          "explanation": "Ich rufe Sie morgen um elf Uhr an, bevor das Taxi kommt."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Record yourself, then compare your version with the model. Aim for a calm, friendly melody.",
+      "prompt": "Leave a short voicemail for a language school. Say who you are, ask politely for a call back and name a time when you are available.",
+      "model": {
+        "de": "Guten Tag, hier spricht Alex Weber. Ich hätte eine Frage zu meinem Kurs. Könnten Sie mich bitte zurückrufen? Ich wäre heute bis achtzehn Uhr erreichbar. Vielen Dank.",
+        "en": "Good day, this is Alex Weber speaking. I have a question about my course. Could you call me back, please? I would be available today until six p.m. Thank you."
+      },
+      "tips": [
+        "Start with Guten Tag and your name; a voicemail without a name forces the listener to replay it.",
+        "Use one polite marker per request. Könnten Sie …? plus bitte is enough — do not stack three softeners.",
+        "End with a concrete time and Vielen Dank. That tells the office when to call and closes the message cleanly."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "Each error comes from copying the present tense too closely.",
+      "items": [
+        {
+          "wrong": "Könnte Sie mir bitte helfen?",
+          "right": "Könnten Sie mir bitte helfen?",
+          "why": "Sie is third person plural in the polite form, so the verb ends in -en: könnten."
+        },
+        {
+          "wrong": "Ich würde gern einen Kaffee zu trinken.",
+          "right": "Ich würde gern einen Kaffee trinken.",
+          "why": "würde takes a bare infinitive. The zu-infinitive belongs to patterns such as Wäre es möglich, … zu …?"
+        },
+        {
+          "wrong": "Ich hatte gern einen Tee.",
+          "right": "Ich hätte gern einen Tee.",
+          "why": "hatte is the simple past. A polite order needs the Konjunktiv II hätte."
+        },
+        {
+          "wrong": "Würden Sie bitte das Fenster zu öffnen?",
+          "right": "Würden Sie bitte das Fenster öffnen?",
+          "why": "After würden there is no zu before the infinitive."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 3,
+      "passScore": 70,
+      "lede": "Ten questions. Score 70% or more to unlock the next lesson. You can retake this check as often as you need.",
+      "questions": [
+        {
+          "id": "b1m1l1-a1",
+          "type": "mcq",
+          "prompt": "Which is the Konjunktiv II of “haben” with “ich”?",
+          "options": ["habe", "hatte", "hätte", "gehabt"],
+          "answer": 2,
+          "explanation": "haben → hätte. The umlaut marks the Konjunktiv II."
+        },
+        {
+          "id": "b1m1l1-a2",
+          "type": "mcq",
+          "prompt": "Which sentence is the most polite way to ask for a form?",
+          "options": ["Schicken Sie mir das Formular.", "Ich will das Formular.", "Könnten Sie mir das Formular bitte schicken?", "Das Formular, schnell!"],
+          "answer": 2,
+          "explanation": "Könnten … bitte …? is a considerate request; the others are commands or blunt statements."
+        },
+        {
+          "id": "b1m1l1-a3",
+          "type": "gap",
+          "prompt": "___ Sie mir bitte das Formular schicken? (können)",
+          "answers": ["Könnten"],
+          "explanation": "Könnten Sie …? is the polite question form with Sie."
+        },
+        {
+          "id": "b1m1l1-a4",
+          "type": "gap",
+          "prompt": "Ich ___ gern einen Termin am Montag. (haben)",
+          "answers": ["hätte"],
+          "explanation": "Ich hätte gern … is the standard polite way to ask for something."
+        },
+        {
+          "id": "b1m1l1-a5",
+          "type": "order",
+          "prompt": "Build: “Would it be possible to come later?”",
+          "tokens": ["später", "möglich", "Wäre", "es", "kommen", "zu"],
+          "answer": "Wäre es möglich, später zu kommen?",
+          "explanation": "Wäre es möglich, … zu kommen? — the zu-infinitive closes the clause."
+        },
+        {
+          "id": "b1m1l1-a6",
+          "type": "mcq",
+          "prompt": "Which sentence uses “würde” correctly?",
+          "options": ["Ich würde gern nach Berlin fahren.", "Ich würde gern nach Berlin zu fahren.", "Ich würde gern nach Berlin fahre.", "Ich würde gern nach Berlin gefahren."],
+          "answer": 0,
+          "explanation": "würde + bare infinitive at the end: … nach Berlin fahren."
+        },
+        {
+          "id": "b1m1l1-a7",
+          "type": "gap",
+          "prompt": "___ ich hier Platz nehmen? (dürfen)",
+          "answers": ["Dürfte"],
+          "explanation": "Dürfte ich …? asks for permission politely."
+        },
+        {
+          "id": "b1m1l1-a8",
+          "type": "order",
+          "prompt": "Build: “I would like to book a room.”",
+          "tokens": ["gern", "Zimmer", "würde", "ein", "Ich", "reservieren"],
+          "answer": "Ich würde gern ein Zimmer reservieren.",
+          "explanation": "Subject + würde + gern + object + infinitive: Ich würde gern ein Zimmer reservieren."
+        },
+        {
+          "id": "b1m1l1-a9",
+          "type": "mcq",
+          "prompt": "What is the function of “hätte” in “Ich hätte eine Frage”?",
+          "options": ["It reports a past event.", "It makes the request polite.", "It forms a command.", "It marks a plural subject."],
+          "answer": 1,
+          "explanation": "hätte is Konjunktiv II and softens the announcement of a question."
+        },
+        {
+          "id": "b1m1l1-a10",
+          "type": "gap",
+          "prompt": "Wenn ich Zeit ___, würde ich mitkommen. (haben)",
+          "answers": ["hätte"],
+          "explanation": "An unreal condition uses Konjunktiv II in both clauses: Wenn ich Zeit hätte, würde ich mitkommen."
+        }
+      ]
+    }
+  ]
+}

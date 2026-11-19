@@ -1,0 +1,644 @@
+{
+  "id": "c2-m1-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 3,
+      "prompt": "Read these three versions aloud. Notice which one gives you energy and which one makes you work.",
+      "items": [
+        "Die Durchführung einer Überprüfung der Unterlagen erfolgt durch die Abteilung.",
+        "Die Abteilung prüft die Unterlagen.",
+        "Der Text ist stilistisch überarbeitet worden."
+      ],
+      "lede": "Style begins in the ear. Hear the difference before you name it."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to revise a text for precision and rhythm."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 5,
+      "lede": "Style is not decoration added after the content is finished. It is the sum of choices that decide whether a reader understands, trusts and remembers a text.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "At C2 you already control the grammar. The remaining work is editorial: choosing the verb that carries the most meaning, deciding where a sentence should end, and noticing when a nominal construction hides the person doing the action. These choices are not cosmetic. They change how quickly a reader understands and how much authority the text has."
+        },
+        {
+          "kind": "de",
+          "text": "Der Text ist stilistisch überarbeitet worden.",
+          "en": "The text has been revised stylistically."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "A precise verb carries information that an adverb can only approximate: Sie ging langsam becomes Sie schlenderte.",
+            "Rhythm is information. A short sentence after a long one lands like a punch line; three long sentences in a row blur together.",
+            "Nominalisation raises the register but lowers the energy. Turn nouns back into verbs when the agent matters.",
+            "Redundancy is not emphasis. Bereits schon and weißer Schimmel repeat rather than reinforce.",
+            "Register is consistency, not formality. One colloquial word can break an otherwise formal paragraph."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "The read-aloud test",
+          "text": "Read the paragraph aloud at a normal pace. Where you run out of breath, the reader will lose the thread. Where you stumble, the syntax is probably doing too much."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "Most stylistic revision happens in four moves: sharpen the verb, cut the frame, split the sentence, restore the agent.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Weaker", "Stronger", "Why"],
+          "rows": [
+            ["eine Entscheidung machen", "eine Entscheidung treffen", "fixed collocation; machen is too general"],
+            ["eine Verbesserung erfahren", "sich verbessern", "the action becomes visible"],
+            ["zur Anwendung kommen", "angewendet werden", "shorter and more direct"],
+            ["Er ging schnell.", "Er eilte.", "one precise verb replaces verb plus adverb"],
+            ["Es ist wichtig zu beachten, dass …", "Beachten Sie, dass …", "removes empty framing"],
+            ["Der Betrieb verfügt über eine Kantine.", "Der Betrieb hat eine Kantine.", "the plain verb is stronger here"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Keep one main idea per sentence. If a sentence needs two commas and a parenthesis, it probably needs two sentences.",
+            "Vary length deliberately: a long sentence can build context, but the next one should release it.",
+            "Funktionsverbgefüge such as zur Verfügung stellen are not errors. They are useful in administration, but they are usually longer and weaker than the verb they hide.",
+            "Cut adjectives that repeat the noun: ein großer Riese, ein kleiner Zwerg, eine totale Vollendung.",
+            "Prefer the active voice when responsibility matters. The passive is honest when the agent is unknown or irrelevant, and evasive when it is not."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "The vocabulary of revision is itself precise. Learn the words you need to explain a change.",
+      "items": [
+        {
+          "de": "prägnant",
+          "en": "concise, succinct",
+          "pronunciation": "pʁɛˈɡnant",
+          "example": "Ein prägnanter Satz bleibt im Gedächtnis.",
+          "exampleEn": "A concise sentence stays in the memory."
+        },
+        {
+          "de": "anschaulich",
+          "en": "vivid, illustrative",
+          "pronunciation": "ˈanʃaʊ̯lɪç",
+          "example": "Anschauliche Beispiele machen das Argument überzeugend.",
+          "exampleEn": "Vivid examples make the argument convincing."
+        },
+        {
+          "de": "die Wendung",
+          "en": "the phrase, turn of phrase",
+          "article": "die",
+          "plural": "die Wendungen",
+          "pronunciation": "ˈvɛndʊŋ",
+          "example": "Diese Wendung wirkt in einem Bericht zu umgangssprachlich.",
+          "exampleEn": "This phrase sounds too colloquial in a report."
+        },
+        {
+          "de": "die Überarbeitung",
+          "en": "the revision, reworking",
+          "article": "die",
+          "plural": "die Überarbeitungen",
+          "pronunciation": "yːbɐˈʔaʁbaɪ̯tʊŋ",
+          "example": "Nach der Überarbeitung ist der Text deutlich kürzer.",
+          "exampleEn": "After the revision the text is considerably shorter."
+        },
+        {
+          "de": "der Nominalstil",
+          "en": "nominal style (heavy use of nouns)",
+          "article": "der",
+          "pronunciation": "nomiˈnaːlʃtiːl",
+          "example": "Zu viel Nominalstil macht den Text schwer verständlich.",
+          "exampleEn": "Too much nominal style makes the text hard to understand."
+        },
+        {
+          "de": "die Straffung",
+          "en": "the tightening, streamlining",
+          "article": "die",
+          "plural": "die Straffungen",
+          "pronunciation": "ˈʃtʁafʊŋ",
+          "example": "Die Straffung des Absatzes hat den Inhalt geschärft.",
+          "exampleEn": "Tightening the paragraph sharpened the content."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 5,
+      "lede": "Each pair shows a choice, not a correction. Ask what the second version gains and what it loses.",
+      "items": [
+        {
+          "de": "Der Text ist stilistisch überarbeitet worden.",
+          "en": "The text has been revised stylistically.",
+          "note": "The passive keeps the focus on the text; the reviser is irrelevant here."
+        },
+        {
+          "de": "Statt „eine Entscheidung machen“ sagt man treffender „eine Entscheidung treffen“.",
+          "en": "Instead of “eine Entscheidung machen”, the more apt phrase is “eine Entscheidung treffen”.",
+          "note": "Treffen is the conventional collocation; machen is grammatical but vague."
+        },
+        {
+          "de": "Der Autor hätte den Satz straffen können, ohne Inhalt zu verlieren.",
+          "en": "The author could have tightened the sentence without losing content.",
+          "note": "A counterfactual judgement about style, not about facts."
+        },
+        {
+          "de": "Kurze Sätze wirken nach einem langen Satz wie ein Atemzug.",
+          "en": "After a long sentence, short sentences feel like a breath.",
+          "note": "The image explains rhythm better than an abstract rule."
+        },
+        {
+          "de": "Anschaulich schreiben heißt: zeigen, nicht behaupten.",
+          "en": "Writing vividly means showing, not asserting.",
+          "note": "The colon prepares a definition and gives the sentence a clean ending."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 4,
+      "lede": "These words are common in editorial discussion. Stress them correctly and you will sound as if you belong in the conversation.",
+      "items": [
+        {
+          "de": "prägnant",
+          "hint": "Stress the second syllable: prä-GNANT. The g is voiced and the final t is crisp.",
+          "en": "concise"
+        },
+        {
+          "de": "anschaulich",
+          "hint": "Start with a clear “an”, then the au diphthong, then a soft ch: AN-schau-lich.",
+          "en": "vivid"
+        },
+        {
+          "de": "Wendung",
+          "hint": "Short e, clear final -ung. Do not turn the final g into a hard English g.",
+          "en": "phrase"
+        },
+        {
+          "de": "Redundanz",
+          "hint": "Stress the final syllable: re-dun-DANZ. The z is pronounced “ts”.",
+          "en": "redundancy"
+        },
+        {
+          "de": "Rhythmus",
+          "hint": "Stress the first syllable; th is simply t: RÜT-mus.",
+          "en": "rhythm"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 3,
+      "heading": "Why German style guides attack the noun",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German has a long tradition of style advice that treats clarity as a civic virtue. Wolf Schneider's journalism handbooks, widely used in German newsrooms and journalism schools, argue for short sentences, strong verbs and a visible agent. The target is often called Amtsdeutsch or Behördensprache: the nominal, passive style associated with official letters."
+        },
+        {
+          "kind": "p",
+          "text": "This does not make nominalisation wrong. Academic and legal German needs it, because it allows precise reference to abstract entities. The stylistic question is always purpose: a contract may need die Inanspruchnahme einer Leistung, while a newspaper report is usually better served by the verb."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "An editor and an author revise one paragraph. Listen for the moment the author accepts the change.",
+      "setting": "Editing session between a publisher and an author",
+      "lines": [
+        {
+          "speaker": "Lektorin",
+          "de": "Der Absatz ist inhaltlich stark, aber er trägt zu viele Nominalisierungen.",
+          "en": "The paragraph is strong in content, but it carries too many nominalisations."
+        },
+        {
+          "speaker": "Autor",
+          "de": "Sie meinen die Wendungen wie „zur Durchführung gelangen“?",
+          "en": "You mean the phrases like “zur Durchführung gelangen”?"
+        },
+        {
+          "speaker": "Lektorin",
+          "de": "Genau. „Wir führen die Prüfung durch“ ist kürzer und lebendiger.",
+          "en": "Exactly. “Wir führen die Prüfung durch” is shorter and more alive."
+        },
+        {
+          "speaker": "Autor",
+          "de": "Und der lange Satz am Anfang?",
+          "en": "And the long sentence at the beginning?"
+        },
+        {
+          "speaker": "Lektorin",
+          "de": "Den würde ich teilen. Ein kurzer Satz danach setzt den Akzent.",
+          "en": "I would split that one. A short sentence after it sets the accent."
+        },
+        {
+          "speaker": "Autor",
+          "de": "Einverstanden. Ich überarbeite die Passage bis morgen.",
+          "en": "Agreed. I'll revise the passage by tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Vom Nominalstil zum Verbalstil",
+      "lede": "The same content can be packaged as a noun or as a verb. The choice controls pace and responsibility.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Nominal", "Verbal", "Effect"],
+          "rows": [
+            ["die Durchführung der Prüfung", "die Prüfung durchführen", "the action and its object become visible"],
+            ["zur Entscheidung kommen", "entscheiden", "removes an empty light verb"],
+            ["eine Verbesserung erfahren", "sich verbessern", "shorter and more dynamic"],
+            ["in Kenntnis setzen", "informieren", "plain verb, fewer words"],
+            ["Berücksichtigung finden", "berücksichtigt werden", "direct passive"],
+            ["die Inanspruchnahme von Leistungen", "Leistungen in Anspruch nehmen", "the verb carries the action"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Nominalisation is useful when the action itself is the topic: Die Prüfung der Daten dauert zwei Tage.",
+            "Turn a noun back into a verb when you want to name the agent: Wir prüfen die Daten.",
+            "Funktionsverbgefüge are not automatically bad, but check whether the verb they hide would be shorter and clearer.",
+            "A sentence beginning with Es ist wichtig, dass … often loses nothing when the frame is removed.",
+            "When you split a sentence, give the second half a job: a consequence, a contrast or an example."
+          ]
+        }
+      ],
+      "tip": "Edit in two passes. First cut what is redundant, then vary sentence length. Trying to do both at once makes you cautious, and cautious editing produces flat prose."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 5,
+      "lede": "Choose the version a careful editor would prefer — and be ready to say why.",
+      "exercises": [
+        {
+          "id": "c2m1l2-p1",
+          "type": "mcq",
+          "prompt": "Which sentence is the most concise?",
+          "options": ["Die Kommission traf eine Entscheidung.", "Die Kommission kam zu einer Entscheidung.", "Die Kommission entschied.", "Die Kommission hat eine Entscheidung getroffen."],
+          "answer": 2,
+          "explanation": "Die Kommission entschied replaces a light verb plus noun with one precise verb. The other versions are grammatical but longer."
+        },
+        {
+          "id": "c2m1l2-p2",
+          "type": "mcq",
+          "prompt": "Which verb collocates naturally with Entscheidung?",
+          "options": ["machen", "treffen", "nehmen", "geben"],
+          "answer": 1,
+          "explanation": "The standard collocation is eine Entscheidung treffen. Eine Entscheidung machen is a common learner error."
+        },
+        {
+          "id": "c2m1l2-p3",
+          "type": "mcq",
+          "prompt": "Which sentence contains a redundancy?",
+          "options": ["Der weiße Schimmel stand auf der Wiese.", "Der Schimmel stand auf der Wiese.", "Das Pferd stand auf der Wiese.", "Ein Tier stand auf der Wiese."],
+          "answer": 0,
+          "explanation": "A Schimmel is by definition a white horse, so weißer Schimmel repeats the same information."
+        },
+        {
+          "id": "c2m1l2-p4",
+          "type": "mcq",
+          "prompt": "Which revision turns nominal style into verbal style?",
+          "options": ["Die Durchführung der Prüfung erfolgt am Montag. → Die Prüfung wird am Montag durchgeführt.", "Die Prüfung findet am Montag statt. → Die Prüfung wird am Montag stattfinden.", "Die Prüfung ist am Montag. → Am Montag ist die Prüfung.", "Die Prüfung dauert lange. → Die Durchführung der Prüfung dauert lange."],
+          "answer": 0,
+          "explanation": "The noun Durchführung becomes the verb durchgeführt. The other options keep the structure or add nominal weight."
+        },
+        {
+          "id": "c2m1l2-p5",
+          "type": "mcq",
+          "prompt": "What is the usual effect of a short sentence after a long one?",
+          "options": ["It weakens the argument.", "It creates emphasis and gives the reader a pause.", "It makes the text more formal.", "It removes the need for paragraphs."],
+          "answer": 1,
+          "explanation": "The contrast in length creates emphasis. The short sentence lands because the long one has built up momentum."
+        },
+        {
+          "id": "c2m1l2-p6",
+          "type": "mcq",
+          "prompt": "Which verb most precisely describes walking slowly and without purpose?",
+          "options": ["gehen", "laufen", "schlendern", "marschieren"],
+          "answer": 2,
+          "explanation": "Schlendern means to stroll or saunter. Gehen is neutral, laufen is faster, and marschieren suggests purpose and discipline."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 5,
+      "lede": "Type the missing word. In several items the answer is the precise verb, not the noun.",
+      "exercises": [
+        {
+          "id": "c2m1l2-g1",
+          "type": "gap",
+          "prompt": "Die Kommission ___ eine Entscheidung.",
+          "answers": ["trifft"],
+          "explanation": "The collocation is eine Entscheidung treffen: die Kommission trifft eine Entscheidung."
+        },
+        {
+          "id": "c2m1l2-g2",
+          "type": "gap",
+          "prompt": "Der Text wurde sprachlich ___.",
+          "answers": ["überarbeitet"],
+          "explanation": "Überarbeiten means to revise or rework; the participle is überarbeitet."
+        },
+        {
+          "id": "c2m1l2-g3",
+          "type": "gap",
+          "prompt": "Zu viel ___ macht den Text schwer verständlich.",
+          "answers": ["Nominalstil"],
+          "explanation": "Der Nominalstil is the noun-heavy style that slows a text down."
+        },
+        {
+          "id": "c2m1l2-g4",
+          "type": "gap",
+          "prompt": "Die Autorin ___ die Handlung auf das Wesentliche.",
+          "answers": ["strafft"],
+          "explanation": "Straffen means to tighten or streamline: sie strafft die Handlung."
+        },
+        {
+          "id": "c2m1l2-g5",
+          "type": "gap",
+          "prompt": "Nach der ___ ist der Text deutlich kürzer.",
+          "answers": ["Überarbeitung"],
+          "explanation": "Die Überarbeitung is the revision; nach der Überarbeitung = after the revision."
+        },
+        {
+          "id": "c2m1l2-g6",
+          "type": "gap",
+          "prompt": "Statt „zur Anwendung kommen“ sagt man kürzer „___ werden“.",
+          "answers": ["angewendet"],
+          "explanation": "The verbal alternative is angewendet werden, a direct passive instead of the nominal phrase."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 4,
+      "lede": "Build clean sentences. Each one models a revision principle from this lesson.",
+      "exercises": [
+        {
+          "id": "c2m1l2-o1",
+          "type": "order",
+          "prompt": "Build: “The text has been revised stylistically.”",
+          "tokens": ["überarbeitet", "stilistisch", "Text", "worden", "ist", "Der"],
+          "answer": "Der Text ist stilistisch überarbeitet worden.",
+          "explanation": "The passive with sein + participle + worden keeps the focus on the text."
+        },
+        {
+          "id": "c2m1l2-o2",
+          "type": "order",
+          "prompt": "Build: “Short sentences create clarity.”",
+          "tokens": ["Klarheit", "Sätze", "Kurze", "schaffen"],
+          "answer": "Kurze Sätze schaffen Klarheit.",
+          "explanation": "Kurze is an adjective before the noun; the verb schaffen takes the accusative object Klarheit."
+        },
+        {
+          "id": "c2m1l2-o3",
+          "type": "order",
+          "prompt": "Build: “A decision is only made after review.”",
+          "tokens": ["getroffen", "nach", "Entscheidung", "Prüfung", "Eine", "wird", "erst"],
+          "answer": "Eine Entscheidung wird erst nach Prüfung getroffen.",
+          "explanation": "The passive frame wird … getroffen surrounds the adverbial phrase erst nach Prüfung."
+        },
+        {
+          "id": "c2m1l2-o4",
+          "type": "order",
+          "prompt": "Build: “Vivid examples make the argument convincing.”",
+          "tokens": ["das", "Anschauliche", "überzeugend", "Beispiele", "machen", "Argument"],
+          "answer": "Anschauliche Beispiele machen das Argument überzeugend.",
+          "explanation": "Machen takes two accusative objects here: das Argument and the predicate adjective überzeugend."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 5,
+      "lede": "An editor describes her revision process. Listen once for the problem, once for the method.",
+      "speaker": "An editor talking about her work",
+      "script": [
+        {
+          "speaker": "Lektorin",
+          "de": "Ich habe den Absatz dreimal gelesen. Beim ersten Mal war er korrekt, beim zweiten langweilig und beim dritten endlich klar.",
+          "en": "I read the paragraph three times. The first time it was correct, the second time boring, and the third time finally clear."
+        },
+        {
+          "speaker": "Lektorin",
+          "de": "Das Problem waren nicht die Fakten, sondern die vielen Nominalisierungen.",
+          "en": "The problem was not the facts, but the many nominalisations."
+        },
+        {
+          "speaker": "Lektorin",
+          "de": "Aus „zur Durchführung gelangen“ wurde „durchführen“, aus einem Satz mit vierundvierzig Wörtern zwei Sätze mit je zwanzig.",
+          "en": "“Zur Durchführung gelangen” became “durchführen”, and one sentence of forty-four words became two sentences of twenty each."
+        },
+        {
+          "speaker": "Lektorin",
+          "de": "Der Inhalt ist derselbe geblieben, aber der Leser findet ihn jetzt.",
+          "en": "The content has stayed the same, but now the reader can find it."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2m1l2-lq1",
+          "type": "mcq",
+          "prompt": "What was the main problem with the paragraph?",
+          "options": ["The facts were wrong.", "It contained too many nominalisations.", "It was too short.", "The title was missing."],
+          "answer": 1,
+          "explanation": "She says the problem was not the facts but the many nominalisations."
+        },
+        {
+          "id": "c2m1l2-lq2",
+          "type": "mcq",
+          "prompt": "What happened to the long sentence?",
+          "options": ["It was deleted.", "It was divided into two sentences.", "It was moved to the end.", "It was translated into English."],
+          "answer": 1,
+          "explanation": "One sentence of forty-four words became two sentences of twenty each."
+        },
+        {
+          "id": "c2m1l2-lq3",
+          "type": "mcq",
+          "prompt": "What is the result of the revision?",
+          "options": ["The content changed completely.", "The content is the same but easier to find.", "The text became more formal.", "The text became longer."],
+          "answer": 1,
+          "explanation": "Der Inhalt ist derselbe geblieben, aber der Leser findet ihn jetzt — the content is unchanged and more accessible."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 5,
+      "lede": "Revise a sentence out loud, then justify the change in one clear sentence.",
+      "prompt": "Revise this sentence aloud and explain your choice: „Die Durchführung einer Überprüfung der Unterlagen erfolgt durch die Abteilung.“",
+      "model": {
+        "de": "Die Abteilung prüft die Unterlagen. Der Satz ist kürzer, nennt den Handelnden und verliert keine Information. Das Verb trägt jetzt die Handlung, statt sie in einem Substantiv zu verstecken.",
+        "en": "The department checks the documents. The sentence is shorter, names the agent and loses no information. The verb now carries the action instead of hiding it in a noun."
+      },
+      "tips": [
+        "Name the agent first. If the sentence does not tell you who acts, the passive may be hiding responsibility.",
+        "Replace one nominal phrase at a time, then read the result aloud. Revision is iterative, not a single rewrite.",
+        "Justify your change with a criterion: shorter, clearer, more precise or better rhythm. Vague praise is not stylistic analysis."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 3,
+      "lede": "These are not grammar errors. They are choices that make a text sound less controlled.",
+      "items": [
+        {
+          "wrong": "eine Entscheidung machen",
+          "right": "eine Entscheidung treffen",
+          "why": "German nouns have preferred verb partners. Treffen is the standard collocation; machen is grammatical but vague."
+        },
+        {
+          "wrong": "Der Text wurde einer Überarbeitung unterzogen, wodurch eine Verbesserung erzielt werden konnte.",
+          "right": "Der Text wurde überarbeitet und dadurch besser.",
+          "why": "The first version stacks three nominalisations around one simple action. The revision says the same thing in half the words."
+        },
+        {
+          "wrong": "Das Projekt ist bereits schon abgeschlossen.",
+          "right": "Das Projekt ist bereits abgeschlossen.",
+          "why": "Bereits and schon mean the same thing. Using both is redundancy, not emphasis."
+        },
+        {
+          "wrong": "Der Betrieb verfügt über eine eigene Kantine.",
+          "right": "Der Betrieb hat eine eigene Kantine.",
+          "why": "Verfügen über is not wrong, but in a plain report hat is shorter and less bureaucratic. Choose the register deliberately."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Ten questions. Score 70% or more to complete the lesson check.",
+      "questions": [
+        {
+          "id": "c2m1l2-a1",
+          "type": "mcq",
+          "prompt": "Which verb collocates naturally with Entscheidung?",
+          "options": ["machen", "treffen", "nehmen", "stellen"],
+          "answer": 1,
+          "explanation": "The standard phrase is eine Entscheidung treffen."
+        },
+        {
+          "id": "c2m1l2-a2",
+          "type": "mcq",
+          "prompt": "Which sentence is redundant?",
+          "options": ["Das Projekt ist bereits abgeschlossen.", "Das Projekt ist schon abgeschlossen.", "Das Projekt ist bereits schon abgeschlossen.", "Das Projekt ist abgeschlossen."],
+          "answer": 2,
+          "explanation": "Bereits and schon are synonyms; using both repeats the same information."
+        },
+        {
+          "id": "c2m1l2-a3",
+          "type": "mcq",
+          "prompt": "What is the usual effect of a short sentence after a long one?",
+          "options": ["It creates emphasis.", "It makes the text more formal.", "It weakens the argument.", "It introduces a new topic."],
+          "answer": 0,
+          "explanation": "The length contrast creates emphasis and gives the reader a pause."
+        },
+        {
+          "id": "c2m1l2-a4",
+          "type": "mcq",
+          "prompt": "Which verb most precisely describes walking slowly and without purpose?",
+          "options": ["gehen", "laufen", "schlendern", "rennen"],
+          "answer": 2,
+          "explanation": "Schlendern means to stroll. The other verbs are neutral or faster."
+        },
+        {
+          "id": "c2m1l2-a5",
+          "type": "mcq",
+          "prompt": "Which version is the strongest verbal revision?",
+          "options": ["Die Durchführung der Prüfung erfolgt am Montag.", "Die Prüfung wird am Montag durchgeführt.", "Die Prüfung findet am Montag ihre Durchführung.", "Am Montag kommt die Prüfung zur Durchführung."],
+          "answer": 1,
+          "explanation": "The direct passive with durchgeführt is shorter and clearer than the nominal phrases around Durchführung."
+        },
+        {
+          "id": "c2m1l2-a6",
+          "type": "gap",
+          "prompt": "Die Kommission ___ eine Entscheidung.",
+          "answers": ["trifft"],
+          "explanation": "Die Kommission trifft eine Entscheidung — the fixed collocation uses treffen."
+        },
+        {
+          "id": "c2m1l2-a7",
+          "type": "gap",
+          "prompt": "Der Text wurde sprachlich ___.",
+          "answers": ["überarbeitet"],
+          "explanation": "The participle of überarbeiten is überarbeitet."
+        },
+        {
+          "id": "c2m1l2-a8",
+          "type": "gap",
+          "prompt": "Zu viel ___ macht den Text schwer verständlich.",
+          "answers": ["Nominalstil"],
+          "explanation": "Der Nominalstil is the noun-heavy style that reduces readability."
+        },
+        {
+          "id": "c2m1l2-a9",
+          "type": "order",
+          "prompt": "Build: “The text has been revised stylistically.”",
+          "tokens": ["überarbeitet", "stilistisch", "Text", "worden", "ist", "Der"],
+          "answer": "Der Text ist stilistisch überarbeitet worden.",
+          "explanation": "The passive is sein + past participle + worden; the adverb stilistisch stands before the participle."
+        },
+        {
+          "id": "c2m1l2-a10",
+          "type": "order",
+          "prompt": "Build: “Short sentences create clarity.”",
+          "tokens": ["Klarheit", "Sätze", "Kurze", "schaffen"],
+          "answer": "Kurze Sätze schaffen Klarheit.",
+          "explanation": "Kurze agrees with the plural noun Sätze; schaffen takes the accusative object Klarheit."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,743 @@
+{
+  "id": "c2-m3-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "c2-m3-l1-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "c2-m3-l1",
+      "prompt": "Read an abstract aloud: name its aim, method and finding in one sentence each.",
+      "items": [
+        "Die vorliegende Arbeit untersucht die Wechselwirkung zwischen …",
+        "die vorliegende Arbeit",
+        "die Untersuchung",
+        "die Wechselwirkung"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "c2-m3-l1-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "c2-m3-l1",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "c2-m3-l1-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "c2-m3-l1",
+      "lede": "A strong abstract states the aim, the method and the finding in a compact, hedged form.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "An abstract is a miniature argument. It names the research gap, states the aim of the paper, describes the method and reports the central finding. Every sentence must carry information; there is no room for warm-up phrases or decorative adjectives."
+        },
+        {
+          "kind": "p",
+          "text": "Academic German uses fixed framing: “Die vorliegende Arbeit untersucht …”, “Die Untersuchung basiert auf …”, “Die Ergebnisse deuten darauf hin, dass …”. Hedging is part of the register: “lässt sich vermuten”, “dürfte”, “insofern”, “tendenziell” keep the claim proportional to the evidence."
+        },
+        {
+          "kind": "note",
+          "title": "One term, one meaning",
+          "text": "Define your key terms once and use them consistently. Switching between “Maßnahme”, “Instrument” and “Programm” for the same thing suggests imprecision."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l1-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "c2-m3-l1",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "aim",
+              "Die vorliegende Arbeit untersucht die Wechselwirkung zwischen Sprache und Identität."
+            ],
+            [
+              "method",
+              "Die Untersuchung basiert auf einer qualitativen Inhaltsanalyse von 40 Interviews."
+            ],
+            [
+              "finding",
+              "Die Ergebnisse deuten darauf hin, dass die These nur teilweise zutrifft."
+            ],
+            [
+              "hedging",
+              "Es lässt sich vermuten, dass der Zusammenhang komplexer ist."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use “untersuchen” for the aim and “basiert auf” for the method.",
+            "“Deuten darauf hin” is more cautious than “beweisen”.",
+            "Keep the abstract to one paragraph of roughly 150–200 words."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l1-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "c2-m3-l1",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "die vorliegende Arbeit",
+          "en": "the present paper",
+          "article": "die",
+          "example": "Die vorliegende Arbeit untersucht die Wechselwirkung zwischen Sprache und Identität.",
+          "exampleEn": "The present paper examines the interaction between language and identity."
+        },
+        {
+          "de": "die Untersuchung",
+          "en": "the study, investigation",
+          "article": "die",
+          "plural": "die Untersuchungen",
+          "example": "Die Untersuchung basiert auf einer qualitativen Inhaltsanalyse.",
+          "exampleEn": "The study is based on a qualitative content analysis."
+        },
+        {
+          "de": "die Wechselwirkung",
+          "en": "interaction, reciprocal effect",
+          "article": "die",
+          "plural": "die Wechselwirkungen",
+          "example": "Die Wechselwirkung zwischen Sprache und Identität ist schwer zu isolieren.",
+          "exampleEn": "The interaction between language and identity is hard to isolate."
+        },
+        {
+          "de": "die Schlussfolgerung",
+          "en": "conclusion",
+          "article": "die",
+          "plural": "die Schlussfolgerungen",
+          "example": "Die Schlussfolgerung geht über die Daten hinaus.",
+          "exampleEn": "The conclusion goes beyond the data."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l1-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "c2-m3-l1",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Die vorliegende Arbeit untersucht die Wechselwirkung zwischen Sprache und Identität.",
+          "en": "The present paper examines the interaction between language and identity.",
+          "note": "A precise aim sentence."
+        },
+        {
+          "de": "Die Untersuchung basiert auf einer qualitativen Inhaltsanalyse von 40 Interviews.",
+          "en": "The study is based on a qualitative content analysis of 40 interviews.",
+          "note": "Method plus data basis."
+        },
+        {
+          "de": "Die Ergebnisse deuten darauf hin, dass die These nur teilweise zutrifft.",
+          "en": "The results indicate that the thesis is only partly correct.",
+          "note": "A hedged finding."
+        },
+        {
+          "de": "Es lässt sich vermuten, dass der Zusammenhang komplexer ist.",
+          "en": "It can be assumed that the connection is more complex.",
+          "note": "A cautious interpretation."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l1-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "c2-m3-l1",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Wechselwirkung",
+          "hint": "Stress the first syllable: WEK-sel-wir-kung."
+        },
+        {
+          "de": "die Untersuchung",
+          "hint": "Stress the second syllable: un-ter-ZOO-khung."
+        },
+        {
+          "de": "die Schlussfolgerung",
+          "hint": "Stress the first syllable: SHLUS-fol-ge-rung."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l1-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "c2-m3-l1",
+      "heading": "Writing abstracts in German academia",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German abstracts tend to be structured and explicit. The reader expects the aim, method and result in a recognisable order, often signalled by “Ziel”, “Methode” and “Ergebnis”."
+        },
+        {
+          "kind": "p",
+          "text": "Cautious language is valued over dramatic claims. A paper that says “deutet darauf hin” is taken more seriously than one that says “beweist” without sufficient evidence."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l1-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "c2-m3-l1",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "Two researchers revise an abstract before submission.",
+      "lines": [
+        {
+          "speaker": "Autorin",
+          "de": "Die vorliegende Arbeit untersucht die Wechselwirkung zwischen Sprache und Identität.",
+          "en": "The present paper examines the interaction between language and identity."
+        },
+        {
+          "speaker": "Kollege",
+          "de": "Gut. Und wie beschreiben wir die Methode?",
+          "en": "Good. And how do we describe the method?"
+        },
+        {
+          "speaker": "Autorin",
+          "de": "Die Untersuchung basiert auf einer qualitativen Inhaltsanalyse von 40 Interviews.",
+          "en": "The study is based on a qualitative content analysis of 40 interviews."
+        },
+        {
+          "speaker": "Kollege",
+          "de": "Die Ergebnisse sollten wir vorsichtig formulieren: „deuten darauf hin“ statt „beweisen“.",
+          "en": "We should phrase the results cautiously: “indicate” rather than “prove”."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l1-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "c2-m3-l1",
+      "heading": "The abstract in four sentences",
+      "lede": "Each sentence has a job: aim, method, finding, interpretation.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Die vorliegende Arbeit untersucht …",
+              "aim"
+            ],
+            [
+              "Die Untersuchung basiert auf …",
+              "method"
+            ],
+            [
+              "Die Ergebnisse deuten darauf hin, dass …",
+              "finding"
+            ],
+            [
+              "Es lässt sich vermuten, dass …",
+              "interpretation"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Use “untersuchen” (examine), “erheben” (collect) and “auswerten” (analyse) as the core verbs of an empirical abstract."
+        }
+      ],
+      "tip": "Write the four sentences in order, then cut every word that does not add information. Abstracts improve by deletion."
+    },
+    {
+      "id": "c2-m3-l1-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "c2-m3-l1",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "c2-m3-l1-p-m1",
+          "type": "mcq",
+          "prompt": "Which sentence introduces the aim of a paper?",
+          "options": [
+            "Die vorliegende Arbeit untersucht …",
+            "Zum Schluss möchte ich …",
+            "Wie bereits erwähnt …",
+            "Im Alltag sagt man …"
+          ],
+          "answer": 0,
+          "explanation": "The fixed phrase for stating an aim is “Die vorliegende Arbeit untersucht …”."
+        },
+        {
+          "id": "c2-m3-l1-p-m2",
+          "type": "mcq",
+          "prompt": "Die Ergebnisse ___ darauf hin, dass die These zutrifft.",
+          "options": [
+            "deuten",
+            "deutet",
+            "gedeutet",
+            "Deutung"
+          ],
+          "answer": 0,
+          "explanation": "The plural subject Ergebnisse takes the plural verb deuten."
+        },
+        {
+          "id": "c2-m3-l1-p-m3",
+          "type": "mcq",
+          "prompt": "Which sentence uses appropriate academic hedging?",
+          "options": [
+            "Das beweist eindeutig …",
+            "Es lässt sich vermuten, dass …",
+            "Alle wissen, dass …",
+            "Das ist zu 100 Prozent sicher."
+          ],
+          "answer": 1,
+          "explanation": "“Es lässt sich vermuten” keeps the claim proportional to the evidence."
+        },
+        {
+          "id": "c2-m3-l1-p-m4",
+          "type": "mcq",
+          "prompt": "Die Untersuchung basiert ___ einer Inhaltsanalyse.",
+          "options": [
+            "auf",
+            "über",
+            "von",
+            "mit"
+          ],
+          "answer": 0,
+          "explanation": "The verb pattern is auf etwas basieren."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l1-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "c2-m3-l1",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "c2-m3-l1-p-g1",
+          "type": "gap",
+          "prompt": "Die vorliegende Arbeit ___ die Wechselwirkung zwischen Sprache und Identität.",
+          "answers": [
+            "untersucht"
+          ],
+          "explanation": "Untersuchen means to examine; the third-person form is untersucht."
+        },
+        {
+          "id": "c2-m3-l1-p-g2",
+          "type": "gap",
+          "prompt": "Die Untersuchung ___ auf einer qualitativen Inhaltsanalyse.",
+          "answers": [
+            "basiert"
+          ],
+          "explanation": "The verb is basieren auf: sie basiert auf."
+        },
+        {
+          "id": "c2-m3-l1-p-g3",
+          "type": "gap",
+          "prompt": "Die Ergebnisse deuten darauf ___, dass die These zutrifft.",
+          "answers": [
+            "hin"
+          ],
+          "explanation": "The separable verb is hindeuten: deuten … hin."
+        },
+        {
+          "id": "c2-m3-l1-p-g4",
+          "type": "gap",
+          "prompt": "Es lässt sich ___, dass der Zusammenhang komplexer ist.",
+          "answers": [
+            "vermuten"
+          ],
+          "explanation": "Vermuten means to assume; the phrase is es lässt sich vermuten."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l1-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "c2-m3-l1",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "c2-m3-l1-p-o1",
+          "type": "order",
+          "prompt": "Build: “The present paper examines the interaction between language and identity.”",
+          "tokens": [
+            "zwischen",
+            "Die",
+            "untersucht",
+            "vorliegende",
+            "Arbeit",
+            "die",
+            "Wechselwirkung",
+            "Sprache",
+            "und",
+            "Identität."
+          ],
+          "answer": "Die vorliegende Arbeit untersucht die Wechselwirkung zwischen Sprache und Identität.",
+          "explanation": "The subject is die vorliegende Arbeit, and the verb untersucht follows it."
+        },
+        {
+          "id": "c2-m3-l1-p-o2",
+          "type": "order",
+          "prompt": "Build: “The study is based on a qualitative content analysis.”",
+          "tokens": [
+            "auf",
+            "Die",
+            "basiert",
+            "Untersuchung",
+            "einer",
+            "qualitativen",
+            "Inhaltsanalyse."
+          ],
+          "answer": "Die Untersuchung basiert auf einer qualitativen Inhaltsanalyse.",
+          "explanation": "Basiert auf takes the dative: auf einer Inhaltsanalyse."
+        },
+        {
+          "id": "c2-m3-l1-p-o3",
+          "type": "order",
+          "prompt": "Build: “The results indicate that the thesis is only partly correct.”",
+          "tokens": [
+            "darauf",
+            "Die",
+            "deuten",
+            "Ergebnisse",
+            "hin,",
+            "dass",
+            "die",
+            "These",
+            "nur",
+            "teilweise",
+            "zutrifft."
+          ],
+          "answer": "Die Ergebnisse deuten darauf hin, dass die These nur teilweise zutrifft.",
+          "explanation": "Hindeuten separates, and the dass-clause ends with the verb."
+        },
+        {
+          "id": "c2-m3-l1-p-o4",
+          "type": "order",
+          "prompt": "Build: “It can be assumed that the connection is more complex.”",
+          "tokens": [
+            "sich",
+            "Es",
+            "lässt",
+            "vermuten,",
+            "dass",
+            "der",
+            "Zusammenhang",
+            "komplexer",
+            "ist."
+          ],
+          "answer": "Es lässt sich vermuten, dass der Zusammenhang komplexer ist.",
+          "explanation": "The dass-clause puts the verb ist at the end."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l1-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "c2-m3-l1",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Ein Abstract wird vorgelesen",
+      "script": [
+        {
+          "speaker": "Autor",
+          "de": "Die vorliegende Arbeit untersucht die Wechselwirkung zwischen Sprache und Identität.",
+          "en": "The present paper examines the interaction between language and identity."
+        },
+        {
+          "speaker": "Autor",
+          "de": "Die Untersuchung basiert auf einer qualitativen Inhaltsanalyse von 40 Interviews.",
+          "en": "The study is based on a qualitative content analysis of 40 interviews."
+        },
+        {
+          "speaker": "Autor",
+          "de": "Die Ergebnisse deuten darauf hin, dass die These nur teilweise zutrifft.",
+          "en": "The results indicate that the thesis is only partly correct."
+        },
+        {
+          "speaker": "Autor",
+          "de": "Es lässt sich vermuten, dass der Zusammenhang komplexer ist als angenommen.",
+          "en": "It can be assumed that the connection is more complex than assumed."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2-m3-l1-l1",
+          "type": "mcq",
+          "prompt": "What is the aim of the paper?",
+          "options": [
+            "To examine the interaction between language and identity",
+            "To measure economic growth",
+            "To compare two universities",
+            "To criticise a method"
+          ],
+          "answer": 0,
+          "explanation": "The first line states the aim directly."
+        },
+        {
+          "id": "c2-m3-l1-l2",
+          "type": "mcq",
+          "prompt": "How does the author phrase the finding?",
+          "options": [
+            "As proven fact",
+            "As an indication that the thesis is partly correct",
+            "As irrelevant",
+            "As a future plan"
+          ],
+          "answer": 1,
+          "explanation": "The author says the results indicate the thesis is only partly correct."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l1-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "c2-m3-l1",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Present the abstract of a paper you know in four sentences: aim, method, finding and interpretation.",
+      "model": {
+        "de": "Die vorliegende Arbeit untersucht die Wirkung von Feedback auf Lernleistungen. Die Untersuchung basiert auf einer Umfrage mit 200 Studierenden. Die Ergebnisse deuten darauf hin, dass regelmäßiges Feedback die Leistung verbessert. Es lässt sich vermuten, dass der Effekt mit der Frequenz zunimmt.",
+        "en": "The present paper examines the effect of feedback on learning outcomes. The study is based on a survey of 200 students. The results indicate that regular feedback improves performance. It can be assumed that the effect increases with frequency."
+      },
+      "tips": [
+        "Give each sentence one job and keep it short.",
+        "Use hindeuten instead of beweisen.",
+        "End with a hedged interpretation, not a new claim."
+      ]
+    },
+    {
+      "id": "c2-m3-l1-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "c2-m3-l1",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Die vorliegende Arbeit untersucht über die Wechselwirkung.",
+          "right": "Die vorliegende Arbeit untersucht die Wechselwirkung.",
+          "why": "Untersuchen takes a direct accusative object, not a preposition."
+        },
+        {
+          "wrong": "Die Ergebnisse deutet darauf hin, dass …",
+          "right": "Die Ergebnisse deuten darauf hin, dass …",
+          "why": "The plural subject Ergebnisse requires the plural verb deuten."
+        },
+        {
+          "wrong": "Es lässt sich vermuten, dass der Zusammenhang ist komplexer.",
+          "right": "Es lässt sich vermuten, dass der Zusammenhang komplexer ist.",
+          "why": "The dass-clause places the verb at the end."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l1-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "c2-m3-l1",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "c2-m3-l1-a1",
+          "type": "mcq",
+          "prompt": "Which sentence introduces the aim of a paper?",
+          "options": [
+            "Die vorliegende Arbeit untersucht …",
+            "Zum Schluss möchte ich …",
+            "Wie bereits erwähnt …",
+            "Im Alltag sagt man …"
+          ],
+          "answer": 0,
+          "explanation": "The fixed phrase for stating an aim is “Die vorliegende Arbeit untersucht …”."
+        },
+        {
+          "id": "c2-m3-l1-a2",
+          "type": "mcq",
+          "prompt": "Die Ergebnisse ___ darauf hin, dass die These zutrifft.",
+          "options": [
+            "deuten",
+            "deutet",
+            "gedeutet",
+            "Deutung"
+          ],
+          "answer": 0,
+          "explanation": "The plural subject Ergebnisse takes the plural verb deuten."
+        },
+        {
+          "id": "c2-m3-l1-a3",
+          "type": "mcq",
+          "prompt": "Which sentence uses appropriate academic hedging?",
+          "options": [
+            "Das beweist eindeutig …",
+            "Es lässt sich vermuten, dass …",
+            "Alle wissen, dass …",
+            "Das ist zu 100 Prozent sicher."
+          ],
+          "answer": 1,
+          "explanation": "“Es lässt sich vermuten” keeps the claim proportional to the evidence."
+        },
+        {
+          "id": "c2-m3-l1-a4",
+          "type": "mcq",
+          "prompt": "Die Untersuchung basiert ___ einer Inhaltsanalyse.",
+          "options": [
+            "auf",
+            "über",
+            "von",
+            "mit"
+          ],
+          "answer": 0,
+          "explanation": "The verb pattern is auf etwas basieren."
+        },
+        {
+          "id": "c2-m3-l1-a5",
+          "type": "gap",
+          "prompt": "Die vorliegende Arbeit ___ die Wechselwirkung zwischen Sprache und Identität.",
+          "answers": [
+            "untersucht"
+          ],
+          "explanation": "Untersuchen means to examine; the third-person form is untersucht."
+        },
+        {
+          "id": "c2-m3-l1-a6",
+          "type": "gap",
+          "prompt": "Die Untersuchung ___ auf einer qualitativen Inhaltsanalyse.",
+          "answers": [
+            "basiert"
+          ],
+          "explanation": "The verb is basieren auf: sie basiert auf."
+        },
+        {
+          "id": "c2-m3-l1-a7",
+          "type": "gap",
+          "prompt": "Die Ergebnisse deuten darauf ___, dass die These zutrifft.",
+          "answers": [
+            "hin"
+          ],
+          "explanation": "The separable verb is hindeuten: deuten … hin."
+        },
+        {
+          "id": "c2-m3-l1-a8",
+          "type": "gap",
+          "prompt": "Es lässt sich ___, dass der Zusammenhang komplexer ist.",
+          "answers": [
+            "vermuten"
+          ],
+          "explanation": "Vermuten means to assume; the phrase is es lässt sich vermuten."
+        },
+        {
+          "id": "c2-m3-l1-a9",
+          "type": "order",
+          "prompt": "Build: “The present paper examines the interaction between language and identity.”",
+          "tokens": [
+            "zwischen",
+            "Die",
+            "untersucht",
+            "vorliegende",
+            "Arbeit",
+            "die",
+            "Wechselwirkung",
+            "Sprache",
+            "und",
+            "Identität."
+          ],
+          "answer": "Die vorliegende Arbeit untersucht die Wechselwirkung zwischen Sprache und Identität.",
+          "explanation": "The subject is die vorliegende Arbeit, and the verb untersucht follows it."
+        },
+        {
+          "id": "c2-m3-l1-a10",
+          "type": "order",
+          "prompt": "Build: “The study is based on a qualitative content analysis.”",
+          "tokens": [
+            "auf",
+            "Die",
+            "basiert",
+            "Untersuchung",
+            "einer",
+            "qualitativen",
+            "Inhaltsanalyse."
+          ],
+          "answer": "Die Untersuchung basiert auf einer qualitativen Inhaltsanalyse.",
+          "explanation": "Basiert auf takes the dative: auf einer Inhaltsanalyse."
+        },
+        {
+          "id": "c2-m3-l1-a11",
+          "type": "order",
+          "prompt": "Build: “The results indicate that the thesis is only partly correct.”",
+          "tokens": [
+            "darauf",
+            "Die",
+            "deuten",
+            "Ergebnisse",
+            "hin,",
+            "dass",
+            "die",
+            "These",
+            "nur",
+            "teilweise",
+            "zutrifft."
+          ],
+          "answer": "Die Ergebnisse deuten darauf hin, dass die These nur teilweise zutrifft.",
+          "explanation": "Hindeuten separates, and the dass-clause ends with the verb."
+        },
+        {
+          "id": "c2-m3-l1-a12",
+          "type": "order",
+          "prompt": "Build: “It can be assumed that the connection is more complex.”",
+          "tokens": [
+            "sich",
+            "Es",
+            "lässt",
+            "vermuten,",
+            "dass",
+            "der",
+            "Zusammenhang",
+            "komplexer",
+            "ist."
+          ],
+          "answer": "Es lässt sich vermuten, dass der Zusammenhang komplexer ist.",
+          "explanation": "The dass-clause puts the verb ist at the end."
+        }
+      ]
+    }
+  ]
+}

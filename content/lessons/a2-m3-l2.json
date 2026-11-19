@@ -1,0 +1,704 @@
+{
+  "id": "a2-m3-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "a2-m3-l2-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "a2-m3-l2",
+      "prompt": "Describe your morning: when you get up, who you call, and what you look forward to.",
+      "items": [
+        "Ich freue mich auf das Wochenende.",
+        "aufstehen",
+        "anrufen",
+        "sich freuen"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "a2-m3-l2-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "a2-m3-l2",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "a2-m3-l2-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "a2-m3-l2",
+      "lede": "Separable verbs split in main clauses; reflexive verbs need a pronoun that points back to the subject.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Separable verbs carry a prefix that moves to the end of a main clause: aufstehen → Ich stehe um sieben auf. In a subordinate clause the prefix stays attached: …, weil ich um sieben aufstehe."
+        },
+        {
+          "kind": "p",
+          "text": "Reflexive verbs use a pronoun that refers back to the subject: ich freue mich, du freust dich, er freut sich. Some verbs are truly reflexive (sich beeilen), while others simply use a reflexive pronoun in certain meanings (sich vorstellen = to introduce oneself)."
+        },
+        {
+          "kind": "note",
+          "title": "Two patterns, one sentence",
+          "text": "Both can appear together: Ich freue mich auf das Wochenende, weil ich dann ausschlafen kann."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l2-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "a2-m3-l2",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "aufstehen",
+              "Ich stehe um sieben Uhr auf."
+            ],
+            [
+              "anrufen",
+              "Er ruft seine Mutter an."
+            ],
+            [
+              "sich freuen",
+              "Ich freue mich auf das Wochenende."
+            ],
+            [
+              "sich interessieren",
+              "Sie interessiert sich für Musik."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "In a main clause the separable prefix goes to the very end.",
+            "Reflexive pronouns in the accusative are mich, dich, sich, uns, euch, sich.",
+            "Some verbs take a dative reflexive pronoun: ich helfe mir, ich merke mir."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l2-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "a2-m3-l2",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "aufstehen",
+          "en": "to get up",
+          "example": "Ich stehe am Wochenende spät auf.",
+          "exampleEn": "I get up late at the weekend."
+        },
+        {
+          "de": "anrufen",
+          "en": "to call (someone)",
+          "example": "Ich rufe dich heute Abend an.",
+          "exampleEn": "I will call you this evening."
+        },
+        {
+          "de": "sich freuen",
+          "en": "to be happy / look forward",
+          "example": "Ich freue mich auf das Wochenende.",
+          "exampleEn": "I am looking forward to the weekend."
+        },
+        {
+          "de": "sich interessieren",
+          "en": "to be interested in",
+          "example": "Er interessiert sich für Sprachen.",
+          "exampleEn": "He is interested in languages."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l2-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "a2-m3-l2",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Ich freue mich auf das Wochenende.",
+          "en": "I am looking forward to the weekend.",
+          "note": "The reflexive pronoun mich refers back to ich."
+        },
+        {
+          "de": "Sie ruft ihre Schwester jeden Tag an.",
+          "en": "She calls her sister every day.",
+          "note": "The prefix an moves to the end."
+        },
+        {
+          "de": "Wir beeilen uns, weil der Zug gleich fährt.",
+          "en": "We are hurrying because the train leaves soon.",
+          "note": "In the subordinate clause, the reflexive pronoun stays inside."
+        },
+        {
+          "de": "Interessierst du dich für Sport?",
+          "en": "Are you interested in sport?",
+          "note": "In a question the reflexive pronoun follows the subject."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l2-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "a2-m3-l2",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "aufstehen",
+          "hint": "Stress the prefix: OWF-shtay-en."
+        },
+        {
+          "de": "sich freuen",
+          "hint": "The eu sounds like “oy”: zikh FROY-en."
+        },
+        {
+          "de": "interessieren",
+          "hint": "Stress the final -sie-: in-te-re-SEE-ren."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l2-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "a2-m3-l2",
+      "heading": "Small talk about the weekend",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "“Freust du dich auf das Wochenende?” is a natural Friday question in German offices. The answer often includes a separable verb: “Ja, ich schlafe erst mal aus.”"
+        },
+        {
+          "kind": "p",
+          "text": "Reflexive verbs are more common in German than in English. Phrases such as “sich beeilen” and “sich ausruhen” are everyday language, not formal or unusual."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l2-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "a2-m3-l2",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "Two friends plan the weekend by phone.",
+      "lines": [
+        {
+          "speaker": "Jan",
+          "de": "Was machst du am Wochenende?",
+          "en": "What are you doing at the weekend?"
+        },
+        {
+          "speaker": "Mia",
+          "de": "Ich stehe erst spät auf und rufe meine Eltern an.",
+          "en": "I will get up late and call my parents."
+        },
+        {
+          "speaker": "Jan",
+          "de": "Freust du dich auf den Sonntag?",
+          "en": "Are you looking forward to Sunday?"
+        },
+        {
+          "speaker": "Mia",
+          "de": "Ja, ich interessiere mich für das Konzert im Park.",
+          "en": "Yes, I am interested in the concert in the park."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l2-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "a2-m3-l2",
+      "heading": "Separable and reflexive verbs",
+      "lede": "Separable prefixes travel to the end; reflexive pronouns follow the subject.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "ich stehe … auf",
+              "separable prefix at the end"
+            ],
+            [
+              "ich freue mich",
+              "accusative reflexive pronoun"
+            ],
+            [
+              "ich merke mir",
+              "dative reflexive pronoun"
+            ],
+            [
+              "weil ich … aufstehe",
+              "prefix stays attached in a subordinate clause"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Common separable prefixes include auf-, an-, ein-, aus-, mit- and zu-. The meaning often changes with the prefix, so learn the verb as a pair."
+        }
+      ],
+      "tip": "If a verb has a stressed prefix, it is probably separable. Listen for the stress: AUFstehen, ANrufen."
+    },
+    {
+      "id": "a2-m3-l2-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "a2-m3-l2",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "a2-m3-l2-p-m1",
+          "type": "mcq",
+          "prompt": "Ich ___ mich auf das Wochenende.",
+          "options": [
+            "freue",
+            "freust",
+            "freut",
+            "freuen"
+          ],
+          "answer": 0,
+          "explanation": "The ich form is ich freue mich."
+        },
+        {
+          "id": "a2-m3-l2-p-m2",
+          "type": "mcq",
+          "prompt": "Er ___ seine Mutter jeden Abend ___.",
+          "options": [
+            "ruft … an",
+            "anruft … —",
+            "ruft … auf",
+            "an … ruft"
+          ],
+          "answer": 0,
+          "explanation": "Anrufen separates: er ruft … an."
+        },
+        {
+          "id": "a2-m3-l2-p-m3",
+          "type": "mcq",
+          "prompt": "___ du dich für Musik?",
+          "options": [
+            "Interessierst",
+            "Interessiert",
+            "Interessieren",
+            "Interessiere"
+          ],
+          "answer": 0,
+          "explanation": "The du form is interessierst, and the reflexive pronoun is dich."
+        },
+        {
+          "id": "a2-m3-l2-p-m4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Ich stehe um sieben auf.",
+            "Ich aufstehe um sieben.",
+            "Ich stehe auf um sieben.",
+            "Ich stehe um sieben an."
+          ],
+          "answer": 0,
+          "explanation": "The prefix auf belongs at the end of the main clause."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l2-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "a2-m3-l2",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "a2-m3-l2-p-g1",
+          "type": "gap",
+          "prompt": "Ich freue ___ auf den Urlaub.",
+          "answers": [
+            "mich"
+          ],
+          "explanation": "The reflexive pronoun for ich is mich."
+        },
+        {
+          "id": "a2-m3-l2-p-g2",
+          "type": "gap",
+          "prompt": "Wir beeilen ___ sehr.",
+          "answers": [
+            "uns"
+          ],
+          "explanation": "The reflexive pronoun for wir is uns."
+        },
+        {
+          "id": "a2-m3-l2-p-g3",
+          "type": "gap",
+          "prompt": "Er ruft dich heute Abend ___.",
+          "answers": [
+            "an"
+          ],
+          "explanation": "The separable prefix of anrufen goes to the end."
+        },
+        {
+          "id": "a2-m3-l2-p-g4",
+          "type": "gap",
+          "prompt": "___ du dich für Sport? (interest)",
+          "answers": [
+            "Interessierst"
+          ],
+          "explanation": "The du form of sich interessieren is interessierst."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l2-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "a2-m3-l2",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "a2-m3-l2-p-o1",
+          "type": "order",
+          "prompt": "Build: “I am looking forward to the weekend.”",
+          "tokens": [
+            "mich",
+            "Ich",
+            "auf",
+            "freue",
+            "das",
+            "Wochenende."
+          ],
+          "answer": "Ich freue mich auf das Wochenende.",
+          "explanation": "The reflexive pronoun follows the verb, then the prepositional phrase."
+        },
+        {
+          "id": "a2-m3-l2-p-o2",
+          "type": "order",
+          "prompt": "Build: “She calls her sister every day.”",
+          "tokens": [
+            "an.",
+            "Sie",
+            "ihre",
+            "ruft",
+            "Schwester",
+            "jeden",
+            "Tag"
+          ],
+          "answer": "Sie ruft ihre Schwester jeden Tag an.",
+          "explanation": "The prefix an closes the sentence after the time phrase."
+        },
+        {
+          "id": "a2-m3-l2-p-o3",
+          "type": "order",
+          "prompt": "Build: “We are hurrying.”",
+          "tokens": [
+            "uns.",
+            "Wir",
+            "beeilen"
+          ],
+          "answer": "Wir beeilen uns.",
+          "explanation": "The reflexive pronoun uns follows the verb."
+        },
+        {
+          "id": "a2-m3-l2-p-o4",
+          "type": "order",
+          "prompt": "Build: “Are you interested in music?”",
+          "tokens": [
+            "dich",
+            "Interessierst",
+            "für",
+            "du",
+            "Musik?"
+          ],
+          "answer": "Interessierst du dich für Musik?",
+          "explanation": "The reflexive pronoun dich follows the subject in a question."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l2-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "a2-m3-l2",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Ein Gespräch unter Freunden",
+      "script": [
+        {
+          "speaker": "Tom",
+          "de": "Freust du dich auf den Urlaub?",
+          "en": "Are you looking forward to the holiday?"
+        },
+        {
+          "speaker": "Eva",
+          "de": "Ja, ich freue mich sehr. Ich stehe dann nicht früh auf.",
+          "en": "Yes, I am really looking forward to it. I won’t get up early then."
+        },
+        {
+          "speaker": "Tom",
+          "de": "Und was machst du dort?",
+          "en": "And what will you do there?"
+        },
+        {
+          "speaker": "Eva",
+          "de": "Ich interessiere mich für Wandern, also gehe ich jeden Tag los.",
+          "en": "I am interested in hiking, so I set off every day."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a2-m3-l2-l1",
+          "type": "mcq",
+          "prompt": "How does Eva feel about the holiday?",
+          "options": [
+            "She is worried",
+            "She is looking forward to it",
+            "She is not interested",
+            "She is angry"
+          ],
+          "answer": 1,
+          "explanation": "She says “Ich freue mich sehr.”"
+        },
+        {
+          "id": "a2-m3-l2-l2",
+          "type": "mcq",
+          "prompt": "What is Eva interested in?",
+          "options": [
+            "Shopping",
+            "Hiking",
+            "Cooking",
+            "Museums"
+          ],
+          "answer": 1,
+          "explanation": "She says “Ich interessiere mich für Wandern.”"
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l2-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "a2-m3-l2",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Say what you look forward to this week and what you do in the morning. Use one reflexive and one separable verb.",
+      "model": {
+        "de": "Ich freue mich auf Freitag. Ich stehe um sieben auf und rufe meine Mutter an.",
+        "en": "I am looking forward to Friday. I get up at seven and call my mother."
+      },
+      "tips": [
+        "Use mich after ich and dich after du.",
+        "Put the separable prefix at the very end of the sentence.",
+        "Practise the pair as one chunk: ich freue mich auf …"
+      ]
+    },
+    {
+      "id": "a2-m3-l2-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "a2-m3-l2",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Ich freue auf das Wochenende.",
+          "right": "Ich freue mich auf das Wochenende.",
+          "why": "Sich freuen needs the reflexive pronoun mich."
+        },
+        {
+          "wrong": "Ich stehe auf um sieben.",
+          "right": "Ich stehe um sieben auf.",
+          "why": "The time phrase comes before the final prefix."
+        },
+        {
+          "wrong": "Ich interessiere für Musik.",
+          "right": "Ich interessiere mich für Musik.",
+          "why": "Sich interessieren is reflexive in German."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l2-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "a2-m3-l2",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "a2-m3-l2-a1",
+          "type": "mcq",
+          "prompt": "Ich ___ mich auf das Wochenende.",
+          "options": [
+            "freue",
+            "freust",
+            "freut",
+            "freuen"
+          ],
+          "answer": 0,
+          "explanation": "The ich form is ich freue mich."
+        },
+        {
+          "id": "a2-m3-l2-a2",
+          "type": "mcq",
+          "prompt": "Er ___ seine Mutter jeden Abend ___.",
+          "options": [
+            "ruft … an",
+            "anruft … —",
+            "ruft … auf",
+            "an … ruft"
+          ],
+          "answer": 0,
+          "explanation": "Anrufen separates: er ruft … an."
+        },
+        {
+          "id": "a2-m3-l2-a3",
+          "type": "mcq",
+          "prompt": "___ du dich für Musik?",
+          "options": [
+            "Interessierst",
+            "Interessiert",
+            "Interessieren",
+            "Interessiere"
+          ],
+          "answer": 0,
+          "explanation": "The du form is interessierst, and the reflexive pronoun is dich."
+        },
+        {
+          "id": "a2-m3-l2-a4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Ich stehe um sieben auf.",
+            "Ich aufstehe um sieben.",
+            "Ich stehe auf um sieben.",
+            "Ich stehe um sieben an."
+          ],
+          "answer": 0,
+          "explanation": "The prefix auf belongs at the end of the main clause."
+        },
+        {
+          "id": "a2-m3-l2-a5",
+          "type": "gap",
+          "prompt": "Ich freue ___ auf den Urlaub.",
+          "answers": [
+            "mich"
+          ],
+          "explanation": "The reflexive pronoun for ich is mich."
+        },
+        {
+          "id": "a2-m3-l2-a6",
+          "type": "gap",
+          "prompt": "Wir beeilen ___ sehr.",
+          "answers": [
+            "uns"
+          ],
+          "explanation": "The reflexive pronoun for wir is uns."
+        },
+        {
+          "id": "a2-m3-l2-a7",
+          "type": "gap",
+          "prompt": "Er ruft dich heute Abend ___.",
+          "answers": [
+            "an"
+          ],
+          "explanation": "The separable prefix of anrufen goes to the end."
+        },
+        {
+          "id": "a2-m3-l2-a8",
+          "type": "gap",
+          "prompt": "___ du dich für Sport? (interest)",
+          "answers": [
+            "Interessierst"
+          ],
+          "explanation": "The du form of sich interessieren is interessierst."
+        },
+        {
+          "id": "a2-m3-l2-a9",
+          "type": "order",
+          "prompt": "Build: “I am looking forward to the weekend.”",
+          "tokens": [
+            "mich",
+            "Ich",
+            "auf",
+            "freue",
+            "das",
+            "Wochenende."
+          ],
+          "answer": "Ich freue mich auf das Wochenende.",
+          "explanation": "The reflexive pronoun follows the verb, then the prepositional phrase."
+        },
+        {
+          "id": "a2-m3-l2-a10",
+          "type": "order",
+          "prompt": "Build: “She calls her sister every day.”",
+          "tokens": [
+            "an.",
+            "Sie",
+            "ihre",
+            "ruft",
+            "Schwester",
+            "jeden",
+            "Tag"
+          ],
+          "answer": "Sie ruft ihre Schwester jeden Tag an.",
+          "explanation": "The prefix an closes the sentence after the time phrase."
+        },
+        {
+          "id": "a2-m3-l2-a11",
+          "type": "order",
+          "prompt": "Build: “We are hurrying.”",
+          "tokens": [
+            "uns.",
+            "Wir",
+            "beeilen"
+          ],
+          "answer": "Wir beeilen uns.",
+          "explanation": "The reflexive pronoun uns follows the verb."
+        },
+        {
+          "id": "a2-m3-l2-a12",
+          "type": "order",
+          "prompt": "Build: “Are you interested in music?”",
+          "tokens": [
+            "dich",
+            "Interessierst",
+            "für",
+            "du",
+            "Musik?"
+          ],
+          "answer": "Interessierst du dich für Musik?",
+          "explanation": "The reflexive pronoun dich follows the subject in a question."
+        }
+      ]
+    }
+  ]
+}

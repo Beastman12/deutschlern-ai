@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>DeutschLern AI — Learn German. Speak German. Live German.</title>
+    <meta
+      name="description"
+      content="DeutschLern AI is a German learning platform with a full A1–C2 curriculum, 17-section interactive lessons, scored lesson checks, grammar academy and vocabulary builder."
+    />
+    <meta name="theme-color" content="#f5f6fb" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0a0c15" media="(prefers-color-scheme: dark)" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml" />
+    <link rel="preload" href="./assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="./assets/fonts/instrument-serif-italic-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/components.css" />
+    <link rel="stylesheet" href="./css/responsive.css" />
+    <!-- Applies the saved theme before first paint. External file so the
+         Content-Security-Policy can keep script-src 'self' with no exceptions. -->
+    <script src="./js/theme-boot.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main" data-skip-link>Skip to main content</a>
+
+    <div class="app" id="app">
+      <aside class="sidebar" id="sidebar" aria-label="Main navigation">
+        <div class="sidebar__head">
+          <a class="brand" href="#/dashboard">
+            <span class="brand__mark" aria-hidden="true">
+              <span class="brand__flag"><i></i><i></i><i></i></span>
+              <span class="brand__letter">D</span>
+            </span>
+            <span class="brand__text">
+              <span class="brand__name">DeutschLern <em>AI</em></span>
+              <span class="brand__tag">Learn · Speak · Live</span>
+            </span>
+          </a>
+          <button
+            class="icon-btn sidebar__collapse"
+            id="sidebar-collapse"
+            type="button"
+            aria-label="Collapse sidebar"
+            title="Collapse sidebar"
+          >
+            <svg class="icon" aria-hidden="true"><use href="#i-panel-left" /></svg>
+          </button>
+        </div>
+
+        <nav class="nav" id="nav" aria-label="Sections"></nav>
+
+        <div class="sidebar__foot">
+          <a class="level-mini" id="sidebar-level" href="#/courses">
+            <span class="level-mini__ring" id="sidebar-ring" aria-hidden="true">A1</span>
+            <span class="level-mini__text">
+              <span class="level-mini__label">Your current path</span>
+              <span class="level-mini__value" id="sidebar-level-label">A1 · Beginner</span>
+            </span>
+            <svg class="icon level-mini__chevron" aria-hidden="true"><use href="#i-chevron-right" /></svg>
+          </a>
+          <p class="sidebar__meta">
+            <span class="status-dot" aria-hidden="true"></span>
+            Milestone 9 · all modules live
+          </p>
+        </div>
+      </aside>
+
+      <button class="sidebar-backdrop" id="sidebar-backdrop" type="button" aria-label="Close navigation" hidden></button>
+
+      <div class="app__body">
+        <header class="topbar">
+          <div class="topbar__left">
+            <button class="icon-btn topbar__menu" id="menu-btn" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="sidebar">
+              <svg class="icon" aria-hidden="true"><use href="#i-menu" /></svg>
+            </button>
+            <nav class="crumbs" id="crumbs" aria-label="Breadcrumb"></nav>
+          </div>
+
+          <div class="topbar__actions">
+            <button class="search-trigger" id="search-trigger" type="button">
+              <svg class="icon" aria-hidden="true"><use href="#i-search" /></svg>
+              <span class="search-trigger__label">Search anything</span>
+              <span class="sr-only">Search lessons, grammar and vocabulary</span>
+              <kbd class="kbd" id="search-kbd">Ctrl K</kbd>
+            </button>
+
+            <span class="demo-flag" id="demo-flag" hidden>
+              <svg class="icon" aria-hidden="true"><use href="#i-info" /></svg>
+              Demo data
+            </span>
+
+            <span class="streak-pill" id="streak-pill" title="Learning streak">
+              <svg class="icon" aria-hidden="true"><use href="#i-flame" /></svg>
+              <strong id="streak-value">0</strong>
+              <span class="streak-pill__label">day streak</span>
+            </span>
+
+            <button class="icon-btn" id="theme-toggle" type="button" aria-label="Switch colour theme" title="Switch theme">
+              <svg class="icon icon--sun" aria-hidden="true"><use href="#i-sun" /></svg>
+              <svg class="icon icon--moon" aria-hidden="true"><use href="#i-moon" /></svg>
+            </button>
+
+            <div class="account" id="account">
+              <button
+                class="avatar-btn"
+                id="account-btn"
+                type="button"
+                aria-label="GU — open account menu"
+                aria-expanded="false"
+                aria-haspopup="true"
+                aria-controls="account-menu"
+              >
+                <span class="avatar" id="avatar" aria-hidden="true">GU</span>
+              </button>
+              <div class="menu" id="account-menu" role="menu" hidden>
+                <div class="menu__head">
+                  <span class="avatar avatar--sm" id="avatar-menu" aria-hidden="true">GU</span>
+                  <span>
+                    <strong id="account-name">Guest learner</strong>
+                    <small id="account-status">Local profile · not signed in</small>
+                  </span>
+                </div>
+                <a class="menu__item" role="menuitem" href="#/profile">
+                  <svg class="icon" aria-hidden="true"><use href="#i-user" /></svg> Profile
+                </a>
+                <a class="menu__item" role="menuitem" href="#/settings">
+                  <svg class="icon" aria-hidden="true"><use href="#i-settings" /></svg> Settings
+                </a>
+                <button class="menu__item" role="menuitem" id="menu-theme" type="button">
+                  <svg class="icon" aria-hidden="true"><use href="#i-moon" /></svg> Toggle theme
+                </button>
+                <div class="menu__divider" role="separator"></div>
+                <button class="menu__item menu__item--muted" role="menuitem" id="menu-signin" type="button">
+                  <svg class="icon" aria-hidden="true"><use href="#i-lock" /></svg>
+                  <span id="menu-signin-label">Sign in</span>
+                  <span class="menu__soon" id="menu-signin-soon" hidden></span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </header>
+
+        <main class="main" id="main" tabindex="-1">
+          <div class="boot" id="boot" aria-busy="true" aria-label="Loading DeutschLern AI">
+            <div class="boot__bar"></div>
+            <div class="boot__grid">
+              <div class="skeleton skeleton--block"></div>
+              <div class="skeleton skeleton--block"></div>
+              <div class="skeleton skeleton--block"></div>
+              <div class="skeleton skeleton--block"></div>
+            </div>
+          </div>
+        </main>
+
+        <footer class="site-foot">
+          <p>
+            <strong>DeutschLern AI</strong> · Learn German. Speak German. Live German.
+          </p>
+          <p class="site-foot__meta">
+            Curriculum aligned to CEFR A1–C2. Not affiliated with or certified by Goethe-Institut, telc or TestDaF.
+          </p>
+        </footer>
+      </div>
+    </div>
+
+    <nav class="mobile-nav" id="mobile-nav" aria-label="Quick navigation"></nav>
+
+    <div class="toasts" id="toasts" aria-live="polite" aria-atomic="false"></div>
+    <div id="modal-root"></div>
+    <div id="palette-root"></div>
+
+    <noscript>
+      <div class="noscript">
+        <h1>JavaScript is required</h1>
+        <p>DeutschLern AI is an interactive learning application. Please enable JavaScript to continue.</p>
+      </div>
+    </noscript>
+
+    <!-- Icon sprite: outline icons, drawn with currentColor -->
+    <svg class="sprite" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+      <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/></symbol>
+      <symbol id="i-book" viewBox="0 0 24 24"><path d="M12 7v14"/><path d="M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z"/></symbol>
+      <symbol id="i-book-open" viewBox="0 0 24 24"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></symbol>
+      <symbol id="i-layers" viewBox="0 0 24 24"><path d="m12.8 2.2-9.2 4a1 1 0 0 0 0 1.8l9.2 4a2 2 0 0 0 1.7 0l9.2-4a1 1 0 0 0 0-1.8l-9.2-4a2 2 0 0 0-1.7 0Z"/><path d="m22 17.7-9.2 4.1a2 2 0 0 1-1.7 0L2 17.7"/><path d="m22 12.7-9.2 4.1a2 2 0 0 1-1.7 0L2 12.7"/></symbol>
+      <symbol id="i-sparkles" viewBox="0 0 24 24"><path d="m12 3-1.9 5.8a2 2 0 0 1-1.3 1.3L3 12l5.8 1.9a2 2 0 0 1 1.3 1.3L12 21l1.9-5.8a2 2 0 0 1 1.3-1.3L21 12l-5.8-1.9a2 2 0 0 1-1.3-1.3z"/><path d="M5 3v4"/><path d="M3 5h4"/><path d="M19 17v4"/><path d="M17 19h4"/></symbol>
+      <symbol id="i-mic" viewBox="0 0 24 24"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><path d="M12 19v3"/></symbol>
+      <symbol id="i-headphones" viewBox="0 0 24 24"><path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3"/></symbol>
+      <symbol id="i-pen" viewBox="0 0 24 24"><path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4Z"/></symbol>
+      <symbol id="i-message" viewBox="0 0 24 24"><path d="M8 20A9 9 0 1 0 4 16.1L2 22Z"/><path d="M8 10h8"/><path d="M8 14h5"/></symbol>
+      <symbol id="i-trophy" viewBox="0 0 24 24"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.7V17c0 .6-.5 1-1 1.2-1.2.6-2 2-2 3.8"/><path d="M14 14.7V17c0 .6.5 1 1 1.2 1.2.6 2 2 2 3.8"/><path d="M18 2H6v7a6 6 0 0 0 12 0Z"/></symbol>
+      <symbol id="i-chart" viewBox="0 0 24 24"><path d="M3 3v18h18"/><path d="M7 15v3"/><path d="M12 10v8"/><path d="M17 6v12"/></symbol>
+      <symbol id="i-user" viewBox="0 0 24 24"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></symbol>
+      <symbol id="i-settings" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1-1.6 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.6-1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1Z"/></symbol>
+      <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></symbol>
+      <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.9 4.9 1.4 1.4"/><path d="m17.7 17.7 1.4 1.4"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.3 17.7-1.4 1.4"/><path d="m19.1 4.9-1.4 1.4"/></symbol>
+      <symbol id="i-moon" viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"/></symbol>
+      <symbol id="i-bell" viewBox="0 0 24 24"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.9 1.9 0 0 0 3.4 0"/></symbol>
+      <symbol id="i-flame" viewBox="0 0 24 24"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.4-.5-2-1-3-1.1-2.1-.2-4.1 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 2 3.5 2 5a7 7 0 1 1-14 0c0-1.2.4-2.3 1-3a2.5 2.5 0 0 0 2.5 2.5Z"/></symbol>
+      <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+      <symbol id="i-arrow-left" viewBox="0 0 24 24"><path d="m12 19-7-7 7-7"/><path d="M19 12H5"/></symbol>
+      <symbol id="i-arrow-right" viewBox="0 0 24 24"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></symbol>
+      <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 5 5L20 7"/></symbol>
+      <symbol id="i-lock" viewBox="0 0 24 24"><rect x="4" y="10" width="16" height="11" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3"/></symbol>
+      <symbol id="i-play" viewBox="0 0 24 24"><path d="m7 4 12 8-12 8Z"/></symbol>
+      <symbol id="i-chevron-down" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></symbol>
+      <symbol id="i-chevron-right" viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></symbol>
+      <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 6h16"/><path d="M4 12h16"/><path d="M4 18h16"/></symbol>
+      <symbol id="i-x" viewBox="0 0 24 24"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></symbol>
+      <symbol id="i-star" viewBox="0 0 24 24"><path d="m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5-5.9-3.1-5.9 3.1 1.2-6.5-4.8-4.6 6.6-.9Z"/></symbol>
+      <symbol id="i-volume" viewBox="0 0 24 24"><path d="M11 5 6 9H2v6h4l5 4Z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M18.5 5.5a9 9 0 0 1 0 13"/></symbol>
+      <symbol id="i-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a15 15 0 0 1 0 18"/><path d="M12 3a15 15 0 0 0 0 18"/></symbol>
+      <symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1"/></symbol>
+      <symbol id="i-calendar" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M16 3v4"/><path d="M8 3v4"/><path d="M3 10h18"/></symbol>
+      <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v5"/><path d="M12 8h.01"/></symbol>
+      <symbol id="i-log-out" viewBox="0 0 24 24"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><path d="m16 17 5-5-5-5"/><path d="M21 12H9"/></symbol>
+      <symbol id="i-zap" viewBox="0 0 24 24"><path d="M13 2 4.5 13.5H11l-1 8.5 8.5-11.5H12Z"/></symbol>
+      <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/><path d="m9 12 2 2 4-4"/></symbol>
+      <symbol id="i-languages" viewBox="0 0 24 24"><path d="M5 8h8"/><path d="M9 4v1c0 4-2.5 8-6 10"/><path d="M5 12c1.5 3 4 5 7 6"/><path d="m13 21 5-12 5 12"/><path d="M14.5 17h6"/></symbol>
+      <symbol id="i-rotate" viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></symbol>
+      <symbol id="i-sliders" viewBox="0 0 24 24"><path d="M4 21v-7"/><path d="M4 10V3"/><path d="M12 21v-9"/><path d="M12 8V3"/><path d="M20 21v-5"/><path d="M20 12V3"/><path d="M1 14h6"/><path d="M9 8h6"/><path d="M17 16h6"/></symbol>
+      <symbol id="i-compass" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m16 8-2 6-6 2 2-6Z"/></symbol>
+      <symbol id="i-panel-left" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18"/></symbol>
+      <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M4 21h16"/></symbol>
+      <symbol id="i-quote" viewBox="0 0 24 24"><path d="M9 11H5a1 1 0 0 1-1-1V7a3 3 0 0 1 3-3h1"/><path d="M9 11c0 4-1 6-4 8"/><path d="M20 11h-4a1 1 0 0 1-1-1V7a3 3 0 0 1 3-3h1"/><path d="M20 11c0 4-1 6-4 8"/></symbol>
+      <symbol id="i-play-circle" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m10 8 6 4-6 4Z"/></symbol>
+      <symbol id="i-award" viewBox="0 0 24 24"><circle cx="12" cy="8" r="6"/><path d="M8.2 13.3 7 22l5-3 5 3-1.2-8.7"/></symbol>
+      <symbol id="i-pin" viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></symbol>
+    </svg>
+
+    <script type="module" src="./js/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "id": "c2",
+  "code": "C2",
+  "name": "Proficiency",
+  "title": "German at Its Full Range",
+  "tagline": "Move between registers, irony and precision like a native speaker.",
+  "overview": "C2 is mastery with awareness. You will examine the choices advanced speakers make — between tenses, between the subjunctive and the indicative, between a precise word and a nearly right one. The work is analytical, literary and rhetorical, with German as the working language of the classroom.",
+  "levelGoal": "By the end of C2 you can understand virtually everything you read or hear, express yourself with precision and spontaneity, and navigate irony, literature and professional nuance with confidence.",
+  "hours": 190,
+  "color": "violet",
+  "canDo": [
+    "Understand literary, academic and highly idiomatic German.",
+    "Express subtle differences in meaning, tone and register.",
+    "Debate complex issues fluently and spontaneously.",
+    "Produce polished academic and professional texts."
+  ],
+  "modules": [
+    {
+      "id": "c2-m1",
+      "number": 1,
+      "title": "Precision & Style",
+      "titleDe": "Präzision und Stil",
+      "summary": "The last mile: grammatical distinctions, stylistic choices and regional awareness.",
+      "lessons": [
+        {
+          "id": "c2-m1-l1",
+          "number": 1,
+          "title": "Advanced Grammatical Distinctions",
+          "titleDe": "Feine grammatische Unterschiede",
+          "summary": "Choose between near-synonymous structures when the difference actually matters.",
+          "minutes": 32,
+          "skills": ["Grammar", "Writing"],
+          "objectives": [
+            "Distinguish subtle tense and mood differences.",
+            "Use the subjunctive for distance, hypothesis and politeness.",
+            "Explain the effect of a grammatical choice on meaning."
+          ],
+          "vocab": ["hätte gehandelt", "wäre vermeidbar gewesen", "dürfte", "sofern"],
+          "keyPhrase": { "de": "Hätte man früher gehandelt, wäre das vermeidbar gewesen.", "en": "Had action been taken earlier, that would have been avoidable." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "c2-m1-l2",
+          "number": 2,
+          "title": "Stylistic Fine-Tuning",
+          "titleDe": "Stilistische Feinarbeit",
+          "summary": "Vary sentence rhythm, choose the precise verb and remove what the text does not need.",
+          "minutes": 30,
+          "skills": ["Writing", "Reading"],
+          "objectives": [
+            "Replace generic verbs with more precise alternatives.",
+            "Vary sentence length for emphasis and readability.",
+            "Explain why one stylistic choice works better than another."
+          ],
+          "vocab": ["prägnant", "anschaulich", "überarbeitet", "die Wendung"],
+          "keyPhrase": { "de": "Der Text ist stilistisch überarbeitet worden.", "en": "The text has been revised stylistically." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "c2-m1-l3",
+          "number": 3,
+          "title": "Regional Variation",
+          "titleDe": "Regionale Variation",
+          "summary": "Hear the difference between standard German, Austrian and Swiss usage — and regional colour.",
+          "minutes": 28,
+          "skills": ["Listening", "Vocabulary"],
+          "objectives": [
+            "Recognise common Austrian and Swiss vocabulary.",
+            "Understand regional pronunciation differences.",
+            "Decide when regional forms are appropriate in writing."
+          ],
+          "vocab": ["Jänner", "Semmel", "Velo", "Servus"],
+          "keyPhrase": { "de": "Diese Redewendung ist im Süden geläufiger als im Norden.", "en": "This expression is more common in the south than in the north." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "c2-m2",
+      "number": 2,
+      "title": "Literature & Rhetoric",
+      "titleDe": "Literatur und Rhetorik",
+      "summary": "Read between the lines and learn how German persuades.",
+      "lessons": [
+        {
+          "id": "c2-m2-l1",
+          "number": 1,
+          "title": "Literary Language & Analysis",
+          "titleDe": "Literarische Sprache und Analyse",
+          "summary": "Narrative voice, imagery and ambiguity in German literature.",
+          "minutes": 32,
+          "skills": ["Reading", "Writing"],
+          "objectives": [
+            "Analyse narrative perspective and voice.",
+            "Identify imagery and its effect.",
+            "Write a short literary interpretation in German."
+          ],
+          "vocab": ["der Erzähler", "die Erzählperspektive", "das Motiv", "die Mehrdeutigkeit"],
+          "keyPhrase": { "de": "Der Erzähler lässt die Grenze zwischen Traum und Wirklichkeit verschwimmen.", "en": "The narrator blurs the boundary between dream and reality." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "c2-m2-l2",
+          "number": 2,
+          "title": "Rhetorical Structures",
+          "titleDe": "Rhetorische Strukturen",
+          "summary": "Recognise and use rhetorical devices without sounding like a textbook.",
+          "minutes": 30,
+          "skills": ["Speaking", "Writing"],
+          "objectives": [
+            "Identify antithesis, repetition and rhetorical questions.",
+            "Use emphasis and contrast effectively in a speech.",
+            "Evaluate the persuasive effect of a rhetorical choice."
+          ],
+          "vocab": ["die Antithese", "die Wiederholung", "die rhetorische Frage", "der Dreiklang"],
+          "keyPhrase": { "de": "Nicht die Mittel fehlen, sondern der Wille.", "en": "It is not the means that are lacking, but the will." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "c2-m2-l3",
+          "number": 3,
+          "title": "Cultural References & Idioms",
+          "titleDe": "Kulturelle Anspielungen und Redewendungen",
+          "summary": "Decode the allusions that make German speakers laugh — or fall silent.",
+          "minutes": 28,
+          "skills": ["Reading", "Vocabulary"],
+          "objectives": [
+            "Recognise references to German cultural history.",
+            "Explain the origin and meaning of common idioms.",
+            "Choose when an allusion is appropriate in conversation."
+          ],
+          "vocab": ["die Anspielung", "der Ursprung", "die Redewendung", "die Kulturreferenz"],
+          "keyPhrase": { "de": "Diese Anspielung versteht nur, wer die Geschichte kennt.", "en": "Only someone who knows the history understands this allusion." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "c2-m3",
+      "number": 3,
+      "title": "Academic & Professional",
+      "titleDe": "Wissenschaft und Beruf",
+      "summary": "Complex writing, precise summary and diplomatic communication.",
+      "lessons": [
+        {
+          "id": "c2-m3-l1",
+          "number": 1,
+          "title": "Complex Academic Writing",
+          "titleDe": "Komplexes wissenschaftliches Schreiben",
+          "summary": "Abstracts, research questions and a coherent line of argument.",
+          "minutes": 32,
+          "skills": ["Writing", "Reading"],
+          "objectives": [
+            "Write an abstract that states aim, method and finding.",
+            "Build a clear thesis and consistent terminology.",
+            "Use citation and hedging language accurately."
+          ],
+          "vocab": ["die vorliegende Arbeit", "die Untersuchung", "die Wechselwirkung", "die Schlussfolgerung"],
+          "keyPhrase": { "de": "Die vorliegende Arbeit untersucht die Wechselwirkung zwischen …", "en": "The present paper examines the interaction between …" },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        },
+        {
+          "id": "c2-m3-l2",
+          "number": 2,
+          "title": "Interpretation & Summary",
+          "titleDe": "Interpretation und Zusammenfassung",
+          "summary": "Paraphrase without losing meaning and summarise without losing nuance.",
+          "minutes": 28,
+          "skills": ["Reading", "Writing"],
+          "objectives": [
+            "Summarise a complex argument in a defined length.",
+            "Paraphrase accurately while avoiding plagiarism.",
+            "Separate an author's position from your own."
+          ],
+          "vocab": ["zusammenfassen", "paraphrasieren", "die Kernaussage", "die Nuance"],
+          "keyPhrase": { "de": "Zusammengefasst lässt sich festhalten, dass …", "en": "In summary, it can be stated that …" },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "c2-m3-l3",
+          "number": 3,
+          "title": "Nuanced Professional Communication",
+          "titleDe": "Nuancierte berufliche Kommunikation",
+          "summary": "Diplomatic language for high-stakes professional situations.",
+          "minutes": 28,
+          "skills": ["Speaking", "Writing"],
+          "objectives": [
+            "Soften criticism without making it vague.",
+            "Use diplomatic suggestions and proposals.",
+            "Adapt formality to hierarchy and culture."
+          ],
+          "vocab": ["anregen", "erwägen", "die Rückmeldung", "die Zustimmung"],
+          "keyPhrase": { "de": "Wir regen an, den Vorschlag erneut zu prüfen.", "en": "We suggest reviewing the proposal again." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        }
+      ]
+    },
+    {
+      "id": "c2-m4",
+      "number": 4,
+      "title": "Native-Like Fluency",
+      "titleDe": "Muttersprachliche Souveränität",
+      "summary": "Debate, improvise and refine until German feels like yours.",
+      "lessons": [
+        {
+          "id": "c2-m4-l1",
+          "number": 1,
+          "title": "Sophisticated Debates",
+          "titleDe": "Anspruchsvolle Debatten",
+          "summary": "Frame, challenge and rebut in real time without losing composure.",
+          "minutes": 30,
+          "skills": ["Speaking", "Listening"],
+          "objectives": [
+            "Frame a debate around a clear question.",
+            "Challenge an assumption politely but directly.",
+            "Rebutt an argument with evidence and structure."
+          ],
+          "vocab": ["die Prämisse", "der Einwand", "widerlegen", "die Gegenposition"],
+          "keyPhrase": { "de": "Man kann die Frage auch aus einer anderen Perspektive betrachten.", "en": "One can also consider the question from another perspective." },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "c2-m4-l2",
+          "number": 2,
+          "title": "Spontaneous Conversation Strategies",
+          "titleDe": "Strategien im spontanen Gespräch",
+          "summary": "Paraphrase, repair and keep the conversation moving when words go missing.",
+          "minutes": 26,
+          "skills": ["Speaking"],
+          "objectives": [
+            "Paraphrase around an unknown word.",
+            "Repair your own sentence naturally.",
+            "Use fillers and discourse markers like a fluent speaker."
+          ],
+          "vocab": ["also", "genau genommen", "anders gesagt", "wie sagt man"],
+          "keyPhrase": { "de": "Wie sagt man das? Ich meine …", "en": "How do you say that? I mean …" },
+          "assessment": { "type": "Lesson check", "questions": 10, "passScore": 70 }
+        },
+        {
+          "id": "c2-m4-l3",
+          "number": 3,
+          "title": "Precision Workshop",
+          "titleDe": "Werkstatt: Präzision",
+          "summary": "Connotation, collocation and the difference between correct and right.",
+          "minutes": 30,
+          "skills": ["Writing", "Vocabulary"],
+          "objectives": [
+            "Choose between near-synonyms by connotation.",
+            "Correct unnatural collocations in a text.",
+            "Explain why a word is misleading in context."
+          ],
+          "vocab": ["die Konnotation", "die Kollokation", "irreführend", "treffend"],
+          "keyPhrase": { "de": "Der Begriff ist in diesem Zusammenhang irreführend.", "en": "The term is misleading in this context." },
+          "assessment": { "type": "Lesson check", "questions": 12, "passScore": 70 }
+        }
+      ]
+    }
+  ],
+  "scenarios": [
+    { "title": "Sophisticated debates", "titleDe": "Anspruchsvolle Debatten" },
+    { "title": "Professional negotiations", "titleDe": "Professionelle Verhandlungen" },
+    { "title": "Literary discussions", "titleDe": "Literaturgespräche" },
+    { "title": "Academic lectures", "titleDe": "Wissenschaftliche Vorträge" },
+    { "title": "Complex spontaneous conversations", "titleDe": "Spontane Gespräche" }
+  ]
+}

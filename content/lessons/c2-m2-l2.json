@@ -1,0 +1,670 @@
+{
+  "id": "c2-m2-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 3,
+      "prompt": "Read these lines aloud. Mark where you would pause and where you would raise your voice.",
+      "items": [
+        "Nicht die Mittel fehlen, sondern der Wille.",
+        "Wir haben die Zahlen, wir haben die Argumente, wir haben die Verantwortung.",
+        "Ist es nicht genau das, was wir immer wieder gefordert haben?"
+      ],
+      "lede": "Rhetoric is rhythm before it is terminology. Hear the shape first."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to name rhetorical devices, use them deliberately and judge their effect."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 5,
+      "lede": "Rhetoric is the study of how language persuades. At C2 the goal is not to decorate a speech with Latin names but to recognise the moves a speaker makes and to judge whether they serve the argument.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A rhetorical device is a pattern with a purpose. Antithesis clarifies by contrast, repetition fixes a phrase in memory, a tricolon gives the impression of completeness, and a rhetorical question invites agreement while pretending to ask. The same device can enlighten or manipulate; the difference lies in whether it supports a real argument or replaces one."
+        },
+        {
+          "kind": "de",
+          "text": "Nicht die Mittel fehlen, sondern der Wille.",
+          "en": "It is not the means that are lacking, but the will."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The antithesis sets two ideas against each other: Nicht die Mittel fehlen, sondern der Wille. It creates clarity through contrast.",
+            "The anaphora repeats a word or phrase at the start of successive clauses: Wir haben …, wir haben …, wir haben ….",
+            "The tricolon, or Dreiklang, groups three parallel elements. Three feels complete without feeling exhaustive.",
+            "The rhetorical question invites agreement while appearing to ask. It can be powerful, but it can also pressure an audience.",
+            "Irony says the opposite of what it means. In writing it depends on context and on the audience sharing the same frame."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "The test of a device",
+          "text": "Remove the device and see whether the argument still stands. If it does, the device was emphasis. If it collapses, the device was doing the persuading, and you should ask why."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "Six devices cover most of what you will analyse in speeches and essays.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Device", "Form", "Example", "Effect"],
+          "rows": [
+            ["Antithese", "contrast: nicht X, sondern Y", "Nicht die Mittel fehlen, sondern der Wille.", "clarity through contrast"],
+            ["Anapher", "repetition at the start of clauses", "Wir haben die Zahlen, wir haben die Argumente.", "rhythm and insistence"],
+            ["Trikolon / Dreiklang", "three parallel elements", "Wir haben die Zahlen, die Argumente, die Verantwortung.", "completeness, memorability"],
+            ["Rhetorische Frage", "question with an obvious answer", "Wollen wir das wirklich?", "invites agreement"],
+            ["Chiasmus", "crosswise repetition of structure", "Nicht weil wir handeln, hoffen wir, sondern weil wir hoffen, handeln wir.", "elegance and surprise"],
+            ["Steigerung", "increasing intensity", "Wir haben gezögert, wir haben beraten, wir haben versäumt.", "escalation"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Repetition works when it is sparse. Three repetitions can be a pattern; ten become noise.",
+            "Parallel structure requires grammatical consistency: article, case and verb form should match across the elements.",
+            "A rhetorical question should not be answered immediately. The pause is part of the device; it is where the audience answers silently.",
+            "Antithesis is not the same as a false dilemma. The contrast must be real, not manufactured to force a choice.",
+            "In German public speech, pathos is often used sparingly. A sober tone can make a single flourish more effective than a chain of them.",
+            "Irony depends on a shared context. In a formal document it can be misread as sincerity, so use it only when the frame is clear."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "The names of the devices are also the tools of analysis. Learn the plural with the singular.",
+      "items": [
+        {
+          "de": "die Antithese",
+          "en": "the antithesis",
+          "article": "die",
+          "plural": "die Antithesen",
+          "pronunciation": "antiˈteːzə",
+          "example": "Die Antithese stellt zwei Begriffe scharf gegenüber.",
+          "exampleEn": "The antithesis sets two concepts sharply against each other."
+        },
+        {
+          "de": "die Wiederholung",
+          "en": "the repetition",
+          "article": "die",
+          "plural": "die Wiederholungen",
+          "pronunciation": "viːdɐˈhoːlʊŋ",
+          "example": "Die Wiederholung am Satzanfang heißt Anapher.",
+          "exampleEn": "Repetition at the beginning of a sentence is called anaphora."
+        },
+        {
+          "de": "die rhetorische Frage",
+          "en": "the rhetorical question",
+          "article": "die",
+          "plural": "die rhetorischen Fragen",
+          "pronunciation": "ʁeˈtoːʁɪʃə ˈfʁaːɡə",
+          "example": "Die rhetorische Frage erwartet keine Antwort, sondern Zustimmung.",
+          "exampleEn": "The rhetorical question expects not an answer but agreement."
+        },
+        {
+          "de": "der Dreiklang",
+          "en": "the tricolon, three-part phrase",
+          "article": "der",
+          "plural": "die Dreiklänge",
+          "pronunciation": "ˈdʁaɪ̯klaŋ",
+          "example": "Der Dreiklang wirkt vollständig, ohne erschöpfend zu sein.",
+          "exampleEn": "The tricolon feels complete without being exhaustive."
+        },
+        {
+          "de": "die Anapher",
+          "en": "the anaphora",
+          "article": "die",
+          "plural": "die Anaphern",
+          "pronunciation": "aˈnaːfɐ",
+          "example": "Die Anapher beginnt mehrere Sätze mit demselben Wort.",
+          "exampleEn": "The anaphora begins several sentences with the same word."
+        },
+        {
+          "de": "die Steigerung",
+          "en": "the escalation, climax",
+          "article": "die",
+          "plural": "die Steigerungen",
+          "pronunciation": "ˈʃtaɪ̯ɡəʁʊŋ",
+          "example": "Die Steigerung führt vom Zögern über das Beraten zum Versäumnis.",
+          "exampleEn": "The escalation moves from hesitation through deliberation to neglect."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 5,
+      "lede": "Name the device, then say what it does. A label alone is not an analysis.",
+      "items": [
+        {
+          "de": "Nicht die Mittel fehlen, sondern der Wille.",
+          "en": "It is not the means that are lacking, but the will.",
+          "note": "Antithesis: the parallel structure makes the contrast feel like a diagnosis."
+        },
+        {
+          "de": "Wer schweigt, stimmt zu.",
+          "en": "Whoever stays silent agrees.",
+          "note": "A compact rhetorical claim. It persuades by compression, not by proof."
+        },
+        {
+          "de": "Wir haben die Zahlen, wir haben die Argumente, wir haben die Verantwortung.",
+          "en": "We have the figures, we have the arguments, we have the responsibility.",
+          "note": "Anaphora plus tricolon: the repeated opening creates momentum, the third element raises the stakes."
+        },
+        {
+          "de": "Ist es nicht genau das, was wir immer wieder gefordert haben?",
+          "en": "Is that not exactly what we have repeatedly demanded?",
+          "note": "The rhetorical question invites agreement and makes disagreement sound awkward."
+        },
+        {
+          "de": "Die einen reden, die anderen handeln.",
+          "en": "Some talk, others act.",
+          "note": "Antithesis with parallel clauses; the brevity is part of the persuasion."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 4,
+      "lede": "These terms are stress-sensitive. Put the accent in the right place and the word becomes transparent.",
+      "items": [
+        {
+          "de": "Antithese",
+          "hint": "Stress the third syllable: an-ti-THE-se. The final -e is light.",
+          "en": "antithesis"
+        },
+        {
+          "de": "Wiederholung",
+          "hint": "Stress the third syllable: wie-der-HO-lung. Keep the first syllable short.",
+          "en": "repetition"
+        },
+        {
+          "de": "rhetorisch",
+          "hint": "Stress the second syllable: rhe-TO-risch. The initial rh is a plain r sound.",
+          "en": "rhetorical"
+        },
+        {
+          "de": "Dreiklang",
+          "hint": "Stress the first syllable: DREI-klang. The ei is a diphthong, not two separate vowels.",
+          "en": "tricolon"
+        },
+        {
+          "de": "Anapher",
+          "hint": "Stress the second syllable: a-NA-fer. The ph is an f sound.",
+          "en": "anaphora"
+        },
+        {
+          "de": "Steigerung",
+          "hint": "Stress the first syllable: STEI-ge-rung. The ei is a diphthong and the final -ung is clear.",
+          "en": "escalation"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 3,
+      "heading": "Rhetoric between pathos and sobriety",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Rhetorical devices are part of the German school curriculum. Pupils analyse political speeches, essays and advertisements, and they learn to name a figure and explain its Wirkung. The vocabulary in this lesson is therefore the shared language of the classroom as well as of professional communication."
+        },
+        {
+          "kind": "p",
+          "text": "In German public culture, overt pathos is often treated with caution. A speaker who reaches for a grand tricolon must earn it through substance, because the audience may hear the device before it hears the argument. This does not make German rhetoric plain; it makes the timing of a flourish more important than its quantity."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "Two speakers prepare an opening. Watch how a device is chosen, questioned and revised.",
+      "setting": "A debate club preparing a speech",
+      "lines": [
+        {
+          "speaker": "Moderatorin",
+          "de": "Für die Eröffnung brauchen wir einen Satz, der hängen bleibt.",
+          "en": "For the opening we need a sentence that sticks."
+        },
+        {
+          "speaker": "Redner",
+          "de": "Ich würde mit einer Antithese beginnen: Nicht die Mittel fehlen, sondern der Wille.",
+          "en": "I would begin with an antithesis: it is not the means that are lacking, but the will."
+        },
+        {
+          "speaker": "Moderatorin",
+          "de": "Gut. Und danach?",
+          "en": "Good. And after that?"
+        },
+        {
+          "speaker": "Redner",
+          "de": "Ein Dreiklang: Wir haben die Zahlen, wir haben die Argumente, wir haben die Verantwortung.",
+          "en": "A tricolon: we have the figures, we have the arguments, we have the responsibility."
+        },
+        {
+          "speaker": "Moderatorin",
+          "de": "Achtung, das klingt schnell nach Wahlkampf.",
+          "en": "Careful, that quickly sounds like a election campaign."
+        },
+        {
+          "speaker": "Redner",
+          "de": "Dann kürze ich ihn auf zwei Glieder und stelle eine rhetorische Frage.",
+          "en": "Then I'll shorten it to two elements and ask a rhetorical question."
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Rhetorische Figuren und ihre Wirkung",
+      "lede": "Every device has a benefit and a risk. Analysis names both.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Figure", "Example", "Effect", "Risk"],
+          "rows": [
+            ["Antithese", "Nicht die Mittel fehlen, sondern der Wille.", "clarity through contrast", "can become a false dilemma"],
+            ["Anapher", "Wir haben …, wir haben …", "rhythm and insistence", "monotonous if overused"],
+            ["Trikolon", "three parallel elements", "completeness and memorability", "can sound like advertising"],
+            ["Rhetorische Frage", "Wollen wir das wirklich?", "invites agreement", "can pressure the audience"],
+            ["Chiasmus", "Nicht weil wir handeln, hoffen wir, sondern weil wir hoffen, handeln wir.", "elegance and surprise", "can obscure the argument"],
+            ["Steigerung", "Wir haben gezögert, wir haben beraten, wir haben versäumt.", "escalation", "can tip into melodrama"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "A figure is effective when it serves the argument, not when it replaces it.",
+            "Parallelism needs grammatical consistency. If one element has an article, all three should.",
+            "Pause after a rhetorical question. The silence is where the audience answers.",
+            "Irony depends on shared context; in a formal document it can be misread as sincerity.",
+            "The strongest rhetorical writing usually varies its devices and returns to plain statement. Contrast makes emphasis visible."
+          ]
+        }
+      ],
+      "tip": "When you analyse a speech, quote the device, name it, and then write one sentence about its function in the argument. Drei Beispiele für eine These sind ein Dreiklang; sie wirken nur, wenn die These selbst trägt."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 5,
+      "lede": "Identify the device and, where possible, the job it is doing.",
+      "exercises": [
+        {
+          "id": "c2m2l2-p1",
+          "type": "mcq",
+          "prompt": "Which device sets two ideas in explicit contrast?",
+          "options": ["die Anapher", "die Antithese", "der Dreiklang", "die Steigerung"],
+          "answer": 1,
+          "explanation": "The antithesis contrasts two ideas, often in the pattern nicht X, sondern Y."
+        },
+        {
+          "id": "c2m2l2-p2",
+          "type": "mcq",
+          "prompt": "Which device repeats a word at the beginning of successive clauses?",
+          "options": ["die Anapher", "der Chiasmus", "die Ironie", "die rhetorische Frage"],
+          "answer": 0,
+          "explanation": "Anaphora is repetition at the start of successive clauses or sentences: Wir haben …, wir haben …."
+        },
+        {
+          "id": "c2m2l2-p3",
+          "type": "mcq",
+          "prompt": "How many parallel elements does a Dreiklang have?",
+          "options": ["Two", "Three", "Four", "As many as the speaker wants"],
+          "answer": 1,
+          "explanation": "Dreiklang literally means three-part sound; the device groups three parallel elements."
+        },
+        {
+          "id": "c2m2l2-p4",
+          "type": "mcq",
+          "prompt": "What is the main effect of a rhetorical question?",
+          "options": ["It requests new information.", "It invites agreement while appearing to ask.", "It ends the argument.", "It makes the speech more formal."],
+          "answer": 1,
+          "explanation": "A rhetorical question expects no answer; it invites the audience to agree with the implied answer."
+        },
+        {
+          "id": "c2m2l2-p5",
+          "type": "mcq",
+          "prompt": "Which sentence is a rhetorical question?",
+          "options": ["Wie spät ist es?", "Haben Sie den Bericht gelesen?", "Wollen wir das wirklich?", "Wann beginnt die Sitzung?"],
+          "answer": 2,
+          "explanation": "Wollen wir das wirklich? implies its own answer and invites agreement. The other questions genuinely request information."
+        },
+        {
+          "id": "c2m2l2-p6",
+          "type": "mcq",
+          "prompt": "Which device says the opposite of what is meant?",
+          "options": ["die Antithese", "die Ironie", "die Anapher", "die Steigerung"],
+          "answer": 1,
+          "explanation": "Irony says the opposite of what is meant, relying on context and shared knowledge for the audience to hear the inversion."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 5,
+      "lede": "Type the missing word. These sentences are models for your own analysis.",
+      "exercises": [
+        {
+          "id": "c2m2l2-g1",
+          "type": "gap",
+          "prompt": "Nicht die Mittel fehlen, ___ der Wille.",
+          "answers": ["sondern"],
+          "explanation": "After a negation, sondern introduces the contrasting alternative: nicht X, sondern Y."
+        },
+        {
+          "id": "c2m2l2-g2",
+          "type": "gap",
+          "prompt": "Wer schweigt, ___ zu.",
+          "answers": ["stimmt"],
+          "explanation": "The proverb is Wer schweigt, stimmt zu: whoever is silent agrees."
+        },
+        {
+          "id": "c2m2l2-g3",
+          "type": "gap",
+          "prompt": "Wir haben die Zahlen, wir haben die Argumente, wir haben die ___.",
+          "answers": ["Verantwortung"],
+          "explanation": "Die Verantwortung completes the tricolon and raises the stakes of the third element."
+        },
+        {
+          "id": "c2m2l2-g4",
+          "type": "gap",
+          "prompt": "Ist es nicht genau das, was wir immer wieder gefordert ___?",
+          "answers": ["haben"],
+          "explanation": "The perfect tense of fordern is haben gefordert; the auxiliary stands at the end of the clause."
+        },
+        {
+          "id": "c2m2l2-g5",
+          "type": "gap",
+          "prompt": "Die einen reden, die anderen ___.",
+          "answers": ["handeln"],
+          "explanation": "The antithesis contrasts reden and handeln: some talk, others act."
+        },
+        {
+          "id": "c2m2l2-g6",
+          "type": "gap",
+          "prompt": "Eine ___ Frage erwartet keine Antwort, sondern Zustimmung.",
+          "answers": ["rhetorische"],
+          "explanation": "Die rhetorische Frage is the rhetorical question; the adjective takes the feminine ending after eine."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 4,
+      "lede": "Build sentences with a clear rhetorical shape. Punctuation matters for the pause.",
+      "exercises": [
+        {
+          "id": "c2m2l2-o1",
+          "type": "order",
+          "prompt": "Build: “It is not the means that are lacking, but the will.”",
+          "tokens": ["der", "die", "fehlen", "Nicht", "Wille", "Mittel", "sondern"],
+          "answer": "Nicht die Mittel fehlen, sondern der Wille.",
+          "explanation": "The antithesis pairs die Mittel and der Wille; the comma marks the turn from negation to alternative."
+        },
+        {
+          "id": "c2m2l2-o2",
+          "type": "order",
+          "prompt": "Build: “We have the figures, we have the arguments, we have the responsibility.”",
+          "tokens": ["die", "haben", "Wir", "Argumente", "die", "haben", "Zahlen", "Wir", "Verantwortung", "die", "haben", "Wir"],
+          "answer": "Wir haben die Zahlen, wir haben die Argumente, wir haben die Verantwortung.",
+          "explanation": "The anaphora repeats Wir haben three times; each clause adds a heavier element, creating a tricolon."
+        },
+        {
+          "id": "c2m2l2-o3",
+          "type": "order",
+          "prompt": "Build: “Is that not exactly what we have repeatedly demanded?”",
+          "tokens": ["was", "nicht", "immer", "es", "genau", "haben", "Ist", "gefordert", "das,", "wir", "wieder"],
+          "answer": "Ist es nicht genau das, was wir immer wieder gefordert haben?",
+          "explanation": "The question begins with the verb Ist; the relative clause was wir … gefordert haben ends with the auxiliary."
+        },
+        {
+          "id": "c2m2l2-o4",
+          "type": "order",
+          "prompt": "Build: “Some talk, others act.”",
+          "tokens": ["die", "Die", "handeln", "anderen", "einen", "reden"],
+          "answer": "Die einen reden, die anderen handeln.",
+          "explanation": "Die einen … die anderen … is a paired antithesis; each clause keeps the verb in second position."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 5,
+      "lede": "A short speech opening. Listen for the pattern before you judge the argument.",
+      "speaker": "A speaker at a public meeting",
+      "script": [
+        {
+          "speaker": "Rednerin",
+          "de": "Wir haben lange gezögert. Wir haben beraten. Wir haben gewartet.",
+          "en": "We hesitated for a long time. We deliberated. We waited."
+        },
+        {
+          "speaker": "Rednerin",
+          "de": "Doch die Frage ist nicht, ob wir es können. Die Frage ist, ob wir es wollen.",
+          "en": "But the question is not whether we can. The question is whether we want to."
+        },
+        {
+          "speaker": "Rednerin",
+          "de": "Wer jetzt schweigt, stimmt dem Stillstand zu.",
+          "en": "Whoever stays silent now agrees to stagnation."
+        },
+        {
+          "speaker": "Rednerin",
+          "de": "Deshalb frage ich Sie: Wollen wir diese Chance wirklich verpassen?",
+          "en": "So I ask you: do we really want to miss this opportunity?"
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2m2l2-lq1",
+          "type": "mcq",
+          "prompt": "Which device shapes the first three sentences?",
+          "options": ["Irony", "Anaphora", "Chiasmus", "Understatement"],
+          "answer": 1,
+          "explanation": "Each sentence begins with Wir haben, so the repetition is anaphora."
+        },
+        {
+          "id": "c2m2l2-lq2",
+          "type": "mcq",
+          "prompt": "Which contrast does the speaker draw?",
+          "options": ["Ability versus will", "Past versus future", "Young versus old", "North versus south"],
+          "answer": 0,
+          "explanation": "The speaker contrasts ob wir es können with ob wir es wollen: ability versus will."
+        },
+        {
+          "id": "c2m2l2-lq3",
+          "type": "mcq",
+          "prompt": "What does the speaker imply about silence?",
+          "options": ["It is neutral.", "It means agreement with stagnation.", "It is a sign of wisdom.", "It ends the meeting."],
+          "answer": 1,
+          "explanation": "Wer jetzt schweigt, stimmt dem Stillstand zu — silence is framed as consent to stagnation."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 5,
+      "lede": "Use the devices, then step back and explain them. A speaker who can analyse their own choices sounds credible.",
+      "prompt": "Deliver a sixty-second speech on a topic you care about. Use one antithesis, one tricolon and one rhetorical question, then explain why each device fits the argument.",
+      "model": {
+        "de": "Wir haben die Pläne, wir haben die Menschen, wir haben die Zeit. Was fehlt, ist der Mut, anzufangen. Wollen wir wirklich warten, bis uns die Entscheidung abgenommen wird? Nicht die Umstände halten uns auf, sondern unsere Gewohnheit, alles zu verschieben. Der Dreiklang zeigt, dass die Mittel vorhanden sind; die Frage macht aus dem Argument einen Appell.",
+        "en": "We have the plans, we have the people, we have the time. What is missing is the courage to begin. Do we really want to wait until the decision is taken from us? It is not the circumstances that hold us back, but our habit of postponing everything. The tricolon shows that the means are available; the question turns the argument into an appeal."
+      },
+      "tips": [
+        "Build the tricolon from grammatically parallel elements: same article, same case, same verb form.",
+        "Pause after the rhetorical question. The silence gives the audience time to answer inwardly.",
+        "Do not stack devices. Return to a plain statement so the next flourish has something to contrast with."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 3,
+      "lede": "These errors weaken the device or misdescribe it.",
+      "items": [
+        {
+          "wrong": "Nicht die Mittel fehlen, aber der Wille.",
+          "right": "Nicht die Mittel fehlen, sondern der Wille.",
+          "why": "After a negation, the contrasting alternative is introduced by sondern, not aber."
+        },
+        {
+          "wrong": "Wir haben die Zahlen, wir haben Argumente, wir haben die Verantwortung.",
+          "right": "Wir haben die Zahlen, wir haben die Argumente, wir haben die Verantwortung.",
+          "why": "The tricolon depends on parallel grammar. The missing article in the second element breaks the pattern."
+        },
+        {
+          "wrong": "Rhetorische Fragen erwarten eine Antwort.",
+          "right": "Rhetorische Fragen erwarten keine Antwort, sondern Zustimmung.",
+          "why": "The rhetorical question is not a request for information. Its purpose is to invite agreement or expose a contradiction."
+        },
+        {
+          "wrong": "Wiederholung wirkt immer verstärkend.",
+          "right": "Wiederholung verstärkt nur, wenn sie sparsam eingesetzt wird.",
+          "why": "Repetition can become noise. The effect depends on frequency, placement and the weight of the repeated phrase."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions. Score 70% or more to complete the lesson check.",
+      "questions": [
+        {
+          "id": "c2m2l2-a1",
+          "type": "mcq",
+          "prompt": "Which device sets two ideas in explicit contrast?",
+          "options": ["die Anapher", "die Antithese", "der Dreiklang", "die Steigerung"],
+          "answer": 1,
+          "explanation": "The antithesis contrasts two ideas, often in the pattern nicht X, sondern Y."
+        },
+        {
+          "id": "c2m2l2-a2",
+          "type": "mcq",
+          "prompt": "Which device repeats a word at the beginning of successive clauses?",
+          "options": ["die Anapher", "der Chiasmus", "die Ironie", "die rhetorische Frage"],
+          "answer": 0,
+          "explanation": "Anaphora is repetition at the start of successive clauses: Wir haben …, wir haben …."
+        },
+        {
+          "id": "c2m2l2-a3",
+          "type": "mcq",
+          "prompt": "How many parallel elements does a Dreiklang have?",
+          "options": ["Two", "Three", "Four", "Five"],
+          "answer": 1,
+          "explanation": "A Dreiklang groups three parallel elements."
+        },
+        {
+          "id": "c2m2l2-a4",
+          "type": "mcq",
+          "prompt": "What is the main effect of a rhetorical question?",
+          "options": ["It requests new information.", "It invites agreement while appearing to ask.", "It closes the argument.", "It makes the text more formal."],
+          "answer": 1,
+          "explanation": "A rhetorical question expects no answer; it invites the audience to agree with the implied answer."
+        },
+        {
+          "id": "c2m2l2-a5",
+          "type": "mcq",
+          "prompt": "Which device says the opposite of what is meant?",
+          "options": ["die Antithese", "die Ironie", "die Anapher", "die Steigerung"],
+          "answer": 1,
+          "explanation": "Irony inverts the literal meaning and relies on context for the audience to hear it."
+        },
+        {
+          "id": "c2m2l2-a6",
+          "type": "mcq",
+          "prompt": "Which sentence is a chiasmus?",
+          "options": ["Nicht die Mittel fehlen, sondern der Wille.", "Nicht weil wir handeln, hoffen wir, sondern weil wir hoffen, handeln wir.", "Wir haben die Zahlen, wir haben die Argumente.", "Wollen wir das wirklich?"],
+          "answer": 1,
+          "explanation": "A chiasmus crosses the structure: handeln … hoffen becomes hoffen … handeln."
+        },
+        {
+          "id": "c2m2l2-a7",
+          "type": "gap",
+          "prompt": "Nicht die Mittel fehlen, ___ der Wille.",
+          "answers": ["sondern"],
+          "explanation": "After a negation, sondern introduces the contrasting alternative."
+        },
+        {
+          "id": "c2m2l2-a8",
+          "type": "gap",
+          "prompt": "Wer schweigt, ___ zu.",
+          "answers": ["stimmt"],
+          "explanation": "The proverb is Wer schweigt, stimmt zu."
+        },
+        {
+          "id": "c2m2l2-a9",
+          "type": "gap",
+          "prompt": "Wir haben die Zahlen, wir haben die Argumente, wir haben die ___.",
+          "answers": ["Verantwortung"],
+          "explanation": "Die Verantwortung completes the tricolon."
+        },
+        {
+          "id": "c2m2l2-a10",
+          "type": "gap",
+          "prompt": "Eine ___ Frage erwartet keine Antwort, sondern Zustimmung.",
+          "answers": ["rhetorische"],
+          "explanation": "Die rhetorische Frage is the rhetorical question."
+        },
+        {
+          "id": "c2m2l2-a11",
+          "type": "order",
+          "prompt": "Build: “It is not the means that are lacking, but the will.”",
+          "tokens": ["der", "die", "fehlen", "Nicht", "Wille", "Mittel", "sondern"],
+          "answer": "Nicht die Mittel fehlen, sondern der Wille.",
+          "explanation": "The antithesis pairs die Mittel and der Wille; the comma marks the turn."
+        },
+        {
+          "id": "c2m2l2-a12",
+          "type": "order",
+          "prompt": "Build: “We have the figures, we have the arguments, we have the responsibility.”",
+          "tokens": ["die", "haben", "Wir", "Argumente", "die", "haben", "Zahlen", "Wir", "Verantwortung", "die", "haben", "Wir"],
+          "answer": "Wir haben die Zahlen, wir haben die Argumente, wir haben die Verantwortung.",
+          "explanation": "The anaphora repeats Wir haben three times; each clause adds a heavier element."
+        }
+      ]
+    }
+  ]
+}

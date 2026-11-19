@@ -1,0 +1,638 @@
+{
+  "id": "a2-m2-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Read aloud and find the person who receives something.",
+      "prompt": "Say these sentences aloud. Each one has two objects: a thing and a person.",
+      "items": [
+        "Ich gebe dem Kind einen Apfel.",
+        "Sie schenkt ihrer Schwester ein Buch.",
+        "Er zeigt mir den Weg.",
+        "Wir empfehlen Ihnen das Restaurant."
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "Two objects, two cases: who receives, and what is given.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Many everyday verbs can take two objects. The thing that is given, shown or explained is the direct object and stands in the accusative. The person who receives it is the indirect object and stands in the dative. German marks the difference on the article, not on the noun."
+        },
+        {
+          "kind": "de",
+          "text": "Ich gebe dem Kind einen Apfel.",
+          "en": "I give the child an apple."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Ask Wen oder was? for the accusative: einen Apfel.",
+            "Ask Wem? for the dative: dem Kind.",
+            "Verbs with two objects include geben, schenken, zeigen, bringen, schicken, erklären, empfehlen and leihen.",
+            "With two nouns, the dative comes first: dem Kind einen Apfel."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "One case at a time",
+          "text": "Find the person first, then the thing. Ich gebe — wem? dem Kind — was? einen Apfel. This order of questions prevents most article mistakes."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "The articles and the word order do most of the work.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Gender", "Nominative", "Accusative", "Dative"],
+          "rows": [
+            ["masculine", "der / ein", "den / einen", "dem / einem"],
+            ["feminine", "die / eine", "die / eine", "der / einer"],
+            ["neuter", "das / ein", "das / ein", "dem / einem"],
+            ["plural", "die / keine", "die / keine", "den + -n / keinen + -n"]
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Sentence", "Accusative (was?)", "Dative (wem?)"],
+          "rows": [
+            ["Ich gebe dem Kind einen Apfel.", "einen Apfel", "dem Kind"],
+            ["Sie schenkt ihrer Schwester ein Buch.", "ein Buch", "ihrer Schwester"],
+            ["Er zeigt mir den Weg.", "den Weg", "mir"],
+            ["Wir bringen den Nachbarn einen Kuchen.", "einen Kuchen", "den Nachbarn"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Two nouns: dative before accusative — Ich gebe dem Kind den Apfel.",
+            "One pronoun and one noun: the pronoun comes first — Ich gebe ihn dem Kind.",
+            "Two pronouns: accusative before dative — Ich gebe es ihm.",
+            "A pronoun replaces a noun completely, so do not keep both: Ich gebe es ihm, not Ich gebe es dem Kind ihm."
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Always dative", "Always accusative"],
+          "rows": [
+            ["aus, bei, mit, nach, seit, von, zu", "durch, für, gegen, ohne, um"],
+            ["mit dem Fahrrad", "für meinen Bruder"],
+            ["seit einem Jahr", "ohne einen Termin"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These verbs regularly take a person and a thing.",
+      "items": [
+        {
+          "de": "geben",
+          "en": "to give",
+          "pronunciation": "GAY-ben",
+          "example": "Ich gebe dem Kind einen Apfel.",
+          "exampleEn": "I give the child an apple."
+        },
+        {
+          "de": "schenken",
+          "en": "to give as a gift",
+          "pronunciation": "SHEN-ken",
+          "example": "Sie schenkt ihrer Schwester ein Buch.",
+          "exampleEn": "She gives her sister a book."
+        },
+        {
+          "de": "zeigen",
+          "en": "to show",
+          "pronunciation": "TSY-gen",
+          "example": "Er zeigt mir den Weg.",
+          "exampleEn": "He shows me the way."
+        },
+        {
+          "de": "dem Kind",
+          "en": "to the child (dative)",
+          "pronunciation": "dame kint",
+          "example": "Ich gebe dem Kind einen Apfel.",
+          "exampleEn": "I give the child an apple."
+        },
+        {
+          "de": "das Geschenk",
+          "en": "the gift / present",
+          "article": "das",
+          "plural": "die Geschenke",
+          "pronunciation": "ge-SHENK",
+          "example": "Das Geschenk ist für meinen Bruder.",
+          "exampleEn": "The gift is for my brother."
+        },
+        {
+          "de": "die Großmutter",
+          "en": "the grandmother",
+          "article": "die",
+          "plural": "die Großmütter",
+          "pronunciation": "GROHS-moo-ter",
+          "example": "Ich schenke meiner Großmutter Blumen.",
+          "exampleEn": "I give my grandmother flowers."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Read each pair of objects aloud: person first, thing second.",
+      "items": [
+        {
+          "de": "Ich gebe dem Kind einen Apfel.",
+          "en": "I give the child an apple.",
+          "note": "dem Kind is dative, einen Apfel is accusative."
+        },
+        {
+          "de": "Sie schenkt ihrer Schwester ein Buch.",
+          "en": "She gives her sister a book as a present.",
+          "note": "ihrer Schwester is the feminine dative form."
+        },
+        {
+          "de": "Er zeigt mir den Weg zum Bahnhof.",
+          "en": "He shows me the way to the station.",
+          "note": "mir is the dative pronoun; den Weg is accusative."
+        },
+        {
+          "de": "Wir bringen den Nachbarn einen Kuchen.",
+          "en": "We are bringing the neighbours a cake.",
+          "note": "den Nachbarn is dative plural; the noun already ends in -n."
+        },
+        {
+          "de": "Kannst du es mir bitte erklären?",
+          "en": "Can you explain it to me, please?",
+          "note": "With two pronouns the accusative es comes before the dative mir."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "The articles are short. Say them clearly enough to hear the case.",
+      "items": [
+        {
+          "de": "geben",
+          "hint": "Long e in the first syllable: GAY-ben. The second syllable is soft.",
+          "en": "to give"
+        },
+        {
+          "de": "schenken",
+          "hint": "Start with “sh”, not a hard sk: SHEN-ken.",
+          "en": "to give as a gift"
+        },
+        {
+          "de": "erklären",
+          "hint": "Long ä and stress on the second syllable: air-KLAY-ren.",
+          "en": "to explain"
+        },
+        {
+          "de": "Großmutter",
+          "hint": "Long o and a sharp s: GROHS-moo-ter. Do not voice the ß.",
+          "en": "grandmother"
+        },
+        {
+          "de": "einem",
+          "hint": "Said quickly it sounds like “eye-nem”. Keep both syllables so the dative stays audible.",
+          "en": "a (dative)"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Schenken: the German gift verb",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German separates giving in general (geben) from giving a present (schenken). Both take a dative person and an accusative thing: Ich gebe dir den Schlüssel, but Ich schenke dir ein Buch."
+        },
+        {
+          "kind": "p",
+          "text": "Christmas presents are traditionally opened on Christmas Eve, Heiligabend, rather than on Christmas morning. Families often say Die Eltern schenken den Kindern Bücher — the same two-object pattern you have practised here."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "Two colleagues plan a farewell present.",
+      "setting": "In the office, planning a present for a colleague",
+      "lines": [
+        { "speaker": "Sara", "de": "Was schenken wir Herrn Berger eigentlich zum Abschied?", "en": "What are we actually giving Mr Berger for his farewell?" },
+        { "speaker": "Tim", "de": "Ich schenke ihm ein Buch. Er liest gern.", "en": "I will give him a book. He likes reading." },
+        { "speaker": "Sara", "de": "Gute Idee. Und wer gibt ihm das Geschenk?", "en": "Good idea. And who is giving him the present?" },
+        { "speaker": "Tim", "de": "Wir geben es ihm am Freitag in der Mittagspause.", "en": "We will give it to him on Friday during the lunch break." },
+        { "speaker": "Sara", "de": "Soll ich noch eine Karte besorgen?", "en": "Should I get a card as well?" },
+        { "speaker": "Tim", "de": "Ja, bitte. Schreib ihm ein paar nette Worte.", "en": "Yes, please. Write him a few kind words." },
+        { "speaker": "Sara", "de": "Mache ich. Ich zeige dir den Text vorher.", "en": "I will. I will show you the text beforehand." },
+        { "speaker": "Tim", "de": "Perfekt, danke dir.", "en": "Perfect, thank you." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Two objects: what goes where",
+      "lede": "Case decides the article; the type of object decides the order.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Pattern", "Example", "English"],
+          "rows": [
+            ["dative noun + accusative noun", "Ich gebe dem Kind den Apfel.", "I give the child the apple."],
+            ["accusative pronoun + dative noun", "Ich gebe ihn dem Kind.", "I give it to the child."],
+            ["accusative pronoun + dative pronoun", "Ich gebe es ihm.", "I give it to him."],
+            ["dative pronoun + accusative noun", "Ich gebe ihm den Apfel.", "I give him the apple."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Pronouns come before nouns, whatever their case.",
+            "When both objects are pronouns, the accusative comes first.",
+            "When both objects are nouns, the dative comes first.",
+            "The same rules apply to schenken, zeigen, bringen, schicken, erklären, empfehlen and leihen."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Watch the dative plural",
+          "text": "Dative plural articles are den, and the noun adds -n unless it already ends in -n or -s: den Kindern, den Nachbarn, but den Autos."
+        }
+      ],
+      "tip": "In a real conversation, say the person first and the thing second. Ich gebe dir das Buch is always safe, even when other orders are also correct."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Choose the article or the word order that fits.",
+      "exercises": [
+        {
+          "id": "m2l2-p1",
+          "type": "mcq",
+          "prompt": "Complete: Ich gebe ___ Kind einen Apfel.",
+          "options": ["das", "dem", "den", "der"],
+          "answer": 1,
+          "explanation": "The child receives the apple, so it stands in the dative: dem Kind."
+        },
+        {
+          "id": "m2l2-p2",
+          "type": "mcq",
+          "prompt": "Complete: Sie schenkt ___ Schwester ein Buch.",
+          "options": ["ihre", "ihrer", "ihren", "ihr"],
+          "answer": 1,
+          "explanation": "die Schwester is feminine, and the dative of ihr is ihrer."
+        },
+        {
+          "id": "m2l2-p3",
+          "type": "mcq",
+          "prompt": "Complete: Er zeigt ___ den Weg.",
+          "options": ["mich", "mir", "ich", "meiner"],
+          "answer": 1,
+          "explanation": "zeigen takes a dative person: er zeigt mir den Weg."
+        },
+        {
+          "id": "m2l2-p4",
+          "type": "mcq",
+          "prompt": "Which sentence has the natural order for two nouns?",
+          "options": ["Ich gebe einen Apfel dem Kind.", "Ich gebe dem Kind einen Apfel.", "Ich dem Kind gebe einen Apfel.", "Ich gebe einen Apfel das Kind."],
+          "answer": 1,
+          "explanation": "With two nouns, the dative person comes before the accusative thing."
+        },
+        {
+          "id": "m2l2-p5",
+          "type": "mcq",
+          "prompt": "Complete: Ich gebe es ___.",
+          "options": ["ihm", "ihn", "er", "ihr"],
+          "answer": 0,
+          "explanation": "With two pronouns the accusative es comes first, then the dative ihm."
+        },
+        {
+          "id": "m2l2-p6",
+          "type": "mcq",
+          "prompt": "Which preposition takes the accusative?",
+          "options": ["mit", "nach", "für", "bei"],
+          "answer": 2,
+          "explanation": "für is an accusative preposition: für meinen Bruder. mit, nach and bei take the dative."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing article or pronoun.",
+      "exercises": [
+        {
+          "id": "m2l2-g1",
+          "type": "gap",
+          "prompt": "Ich gebe ___ Kind einen Apfel.",
+          "answers": ["dem"],
+          "explanation": "The person receiving is dative: dem Kind."
+        },
+        {
+          "id": "m2l2-g2",
+          "type": "gap",
+          "prompt": "Sie schenkt ___ Schwester ein Buch.",
+          "answers": ["ihrer"],
+          "explanation": "Feminine dative: ihrer Schwester."
+        },
+        {
+          "id": "m2l2-g3",
+          "type": "gap",
+          "prompt": "Er zeigt ___ den Weg.",
+          "answers": ["mir"],
+          "explanation": "zeigen + dative person: mir."
+        },
+        {
+          "id": "m2l2-g4",
+          "type": "gap",
+          "prompt": "Wir bringen ___ Nachbarn einen Kuchen.",
+          "answers": ["den"],
+          "explanation": "Dative plural: den Nachbarn."
+        },
+        {
+          "id": "m2l2-g5",
+          "type": "gap",
+          "prompt": "Ich leihe ___ mein Fahrrad.",
+          "answers": ["ihm"],
+          "explanation": "leihen takes a dative person: ihm."
+        },
+        {
+          "id": "m2l2-g6",
+          "type": "gap",
+          "prompt": "Das Geschenk ist für ___ Bruder.",
+          "answers": ["meinen"],
+          "explanation": "für takes the accusative, and der Bruder becomes meinen Bruder."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 4,
+      "lede": "Build each sentence with the dative person first.",
+      "exercises": [
+        {
+          "id": "m2l2-o1",
+          "type": "order",
+          "prompt": "Build: “I give the child an apple.”",
+          "tokens": ["einen", "dem", "Ich", "Apfel", "gebe", "Kind"],
+          "answer": "Ich gebe dem Kind einen Apfel.",
+          "explanation": "The dative person comes before the accusative thing."
+        },
+        {
+          "id": "m2l2-o2",
+          "type": "order",
+          "prompt": "Build: “She gives her sister a book.”",
+          "tokens": ["ein", "schenkt", "ihrer", "Buch", "Sie", "Schwester"],
+          "answer": "Sie schenkt ihrer Schwester ein Buch.",
+          "explanation": "ihrer Schwester is dative; ein Buch is accusative."
+        },
+        {
+          "id": "m2l2-o3",
+          "type": "order",
+          "prompt": "Build: “He shows me the way.”",
+          "tokens": ["den", "zeigt", "mir", "Er", "Weg"],
+          "answer": "Er zeigt mir den Weg.",
+          "explanation": "mir is the dative pronoun, den Weg the accusative object."
+        },
+        {
+          "id": "m2l2-o4",
+          "type": "order",
+          "prompt": "Build: “We are bringing the neighbours a cake.”",
+          "tokens": ["einen", "bringen", "Kuchen", "Wir", "den", "Nachbarn"],
+          "answer": "Wir bringen den Nachbarn einen Kuchen.",
+          "explanation": "Dative plural den Nachbarn comes before accusative einen Kuchen."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice, then answer from memory.",
+      "speaker": "In a gift shop",
+      "script": [
+        { "speaker": "Verkäuferin", "de": "Guten Tag, kann ich Ihnen helfen?", "en": "Good day, can I help you?" },
+        { "speaker": "Kunde", "de": "Ja, ich suche ein Geschenk für meinen Vater.", "en": "Yes, I am looking for a present for my father." },
+        { "speaker": "Verkäuferin", "de": "Wie wäre es mit diesem Buch?", "en": "How about this book?" },
+        { "speaker": "Kunde", "de": "Er liest leider nicht viel. Haben Sie etwas für den Garten?", "en": "Unfortunately he does not read much. Do you have something for the garden?" },
+        { "speaker": "Verkäuferin", "de": "Diese Werkzeuge sind sehr gut. Sie kosten zwanzig Euro.", "en": "These tools are very good. They cost twenty euros." },
+        { "speaker": "Kunde", "de": "Gut, ich nehme sie. Ich schenke sie ihm zum Geburtstag.", "en": "Good, I will take them. I will give them to him for his birthday." }
+      ],
+      "questions": [
+        {
+          "id": "m2l2-lq1",
+          "type": "mcq",
+          "prompt": "For whom is the present?",
+          "options": ["his mother", "his father", "his brother", "his neighbour"],
+          "answer": 1,
+          "explanation": "He says: Ich suche ein Geschenk für meinen Vater."
+        },
+        {
+          "id": "m2l2-lq2",
+          "type": "mcq",
+          "prompt": "Why does he not choose the book?",
+          "options": ["It is too expensive.", "His father does not read much.", "His father already has it.", "It is not in stock."],
+          "answer": 1,
+          "explanation": "He says: Er liest leider nicht viel."
+        },
+        {
+          "id": "m2l2-lq3",
+          "type": "mcq",
+          "prompt": "What does he buy?",
+          "options": ["a book", "a card", "tools for the garden", "a plant"],
+          "answer": 2,
+          "explanation": "He buys the tools: Ich nehme sie."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Describe a present you gave someone.",
+      "prompt": "Say three sentences about a present you gave. Use at least two sentences with both a dative person and an accusative thing.",
+      "model": {
+        "de": "Meine Schwester hatte letzte Woche Geburtstag. Ich habe ihr ein Buch und eine Karte gekauft. Am Abend habe ich ihr das Geschenk gegeben, und sie hat sich sehr gefreut.",
+        "en": "It was my sister's birthday last week. I bought her a book and a card. In the evening I gave her the present, and she was very happy."
+      },
+      "tips": [
+        "Keep the person before the thing when both are nouns: meiner Schwester ein Buch.",
+        "If you replace the thing with a pronoun, the pronoun comes first: Ich gebe es ihr.",
+        "Check the dative article before you speak. Saying ihrer Schwester instead of ihre Schwester is the whole difference between the cases."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 3,
+      "lede": "Most errors come from giving the person the wrong case.",
+      "items": [
+        {
+          "wrong": "Ich gebe das Kind einen Apfel.",
+          "right": "Ich gebe dem Kind einen Apfel.",
+          "why": "The child receives the apple, so it stands in the dative: dem Kind."
+        },
+        {
+          "wrong": "Sie schenkt ihre Schwester ein Buch.",
+          "right": "Sie schenkt ihrer Schwester ein Buch.",
+          "why": "The recipient is dative, and die Schwester becomes ihrer Schwester."
+        },
+        {
+          "wrong": "Er zeigt mich den Weg.",
+          "right": "Er zeigt mir den Weg.",
+          "why": "zeigen takes a dative person, so mich becomes mir."
+        },
+        {
+          "wrong": "Ich gebe ihm es.",
+          "right": "Ich gebe es ihm.",
+          "why": "When two pronouns meet, the accusative comes before the dative."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions on direct and indirect objects. Score 70% or more to pass.",
+      "questions": [
+        {
+          "id": "m2l2-a1",
+          "type": "mcq",
+          "prompt": "Complete: Ich schenke ___ Bruder ein Buch.",
+          "options": ["mein", "meinen", "meinem", "meiner"],
+          "answer": 2,
+          "explanation": "der Bruder is masculine, and the dative of mein is meinem."
+        },
+        {
+          "id": "m2l2-a2",
+          "type": "mcq",
+          "prompt": "Complete: Er zeigt ___ den Weg.",
+          "options": ["mich", "mir", "ich", "mein"],
+          "answer": 1,
+          "explanation": "The person shown the way stands in the dative: mir."
+        },
+        {
+          "id": "m2l2-a3",
+          "type": "mcq",
+          "prompt": "Complete: Wir bringen ___ Nachbarn einen Kuchen.",
+          "options": ["die", "der", "den", "dem"],
+          "answer": 2,
+          "explanation": "Dative plural takes den, and Nachbarn already ends in -n."
+        },
+        {
+          "id": "m2l2-a4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": ["Ich gebe dem Kind den Apfel.", "Ich gebe den Apfel dem Kind.", "Ich gebe das Kind den Apfel.", "Ich gebe den Kind dem Apfel."],
+          "answer": 0,
+          "explanation": "With two nouns, the dative recipient comes first: dem Kind den Apfel."
+        },
+        {
+          "id": "m2l2-a5",
+          "type": "mcq",
+          "prompt": "Complete: Ich gebe es ___.",
+          "options": ["ihn", "ihm", "er", "sie"],
+          "answer": 1,
+          "explanation": "The dative pronoun for er is ihm, and it follows the accusative pronoun es."
+        },
+        {
+          "id": "m2l2-a6",
+          "type": "gap",
+          "prompt": "Ich gebe ___ Kind einen Apfel.",
+          "answers": ["dem"],
+          "explanation": "The recipient is dative: dem Kind."
+        },
+        {
+          "id": "m2l2-a7",
+          "type": "gap",
+          "prompt": "Sie schenkt ___ Schwester ein Buch.",
+          "answers": ["ihrer"],
+          "explanation": "Feminine dative: ihrer Schwester."
+        },
+        {
+          "id": "m2l2-a8",
+          "type": "gap",
+          "prompt": "Das Geschenk ist für ___ Mutter.",
+          "answers": ["meine"],
+          "explanation": "für takes the accusative; die Mutter stays meine Mutter."
+        },
+        {
+          "id": "m2l2-a9",
+          "type": "gap",
+          "prompt": "Ich leihe ___ mein Fahrrad.",
+          "answers": ["ihm"],
+          "explanation": "leihen takes a dative person: ihm."
+        },
+        {
+          "id": "m2l2-a10",
+          "type": "order",
+          "prompt": "Build: “I give the child an apple.”",
+          "tokens": ["einen", "dem", "Ich", "Apfel", "gebe", "Kind"],
+          "answer": "Ich gebe dem Kind einen Apfel.",
+          "explanation": "Dative person first, accusative thing second."
+        },
+        {
+          "id": "m2l2-a11",
+          "type": "order",
+          "prompt": "Build: “She gives her sister a book.”",
+          "tokens": ["ein", "schenkt", "ihrer", "Buch", "Sie", "Schwester"],
+          "answer": "Sie schenkt ihrer Schwester ein Buch.",
+          "explanation": "ihrer Schwester is dative, ein Buch accusative."
+        },
+        {
+          "id": "m2l2-a12",
+          "type": "order",
+          "prompt": "Build: “He shows me the way.”",
+          "tokens": ["den", "zeigt", "mir", "Er", "Weg"],
+          "answer": "Er zeigt mir den Weg.",
+          "explanation": "mir is the dative person; den Weg is the accusative thing."
+        }
+      ]
+    }
+  ]
+}

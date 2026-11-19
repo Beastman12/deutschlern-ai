@@ -1,0 +1,736 @@
+{
+  "id": "c1-m2-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "c1-m2-l1-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "c1-m2-l1",
+      "prompt": "Summarise the last opinion piece you read in two sentences: what does it claim, and what supports the claim?",
+      "items": [
+        "Der Text stellt die These auf, dass …",
+        "die These",
+        "die Begründung",
+        "der Beleg"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "c1-m2-l1-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "c1-m2-l1",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "c1-m2-l1-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "c1-m2-l1",
+      "lede": "Critical reading separates the claim from the evidence and asks what the text assumes without saying.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A text usually contains a thesis, supporting arguments and examples. The thesis is the position the author wants you to accept. Evidence can be data, examples or authority; not every example is evidence, and not every strong claim is supported."
+        },
+        {
+          "kind": "p",
+          "text": "Read for hidden assumptions. If a text says “Home office reduces productivity”, it assumes that productivity can be measured in a particular way. Naming that assumption is often the strongest form of critique, because it shows what would have to be true for the argument to work."
+        },
+        {
+          "kind": "note",
+          "title": "Claim, evidence, assumption",
+          "text": "Write three short lines for any argumentative text: the claim, the evidence offered, and the assumption that connects them."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l1-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "c1-m2-l1",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "thesis",
+              "Der Text stellt die These auf, dass …"
+            ],
+            [
+              "evidence",
+              "Als Beleg führt die Autorin … an."
+            ],
+            [
+              "assumption",
+              "Der Text setzt voraus, dass …"
+            ],
+            [
+              "evaluation",
+              "Die Argumentation überzeugt nur teilweise, weil …"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "“Eine These aufstellen” is the standard collocation for making a claim.",
+            "Use “Beleg” for evidence and “Begründung” for the reasoning.",
+            "A conclusion follows from the premises; it is not simply a summary."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l1-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "c1-m2-l1",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "die These",
+          "en": "thesis, claim",
+          "article": "die",
+          "plural": "die Thesen",
+          "example": "Der Text stellt die These auf, dass Sprachen schneller verfallen.",
+          "exampleEn": "The text puts forward the thesis that languages decay faster."
+        },
+        {
+          "de": "die Begründung",
+          "en": "justification, reasoning",
+          "article": "die",
+          "plural": "die Begründungen",
+          "example": "Die Begründung ist schwach, weil sie nur ein Beispiel nennt.",
+          "exampleEn": "The reasoning is weak because it cites only one example."
+        },
+        {
+          "de": "der Beleg",
+          "en": "evidence, proof",
+          "article": "der",
+          "plural": "die Belege",
+          "example": "Als Beleg führt die Autorin eine Studie an.",
+          "exampleEn": "As evidence, the author cites a study."
+        },
+        {
+          "de": "die Schlussfolgerung",
+          "en": "conclusion",
+          "article": "die",
+          "plural": "die Schlussfolgerungen",
+          "example": "Die Schlussfolgerung geht über die Daten hinaus.",
+          "exampleEn": "The conclusion goes beyond the data."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l1-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "c1-m2-l1",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Der Text stellt die These auf, dass digitale Medien die Konzentration schwächen.",
+          "en": "The text puts forward the thesis that digital media weaken concentration.",
+          "note": "A clear way to report the central claim."
+        },
+        {
+          "de": "Als Beleg führt die Autorin zwei Studien an.",
+          "en": "As evidence, the author cites two studies.",
+          "note": "Anführen is the verb for citing evidence."
+        },
+        {
+          "de": "Die Argumentation überzeugt nur teilweise, weil die Stichprobe klein ist.",
+          "en": "The argument is only partly convincing because the sample is small.",
+          "note": "A precise evaluation names the weakness."
+        },
+        {
+          "de": "Es bleibt offen, ob die Ergebnisse verallgemeinerbar sind.",
+          "en": "It remains open whether the results can be generalised.",
+          "note": "A cautious way to question a conclusion."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l1-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "c1-m2-l1",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die These",
+          "hint": "The th is a hard t: TEE-ze."
+        },
+        {
+          "de": "der Beleg",
+          "hint": "Stress the second syllable: be-LEHK."
+        },
+        {
+          "de": "die Schlussfolgerung",
+          "hint": "Stress the first syllable: SHLUS-fol-ge-rung."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l1-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "c1-m2-l1",
+      "heading": "Argument culture in German",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German academic writing often states the thesis early and then justifies it in a clear structure. Readers expect the author to show why the evidence supports the claim, not just present material."
+        },
+        {
+          "kind": "p",
+          "text": "Critique is usually directed at the argument, not the person. Phrases such as “Die Argumentation überzeugt nicht” are normal and do not imply hostility."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l1-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "c1-m2-l1",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A seminar discusses an opinion piece on social media.",
+      "lines": [
+        {
+          "speaker": "Dozent",
+          "de": "Welche These stellt der Text auf?",
+          "en": "What thesis does the text put forward?"
+        },
+        {
+          "speaker": "Studentin",
+          "de": "Der Text stellt die These auf, dass soziale Medien die Konzentration schwächen.",
+          "en": "The text puts forward the thesis that social media weaken concentration."
+        },
+        {
+          "speaker": "Dozent",
+          "de": "Welchen Beleg nennt die Autorin?",
+          "en": "What evidence does the author cite?"
+        },
+        {
+          "speaker": "Studentin",
+          "de": "Sie führt eine Studie an, aber die Schlussfolgerung geht über die Daten hinaus.",
+          "en": "She cites a study, but the conclusion goes beyond the data."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l1-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "c1-m2-l1",
+      "heading": "Reporting and evaluating arguments",
+      "lede": "Use reporting verbs and cautious phrases to separate what the text says from what you think.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Der Text stellt die These auf, dass …",
+              "report the claim"
+            ],
+            [
+              "Die Autorin führt … an.",
+              "report the evidence"
+            ],
+            [
+              "Die Argumentation überzeugt, weil …",
+              "positive evaluation"
+            ],
+            [
+              "Es bleibt offen, ob …",
+              "question the conclusion"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Verbs such as behaupten, argumentieren, einwenden and folgern help you describe what a text does. “Der Autor behauptet” is more neutral than “Der Autor sagt” in academic writing."
+        }
+      ],
+      "tip": "Use one sentence for the claim and one for your evaluation. Mixing them makes it hard to see what the text says and what you think."
+    },
+    {
+      "id": "c1-m2-l1-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "c1-m2-l1",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "c1-m2-l1-p-m1",
+          "type": "mcq",
+          "prompt": "Der Text ___ die These auf, dass Sprachen schneller verfallen.",
+          "options": [
+            "stellt",
+            "macht",
+            "nimmt",
+            "gibt"
+          ],
+          "answer": 0,
+          "explanation": "The collocation is eine These aufstellen."
+        },
+        {
+          "id": "c1-m2-l1-p-m2",
+          "type": "mcq",
+          "prompt": "Als ___ führt die Autorin eine Studie an.",
+          "options": [
+            "Beleg",
+            "Begründung",
+            "Schlussfolgerung",
+            "These"
+          ],
+          "answer": 0,
+          "explanation": "A Beleg is evidence; a study supports a claim."
+        },
+        {
+          "id": "c1-m2-l1-p-m3",
+          "type": "mcq",
+          "prompt": "Which sentence evaluates an argument precisely?",
+          "options": [
+            "Der Text ist schlecht.",
+            "Die Argumentation überzeugt nur teilweise, weil die Stichprobe klein ist.",
+            "Ich mag den Text nicht.",
+            "Das ist alles falsch."
+          ],
+          "answer": 1,
+          "explanation": "It names a specific reason for the evaluation."
+        },
+        {
+          "id": "c1-m2-l1-p-m4",
+          "type": "mcq",
+          "prompt": "“Es bleibt offen, ob …” expresses …",
+          "options": [
+            "certainty",
+            "a cautious doubt",
+            "a definition",
+            "a command"
+          ],
+          "answer": 1,
+          "explanation": "It signals that something has not been settled."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l1-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m2-l1",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "c1-m2-l1-p-g1",
+          "type": "gap",
+          "prompt": "Der Text stellt die ___ auf, dass …",
+          "answers": [
+            "These"
+          ],
+          "explanation": "The collocation is eine These aufstellen."
+        },
+        {
+          "id": "c1-m2-l1-p-g2",
+          "type": "gap",
+          "prompt": "Als ___ führt die Autorin zwei Studien an.",
+          "answers": [
+            "Beleg"
+          ],
+          "explanation": "Beleg means evidence."
+        },
+        {
+          "id": "c1-m2-l1-p-g3",
+          "type": "gap",
+          "prompt": "Die ___ geht über die Daten hinaus.",
+          "answers": [
+            "Schlussfolgerung"
+          ],
+          "explanation": "Schlussfolgerung means conclusion."
+        },
+        {
+          "id": "c1-m2-l1-p-g4",
+          "type": "gap",
+          "prompt": "Die Argumentation ___ nur teilweise.",
+          "answers": [
+            "überzeugt"
+          ],
+          "explanation": "Überzeugen means to convince."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l1-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m2-l1",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "c1-m2-l1-p-o1",
+          "type": "order",
+          "prompt": "Build: “The text puts forward the thesis that languages change.”",
+          "tokens": [
+            "die",
+            "Der",
+            "These",
+            "Text",
+            "stellt",
+            "auf,",
+            "dass",
+            "Sprachen",
+            "sich",
+            "verändern."
+          ],
+          "answer": "Der Text stellt die These auf, dass Sprachen sich verändern.",
+          "explanation": "Aufstellen separates, and the dass-clause ends with the verb."
+        },
+        {
+          "id": "c1-m2-l1-p-o2",
+          "type": "order",
+          "prompt": "Build: “As evidence, the author cites a study.”",
+          "tokens": [
+            "eine",
+            "Als",
+            "Studie",
+            "Beleg",
+            "führt",
+            "die",
+            "Autorin",
+            "an."
+          ],
+          "answer": "Als Beleg führt die Autorin eine Studie an.",
+          "explanation": "Anführen separates: führt … an."
+        },
+        {
+          "id": "c1-m2-l1-p-o3",
+          "type": "order",
+          "prompt": "Build: “The conclusion goes beyond the data.”",
+          "tokens": [
+            "die",
+            "Die",
+            "Daten",
+            "Schlussfolgerung",
+            "geht",
+            "über",
+            "hinaus."
+          ],
+          "answer": "Die Schlussfolgerung geht über die Daten hinaus.",
+          "explanation": "Hinausgehen separates: geht … hinaus."
+        },
+        {
+          "id": "c1-m2-l1-p-o4",
+          "type": "order",
+          "prompt": "Build: “It remains open whether the results can be generalised.”",
+          "tokens": [
+            "ob",
+            "Es",
+            "die",
+            "bleibt",
+            "Ergebnisse",
+            "offen,",
+            "verallgemeinerbar",
+            "sind."
+          ],
+          "answer": "Es bleibt offen, ob die Ergebnisse verallgemeinerbar sind.",
+          "explanation": "The ob-clause ends with the verb sind."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l1-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "c1-m2-l1",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Ein Beitrag im Deutschlandfunk",
+      "script": [
+        {
+          "speaker": "Sprecherin",
+          "de": "Der Text stellt die These auf, dass digitale Medien die Konzentration schwächen.",
+          "en": "The text puts forward the thesis that digital media weaken concentration."
+        },
+        {
+          "speaker": "Sprecherin",
+          "de": "Als Beleg führt die Autorin eine Studie mit 40 Teilnehmenden an.",
+          "en": "As evidence, the author cites a study with 40 participants."
+        },
+        {
+          "speaker": "Sprecherin",
+          "de": "Die Schlussfolgerung geht jedoch über die Daten hinaus.",
+          "en": "However, the conclusion goes beyond the data."
+        },
+        {
+          "speaker": "Sprecherin",
+          "de": "Es bleibt offen, ob die Ergebnisse verallgemeinerbar sind.",
+          "en": "It remains open whether the results can be generalised."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c1-m2-l1-l1",
+          "type": "mcq",
+          "prompt": "What is the author’s thesis?",
+          "options": [
+            "Digital media improve concentration",
+            "Digital media weaken concentration",
+            "Studies are unnecessary",
+            "Young people read more"
+          ],
+          "answer": 1,
+          "explanation": "The report states the thesis that digital media weaken concentration."
+        },
+        {
+          "id": "c1-m2-l1-l2",
+          "type": "mcq",
+          "prompt": "What is the criticism?",
+          "options": [
+            "The study is too large",
+            "The conclusion goes beyond the data",
+            "The author writes too briefly",
+            "The topic is irrelevant"
+          ],
+          "answer": 1,
+          "explanation": "The report says the conclusion goes beyond the data."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l1-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "c1-m2-l1",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Summarise an argumentative text: thesis, evidence and one weakness.",
+      "model": {
+        "de": "Der Text stellt die These auf, dass Homeoffice die Produktivität senkt. Als Beleg führt die Autorin eine Umfrage an. Die Schlussfolgerung geht jedoch über die Daten hinaus, weil die Stichprobe klein ist.",
+        "en": "The text puts forward the thesis that working from home lowers productivity. As evidence, the author cites a survey. However, the conclusion goes beyond the data because the sample is small."
+      },
+      "tips": [
+        "Report the thesis before you evaluate it.",
+        "Name the evidence type: Studie, Umfrage, Beispiel.",
+        "Use “jedoch” or “allerdings” to signal the critique."
+      ]
+    },
+    {
+      "id": "c1-m2-l1-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "c1-m2-l1",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Der Text macht die These, dass …",
+          "right": "Der Text stellt die These auf, dass …",
+          "why": "The collocation is eine These aufstellen."
+        },
+        {
+          "wrong": "Als Beleg führt die Autorin eine Studie.",
+          "right": "Als Beleg führt die Autorin eine Studie an.",
+          "why": "Anführen is separable and needs its prefix."
+        },
+        {
+          "wrong": "Die Schlussfolgerung geht über die Daten.",
+          "right": "Die Schlussfolgerung geht über die Daten hinaus.",
+          "why": "The separable verb is hinausgehen."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l1-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "c1-m2-l1",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "c1-m2-l1-a1",
+          "type": "mcq",
+          "prompt": "Der Text ___ die These auf, dass Sprachen schneller verfallen.",
+          "options": [
+            "stellt",
+            "macht",
+            "nimmt",
+            "gibt"
+          ],
+          "answer": 0,
+          "explanation": "The collocation is eine These aufstellen."
+        },
+        {
+          "id": "c1-m2-l1-a2",
+          "type": "mcq",
+          "prompt": "Als ___ führt die Autorin eine Studie an.",
+          "options": [
+            "Beleg",
+            "Begründung",
+            "Schlussfolgerung",
+            "These"
+          ],
+          "answer": 0,
+          "explanation": "A Beleg is evidence; a study supports a claim."
+        },
+        {
+          "id": "c1-m2-l1-a3",
+          "type": "mcq",
+          "prompt": "Which sentence evaluates an argument precisely?",
+          "options": [
+            "Der Text ist schlecht.",
+            "Die Argumentation überzeugt nur teilweise, weil die Stichprobe klein ist.",
+            "Ich mag den Text nicht.",
+            "Das ist alles falsch."
+          ],
+          "answer": 1,
+          "explanation": "It names a specific reason for the evaluation."
+        },
+        {
+          "id": "c1-m2-l1-a4",
+          "type": "mcq",
+          "prompt": "“Es bleibt offen, ob …” expresses …",
+          "options": [
+            "certainty",
+            "a cautious doubt",
+            "a definition",
+            "a command"
+          ],
+          "answer": 1,
+          "explanation": "It signals that something has not been settled."
+        },
+        {
+          "id": "c1-m2-l1-a5",
+          "type": "gap",
+          "prompt": "Der Text stellt die ___ auf, dass …",
+          "answers": [
+            "These"
+          ],
+          "explanation": "The collocation is eine These aufstellen."
+        },
+        {
+          "id": "c1-m2-l1-a6",
+          "type": "gap",
+          "prompt": "Als ___ führt die Autorin zwei Studien an.",
+          "answers": [
+            "Beleg"
+          ],
+          "explanation": "Beleg means evidence."
+        },
+        {
+          "id": "c1-m2-l1-a7",
+          "type": "gap",
+          "prompt": "Die ___ geht über die Daten hinaus.",
+          "answers": [
+            "Schlussfolgerung"
+          ],
+          "explanation": "Schlussfolgerung means conclusion."
+        },
+        {
+          "id": "c1-m2-l1-a8",
+          "type": "gap",
+          "prompt": "Die Argumentation ___ nur teilweise.",
+          "answers": [
+            "überzeugt"
+          ],
+          "explanation": "Überzeugen means to convince."
+        },
+        {
+          "id": "c1-m2-l1-a9",
+          "type": "order",
+          "prompt": "Build: “The text puts forward the thesis that languages change.”",
+          "tokens": [
+            "die",
+            "Der",
+            "These",
+            "Text",
+            "stellt",
+            "auf,",
+            "dass",
+            "Sprachen",
+            "sich",
+            "verändern."
+          ],
+          "answer": "Der Text stellt die These auf, dass Sprachen sich verändern.",
+          "explanation": "Aufstellen separates, and the dass-clause ends with the verb."
+        },
+        {
+          "id": "c1-m2-l1-a10",
+          "type": "order",
+          "prompt": "Build: “As evidence, the author cites a study.”",
+          "tokens": [
+            "eine",
+            "Als",
+            "Studie",
+            "Beleg",
+            "führt",
+            "die",
+            "Autorin",
+            "an."
+          ],
+          "answer": "Als Beleg führt die Autorin eine Studie an.",
+          "explanation": "Anführen separates: führt … an."
+        },
+        {
+          "id": "c1-m2-l1-a11",
+          "type": "order",
+          "prompt": "Build: “The conclusion goes beyond the data.”",
+          "tokens": [
+            "die",
+            "Die",
+            "Daten",
+            "Schlussfolgerung",
+            "geht",
+            "über",
+            "hinaus."
+          ],
+          "answer": "Die Schlussfolgerung geht über die Daten hinaus.",
+          "explanation": "Hinausgehen separates: geht … hinaus."
+        },
+        {
+          "id": "c1-m2-l1-a12",
+          "type": "order",
+          "prompt": "Build: “It remains open whether the results can be generalised.”",
+          "tokens": [
+            "ob",
+            "Es",
+            "die",
+            "bleibt",
+            "Ergebnisse",
+            "offen,",
+            "verallgemeinerbar",
+            "sind."
+          ],
+          "answer": "Es bleibt offen, ob die Ergebnisse verallgemeinerbar sind.",
+          "explanation": "The ob-clause ends with the verb sind."
+        }
+      ]
+    }
+  ]
+}

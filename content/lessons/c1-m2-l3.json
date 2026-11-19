@@ -1,0 +1,724 @@
+{
+  "id": "c1-m2-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "c1-m2-l3-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "c1-m2-l3",
+      "prompt": "State an opinion you hold, then give the strongest objection to it.",
+      "items": [
+        "Zwar trifft das zu, jedoch bleibt die Frage offen, …",
+        "zwar … jedoch",
+        "insofern",
+        "differenzieren"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "c1-m2-l3-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "c1-m2-l3",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "c1-m2-l3-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "c1-m2-l3",
+      "lede": "Sophisticated argumentation concedes what is true, qualifies what is uncertain and refutes what is wrong.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A concession shows that you understand the other side: “Zwar trifft es zu, dass … jedoch …”. This does not weaken your position; it makes your disagreement more credible because you have engaged with the strongest version of the opposing view."
+        },
+        {
+          "kind": "p",
+          "text": "Qualify claims with adverbs and modal verbs: “tendenziell”, “in der Regel”, “dürfte”, “lässt sich vermuten”. Precision about uncertainty is a sign of expertise, not weakness. Refute an argument by naming the specific premise or evidence you reject."
+        },
+        {
+          "kind": "note",
+          "title": "Concede, qualify, refute",
+          "text": "Use this three-step pattern in discussions. It keeps the exchange constructive and makes your objection harder to dismiss."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l3-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "c1-m2-l3",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "concession",
+              "Zwar trifft das zu, jedoch bleibt die Frage offen, …"
+            ],
+            [
+              "qualification",
+              "Das dürfte in der Regel der Fall sein."
+            ],
+            [
+              "refutation",
+              "Der Einwand greift zu kurz, weil …"
+            ],
+            [
+              "differentiation",
+              "Hier muss man zwischen … und … differenzieren."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "“Zwar … jedoch” is a fixed contrast pair across two clauses.",
+            "“Insofern” means “in that respect” and often introduces a qualification.",
+            "“Einwenden” is the verb for raising an objection: Ich möchte einwenden, dass …"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l3-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "c1-m2-l3",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "zwar … jedoch",
+          "en": "admittedly … however",
+          "example": "Zwar trifft das zu, jedoch bleibt die Frage offen, wer die Kosten trägt.",
+          "exampleEn": "Admittedly that is true, however the question of who bears the costs remains open."
+        },
+        {
+          "de": "insofern",
+          "en": "in that respect",
+          "example": "Insofern ist der Vorschlag sinnvoll, als er Kosten spart.",
+          "exampleEn": "In that respect the proposal makes sense insofar as it saves costs."
+        },
+        {
+          "de": "differenzieren",
+          "en": "to differentiate",
+          "example": "Man muss zwischen kurz- und langfristigen Folgen differenzieren.",
+          "exampleEn": "One must differentiate between short- and long-term consequences."
+        },
+        {
+          "de": "einwenden",
+          "en": "to object, to argue",
+          "example": "Ich möchte einwenden, dass die Daten veraltet sind.",
+          "exampleEn": "I would like to object that the data are outdated."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l3-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "c1-m2-l3",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Zwar trifft das zu, jedoch bleibt die Frage offen, wer die Kosten trägt.",
+          "en": "Admittedly that is true, however the question of who bears the costs remains open.",
+          "note": "Concession followed by a qualification."
+        },
+        {
+          "de": "Das dürfte in der Regel der Fall sein.",
+          "en": "That is likely to be the case as a rule.",
+          "note": "Dürfte expresses cautious probability."
+        },
+        {
+          "de": "Der Einwand greift zu kurz, weil er die langfristigen Kosten ignoriert.",
+          "en": "The objection falls short because it ignores long-term costs.",
+          "note": "A precise refutation names what is missing."
+        },
+        {
+          "de": "Man muss zwischen kurzfristigen und langfristigen Folgen differenzieren.",
+          "en": "One must differentiate between short-term and long-term consequences.",
+          "note": "Differentiation avoids an oversimplified claim."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l3-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "c1-m2-l3",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "zwar",
+          "hint": "The z is a ts sound: tsvahr."
+        },
+        {
+          "de": "insofern",
+          "hint": "Stress the last syllable: in-zo-FERN."
+        },
+        {
+          "de": "differenzieren",
+          "hint": "Stress the final syllable: di-fe-ren-TSEE-ren."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l3-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "c1-m2-l3",
+      "heading": "Disagreement in academic German",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German academic debate can be direct, but it is expected to be argument-based. “Das überzeugt mich nicht, weil …” is normal; personal attacks are not."
+        },
+        {
+          "kind": "p",
+          "text": "Concessions are common in serious writing. A text that ignores the strongest counterargument is seen as less credible, not more decisive."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l3-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "c1-m2-l3",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A panel discussion about a four-day week.",
+      "lines": [
+        {
+          "speaker": "Moderatorin",
+          "de": "Spricht die Vier-Tage-Woche für mehr Produktivität?",
+          "en": "Does the four-day week lead to higher productivity?"
+        },
+        {
+          "speaker": "Experte",
+          "de": "Zwar trifft es zu, dass erste Studien positiv sind, jedoch ist die Datenlage begrenzt.",
+          "en": "Admittedly it is true that initial studies are positive, however the evidence base is limited."
+        },
+        {
+          "speaker": "Expertin",
+          "de": "Insofern stimme ich zu, als wir zwischen Branchen differenzieren müssen.",
+          "en": "In that respect I agree, insofar as we have to differentiate between sectors."
+        },
+        {
+          "speaker": "Experte",
+          "de": "Der Einwand ist berechtigt. Dennoch dürfte die Richtung stimmen.",
+          "en": "The objection is justified. Nevertheless, the direction is likely to be right."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l3-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "c1-m2-l3",
+      "heading": "Concession and qualification",
+      "lede": "Use two-part structures to show both sides without losing your position.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "zwar … jedoch",
+              "concede then contrast"
+            ],
+            [
+              "insofern … als",
+              "qualify the extent"
+            ],
+            [
+              "dürfte / lässt sich vermuten",
+              "cautious probability"
+            ],
+            [
+              "Der Einwand greift zu kurz, weil …",
+              "precise refutation"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "“Zwar” introduces the concession and “jedoch” the main point. The verb follows the normal rules in each clause; jedoch does not change the word order by itself."
+        }
+      ],
+      "tip": "Before you disagree, say what is right in the other view. It makes your objection harder to ignore."
+    },
+    {
+      "id": "c1-m2-l3-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "c1-m2-l3",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "c1-m2-l3-p-m1",
+          "type": "mcq",
+          "prompt": "Zwar trifft das zu, ___ bleibt die Frage offen.",
+          "options": [
+            "jedoch",
+            "weil",
+            "dass",
+            "obwohl"
+          ],
+          "answer": 0,
+          "explanation": "Zwar and jedoch form a fixed contrast pair."
+        },
+        {
+          "id": "c1-m2-l3-p-m2",
+          "type": "mcq",
+          "prompt": "Which phrase expresses cautious probability?",
+          "options": [
+            "Das ist sicher.",
+            "Das dürfte der Fall sein.",
+            "Das ist bewiesen.",
+            "Das muss so sein."
+          ],
+          "answer": 1,
+          "explanation": "Dürfte expresses a cautious assessment."
+        },
+        {
+          "id": "c1-m2-l3-p-m3",
+          "type": "mcq",
+          "prompt": "Which sentence refutes an argument precisely?",
+          "options": [
+            "Das ist Quatsch.",
+            "Der Einwand greift zu kurz, weil er die langfristigen Kosten ignoriert.",
+            "Ich sehe das anders.",
+            "Nein."
+          ],
+          "answer": 1,
+          "explanation": "It names the specific weakness in the objection."
+        },
+        {
+          "id": "c1-m2-l3-p-m4",
+          "type": "mcq",
+          "prompt": "“Man muss zwischen A und B differenzieren” means …",
+          "options": [
+            "A and B are identical",
+            "A and B must be distinguished",
+            "A is better than B",
+            "B is irrelevant"
+          ],
+          "answer": 1,
+          "explanation": "Differenzieren means to distinguish or differentiate."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l3-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m2-l3",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "c1-m2-l3-p-g1",
+          "type": "gap",
+          "prompt": "Zwar trifft das zu, ___ bleibt die Frage offen.",
+          "answers": [
+            "jedoch"
+          ],
+          "explanation": "The contrast pair is zwar … jedoch."
+        },
+        {
+          "id": "c1-m2-l3-p-g2",
+          "type": "gap",
+          "prompt": "Das ___ in der Regel der Fall sein.",
+          "answers": [
+            "dürfte"
+          ],
+          "explanation": "Dürfte expresses cautious probability."
+        },
+        {
+          "id": "c1-m2-l3-p-g3",
+          "type": "gap",
+          "prompt": "Ich möchte ___, dass die Daten veraltet sind.",
+          "answers": [
+            "einwenden"
+          ],
+          "explanation": "Einwenden means to object."
+        },
+        {
+          "id": "c1-m2-l3-p-g4",
+          "type": "gap",
+          "prompt": "Man muss zwischen kurz- und langfristigen Folgen ___.",
+          "answers": [
+            "differenzieren"
+          ],
+          "explanation": "Differenzieren means to differentiate."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l3-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m2-l3",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "c1-m2-l3-p-o1",
+          "type": "order",
+          "prompt": "Build: “Admittedly that is true, however the question remains open.”",
+          "tokens": [
+            "das",
+            "Zwar",
+            "zu,",
+            "trifft",
+            "jedoch",
+            "bleibt",
+            "die",
+            "Frage",
+            "offen."
+          ],
+          "answer": "Zwar trifft das zu, jedoch bleibt die Frage offen.",
+          "explanation": "Both clauses keep the verb in second position."
+        },
+        {
+          "id": "c1-m2-l3-p-o2",
+          "type": "order",
+          "prompt": "Build: “The objection falls short because it ignores the costs.”",
+          "tokens": [
+            "zu",
+            "Der",
+            "kurz,",
+            "Einwand",
+            "greift",
+            "weil",
+            "er",
+            "die",
+            "Kosten",
+            "ignoriert."
+          ],
+          "answer": "Der Einwand greift zu kurz, weil er die Kosten ignoriert.",
+          "explanation": "The weil-clause ends with the verb ignoriert."
+        },
+        {
+          "id": "c1-m2-l3-p-o3",
+          "type": "order",
+          "prompt": "Build: “One must differentiate between short- and long-term consequences.”",
+          "tokens": [
+            "kurz-",
+            "Man",
+            "und",
+            "muss",
+            "langfristigen",
+            "zwischen",
+            "Folgen",
+            "differenzieren."
+          ],
+          "answer": "Man muss zwischen kurz- und langfristigen Folgen differenzieren.",
+          "explanation": "The modal muss sends the infinitive to the end."
+        },
+        {
+          "id": "c1-m2-l3-p-o4",
+          "type": "order",
+          "prompt": "Build: “The direction is likely to be right.”",
+          "tokens": [
+            "Die",
+            "Richtung",
+            "dürfte",
+            "stimmen."
+          ],
+          "answer": "Die Richtung dürfte stimmen.",
+          "explanation": "Dürfte softens the claim."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l3-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "c1-m2-l3",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Eine Podiumsdiskussion",
+      "script": [
+        {
+          "speaker": "Moderator",
+          "de": "Ist die Vier-Tage-Woche ein Erfolgsmodell?",
+          "en": "Is the four-day week a success model?"
+        },
+        {
+          "speaker": "Gast",
+          "de": "Zwar trifft es zu, dass erste Studien positiv sind, jedoch ist die Datenlage begrenzt.",
+          "en": "Admittedly it is true that initial studies are positive, however the evidence base is limited."
+        },
+        {
+          "speaker": "Moderator",
+          "de": "Was folgt daraus für die Politik?",
+          "en": "What follows from that for policy?"
+        },
+        {
+          "speaker": "Gast",
+          "de": "Man muss zwischen Branchen differenzieren. Der Einwand, es sei überall möglich, greift zu kurz.",
+          "en": "One must differentiate between sectors. The objection that it is possible everywhere falls short."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c1-m2-l3-l1",
+          "type": "mcq",
+          "prompt": "What is the guest’s position?",
+          "options": [
+            "The evidence is complete",
+            "Initial studies are positive but evidence is limited",
+            "The model has failed",
+            "Policy should ignore the topic"
+          ],
+          "answer": 1,
+          "explanation": "The guest concedes positive studies but notes limited evidence."
+        },
+        {
+          "id": "c1-m2-l3-l2",
+          "type": "mcq",
+          "prompt": "What must be differentiated?",
+          "options": [
+            "Sectors",
+            "Countries",
+            "Salaries",
+            "Holidays"
+          ],
+          "answer": 0,
+          "explanation": "The guest says one must differentiate between sectors."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l3-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "c1-m2-l3",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Take a position on a current debate, concede one valid point and refute one objection.",
+      "model": {
+        "de": "Zwar trifft es zu, dass die Maßnahme Kosten verursacht, jedoch dürfte sie langfristig mehr sparen. Der Einwand, sie sei nicht umsetzbar, greift zu kurz, weil viele Kommunen bereits ähnliche Projekte durchführen.",
+        "en": "Admittedly it is true that the measure causes costs, however it is likely to save more in the long term. The objection that it is not feasible falls short because many municipalities already run similar projects."
+      },
+      "tips": [
+        "Start with a concession, not with your objection.",
+        "Use dürfte or tendenziell to qualify your claim.",
+        "Name the specific weakness in the opposing argument."
+      ]
+    },
+    {
+      "id": "c1-m2-l3-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "c1-m2-l3",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Zwar trifft das zu, aber jedoch bleibt die Frage offen.",
+          "right": "Zwar trifft das zu, jedoch bleibt die Frage offen.",
+          "why": "Use either aber or jedoch, not both."
+        },
+        {
+          "wrong": "Der Einwand greift kurz.",
+          "right": "Der Einwand greift zu kurz.",
+          "why": "The fixed expression is zu kurz greifen."
+        },
+        {
+          "wrong": "Man muss zwischen A und B differenzieren machen.",
+          "right": "Man muss zwischen A und B differenzieren.",
+          "why": "Differenzieren is already the verb; do not add machen."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l3-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "c1-m2-l3",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "c1-m2-l3-a1",
+          "type": "mcq",
+          "prompt": "Zwar trifft das zu, ___ bleibt die Frage offen.",
+          "options": [
+            "jedoch",
+            "weil",
+            "dass",
+            "obwohl"
+          ],
+          "answer": 0,
+          "explanation": "Zwar and jedoch form a fixed contrast pair."
+        },
+        {
+          "id": "c1-m2-l3-a2",
+          "type": "mcq",
+          "prompt": "Which phrase expresses cautious probability?",
+          "options": [
+            "Das ist sicher.",
+            "Das dürfte der Fall sein.",
+            "Das ist bewiesen.",
+            "Das muss so sein."
+          ],
+          "answer": 1,
+          "explanation": "Dürfte expresses a cautious assessment."
+        },
+        {
+          "id": "c1-m2-l3-a3",
+          "type": "mcq",
+          "prompt": "Which sentence refutes an argument precisely?",
+          "options": [
+            "Das ist Quatsch.",
+            "Der Einwand greift zu kurz, weil er die langfristigen Kosten ignoriert.",
+            "Ich sehe das anders.",
+            "Nein."
+          ],
+          "answer": 1,
+          "explanation": "It names the specific weakness in the objection."
+        },
+        {
+          "id": "c1-m2-l3-a4",
+          "type": "mcq",
+          "prompt": "“Man muss zwischen A und B differenzieren” means …",
+          "options": [
+            "A and B are identical",
+            "A and B must be distinguished",
+            "A is better than B",
+            "B is irrelevant"
+          ],
+          "answer": 1,
+          "explanation": "Differenzieren means to distinguish or differentiate."
+        },
+        {
+          "id": "c1-m2-l3-a5",
+          "type": "gap",
+          "prompt": "Zwar trifft das zu, ___ bleibt die Frage offen.",
+          "answers": [
+            "jedoch"
+          ],
+          "explanation": "The contrast pair is zwar … jedoch."
+        },
+        {
+          "id": "c1-m2-l3-a6",
+          "type": "gap",
+          "prompt": "Das ___ in der Regel der Fall sein.",
+          "answers": [
+            "dürfte"
+          ],
+          "explanation": "Dürfte expresses cautious probability."
+        },
+        {
+          "id": "c1-m2-l3-a7",
+          "type": "gap",
+          "prompt": "Ich möchte ___, dass die Daten veraltet sind.",
+          "answers": [
+            "einwenden"
+          ],
+          "explanation": "Einwenden means to object."
+        },
+        {
+          "id": "c1-m2-l3-a8",
+          "type": "gap",
+          "prompt": "Man muss zwischen kurz- und langfristigen Folgen ___.",
+          "answers": [
+            "differenzieren"
+          ],
+          "explanation": "Differenzieren means to differentiate."
+        },
+        {
+          "id": "c1-m2-l3-a9",
+          "type": "order",
+          "prompt": "Build: “Admittedly that is true, however the question remains open.”",
+          "tokens": [
+            "das",
+            "Zwar",
+            "zu,",
+            "trifft",
+            "jedoch",
+            "bleibt",
+            "die",
+            "Frage",
+            "offen."
+          ],
+          "answer": "Zwar trifft das zu, jedoch bleibt die Frage offen.",
+          "explanation": "Both clauses keep the verb in second position."
+        },
+        {
+          "id": "c1-m2-l3-a10",
+          "type": "order",
+          "prompt": "Build: “The objection falls short because it ignores the costs.”",
+          "tokens": [
+            "zu",
+            "Der",
+            "kurz,",
+            "Einwand",
+            "greift",
+            "weil",
+            "er",
+            "die",
+            "Kosten",
+            "ignoriert."
+          ],
+          "answer": "Der Einwand greift zu kurz, weil er die Kosten ignoriert.",
+          "explanation": "The weil-clause ends with the verb ignoriert."
+        },
+        {
+          "id": "c1-m2-l3-a11",
+          "type": "order",
+          "prompt": "Build: “One must differentiate between short- and long-term consequences.”",
+          "tokens": [
+            "kurz-",
+            "Man",
+            "und",
+            "muss",
+            "langfristigen",
+            "zwischen",
+            "Folgen",
+            "differenzieren."
+          ],
+          "answer": "Man muss zwischen kurz- und langfristigen Folgen differenzieren.",
+          "explanation": "The modal muss sends the infinitive to the end."
+        },
+        {
+          "id": "c1-m2-l3-a12",
+          "type": "order",
+          "prompt": "Build: “The direction is likely to be right.”",
+          "tokens": [
+            "Die",
+            "Richtung",
+            "dürfte",
+            "stimmen."
+          ],
+          "answer": "Die Richtung dürfte stimmen.",
+          "explanation": "Dürfte softens the claim."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "id": "c1-m1-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Four idioms in four situations. Read them aloud and guess the tone before you read the explanation.",
+      "prompt": "Read the sentences aloud. Each contains an idiom. Do not translate word by word — ask instead whether the speaker sounds amused, apologetic, encouraging or annoyed.",
+      "items": [
+        "Ich habe da wohl ins Fettnäpfchen getreten.",
+        "Drück mir die Daumen!",
+        "Bleiben Sie auf dem Laufenden.",
+        "Damit hast du den Nagel auf den Kopf getroffen."
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "You will learn to understand idioms in context, use them where they fit and explain them in neutral German."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "An idiom is a fixed phrase whose meaning cannot be assembled from its parts.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Ins Fettnäpfchen treten has nothing to do with a small bowl of fat. It means to say or do the wrong thing in a sensitive situation. At C1 you need three skills: recognise the idiom in a text, use it in the right register, and explain it in neutral German when the situation demands clarity."
+        },
+        {
+          "kind": "de",
+          "text": "Mit dieser Aussage tritt er ins Fettnäpfchen.",
+          "en": "With that statement he puts his foot in it."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Most everyday German idioms are colloquial. They belong in conversation, chat and feature journalism, not in a contract or a lab report.",
+            "Many have a fixed case, a fixed article or a fixed negation. Learn the whole block, not the individual words.",
+            "Idioms carry evaluation. Die Kirche im Dorf lassen signals modesty; jemandem auf den Schlips treten signals offence.",
+            "A well-placed idiom sounds natural; three in one paragraph sound like a phrasebook."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Understanding tip",
+          "text": "Do not translate word by word. Ask: who is affected, is the tone positive or negative, and would a neutral paraphrase fit the same slot?"
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "Learn the image, the meaning and the register together.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Idiom", "Literal image", "Meaning", "Register"],
+          "rows": [
+            ["ins Fettnäpfchen treten", "to step into the little fat bowl", "to put one's foot in it", "colloquial"],
+            ["jemandem die Daumen drücken", "to press someone's thumbs", "to keep one's fingers crossed", "neutral, spoken"],
+            ["auf dem Laufenden bleiben", "to stay on the running thing", "to stay informed", "neutral, also professional"],
+            ["den Nagel auf den Kopf treffen", "to hit the nail on the head", "to say exactly the right thing", "neutral"],
+            ["die Kirche im Dorf lassen", "to leave the church in the village", "not to exaggerate", "colloquial"],
+            ["jemandem auf den Schlips treten", "to step on someone's tie", "to offend someone", "colloquial"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Fixed case: ins Fettnäpfchen (accusative), auf dem Laufenden (dative), auf den Schlips (accusative). Changing the case turns the idiom back into a strange literal statement.",
+            "The verb inflects: er tritt ins Fettnäpfchen, er ist ins Fettnäpfchen getreten, sie hat den Nagel auf den Kopf getroffen.",
+            "Negation usually sits before the idiom: Ich will dir nicht auf den Schlips treten.",
+            "For formal writing, paraphrase: instead of ins Fettnäpfchen treten write eine heikle Bemerkung machen."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Register test",
+          "text": "Would you write it in a report to a client? If not, keep it for speech or replace it with a neutral paraphrase."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 5,
+      "lede": "These six expressions cover apology, encouragement, information, accuracy, proportion and offence.",
+      "items": [
+        {
+          "de": "ins Fettnäpfchen treten",
+          "en": "to put one's foot in it",
+          "pronunciation": "ins FETT-näpf-chen TRAY-ten",
+          "example": "Mit der Frage nach dem Gehalt ist er ins Fettnäpfchen getreten.",
+          "exampleEn": "By asking about the salary, he put his foot in it."
+        },
+        {
+          "de": "jemandem die Daumen drücken",
+          "en": "to keep one's fingers crossed for someone",
+          "pronunciation": "YAIR-mahn-dem dee DAU-men DRÜ-cken",
+          "example": "Ich drücke dir für die Prüfung die Daumen.",
+          "exampleEn": "I will keep my fingers crossed for your exam."
+        },
+        {
+          "de": "auf dem Laufenden bleiben",
+          "en": "to stay informed",
+          "pronunciation": "auf dem LAU-fen-den BLAI-ben",
+          "example": "Bleiben Sie auf dem Laufenden, wir melden uns wöchentlich.",
+          "exampleEn": "Stay informed; we will be in touch weekly."
+        },
+        {
+          "de": "den Nagel auf den Kopf treffen",
+          "en": "to hit the nail on the head",
+          "pronunciation": "den NAH-gel auf den KOPF TREF-fen",
+          "example": "Mit ihrer Analyse hat sie den Nagel auf den Kopf getroffen.",
+          "exampleEn": "With her analysis, she hit the nail on the head."
+        },
+        {
+          "de": "die Kirche im Dorf lassen",
+          "en": "not to exaggerate, to keep things in proportion",
+          "pronunciation": "dee KIR-khe im DORF LAS-sen",
+          "example": "Wir sollten die Kirche im Dorf lassen: Das Projekt ist gut, aber nicht revolutionär.",
+          "exampleEn": "We should not exaggerate: the project is good, but not revolutionary."
+        },
+        {
+          "de": "jemandem auf den Schlips treten",
+          "en": "to offend someone",
+          "pronunciation": "YAIR-mahn-dem auf den SHLIPS TRAY-ten",
+          "example": "Ich wollte dir nicht auf den Schlips treten.",
+          "exampleEn": "I did not mean to offend you."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Notice who is affected and which case the idiom fixes.",
+      "items": [
+        {
+          "de": "Entschuldigung, ich wollte Ihnen nicht auf den Schlips treten.",
+          "en": "I am sorry, I did not mean to offend you.",
+          "note": "The person is in the dative (Ihnen); the idiom itself keeps auf den Schlips."
+        },
+        {
+          "de": "Wenn du willst, drücke ich dir für das Gespräch die Daumen.",
+          "en": "If you like, I will keep my fingers crossed for your meeting.",
+          "note": "dir is dative; die Daumen stays accusative plural."
+        },
+        {
+          "de": "Mit dem Satz „Das war schon immer so“ hast du ins Fettnäpfchen getreten.",
+          "en": "With the sentence “That is how it has always been”, you put your foot in it.",
+          "note": "The idiom describes a social mistake, not a factual error."
+        },
+        {
+          "de": "Bleiben Sie auf dem Laufenden – die Lage ändert sich täglich.",
+          "en": "Stay informed — the situation changes daily.",
+          "note": "Acceptable in a professional email; it is neutral rather than slangy."
+        },
+        {
+          "de": "Man kann es auch übertreiben; wir sollten die Kirche im Dorf lassen.",
+          "en": "You can overdo it; we should keep things in proportion.",
+          "note": "Usually said after someone has made a very strong claim."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "Idioms are rhythmic units. If the stress is wrong, the phrase sounds assembled rather than known.",
+      "items": [
+        {
+          "de": "Fettnäpfchen",
+          "hint": "FETT-nepf-khen: short e, then ä; pf is one sound, and -chen is a soft ç.",
+          "en": "little fat bowl (inside the idiom)"
+        },
+        {
+          "de": "Daumen",
+          "hint": "DAU-men: the au is a full diphthong; the second syllable is a weak -men, not “man”.",
+          "en": "thumbs"
+        },
+        {
+          "de": "Laufenden",
+          "hint": "LAU-fen-den: stress the first syllable; the final -en is a schwa, not a full e.",
+          "en": "running (inside the idiom)"
+        },
+        {
+          "de": "Schlips",
+          "hint": "One syllable, short i, sharp final s. Do not voice it to a z.",
+          "en": "tie"
+        },
+        {
+          "de": "Kirche",
+          "hint": "KIR-khe: the ch after r is the soft ç sound, not a hard k.",
+          "en": "church"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Idioms, region and the risk of sounding too casual",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German idioms are not one national inventory. Butter bei die Fische (“let's get to the point”) is northern and sounds out of place in a formal meeting in the south; ins Fettnäpfchen treten is understood everywhere. Some phrases are neutral enough for professional email, such as auf dem Laufenden bleiben; others remain firmly conversational."
+        },
+        {
+          "kind": "p",
+          "text": "For learners the bigger risk is not misunderstanding but overuse. A single idiom that fits the situation signals ease. A chain of idioms signals that you have learned lists rather than language. When in doubt, use the neutral paraphrase and keep the idiom for speech."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lede": "A careless remark in the office kitchen, and the attempt to repair it.",
+      "setting": "The office kitchen after a team meeting",
+      "lines": [
+        { "speaker": "Lena", "de": "Habt ihr gehört, dass Toms Projekt verschoben wird?", "en": "Have you heard that Tom's project is being postponed?" },
+        { "speaker": "Jonas", "de": "Psst – er steht direkt hinter dir.", "en": "Shh — he is standing right behind you." },
+        { "speaker": "Lena", "de": "Oh nein. Da bin ich ja wohl ins Fettnäpfchen getreten.", "en": "Oh no. I have really put my foot in it there." },
+        { "speaker": "Tom", "de": "Schon okay. Ich hätte es sowieso bald erzählt.", "en": "It's fine. I would have mentioned it soon anyway." },
+        { "speaker": "Jonas", "de": "Drücken wir ihm einfach die Daumen, dass es nur zwei Wochen sind.", "en": "Let's just keep our fingers crossed that it is only two weeks." },
+        { "speaker": "Tom", "de": "Danke. Ich halte euch auf dem Laufenden.", "en": "Thanks. I will keep you posted." },
+        { "speaker": "Lena", "de": "Und sag Bescheid, wenn wir helfen können – ohne dass ich wieder ins Fettnäpfchen trete.", "en": "And let us know if we can help — without me putting my foot in it again." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "The grammar inside an idiom",
+      "lede": "Idioms are grammatical objects, not frozen sentences. The verb inflects and the noun phrase keeps its fixed case.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Infinitive", "Present (er/sie)", "Perfect", "English"],
+          "rows": [
+            ["ins Fettnäpfchen treten", "er tritt ins Fettnäpfchen", "er ist ins Fettnäpfchen getreten", "he puts his foot in it"],
+            ["jemandem die Daumen drücken", "sie drückt ihm die Daumen", "sie hat ihm die Daumen gedrückt", "she keeps her fingers crossed for him"],
+            ["auf dem Laufenden bleiben", "er bleibt auf dem Laufenden", "er ist auf dem Laufenden geblieben", "he stays informed"],
+            ["den Nagel auf den Kopf treffen", "sie trifft den Nagel auf den Kopf", "sie hat den Nagel auf den Kopf getroffen", "she hits the nail on the head"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "treten is strong: tritt, trat, ist getreten. The perfect takes sein because the verb expresses a change of place or state.",
+            "bleiben also takes sein in the perfect: ist geblieben.",
+            "The dative in jemandem die Daumen drücken survives when the person becomes a pronoun: ich drücke ihm die Daumen.",
+            "In a subordinate clause the verb still goes last: ..., weil er ins Fettnäpfchen getreten ist."
+          ]
+        }
+      ],
+      "tip": "Learn each idiom with its perfect form. In a story you will need the perfect far more often than the infinitive."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Read the whole situation, then decide what the idiom contributes.",
+      "exercises": [
+        {
+          "id": "l3-p1",
+          "type": "mcq",
+          "prompt": "What does „ins Fettnäpfchen treten“ mean?",
+          "options": ["to make a tactless remark", "to arrive late", "to refuse an invitation", "to tell a lie"],
+          "answer": 0,
+          "explanation": "The idiom describes a social mistake, not a factual one."
+        },
+        {
+          "id": "l3-p2",
+          "type": "mcq",
+          "prompt": "Which pronoun correctly completes „Ich drücke ___ die Daumen“?",
+          "options": ["dich", "dir", "du", "deiner"],
+          "answer": 1,
+          "explanation": "The person is in the dative: ich drücke dir die Daumen."
+        },
+        {
+          "id": "l3-p3",
+          "type": "mcq",
+          "prompt": "Which idiom means “to stay informed”?",
+          "options": ["auf dem Laufenden bleiben", "die Kirche im Dorf lassen", "den Nagel auf den Kopf treffen", "jemandem auf den Schlips treten"],
+          "answer": 0,
+          "explanation": "auf dem Laufenden bleiben = to keep up to date."
+        },
+        {
+          "id": "l3-p4",
+          "type": "mcq",
+          "prompt": "Which sentence would be out of place in a formal report?",
+          "options": ["Die Ergebnisse sind vorläufig.", "Wir sollten die Kirche im Dorf lassen.", "Die Stichprobe ist klein.", "Die Daten wurden anonymisiert."],
+          "answer": 1,
+          "explanation": "The idiom is colloquial; in a report, say Die Ergebnisse sollten nicht überinterpretiert werden."
+        },
+        {
+          "id": "l3-p5",
+          "type": "mcq",
+          "prompt": "What does „Damit hast du den Nagel auf den Kopf getroffen“ express?",
+          "options": ["You have missed the point.", "You have said exactly the right thing.", "You have changed the subject.", "You have been too aggressive."],
+          "answer": 1,
+          "explanation": "The idiom praises precision: the comment named the central point."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing word. The idiom is fixed, so the article and case matter.",
+      "exercises": [
+        {
+          "id": "l3-g1",
+          "type": "gap",
+          "prompt": "Mit seiner Bemerkung ist er ins ___ getreten.",
+          "answers": ["Fettnäpfchen"],
+          "explanation": "ins Fettnäpfchen treten = to put one's foot in it."
+        },
+        {
+          "id": "l3-g2",
+          "type": "gap",
+          "prompt": "Ich drücke dir die ___ für die Prüfung.",
+          "answers": ["Daumen"],
+          "explanation": "die Daumen drücken = to keep one's fingers crossed. The plural is fixed."
+        },
+        {
+          "id": "l3-g3",
+          "type": "gap",
+          "prompt": "Bleiben Sie bitte auf dem ___.",
+          "answers": ["Laufenden"],
+          "explanation": "auf dem Laufenden bleiben = to stay informed; the form is a fixed dative."
+        },
+        {
+          "id": "l3-g4",
+          "type": "gap",
+          "prompt": "Du hast den ___ auf den Kopf getroffen.",
+          "answers": ["Nagel"],
+          "explanation": "den Nagel auf den Kopf treffen = to hit the nail on the head."
+        },
+        {
+          "id": "l3-g5",
+          "type": "gap",
+          "prompt": "Wir sollten die ___ im Dorf lassen.",
+          "answers": ["Kirche"],
+          "explanation": "die Kirche im Dorf lassen = not to exaggerate."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Keep the idiom together as one block while you order the rest.",
+      "exercises": [
+        {
+          "id": "l3-o1",
+          "type": "order",
+          "prompt": "Build: “With that statement he puts his foot in it.”",
+          "tokens": ["tritt", "dieser", "ins", "Mit", "Fettnäpfchen", "er", "Aussage"],
+          "answer": "Mit dieser Aussage tritt er ins Fettnäpfchen.",
+          "explanation": "The fronted prepositional phrase takes position one; tritt comes second."
+        },
+        {
+          "id": "l3-o2",
+          "type": "order",
+          "prompt": "Build: “I will keep my fingers crossed for your exam.”",
+          "tokens": ["Ich", "drücke", "dir", "für", "die", "Prüfung", "die", "Daumen"],
+          "answer": "Ich drücke dir für die Prüfung die Daumen.",
+          "explanation": "dir is dative, die Daumen is the accusative object at the end."
+        },
+        {
+          "id": "l3-o3",
+          "type": "order",
+          "prompt": "Build: “Stay informed.”",
+          "tokens": ["auf", "Sie", "Laufenden", "Bleiben", "dem"],
+          "answer": "Bleiben Sie auf dem Laufenden.",
+          "explanation": "The imperative Bleiben Sie keeps the fixed phrase auf dem Laufenden intact."
+        },
+        {
+          "id": "l3-o4",
+          "type": "order",
+          "prompt": "Build: “With that you have hit the nail on the head.”",
+          "tokens": ["Damit", "hast", "du", "den", "Nagel", "auf", "den", "Kopf", "getroffen"],
+          "answer": "Damit hast du den Nagel auf den Kopf getroffen.",
+          "explanation": "The perfect puts the participle getroffen at the end of the sentence."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Two colleagues disagree about a presentation. Listen for how each idiom evaluates it.",
+      "speaker": "Two colleagues after a seminar",
+      "script": [
+        { "speaker": "Nina", "de": "Wie fandest du den Vortrag von Frau Neumann?", "en": "What did you think of Ms Neumann's presentation?" },
+        { "speaker": "Omar", "de": "Ehrlich? Sie hat den Nagel auf den Kopf getroffen, als sie sagte, das Problem sei nicht das Geld, sondern die Zeit.", "en": "Honestly? She hit the nail on the head when she said the problem was not money but time." },
+        { "speaker": "Nina", "de": "Da bin ich anderer Meinung. Ich glaube, sie hat ein bisschen übertrieben.", "en": "I disagree. I think she exaggerated a little." },
+        { "speaker": "Omar", "de": "Vielleicht. Aber sie hat die Kirche im Dorf gelassen, was die Zahlen angeht.", "en": "Maybe. But she kept things in proportion as far as the figures were concerned." },
+        { "speaker": "Nina", "de": "Stimmt. Und sie hat uns auf dem Laufenden gehalten, ohne uns zu langweilen.", "en": "True. And she kept us informed without boring us." }
+      ],
+      "questions": [
+        {
+          "id": "l3-lq1",
+          "type": "mcq",
+          "prompt": "What did Frau Neumann identify as the main problem?",
+          "options": ["money", "time", "staff", "the client"],
+          "answer": 1,
+          "explanation": "Omar quotes her: das Problem sei nicht das Geld, sondern die Zeit."
+        },
+        {
+          "id": "l3-lq2",
+          "type": "mcq",
+          "prompt": "What does Omar say about her treatment of the figures?",
+          "options": ["She exaggerated them.", "She presented them with restraint.", "She left them out.", "She treated them as confidential."],
+          "answer": 1,
+          "explanation": "sie hat die Kirche im Dorf gelassen, was die Zahlen angeht = she kept things in proportion."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Tell the story in the perfect tense; idioms carry the emotional colour.",
+      "prompt": "Tell a short story about a misunderstanding at work. Use two idioms from the lesson, one of them in the perfect tense.",
+      "model": {
+        "de": "Ich wollte meiner Kollegin die Daumen drücken, aber ich habe dabei ihren Termin vergessen. Als ich sie danach fragte, habe ich ins Fettnäpfchen getreten: Sie hatte den Termin extra verschoben. Zum Glück hat sie mir nicht auf den Schlips getreten.",
+        "en": "I wanted to keep my fingers crossed for my colleague, but I forgot her appointment in the process. When I asked her about it, I put my foot in it: she had moved the appointment especially. Luckily, she did not take offence."
+      },
+      "tips": [
+        "Choose idioms that fit the emotion of the story, not the ones that are easiest to remember.",
+        "Use the perfect for the events and one present-tense sentence for the comment or moral.",
+        "Say the story three times: first for accuracy, then for rhythm, then without your notes."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "The verb changes, but the fixed case and the auxiliary do not.",
+      "items": [
+        {
+          "wrong": "Er hat den Nagel auf dem Kopf getroffen.",
+          "right": "Er hat den Nagel auf den Kopf getroffen.",
+          "why": "The idiom fixes the accusative: auf den Kopf."
+        },
+        {
+          "wrong": "Ich trete dich nicht auf den Schlips.",
+          "right": "Ich trete dir nicht auf den Schlips.",
+          "why": "The person offended is in the dative: jemandem auf den Schlips treten."
+        },
+        {
+          "wrong": "Ich habe auf dem Laufenden geblieben.",
+          "right": "Ich bin auf dem Laufenden geblieben.",
+          "why": "bleiben forms the perfect with sein: ich bin geblieben."
+        },
+        {
+          "wrong": "Sie haben die Kirche in dem Dorf gelassen.",
+          "right": "Sie haben die Kirche im Dorf gelassen.",
+          "why": "The idiom uses the contracted dative im Dorf; in dem Dorf would be read literally."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 3,
+      "passScore": 70,
+      "lede": "Ten questions on meaning, case and register. Score 70% or more to complete the lesson check.",
+      "questions": [
+        {
+          "id": "l3-a1",
+          "type": "mcq",
+          "prompt": "What does „ins Fettnäpfchen treten“ mean?",
+          "options": ["to make a tactless remark", "to forget an appointment", "to refuse to help", "to arrive unprepared"],
+          "answer": 0,
+          "explanation": "The idiom describes a social mistake: saying or doing the wrong thing."
+        },
+        {
+          "id": "l3-a2",
+          "type": "mcq",
+          "prompt": "Which case does the person take in „jemandem die Daumen drücken“?",
+          "options": ["nominative", "accusative", "dative", "genitive"],
+          "answer": 2,
+          "explanation": "jemandem is dative: ich drücke dir die Daumen."
+        },
+        {
+          "id": "l3-a3",
+          "type": "mcq",
+          "prompt": "Which idiom argues for proportion rather than exaggeration?",
+          "options": ["ins Fettnäpfchen treten", "die Kirche im Dorf lassen", "auf dem Laufenden bleiben", "den Nagel auf den Kopf treffen"],
+          "answer": 1,
+          "explanation": "die Kirche im Dorf lassen = to keep things in proportion, not to overstate."
+        },
+        {
+          "id": "l3-a4",
+          "type": "mcq",
+          "prompt": "Which sentence is appropriate in a formal report?",
+          "options": ["Wir sollten die Kirche im Dorf lassen.", "Die Befunde sollten nicht überinterpretiert werden.", "Da hat er ins Fettnäpfchen getreten.", "Ich drücke die Daumen, dass es klappt."],
+          "answer": 1,
+          "explanation": "The neutral paraphrase fits the register; the idioms belong to speech or informal writing."
+        },
+        {
+          "id": "l3-a5",
+          "type": "mcq",
+          "prompt": "Which auxiliary completes „Sie ___ den Nagel auf den Kopf getroffen“?",
+          "options": ["hat", "ist", "haben", "wird"],
+          "answer": 0,
+          "explanation": "treffen forms the perfect with haben: sie hat getroffen."
+        },
+        {
+          "id": "l3-a6",
+          "type": "gap",
+          "prompt": "Bleiben Sie auf dem ___.",
+          "answers": ["Laufenden"],
+          "explanation": "The fixed phrase is auf dem Laufenden bleiben."
+        },
+        {
+          "id": "l3-a7",
+          "type": "gap",
+          "prompt": "Ich drücke dir die ___.",
+          "answers": ["Daumen"],
+          "explanation": "die Daumen drücken = to keep one's fingers crossed."
+        },
+        {
+          "id": "l3-a8",
+          "type": "gap",
+          "prompt": "Damit hast du den ___ auf den Kopf getroffen.",
+          "answers": ["Nagel"],
+          "explanation": "den Nagel auf den Kopf treffen = to hit the nail on the head."
+        },
+        {
+          "id": "l3-a9",
+          "type": "order",
+          "prompt": "Build: “With that statement he puts his foot in it.”",
+          "tokens": ["tritt", "dieser", "ins", "Mit", "Fettnäpfchen", "er", "Aussage"],
+          "answer": "Mit dieser Aussage tritt er ins Fettnäpfchen.",
+          "explanation": "The fronted phrase takes position one; the verb follows in second position."
+        },
+        {
+          "id": "l3-a10",
+          "type": "order",
+          "prompt": "Build: “I will keep my fingers crossed for your exam.”",
+          "tokens": ["Ich", "drücke", "dir", "für", "die", "Prüfung", "die", "Daumen"],
+          "answer": "Ich drücke dir für die Prüfung die Daumen.",
+          "explanation": "dir is dative and die Daumen is the accusative object at the end."
+        }
+      ]
+    }
+  ]
+}

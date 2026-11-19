@@ -1,0 +1,645 @@
+{
+  "id": "b1-m2-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Read each sentence in one breath if you can. The relative clause should feel like part of the noun, not a separate sentence.",
+      "prompt": "Read the sentences aloud. Pause briefly before the comma, then finish the relative clause without a second pause.",
+      "items": [
+        "Das ist der Kollege, der mir geholfen hat.",
+        "Die Wohnung, die wir gemietet haben, ist sehr hell.",
+        "Der Film, den ich gestern gesehen habe, war langweilig.",
+        "Das ist das Café, in dem wir uns immer treffen."
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "A relative clause lets you describe a noun without starting a new sentence.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Compare “Das ist der Kollege. Er hat mir geholfen.” with “Das ist der Kollege, der mir geholfen hat.” The second version is one sentence, and the listener knows immediately which colleague you mean. The relative pronoun replaces he, she or it, and the conjugated verb moves to the end of the clause."
+        },
+        {
+          "kind": "de",
+          "text": "Das ist der Kollege, der mir geholfen hat.",
+          "en": "That is the colleague who helped me."
+        },
+        {
+          "kind": "p",
+          "text": "Two decisions produce every relative clause. First, choose the pronoun: its gender and number come from the noun you are describing. Second, choose the case: the pronoun's role inside the relative clause decides whether it is der, den, dem or dessen."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Gender and number come from the antecedent: der Kollege → der; die Wohnung → die; das Buch → das.",
+            "Case comes from the relative clause: subject → nominative, direct object → accusative, dative verb or preposition → dative.",
+            "The conjugated verb stands at the end: …, der mir geholfen hat.",
+            "A comma always comes before the relative clause, and another comma closes it if the main sentence continues."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Do not copy the article",
+          "text": "The relative pronoun often looks like the article, but not always: der Kollege, den ich kenne. The article is nominative, the relative pronoun is accusative because it is the object of kenne."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "Learn the four-case table as a block. Most errors disappear once the dative column is automatic.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Case", "Masculine", "Feminine", "Neuter", "Plural"],
+          "rows": [
+            ["Nominative", "der", "die", "das", "die"],
+            ["Accusative", "den", "die", "das", "die"],
+            ["Dative", "dem", "der", "dem", "denen"],
+            ["Genitive", "dessen", "deren", "dessen", "deren"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Nominative: Der Mann, der dort steht, ist mein Nachbar.",
+            "Accusative: Der Mann, den ich kenne, ist mein Nachbar.",
+            "Dative: Der Mann, dem ich geholfen habe, ist mein Nachbar.",
+            "Genitive: Der Mann, dessen Auto vor der Tür steht, ist mein Nachbar.",
+            "With a preposition, the preposition decides the case: die Firma, bei der ich arbeite; das Projekt, an dem wir arbeiten.",
+            "Use wo for places in everyday German: die Stadt, wo ich geboren bin. Use was after alles, nichts, etwas and das: alles, was ich weiß."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Genitive is for reading",
+          "text": "dessen and deren appear in formal and written German. At B1 you should recognise them: der Autor, dessen Buch wir lesen = the author whose book we are reading. In your own sentences, a preposition plus dative is usually safer."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These nouns are the antecedents in the examples, so the gender matters twice.",
+      "items": [
+        {
+          "de": "der Kollege",
+          "en": "the colleague",
+          "article": "der",
+          "plural": "die Kollegen",
+          "pronunciation": "kɔˈleːɡə",
+          "example": "Der Kollege, der neben mir sitzt, kommt aus Hamburg.",
+          "exampleEn": "The colleague who sits next to me comes from Hamburg."
+        },
+        {
+          "de": "die Nachbarin",
+          "en": "the neighbour (female)",
+          "article": "die",
+          "plural": "die Nachbarinnen",
+          "pronunciation": "ˈnaːxbaʁɪn",
+          "example": "Meine Nachbarin, die im Erdgeschoss wohnt, hat einen Hund.",
+          "exampleEn": "My neighbour, who lives on the ground floor, has a dog."
+        },
+        {
+          "de": "das Gerät",
+          "en": "the device, the appliance",
+          "article": "das",
+          "plural": "die Geräte",
+          "pronunciation": "ɡəˈʁɛːt",
+          "example": "Das Gerät, das du bestellt hast, ist heute angekommen.",
+          "exampleEn": "The device that you ordered arrived today."
+        },
+        {
+          "de": "die Stelle",
+          "en": "the position, the job",
+          "article": "die",
+          "plural": "die Stellen",
+          "pronunciation": "ˈʃtɛlə",
+          "example": "Die Stelle, um die ich mich beworben habe, ist schon besetzt.",
+          "exampleEn": "The position I applied for is already taken."
+        },
+        {
+          "de": "der Roman",
+          "en": "the novel",
+          "article": "der",
+          "plural": "die Romane",
+          "pronunciation": "ʁoˈmaːn",
+          "example": "Der Roman, den sie empfohlen hat, spielt in Wien.",
+          "exampleEn": "The novel she recommended is set in Vienna."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "For each sentence, name the antecedent and the case of the relative pronoun.",
+      "items": [
+        {
+          "de": "Das ist der Kollege, der mir geholfen hat.",
+          "en": "That is the colleague who helped me.",
+          "note": "der is nominative because it is the subject of the relative clause."
+        },
+        {
+          "de": "Die Wohnung, die wir gemietet haben, liegt im dritten Stock.",
+          "en": "The flat that we rented is on the third floor.",
+          "note": "die is accusative feminine, the object of gemietet haben."
+        },
+        {
+          "de": "Der Film, den ich gestern gesehen habe, war langweilig.",
+          "en": "The film that I saw yesterday was boring.",
+          "note": "den is accusative masculine; the participle gesehen and habe close the clause."
+        },
+        {
+          "de": "Die Kollegin, der ich das Dokument geschickt habe, ist im Urlaub.",
+          "en": "The colleague to whom I sent the document is on holiday.",
+          "note": "der is dative feminine; schicken takes a dative person."
+        },
+        {
+          "de": "Das ist das Café, in dem wir uns immer treffen.",
+          "en": "That is the café where we always meet.",
+          "note": "in dem: the preposition in takes the dative for a position."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "Relative pronouns are usually unstressed, so clarity comes from the consonants.",
+      "items": [
+        {
+          "de": "Relativsatz",
+          "hint": "Stress the third syllable; the final z is “ts”: re-la-TEEF-zats.",
+          "en": "relative clause"
+        },
+        {
+          "de": "dessen",
+          "hint": "Short e and a sharp double s: DESS-sen. Do not soften the s.",
+          "en": "whose (masculine/neuter)"
+        },
+        {
+          "de": "deren",
+          "hint": "Long, closed e: DAY-ren. Keep the final -n light.",
+          "en": "whose (feminine/plural)"
+        },
+        {
+          "de": "Nachbarin",
+          "hint": "Rough ch after a, then a clear -in: NAKH-ba-rin.",
+          "en": "neighbour (female)"
+        },
+        {
+          "de": "gemietet",
+          "hint": "Long ee in the middle, crisp final t: ge-MEE-tet.",
+          "en": "rented"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Why German loves the relative clause",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German academic and journalistic writing often packs information into relative clauses instead of adding short sentences. A well-placed relative clause makes a text precise: it identifies exactly which person, place or thing you mean. In formal writing, the pronoun is normally der, die, das; welcher, welche, welches is possible but sounds stilted in everyday German."
+        },
+        {
+          "kind": "p",
+          "text": "In speech, relative clauses are shorter and often replaced by wo for places: die Kneipe, wo wir uns treffen. Standard written German usually prefers in der or in dem, so learn both versions. The comma before the clause is obligatory in German, even when English would leave it out."
+        },
+        {
+          "kind": "note",
+          "title": "Useful pattern for descriptions",
+          "text": "When you describe a person, add one relative clause with a verb of habit: eine Kollegin, die immer früh anfängt; ein Nachbar, der viel Klavier spielt. It is a compact way to sound more fluent at B1."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "A tenant views a flat. Every description is built with a relative clause.",
+      "setting": "Flat viewing with an estate agent",
+      "lines": [
+        { "speaker": "Maklerin", "de": "Guten Tag. Das ist die Wohnung, über die wir telefoniert haben.", "en": "Good day. This is the flat we spoke about on the phone." },
+        { "speaker": "Mieterin", "de": "Danke. Das Wohnzimmer, das auf den Hof zeigt, gefällt mir schon mal.", "en": "Thank you. I already like the living room, which faces the courtyard." },
+        { "speaker": "Maklerin", "de": "Die Küche, die Sie im Plan sehen, wird gerade renoviert.", "en": "The kitchen that you see in the plan is currently being renovated." },
+        { "speaker": "Mieterin", "de": "Sind die Nachbarn, die hier wohnen, ruhig?", "en": "Are the neighbours who live here quiet?" },
+        { "speaker": "Maklerin", "de": "Ja, das sind vor allem Familien, die schon lange hier leben.", "en": "Yes, they are mainly families who have lived here for a long time." },
+        { "speaker": "Mieterin", "de": "Gibt es einen Keller, den man mitbenutzen kann?", "en": "Is there a cellar that one can share?" },
+        { "speaker": "Maklerin", "de": "Ja, den Keller, der zum Haus gehört, teilen sich alle Bewohner.", "en": "Yes, all residents share the cellar that belongs to the building." },
+        { "speaker": "Mieterin", "de": "Das klingt gut. Ich würde gern über den Mietvertrag sprechen, den Sie vorbereitet haben.", "en": "That sounds good. I would like to talk about the tenancy agreement that you have prepared." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Choosing the relative pronoun",
+      "lede": "Ask two questions: what am I describing, and what job does the pronoun do inside the clause?",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Antecedent", "Role in the clause", "Pronoun", "Example"],
+          "rows": [
+            ["der Kollege", "subject", "der", "der Kollege, der mir hilft"],
+            ["der Kollege", "direct object", "den", "der Kollege, den ich kenne"],
+            ["der Kollege", "dative object", "dem", "der Kollege, dem ich danke"],
+            ["die Firma", "after bei (dative)", "der", "die Firma, bei der ich arbeite"],
+            ["das Projekt", "after an (dative)", "dem", "das Projekt, an dem wir arbeiten"],
+            ["die Bücher", "dative plural", "denen", "die Bücher, denen ich vertraue"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The relative clause normally follows the noun directly. If the main clause continues, it resumes after the closing comma.",
+            "In the relative clause, the conjugated verb is final: …, die in Berlin wohnt. With a modal or perfect tense, the finite verb is still last: …, die hat arbeiten müssen.",
+            "The relative pronoun cannot be omitted as in English: the man I saw = der Mann, den ich gesehen habe.",
+            "After alles, nichts, etwas and das, use was: Das ist etwas, was mir wichtig ist.",
+            "For places, wo is common in speech; in writing, use a preposition plus dative: die Stadt, in der ich lebe."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Watch the finite verb",
+          "text": "A common slip is to put the auxiliary first: “das Buch, das ich habe gelesen”. The correct order is das Buch, das ich gelesen habe — participle first, finite verb last."
+        }
+      ],
+      "tip": "Rewrite a relative clause as a separate sentence to test it: Das ist der Kollege. Er hat mir geholfen. Er → der. That trick reveals the correct case in seconds."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 5,
+      "lede": "Decide the case inside the clause before you choose the form.",
+      "exercises": [
+        {
+          "id": "b1m2l1-p1",
+          "type": "mcq",
+          "prompt": "Complete: “Das ist der Mann, ___ ich gestern getroffen habe.”",
+          "options": ["der", "den", "dem", "dessen"],
+          "answer": 1,
+          "explanation": "The pronoun is the direct object of getroffen, so it is accusative masculine: den."
+        },
+        {
+          "id": "b1m2l1-p2",
+          "type": "mcq",
+          "prompt": "Complete: “Die Frau, ___ hier arbeitet, heißt Meier.”",
+          "options": ["die", "den", "der", "dem"],
+          "answer": 0,
+          "explanation": "The pronoun is the subject of arbeitet: nominative feminine, die."
+        },
+        {
+          "id": "b1m2l1-p3",
+          "type": "mcq",
+          "prompt": "Complete: “Der Kollege, ___ ich das Buch gegeben habe, ist krank.”",
+          "options": ["der", "den", "dem", "dessen"],
+          "answer": 2,
+          "explanation": "geben takes a dative person: dem Kollegen. The relative pronoun is dem."
+        },
+        {
+          "id": "b1m2l1-p4",
+          "type": "mcq",
+          "prompt": "Complete: “Das Buch, ___ ich gelesen habe, war spannend.”",
+          "options": ["der", "die", "das", "dem"],
+          "answer": 2,
+          "explanation": "das Buch is neuter, and the pronoun is the object of gelesen: accusative neuter, das."
+        },
+        {
+          "id": "b1m2l1-p5",
+          "type": "mcq",
+          "prompt": "Which sentence has the correct word order?",
+          "options": ["Die Wohnung, die wir gemietet haben, ist groß.", "Die Wohnung, die wir haben gemietet, ist groß.", "Die Wohnung, wir die gemietet haben, ist groß.", "Die Wohnung, die haben wir gemietet, ist groß."],
+          "answer": 0,
+          "explanation": "In the relative clause the participle comes before the finite verb: die wir gemietet haben."
+        },
+        {
+          "id": "b1m2l1-p6",
+          "type": "mcq",
+          "prompt": "Complete: “Das ist alles, ___ ich darüber weiß.”",
+          "options": ["das", "was", "der", "dem"],
+          "answer": 1,
+          "explanation": "After alles, use was: alles, was ich weiß."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 5,
+      "lede": "Type the relative pronoun or the missing preposition plus article.",
+      "exercises": [
+        {
+          "id": "b1m2l1-g1",
+          "type": "gap",
+          "prompt": "Das ist der Kollege, ___ mir geholfen hat.",
+          "answers": ["der"],
+          "explanation": "The pronoun is the subject of hat geholfen: nominative masculine, der."
+        },
+        {
+          "id": "b1m2l1-g2",
+          "type": "gap",
+          "prompt": "Die Wohnung, ___ wir gemietet haben, ist hell.",
+          "answers": ["die"],
+          "explanation": "die Wohnung is feminine, and the pronoun is the object of gemietet: accusative feminine, die."
+        },
+        {
+          "id": "b1m2l1-g3",
+          "type": "gap",
+          "prompt": "Der Film, ___ ich gesehen habe, war lang.",
+          "answers": ["den"],
+          "explanation": "sehen takes an accusative object: der Film → den."
+        },
+        {
+          "id": "b1m2l1-g4",
+          "type": "gap",
+          "prompt": "Die Kollegin, ___ ich das Dokument geschickt habe, ist krank.",
+          "answers": ["der"],
+          "explanation": "schicken takes a dative person: die Kollegin → der."
+        },
+        {
+          "id": "b1m2l1-g5",
+          "type": "gap",
+          "prompt": "Das ist das Café, in ___ wir uns immer treffen.",
+          "answers": ["dem"],
+          "explanation": "in + dative for a position; das Café is neuter, so in dem."
+        },
+        {
+          "id": "b1m2l1-g6",
+          "type": "gap",
+          "prompt": "Das ist alles, ___ ich darüber weiß.",
+          "answers": ["was"],
+          "explanation": "After alles, the relative pronoun is was."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 4,
+      "lede": "Build the sentence, then check that the finite verb is the last word of the relative clause.",
+      "exercises": [
+        {
+          "id": "b1m2l1-o1",
+          "type": "order",
+          "prompt": "Build: “That is the colleague who helped me.”",
+          "tokens": ["Kollege", "Das", "der", "ist", "mir", "der", "geholfen", "hat"],
+          "answer": "Das ist der Kollege, der mir geholfen hat.",
+          "explanation": "der is nominative; the participle geholfen comes before the finite verb hat."
+        },
+        {
+          "id": "b1m2l1-o2",
+          "type": "order",
+          "prompt": "Build: “The flat that we rented is very bright.”",
+          "tokens": ["Wohnung", "Die", "die", "wir", "gemietet", "haben", "ist", "sehr", "hell"],
+          "answer": "Die Wohnung, die wir gemietet haben, ist sehr hell.",
+          "explanation": "The relative clause closes with haben; the main clause continues with ist."
+        },
+        {
+          "id": "b1m2l1-o3",
+          "type": "order",
+          "prompt": "Build: “The film that I saw yesterday was boring.”",
+          "tokens": ["Film", "Der", "den", "ich", "gestern", "gesehen", "habe", "war", "langweilig"],
+          "answer": "Der Film, den ich gestern gesehen habe, war langweilig.",
+          "explanation": "den is accusative masculine; habe is the final word of the relative clause."
+        },
+        {
+          "id": "b1m2l1-o4",
+          "type": "order",
+          "prompt": "Build: “That is the café where we always meet.”",
+          "tokens": ["Café", "Das", "das", "in", "dem", "wir", "uns", "immer", "treffen", "ist"],
+          "answer": "Das ist das Café, in dem wir uns immer treffen.",
+          "explanation": "in dem is the dative form for a position; treffen is final."
+        },
+        {
+          "id": "b1m2l1-o5",
+          "type": "order",
+          "prompt": "Build: “The neighbours who live here are very friendly.”",
+          "tokens": ["Nachbarn", "Die", "die", "hier", "wohnen", "sind", "sehr", "freundlich"],
+          "answer": "Die Nachbarn, die hier wohnen, sind sehr freundlich.",
+          "explanation": "Plural nominative die; wohnen is the final verb of the relative clause."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen for which person, project and place the speakers mean. The relative clauses carry the key details.",
+      "speaker": "Two colleagues, Sara and Tim",
+      "script": [
+        { "speaker": "Sara", "de": "Kennst du schon die neue Kollegin, die am Montag angefangen hat?", "en": "Do you already know the new colleague who started on Monday?" },
+        { "speaker": "Tim", "de": "Ja, sie ist die Frau, die neben mir sitzt.", "en": "Yes, she is the woman who sits next to me." },
+        { "speaker": "Sara", "de": "Stimmt, sie kommt aus Leipzig, oder?", "en": "Right, she comes from Leipzig, doesn't she?" },
+        { "speaker": "Tim", "de": "Genau. Das Projekt, an dem sie arbeitet, ist ziemlich groß.", "en": "Exactly. The project she is working on is quite big." },
+        { "speaker": "Sara", "de": "Ah, das ist das Projekt, für das wir letzte Woche die Daten gesammelt haben.", "en": "Ah, that is the project for which we collected the data last week." },
+        { "speaker": "Tim", "de": "Ja. Und der Kollege, der das Projekt leitet, ist nächste Woche im Urlaub.", "en": "Yes. And the colleague who leads the project is on holiday next week." }
+      ],
+      "questions": [
+        {
+          "id": "b1m2l1-lq1",
+          "type": "mcq",
+          "prompt": "Where does the new colleague sit?",
+          "options": ["Next to Tim", "Next to Sara", "In another building", "At reception"],
+          "answer": 0,
+          "explanation": "Tim says: sie ist die Frau, die neben mir sitzt."
+        },
+        {
+          "id": "b1m2l1-lq2",
+          "type": "mcq",
+          "prompt": "Where does the new colleague come from?",
+          "options": ["Berlin", "Leipzig", "Hamburg", "Vienna"],
+          "answer": 1,
+          "explanation": "Sara asks: sie kommt aus Leipzig, oder? Tim confirms it."
+        },
+        {
+          "id": "b1m2l1-lq3",
+          "type": "mcq",
+          "prompt": "Who is on holiday next week?",
+          "options": ["The new colleague", "Sara", "The colleague who leads the project", "The whole team"],
+          "answer": 2,
+          "explanation": "der Kollege, der das Projekt leitet, ist nächste Woche im Urlaub."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Describe three things with three relative clauses. One person, one place, one object.",
+      "prompt": "Describe a person you work or study with, a place you like and an object you use every day. Use a relative clause for each one.",
+      "model": {
+        "de": "Eine Kollegin, die ich sehr schätze, arbeitet seit fünf Jahren bei uns. Wir treffen uns oft in dem Café, das direkt gegenüber liegt. Dort benutze ich immer das alte Notizbuch, das mir mein Vater geschenkt hat.",
+        "en": "A colleague whom I value highly has worked with us for five years. We often meet in the café that is directly opposite. There I always use the old notebook that my father gave me."
+      },
+      "tips": [
+        "Say the noun first, then decide gender and number, then choose the case from the role in the clause.",
+        "Keep each relative clause short in speech. One clear clause is better than three nested ones.",
+        "Use a preposition with a place: das Café, in dem … or das Büro, in dem … — it sounds more precise than wo in a prepared answer."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "The first error is about case, the others about word order and the preposition.",
+      "items": [
+        {
+          "wrong": "Das ist der Mann, der ich gestern gesehen habe.",
+          "right": "Das ist der Mann, den ich gestern gesehen habe.",
+          "why": "The relative pronoun is the object of gesehen, so it must be accusative: den."
+        },
+        {
+          "wrong": "Die Frau, die arbeitet hier, ist meine Nachbarin.",
+          "right": "Die Frau, die hier arbeitet, ist meine Nachbarin.",
+          "why": "In a relative clause the conjugated verb arbeitet stands at the end."
+        },
+        {
+          "wrong": "Das Buch, das ich habe gelesen, war gut.",
+          "right": "Das Buch, das ich gelesen habe, war gut.",
+          "why": "The participle gelesen comes before the finite auxiliary habe at the end."
+        },
+        {
+          "wrong": "Die Stadt, der ich wohne, ist klein.",
+          "right": "Die Stadt, in der ich wohne, ist klein.",
+          "why": "wohnen in requires a preposition. die Stadt is feminine, so in + dative = in der."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions on pronoun choice and clause word order. Score 70% or more to unlock the next lesson.",
+      "questions": [
+        {
+          "id": "b1m2l1-a1",
+          "type": "mcq",
+          "prompt": "What decides the gender and number of the relative pronoun?",
+          "options": ["The subject of the main clause", "The noun it refers to", "The tense of the sentence", "The preposition at the end"],
+          "answer": 1,
+          "explanation": "The antecedent noun supplies gender and number; the clause supplies the case."
+        },
+        {
+          "id": "b1m2l1-a2",
+          "type": "mcq",
+          "prompt": "Complete: “Der Mann, ___ ich kenne, wohnt nebenan.”",
+          "options": ["der", "den", "dem", "dessen"],
+          "answer": 1,
+          "explanation": "kennen takes an accusative object, so the masculine pronoun is den."
+        },
+        {
+          "id": "b1m2l1-a3",
+          "type": "gap",
+          "prompt": "Die Kollegin, ___ ich das Dokument geschickt habe, ist krank.",
+          "answers": ["der"],
+          "explanation": "schicken takes a dative person; feminine dative is der."
+        },
+        {
+          "id": "b1m2l1-a4",
+          "type": "gap",
+          "prompt": "Das ist etwas, ___ mir wichtig ist.",
+          "answers": ["was"],
+          "explanation": "After etwas, the relative pronoun is was."
+        },
+        {
+          "id": "b1m2l1-a5",
+          "type": "order",
+          "prompt": "Build: “That is the colleague who helped me.”",
+          "tokens": ["Kollege", "Das", "der", "ist", "mir", "der", "geholfen", "hat"],
+          "answer": "Das ist der Kollege, der mir geholfen hat.",
+          "explanation": "der is nominative; the finite verb hat is final."
+        },
+        {
+          "id": "b1m2l1-a6",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": ["Die Wohnung, die wir gemietet haben, ist groß.", "Die Wohnung, die wir haben gemietet, ist groß.", "Die Wohnung, die gemietet wir haben, ist groß.", "Die Wohnung, wir die gemietet haben, ist groß."],
+          "answer": 0,
+          "explanation": "The relative clause ends with the finite verb: die wir gemietet haben."
+        },
+        {
+          "id": "b1m2l1-a7",
+          "type": "mcq",
+          "prompt": "Which relative pronoun fits a place in everyday speech?",
+          "options": ["wo", "was", "dessen", "denen"],
+          "answer": 0,
+          "explanation": "wo is common for places: die Stadt, wo ich geboren bin."
+        },
+        {
+          "id": "b1m2l1-a8",
+          "type": "gap",
+          "prompt": "Das ist das Café, in ___ wir uns immer treffen.",
+          "answers": ["dem"],
+          "explanation": "in + dative for position; das Café is neuter, so in dem."
+        },
+        {
+          "id": "b1m2l1-a9",
+          "type": "order",
+          "prompt": "Build: “The flat that we rented is very bright.”",
+          "tokens": ["Wohnung", "Die", "die", "wir", "gemietet", "haben", "ist", "sehr", "hell"],
+          "answer": "Die Wohnung, die wir gemietet haben, ist sehr hell.",
+          "explanation": "Relative clause: die wir gemietet haben; main clause: ist sehr hell."
+        },
+        {
+          "id": "b1m2l1-a10",
+          "type": "mcq",
+          "prompt": "What does “dessen” mean in “der Autor, dessen Buch wir lesen”?",
+          "options": ["who", "whom", "whose", "which place"],
+          "answer": 2,
+          "explanation": "dessen is the genitive relative pronoun: whose book we are reading."
+        },
+        {
+          "id": "b1m2l1-a11",
+          "type": "gap",
+          "prompt": "Der Kollege, ___ ich das Buch gegeben habe, ist krank.",
+          "answers": ["dem"],
+          "explanation": "geben takes a dative person; masculine dative is dem."
+        },
+        {
+          "id": "b1m2l1-a12",
+          "type": "order",
+          "prompt": "Build: “The film that I saw yesterday was boring.”",
+          "tokens": ["Film", "Der", "den", "ich", "gestern", "gesehen", "habe", "war", "langweilig"],
+          "answer": "Der Film, den ich gestern gesehen habe, war langweilig.",
+          "explanation": "den is accusative masculine; habe closes the relative clause."
+        }
+      ]
+    }
+  ]
+}

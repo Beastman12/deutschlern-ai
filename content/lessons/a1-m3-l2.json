@@ -1,0 +1,652 @@
+{
+  "id": "a1-m3-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "a1-m3-l2-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "a1-m3-l2",
+      "prompt": "Look around the room. Say one thing you can see, then one thing you need.",
+      "items": [
+        "Ich sehe den Hund.",
+        "der Hund",
+        "einen",
+        "mich"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "a1-m3-l2-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "a1-m3-l2",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "a1-m3-l2-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "a1-m3-l2",
+      "lede": "The accusative marks the person or thing that receives the action.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In \"Ich sehe den Hund\", the dog is the direct object: it is what I see. German marks that role with the accusative case. Only masculine articles change: der becomes den, and ein becomes einen."
+        },
+        {
+          "kind": "p",
+          "text": "Feminine, neuter and plural articles keep their nominative form in the accusative: die Frau, das Kind, die Kinder. Pronouns change too: mich, dich, ihn and sie replace ich, du, er and sie when they are the object."
+        },
+        {
+          "kind": "note",
+          "title": "One change to remember",
+          "text": "If the noun is masculine and it is the direct object, use den or einen. Everything else stays as you already know it."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l2-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "a1-m3-l2",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "der Hund → den Hund",
+              "Ich sehe den Hund."
+            ],
+            [
+              "ein Tisch → einen Tisch",
+              "Wir kaufen einen Tisch."
+            ],
+            [
+              "die Tür / das Fenster",
+              "Ich öffne die Tür und das Fenster."
+            ],
+            [
+              "ich → mich, du → dich",
+              "Er fragt mich und dich."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Ask \"Wen oder was?\" (whom or what?) to find the direct object.",
+            "The accusative does not change feminine, neuter or plural articles.",
+            "Use ihn for a masculine person or thing, and sie for a feminine one."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l2-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "a1-m3-l2",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "der Hund",
+          "en": "dog",
+          "article": "der",
+          "plural": "die Hunde",
+          "pronunciation": "[hʊnt]",
+          "example": "Ich sehe den Hund im Garten.",
+          "exampleEn": "I see the dog in the garden."
+        },
+        {
+          "de": "einen",
+          "en": "a (masculine, accusative)",
+          "example": "Sie kauft einen Tisch.",
+          "exampleEn": "She is buying a table."
+        },
+        {
+          "de": "mich",
+          "en": "me (direct object)",
+          "example": "Kennst du mich?",
+          "exampleEn": "Do you know me?"
+        },
+        {
+          "de": "dich",
+          "en": "you (direct object, informal)",
+          "example": "Ich besuche dich morgen.",
+          "exampleEn": "I will visit you tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l2-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "a1-m3-l2",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Der Mann liest den Brief.",
+          "en": "The man is reading the letter.",
+          "note": "der Brief becomes den Brief."
+        },
+        {
+          "de": "Wir haben einen Hund.",
+          "en": "We have a dog.",
+          "note": "einen marks a masculine direct object."
+        },
+        {
+          "de": "Ich verstehe die Frage nicht.",
+          "en": "I do not understand the question.",
+          "note": "die does not change in the accusative."
+        },
+        {
+          "de": "Er ruft sie jeden Abend an.",
+          "en": "He calls her every evening.",
+          "note": "sie replaces a feminine object."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l2-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "a1-m3-l2",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "den Hund",
+          "hint": "The final d in Hund sounds like a t: hunt."
+        },
+        {
+          "de": "einen",
+          "hint": "Start with the \"eye\" sound: EI-nen, not EE-nen."
+        },
+        {
+          "de": "mich",
+          "hint": "The ch after i is soft, like the h in \"hue\"."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l2-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "a1-m3-l2",
+      "heading": "Dogs in German public life",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Dogs are common in German towns and on public transport, but rules vary. Many shops and restaurants allow dogs, while others ask you to wait outside."
+        },
+        {
+          "kind": "p",
+          "text": "On trains, a small dog often travels free, while a larger dog may need its own ticket. Asking \"Ist der Hund hier erlaubt?\" is always a safe start."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l2-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "a1-m3-l2",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "At a pet shop, Anna wants a new ball for her dog.",
+      "lines": [
+        {
+          "speaker": "Anna",
+          "de": "Guten Tag, ich brauche einen Ball für meinen Hund.",
+          "en": "Hello, I need a ball for my dog."
+        },
+        {
+          "speaker": "Verkäufer",
+          "de": "Welche Größe brauchen Sie?",
+          "en": "What size do you need?"
+        },
+        {
+          "speaker": "Anna",
+          "de": "Der Hund ist klein. Haben Sie einen kleinen Ball?",
+          "en": "The dog is small. Do you have a small ball?"
+        },
+        {
+          "speaker": "Verkäufer",
+          "de": "Ja, diesen hier. Er kostet vier Euro.",
+          "en": "Yes, this one here. It costs four euros."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l2-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "a1-m3-l2",
+      "heading": "Accusative articles at a glance",
+      "lede": "The direct object is the person or thing affected by the verb.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Masculine: der → den",
+              "Ich sehe den Hund."
+            ],
+            [
+              "Masculine: ein → einen",
+              "Ich kaufe einen Ball."
+            ],
+            [
+              "Feminine: die → die",
+              "Ich sehe die Frau."
+            ],
+            [
+              "Neuter: das → das",
+              "Ich sehe das Kind."
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "The question \"Wen oder was?\" tests for the accusative. If the answer is masculine, the article changes."
+        }
+      ],
+      "tip": "Learn the pair der/den and ein/einen together. The other articles stay the same."
+    },
+    {
+      "id": "a1-m3-l2-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "a1-m3-l2",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "a1-m3-l2-p-m1",
+          "type": "mcq",
+          "prompt": "Ich sehe ___ Hund.",
+          "options": [
+            "der",
+            "den",
+            "dem",
+            "das"
+          ],
+          "answer": 1,
+          "explanation": "Hund is masculine and the direct object, so der becomes den."
+        },
+        {
+          "id": "a1-m3-l2-p-m2",
+          "type": "mcq",
+          "prompt": "Sie kauft ___ Tisch.",
+          "options": [
+            "ein",
+            "eine",
+            "einen",
+            "einem"
+          ],
+          "answer": 2,
+          "explanation": "Tisch is masculine and the direct object, so ein becomes einen."
+        },
+        {
+          "id": "a1-m3-l2-p-m3",
+          "type": "mcq",
+          "prompt": "Which pronoun replaces \"den Mann\" in \"Ich sehe den Mann\"?",
+          "options": [
+            "er",
+            "ihn",
+            "ihm",
+            "sie"
+          ],
+          "answer": 1,
+          "explanation": "The masculine direct object pronoun is ihn."
+        },
+        {
+          "id": "a1-m3-l2-p-m4",
+          "type": "mcq",
+          "prompt": "Ich besuche ___ morgen.",
+          "options": [
+            "du",
+            "dich",
+            "dir",
+            "dein"
+          ],
+          "answer": 1,
+          "explanation": "The direct object form of du is dich."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l2-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "a1-m3-l2",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "a1-m3-l2-p-g1",
+          "type": "gap",
+          "prompt": "Ich habe ___ Bruder.",
+          "answers": [
+            "einen"
+          ],
+          "explanation": "Bruder is masculine and the direct object of haben, so use einen."
+        },
+        {
+          "id": "a1-m3-l2-p-g2",
+          "type": "gap",
+          "prompt": "Wir sehen ___ Film.",
+          "answers": [
+            "den"
+          ],
+          "explanation": "Film is masculine and the direct object, so der becomes den."
+        },
+        {
+          "id": "a1-m3-l2-p-g3",
+          "type": "gap",
+          "prompt": "Er kennt ___ gut. (me)",
+          "answers": [
+            "mich"
+          ],
+          "explanation": "The direct object pronoun for ich is mich."
+        },
+        {
+          "id": "a1-m3-l2-p-g4",
+          "type": "gap",
+          "prompt": "Ich frage ___ morgen. (you, informal)",
+          "answers": [
+            "dich"
+          ],
+          "explanation": "The direct object pronoun for du is dich."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l2-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "a1-m3-l2",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "a1-m3-l2-p-o1",
+          "type": "order",
+          "prompt": "Build: “I see the dog.”",
+          "tokens": [
+            "den",
+            "Ich",
+            "Hund",
+            "sehe"
+          ],
+          "answer": "Ich sehe den Hund.",
+          "explanation": "The verb comes second, and the masculine direct object takes den."
+        },
+        {
+          "id": "a1-m3-l2-p-o2",
+          "type": "order",
+          "prompt": "Build: “She is buying a table.”",
+          "tokens": [
+            "einen",
+            "kauft",
+            "Sie",
+            "Tisch"
+          ],
+          "answer": "Sie kauft einen Tisch.",
+          "explanation": "Kauft is the verb in second position; einen marks the masculine object."
+        },
+        {
+          "id": "a1-m3-l2-p-o3",
+          "type": "order",
+          "prompt": "Build: “Do you know me?”",
+          "tokens": [
+            "du",
+            "mich",
+            "Kennst"
+          ],
+          "answer": "Kennst du mich?",
+          "explanation": "A yes/no question starts with the verb, followed by the subject and object."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l2-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "a1-m3-l2",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Im Kaufhaus",
+      "script": [
+        {
+          "speaker": "Verkäuferin",
+          "de": "Kann ich Ihnen helfen?",
+          "en": "Can I help you?"
+        },
+        {
+          "speaker": "Kunde",
+          "de": "Ja, ich suche einen Mantel.",
+          "en": "Yes, I am looking for a coat."
+        },
+        {
+          "speaker": "Verkäuferin",
+          "de": "Hier ist ein Mantel. Er kostet sechzig Euro.",
+          "en": "Here is a coat. It costs sixty euros."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a1-m3-l2-l1",
+          "type": "mcq",
+          "prompt": "What is the customer looking for?",
+          "options": [
+            "A shirt",
+            "A coat",
+            "A bag",
+            "A hat"
+          ],
+          "answer": 1,
+          "explanation": "The customer says \"Ich suche einen Mantel\", and Mantel means coat."
+        },
+        {
+          "id": "a1-m3-l2-l2",
+          "type": "mcq",
+          "prompt": "How much does the coat cost?",
+          "options": [
+            "16 euros",
+            "60 euros",
+            "66 euros",
+            "100 euros"
+          ],
+          "answer": 1,
+          "explanation": "The seller says \"sechzig Euro\", which is sixty euros."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l2-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "a1-m3-l2",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Say what you see in your room and what you need today. Use den or einen at least once.",
+      "model": {
+        "de": "Ich sehe den Tisch. Ich brauche einen neuen Stuhl.",
+        "en": "I see the table. I need a new chair."
+      },
+      "tips": [
+        "Say the sentence once slowly, then once at normal speed.",
+        "Check that every masculine object has den or einen.",
+        "Use \"Ich brauche …\" to add a second sentence without extra grammar."
+      ]
+    },
+    {
+      "id": "a1-m3-l2-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "a1-m3-l2",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Ich sehe der Hund.",
+          "right": "Ich sehe den Hund.",
+          "why": "The direct object is masculine, so der must become den."
+        },
+        {
+          "wrong": "Ich habe ein Bruder.",
+          "right": "Ich habe einen Bruder.",
+          "why": "Bruder is masculine and the object of haben, so ein becomes einen."
+        },
+        {
+          "wrong": "Ich liebe er.",
+          "right": "Ich liebe ihn.",
+          "why": "Use the accusative pronoun ihn, not the subject pronoun er."
+        }
+      ]
+    },
+    {
+      "id": "a1-m3-l2-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "a1-m3-l2",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "a1-m3-l2-a1",
+          "type": "mcq",
+          "prompt": "Ich sehe ___ Hund.",
+          "options": [
+            "der",
+            "den",
+            "dem",
+            "das"
+          ],
+          "answer": 1,
+          "explanation": "Hund is masculine and the direct object, so der becomes den."
+        },
+        {
+          "id": "a1-m3-l2-a2",
+          "type": "mcq",
+          "prompt": "Sie kauft ___ Tisch.",
+          "options": [
+            "ein",
+            "eine",
+            "einen",
+            "einem"
+          ],
+          "answer": 2,
+          "explanation": "Tisch is masculine and the direct object, so ein becomes einen."
+        },
+        {
+          "id": "a1-m3-l2-a3",
+          "type": "mcq",
+          "prompt": "Which pronoun replaces \"den Mann\" in \"Ich sehe den Mann\"?",
+          "options": [
+            "er",
+            "ihn",
+            "ihm",
+            "sie"
+          ],
+          "answer": 1,
+          "explanation": "The masculine direct object pronoun is ihn."
+        },
+        {
+          "id": "a1-m3-l2-a4",
+          "type": "mcq",
+          "prompt": "Ich besuche ___ morgen.",
+          "options": [
+            "du",
+            "dich",
+            "dir",
+            "dein"
+          ],
+          "answer": 1,
+          "explanation": "The direct object form of du is dich."
+        },
+        {
+          "id": "a1-m3-l2-a5",
+          "type": "gap",
+          "prompt": "Ich habe ___ Bruder.",
+          "answers": [
+            "einen"
+          ],
+          "explanation": "Bruder is masculine and the direct object of haben, so use einen."
+        },
+        {
+          "id": "a1-m3-l2-a6",
+          "type": "gap",
+          "prompt": "Wir sehen ___ Film.",
+          "answers": [
+            "den"
+          ],
+          "explanation": "Film is masculine and the direct object, so der becomes den."
+        },
+        {
+          "id": "a1-m3-l2-a7",
+          "type": "gap",
+          "prompt": "Er kennt ___ gut. (me)",
+          "answers": [
+            "mich"
+          ],
+          "explanation": "The direct object pronoun for ich is mich."
+        },
+        {
+          "id": "a1-m3-l2-a8",
+          "type": "gap",
+          "prompt": "Ich frage ___ morgen. (you, informal)",
+          "answers": [
+            "dich"
+          ],
+          "explanation": "The direct object pronoun for du is dich."
+        },
+        {
+          "id": "a1-m3-l2-a9",
+          "type": "order",
+          "prompt": "Build: “I see the dog.”",
+          "tokens": [
+            "den",
+            "Ich",
+            "Hund",
+            "sehe"
+          ],
+          "answer": "Ich sehe den Hund.",
+          "explanation": "The verb comes second, and the masculine direct object takes den."
+        },
+        {
+          "id": "a1-m3-l2-a10",
+          "type": "order",
+          "prompt": "Build: “She is buying a table.”",
+          "tokens": [
+            "einen",
+            "kauft",
+            "Sie",
+            "Tisch"
+          ],
+          "answer": "Sie kauft einen Tisch.",
+          "explanation": "Kauft is the verb in second position; einen marks the masculine object."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "id": "c1-m3-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "c1-m3-l1-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "c1-m3-l1",
+      "prompt": "You need to recommend one action to a manager. What is your recommendation, and what supports it?",
+      "items": [
+        "Vor diesem Hintergrund empfehle ich, …",
+        "der Bericht",
+        "die Empfehlung",
+        "die Maßnahme"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "c1-m3-l1-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "c1-m3-l1",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "c1-m3-l1-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "c1-m3-l1",
+      "lede": "A professional report moves from summary to analysis to recommendation, with the recommendation clearly signposted.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Start with a management summary: the situation, the key finding and the recommendation in a few sentences. Then provide the analysis that supports it. A reader who stops after the summary should still know what you propose."
+        },
+        {
+          "kind": "p",
+          "text": "Use impersonal, precise language: “Die Daten zeigen …”, “Vor diesem Hintergrund empfehle ich …”, “Die Maßnahme sollte bis … umgesetzt werden.” Avoid emotional adjectives and unsupported claims. One clear recommendation is stronger than five vague options."
+        },
+        {
+          "kind": "note",
+          "title": "Write for two readers",
+          "text": "Write the summary for the decision-maker and the analysis for the specialist. Both must be able to find what they need quickly."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l1-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "c1-m3-l1",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "summary",
+              "Zusammenfassung: Die Nachfrage ist gestiegen."
+            ],
+            [
+              "analysis",
+              "Die Daten zeigen einen klaren Trend."
+            ],
+            [
+              "recommendation",
+              "Vor diesem Hintergrund empfehle ich, …"
+            ],
+            [
+              "action",
+              "Die Maßnahme sollte bis Juni umgesetzt werden."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "“Vor diesem Hintergrund” links the analysis to the recommendation.",
+            "“Empfehlen” takes the dative person: Ich empfehle Ihnen, …",
+            "Name a deadline and a responsible unit for every action."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l1-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "c1-m3-l1",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "der Bericht",
+          "en": "report",
+          "article": "der",
+          "plural": "die Berichte",
+          "example": "Der Bericht umfasst zehn Seiten.",
+          "exampleEn": "The report is ten pages long."
+        },
+        {
+          "de": "die Empfehlung",
+          "en": "recommendation",
+          "article": "die",
+          "plural": "die Empfehlungen",
+          "example": "Vor diesem Hintergrund empfehle ich eine schrittweise Einführung.",
+          "exampleEn": "Against this background, I recommend a gradual introduction."
+        },
+        {
+          "de": "die Maßnahme",
+          "en": "measure",
+          "article": "die",
+          "plural": "die Maßnahmen",
+          "example": "Die Maßnahme sollte bis Juni umgesetzt werden.",
+          "exampleEn": "The measure should be implemented by June."
+        },
+        {
+          "de": "vor diesem Hintergrund",
+          "en": "against this background",
+          "example": "Vor diesem Hintergrund empfehle ich, den Plan zu überarbeiten.",
+          "exampleEn": "Against this background, I recommend revising the plan."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l1-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "c1-m3-l1",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Vor diesem Hintergrund empfehle ich, die Maßnahme schrittweise einzuführen.",
+          "en": "Against this background, I recommend introducing the measure gradually.",
+          "note": "A clear recommendation with a manner adverb."
+        },
+        {
+          "de": "Die Daten zeigen einen klaren Anstieg der Nachfrage.",
+          "en": "The data show a clear increase in demand.",
+          "note": "A precise analytical sentence."
+        },
+        {
+          "de": "Die Maßnahme sollte bis Juni umgesetzt werden.",
+          "en": "The measure should be implemented by June.",
+          "note": "Passive with a deadline."
+        },
+        {
+          "de": "Für die Umsetzung ist die Abteilung Kommunikation verantwortlich.",
+          "en": "The communications department is responsible for implementation.",
+          "note": "Name the owner explicitly."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l1-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "c1-m3-l1",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Empfehlung",
+          "hint": "Stress the second syllable: em-PFEH-lung."
+        },
+        {
+          "de": "die Maßnahme",
+          "hint": "The ß is a sharp s: MAHS-nah-me."
+        },
+        {
+          "de": "der Hintergrund",
+          "hint": "Stress the first syllable: HIN-ter-grunt."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l1-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "c1-m3-l1",
+      "heading": "Reports and recommendations",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German business reports often begin with a summary (“Zusammenfassung”) and end with a recommendation (“Empfehlung”). The structure is expected, not optional."
+        },
+        {
+          "kind": "p",
+          "text": "A recommendation should be actionable. “Wir sollten mehr tun” is too vague; a specific measure, owner and deadline is professional."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l1-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "c1-m3-l1",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A team presents a report to a manager.",
+      "lines": [
+        {
+          "speaker": "Team",
+          "de": "Die Nachfrage ist im letzten Quartal um 20 Prozent gestiegen.",
+          "en": "Demand rose by 20 percent in the last quarter."
+        },
+        {
+          "speaker": "Manager",
+          "de": "Was empfehlen Sie?",
+          "en": "What do you recommend?"
+        },
+        {
+          "speaker": "Team",
+          "de": "Vor diesem Hintergrund empfehle ich, die Produktion schrittweise zu erhöhen.",
+          "en": "Against this background, I recommend increasing production gradually."
+        },
+        {
+          "speaker": "Manager",
+          "de": "Bis wann kann die Maßnahme umgesetzt werden?",
+          "en": "By when can the measure be implemented?"
+        },
+        {
+          "speaker": "Team",
+          "de": "Bis Ende Juni, wenn die Mittel freigegeben werden.",
+          "en": "By the end of June, if the funds are approved."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l1-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "c1-m3-l1",
+      "heading": "Report language",
+      "lede": "Use impersonal subjects, precise verbs and clear links between analysis and action.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Die Daten zeigen …",
+              "report a finding"
+            ],
+            [
+              "Vor diesem Hintergrund …",
+              "link analysis to recommendation"
+            ],
+            [
+              "Ich empfehle, … zu …",
+              "recommend an action"
+            ],
+            [
+              "… sollte bis … umgesetzt werden.",
+              "set a deadline"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "“Empfehlen” can take a dative person and an accusative thing: Ich empfehle Ihnen eine schrittweise Einführung. With a clause, use “Ich empfehle, … zu …”."
+        }
+      ],
+      "tip": "If a recommendation has no owner and no date, it is only a wish. Add both before you send the report."
+    },
+    {
+      "id": "c1-m3-l1-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "c1-m3-l1",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "c1-m3-l1-p-m1",
+          "type": "mcq",
+          "prompt": "Vor diesem Hintergrund ___ ich, die Maßnahme umzusetzen.",
+          "options": [
+            "empfehle",
+            "empfehl",
+            "empfiehlst",
+            "empfehlen"
+          ],
+          "answer": 0,
+          "explanation": "The ich form of empfehlen is empfehle."
+        },
+        {
+          "id": "c1-m3-l1-p-m2",
+          "type": "mcq",
+          "prompt": "Die Maßnahme sollte bis Juni ___ werden.",
+          "options": [
+            "umgesetzt",
+            "umsetzen",
+            "umsetzte",
+            "Umsetzung"
+          ],
+          "answer": 0,
+          "explanation": "The passive needs the past participle umgesetzt."
+        },
+        {
+          "id": "c1-m3-l1-p-m3",
+          "type": "mcq",
+          "prompt": "Which sentence is a precise recommendation?",
+          "options": [
+            "Wir sollten mehr machen.",
+            "Vor diesem Hintergrund empfehle ich, die Produktion bis Juni um 10 Prozent zu erhöhen.",
+            "Alles ist gut.",
+            "Vielleicht wäre etwas besser."
+          ],
+          "answer": 1,
+          "explanation": "It names the action, the extent and the deadline."
+        },
+        {
+          "id": "c1-m3-l1-p-m4",
+          "type": "mcq",
+          "prompt": "Which phrase links analysis to recommendation?",
+          "options": [
+            "Zum Beispiel",
+            "Vor diesem Hintergrund",
+            "Im Gegensatz dazu",
+            "Zunächst einmal"
+          ],
+          "answer": 1,
+          "explanation": "Vor diesem Hintergrund signals the transition from analysis to action."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l1-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m3-l1",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "c1-m3-l1-p-g1",
+          "type": "gap",
+          "prompt": "Vor diesem Hintergrund ___ ich eine schrittweise Einführung.",
+          "answers": [
+            "empfehle"
+          ],
+          "explanation": "The ich form of empfehlen is empfehle."
+        },
+        {
+          "id": "c1-m3-l1-p-g2",
+          "type": "gap",
+          "prompt": "Die Maßnahme sollte bis Juni ___ werden.",
+          "answers": [
+            "umgesetzt"
+          ],
+          "explanation": "The past participle of umsetzen is umgesetzt."
+        },
+        {
+          "id": "c1-m3-l1-p-g3",
+          "type": "gap",
+          "prompt": "Der ___ umfasst zehn Seiten.",
+          "answers": [
+            "Bericht"
+          ],
+          "explanation": "Bericht means report."
+        },
+        {
+          "id": "c1-m3-l1-p-g4",
+          "type": "gap",
+          "prompt": "Für die Umsetzung ist die Abteilung Kommunikation ___.",
+          "answers": [
+            "verantwortlich"
+          ],
+          "explanation": "Verantwortlich means responsible."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l1-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m3-l1",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "c1-m3-l1-p-o1",
+          "type": "order",
+          "prompt": "Build: “Against this background, I recommend a gradual introduction.”",
+          "tokens": [
+            "diesem",
+            "Vor",
+            "Hintergrund",
+            "empfehle",
+            "ich",
+            "eine",
+            "schrittweise",
+            "Einführung."
+          ],
+          "answer": "Vor diesem Hintergrund empfehle ich eine schrittweise Einführung.",
+          "explanation": "The fronted phrase is followed immediately by the verb."
+        },
+        {
+          "id": "c1-m3-l1-p-o2",
+          "type": "order",
+          "prompt": "Build: “The measure should be implemented by June.”",
+          "tokens": [
+            "bis",
+            "Die",
+            "Juni",
+            "Maßnahme",
+            "sollte",
+            "umgesetzt",
+            "werden."
+          ],
+          "answer": "Die Maßnahme sollte bis Juni umgesetzt werden.",
+          "explanation": "The passive with a modal ends with werden."
+        },
+        {
+          "id": "c1-m3-l1-p-o3",
+          "type": "order",
+          "prompt": "Build: “The data show a clear increase in demand.”",
+          "tokens": [
+            "einen",
+            "Die",
+            "klaren",
+            "Daten",
+            "zeigen",
+            "Anstieg",
+            "der",
+            "Nachfrage."
+          ],
+          "answer": "Die Daten zeigen einen klaren Anstieg der Nachfrage.",
+          "explanation": "Einen klaren Anstieg is the accusative object, and der Nachfrage is genitive."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l1-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "c1-m3-l1",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Eine Zusammenfassung im Meeting",
+      "script": [
+        {
+          "speaker": "Referent",
+          "de": "Die Nachfrage ist im letzten Quartal um 20 Prozent gestiegen.",
+          "en": "Demand rose by 20 percent in the last quarter."
+        },
+        {
+          "speaker": "Referent",
+          "de": "Vor diesem Hintergrund empfehle ich, die Produktion schrittweise zu erhöhen.",
+          "en": "Against this background, I recommend increasing production gradually."
+        },
+        {
+          "speaker": "Managerin",
+          "de": "Welche Kosten entstehen dadurch?",
+          "en": "What costs does that create?"
+        },
+        {
+          "speaker": "Referent",
+          "de": "Die Maßnahme kostet etwa 50.000 Euro und sollte bis Ende Juni umgesetzt werden.",
+          "en": "The measure costs about 50,000 euros and should be implemented by the end of June."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c1-m3-l1-l1",
+          "type": "mcq",
+          "prompt": "By how much did demand rise?",
+          "options": [
+            "10 percent",
+            "20 percent",
+            "50 percent",
+            "100 percent"
+          ],
+          "answer": 1,
+          "explanation": "Demand rose by 20 percent."
+        },
+        {
+          "id": "c1-m3-l1-l2",
+          "type": "mcq",
+          "prompt": "When should the measure be implemented?",
+          "options": [
+            "By the end of May",
+            "By the end of June",
+            "By the end of July",
+            "Immediately"
+          ],
+          "answer": 1,
+          "explanation": "The speaker says by the end of June."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l1-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "c1-m3-l1",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Present a short recommendation: finding, background, action, owner and deadline.",
+      "model": {
+        "de": "Die Daten zeigen einen klaren Anstieg der Nachfrage. Vor diesem Hintergrund empfehle ich, die Produktion bis Ende Juni schrittweise zu erhöhen. Die Abteilung Produktion ist für die Umsetzung verantwortlich.",
+        "en": "The data show a clear increase in demand. Against this background, I recommend increasing production gradually by the end of June. The production department is responsible for implementation."
+      },
+      "tips": [
+        "State the finding before the recommendation.",
+        "Name one owner and one deadline.",
+        "Use the passive for actions where the actor is obvious."
+      ]
+    },
+    {
+      "id": "c1-m3-l1-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "c1-m3-l1",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Ich empfehle Ihnen, die Maßnahme umsetzen.",
+          "right": "Ich empfehle Ihnen, die Maßnahme umzusetzen.",
+          "why": "The infinitive clause needs zu before the verb."
+        },
+        {
+          "wrong": "Die Maßnahme sollte bis Juni umsetzen werden.",
+          "right": "Die Maßnahme sollte bis Juni umgesetzt werden.",
+          "why": "The passive needs the past participle umgesetzt."
+        },
+        {
+          "wrong": "Vor diesem Hintergrund, empfehle ich …",
+          "right": "Vor diesem Hintergrund empfehle ich …",
+          "why": "Do not insert a comma between a fronted phrase and the verb."
+        }
+      ]
+    },
+    {
+      "id": "c1-m3-l1-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "c1-m3-l1",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "c1-m3-l1-a1",
+          "type": "mcq",
+          "prompt": "Vor diesem Hintergrund ___ ich, die Maßnahme umzusetzen.",
+          "options": [
+            "empfehle",
+            "empfehl",
+            "empfiehlst",
+            "empfehlen"
+          ],
+          "answer": 0,
+          "explanation": "The ich form of empfehlen is empfehle."
+        },
+        {
+          "id": "c1-m3-l1-a2",
+          "type": "mcq",
+          "prompt": "Die Maßnahme sollte bis Juni ___ werden.",
+          "options": [
+            "umgesetzt",
+            "umsetzen",
+            "umsetzte",
+            "Umsetzung"
+          ],
+          "answer": 0,
+          "explanation": "The passive needs the past participle umgesetzt."
+        },
+        {
+          "id": "c1-m3-l1-a3",
+          "type": "mcq",
+          "prompt": "Which sentence is a precise recommendation?",
+          "options": [
+            "Wir sollten mehr machen.",
+            "Vor diesem Hintergrund empfehle ich, die Produktion bis Juni um 10 Prozent zu erhöhen.",
+            "Alles ist gut.",
+            "Vielleicht wäre etwas besser."
+          ],
+          "answer": 1,
+          "explanation": "It names the action, the extent and the deadline."
+        },
+        {
+          "id": "c1-m3-l1-a4",
+          "type": "mcq",
+          "prompt": "Which phrase links analysis to recommendation?",
+          "options": [
+            "Zum Beispiel",
+            "Vor diesem Hintergrund",
+            "Im Gegensatz dazu",
+            "Zunächst einmal"
+          ],
+          "answer": 1,
+          "explanation": "Vor diesem Hintergrund signals the transition from analysis to action."
+        },
+        {
+          "id": "c1-m3-l1-a5",
+          "type": "gap",
+          "prompt": "Vor diesem Hintergrund ___ ich eine schrittweise Einführung.",
+          "answers": [
+            "empfehle"
+          ],
+          "explanation": "The ich form of empfehlen is empfehle."
+        },
+        {
+          "id": "c1-m3-l1-a6",
+          "type": "gap",
+          "prompt": "Die Maßnahme sollte bis Juni ___ werden.",
+          "answers": [
+            "umgesetzt"
+          ],
+          "explanation": "The past participle of umsetzen is umgesetzt."
+        },
+        {
+          "id": "c1-m3-l1-a7",
+          "type": "gap",
+          "prompt": "Der ___ umfasst zehn Seiten.",
+          "answers": [
+            "Bericht"
+          ],
+          "explanation": "Bericht means report."
+        },
+        {
+          "id": "c1-m3-l1-a8",
+          "type": "gap",
+          "prompt": "Für die Umsetzung ist die Abteilung Kommunikation ___.",
+          "answers": [
+            "verantwortlich"
+          ],
+          "explanation": "Verantwortlich means responsible."
+        },
+        {
+          "id": "c1-m3-l1-a9",
+          "type": "order",
+          "prompt": "Build: “Against this background, I recommend a gradual introduction.”",
+          "tokens": [
+            "diesem",
+            "Vor",
+            "Hintergrund",
+            "empfehle",
+            "ich",
+            "eine",
+            "schrittweise",
+            "Einführung."
+          ],
+          "answer": "Vor diesem Hintergrund empfehle ich eine schrittweise Einführung.",
+          "explanation": "The fronted phrase is followed immediately by the verb."
+        },
+        {
+          "id": "c1-m3-l1-a10",
+          "type": "order",
+          "prompt": "Build: “The measure should be implemented by June.”",
+          "tokens": [
+            "bis",
+            "Die",
+            "Juni",
+            "Maßnahme",
+            "sollte",
+            "umgesetzt",
+            "werden."
+          ],
+          "answer": "Die Maßnahme sollte bis Juni umgesetzt werden.",
+          "explanation": "The passive with a modal ends with werden."
+        }
+      ]
+    }
+  ]
+}

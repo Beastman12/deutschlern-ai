@@ -1,0 +1,675 @@
+{
+  "id": "b1-m3-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "b1-m3-l2-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "b1-m3-l2",
+      "prompt": "Think of the last email you sent. What was the subject line and the first sentence?",
+      "items": [
+        "Mit freundlichen Grüßen",
+        "der Betreff",
+        "die Anrede",
+        "die Bitte"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "b1-m3-l2-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "b1-m3-l2",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "b1-m3-l2-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "b1-m3-l2",
+      "lede": "A German email has a clear subject, a correct salutation, a focused request and a matching closing.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "The subject line should be short and specific: “Frage zu meiner Bestellung” is better than “Hallo”. In a formal email, the salutation uses “Sehr geehrte/r” plus surname, or “Sehr geehrte Damen und Herren” if you do not know the name."
+        },
+        {
+          "kind": "p",
+          "text": "Structure the body in three moves: context, request and closing. Give the reader the information they need, ask one clear question, and end with a formula such as “Mit freundlichen Grüßen”. Informal emails can be shorter and warmer, but they still benefit from a clear subject."
+        },
+        {
+          "kind": "note",
+          "title": "One email, one purpose",
+          "text": "If you have two unrelated requests, send two emails. A single clear request is more likely to get a quick answer."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l2-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "b1-m3-l2",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "subject",
+              "Betreff: Frage zu meiner Bestellung"
+            ],
+            [
+              "formal salutation",
+              "Sehr geehrte Frau Weber,"
+            ],
+            [
+              "informal salutation",
+              "Hallo Jonas,"
+            ],
+            [
+              "closing",
+              "Mit freundlichen Grüßen / Liebe Grüße"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "After the formal salutation, continue with a lower-case word on the next line.",
+            "Put the most important request in its own short paragraph.",
+            "Use “Vielen Dank im Voraus” only when you expect a reply."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l2-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "b1-m3-l2",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "der Betreff",
+          "en": "subject line",
+          "article": "der",
+          "plural": "die Betreffe",
+          "example": "Der Betreff sollte kurz und klar sein.",
+          "exampleEn": "The subject line should be short and clear."
+        },
+        {
+          "de": "die Anrede",
+          "en": "salutation",
+          "article": "die",
+          "plural": "die Anreden",
+          "example": "Die Anrede steht am Anfang der E-Mail.",
+          "exampleEn": "The salutation stands at the beginning of the email."
+        },
+        {
+          "de": "die Bitte",
+          "en": "request",
+          "article": "die",
+          "plural": "die Bitten",
+          "example": "Ich habe eine Bitte: Können Sie mir helfen?",
+          "exampleEn": "I have a request: can you help me?"
+        },
+        {
+          "de": "der Gruß",
+          "en": "greeting, closing",
+          "article": "der",
+          "plural": "die Grüße",
+          "example": "Mit freundlichen Grüßen",
+          "exampleEn": "Kind regards"
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l2-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "b1-m3-l2",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Betreff: Frage zu meiner Bestellung",
+          "en": "Subject: Question about my order",
+          "note": "A specific subject helps the reader act."
+        },
+        {
+          "de": "Sehr geehrte Frau Weber, ich schreibe Ihnen wegen meiner Bestellung.",
+          "en": "Dear Ms Weber, I am writing to you about my order.",
+          "note": "Ihnen is the formal dative pronoun."
+        },
+        {
+          "de": "Könnten Sie mir bitte die Lieferzeit mitteilen?",
+          "en": "Could you please let me know the delivery time?",
+          "note": "One clear request in a polite form."
+        },
+        {
+          "de": "Vielen Dank im Voraus. Mit freundlichen Grüßen, Ali Yildiz",
+          "en": "Thank you in advance. Kind regards, Ali Yildiz",
+          "note": "A standard formal ending."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l2-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "b1-m3-l2",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "der Betreff",
+          "hint": "Stress the second syllable: be-TREF. The final ff is short."
+        },
+        {
+          "de": "die Anrede",
+          "hint": "Stress the first syllable: AN-re-de."
+        },
+        {
+          "de": "freundlichen",
+          "hint": "The eu sounds like “oy”: FROYNT-li-khen."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l2-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "b1-m3-l2",
+      "heading": "Email culture in Germany",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German business email tends to be direct but polite. Get to the point after one short opening sentence; long warm-up paragraphs can feel inefficient."
+        },
+        {
+          "kind": "p",
+          "text": "Formality is often higher than in English-language email. Using a first name without an invitation can feel intrusive, especially with older colleagues or officials."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l2-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "b1-m3-l2",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A customer writes to a shop about a delayed order.",
+      "lines": [
+        {
+          "speaker": "Betreff",
+          "de": "Frage zu meiner Bestellung Nr. 4821",
+          "en": "Question about my order no. 4821"
+        },
+        {
+          "speaker": "E-Mail",
+          "de": "Sehr geehrte Damen und Herren, ich habe am Montag eine Jacke bestellt.",
+          "en": "Dear Sir or Madam, I ordered a jacket on Monday."
+        },
+        {
+          "speaker": "E-Mail",
+          "de": "Leider ist die Lieferung noch nicht angekommen. Könnten Sie mir bitte den Status mitteilen?",
+          "en": "Unfortunately the delivery has not arrived yet. Could you please tell me the status?"
+        },
+        {
+          "speaker": "E-Mail",
+          "de": "Vielen Dank im Voraus. Mit freundlichen Grüßen, Sara Klein",
+          "en": "Thank you in advance. Kind regards, Sara Klein"
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l2-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "b1-m3-l2",
+      "heading": "The anatomy of an email",
+      "lede": "Each part has a standard phrase you can reuse.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Betreff",
+              "Frage zu meiner Bestellung"
+            ],
+            [
+              "Anrede",
+              "Sehr geehrte Frau Weber,"
+            ],
+            [
+              "Anlass",
+              "Ich schreibe Ihnen wegen …"
+            ],
+            [
+              "Bitte",
+              "Könnten Sie mir bitte …?"
+            ],
+            [
+              "Gruß",
+              "Mit freundlichen Grüßen"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "In informal emails, “Hallo Jonas” and “Liebe Grüße” are enough. In formal email, keep the full salutation and closing even if the message is short."
+        }
+      ],
+      "tip": "Write the subject line last. Once you know your request, you can summarise it in three or four words."
+    },
+    {
+      "id": "b1-m3-l2-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "b1-m3-l2",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "b1-m3-l2-p-m1",
+          "type": "mcq",
+          "prompt": "Which subject line is most appropriate for a formal email?",
+          "options": [
+            "Hallo",
+            "Frage zu meiner Bestellung Nr. 4821",
+            "Wichtig!!!",
+            "Email"
+          ],
+          "answer": 1,
+          "explanation": "A specific subject line tells the reader what the email is about."
+        },
+        {
+          "id": "b1-m3-l2-p-m2",
+          "type": "mcq",
+          "prompt": "Sehr geehrte Frau Weber, ___ schreibe Ihnen wegen meiner Bestellung.",
+          "options": [
+            "ich",
+            "mich",
+            "mir",
+            "Sie"
+          ],
+          "answer": 0,
+          "explanation": "The subject pronoun ich follows the salutation."
+        },
+        {
+          "id": "b1-m3-l2-p-m3",
+          "type": "mcq",
+          "prompt": "Which closing is formal?",
+          "options": [
+            "Liebe Grüße",
+            "Mit freundlichen Grüßen",
+            "Bis dann",
+            "Tschüss"
+          ],
+          "answer": 1,
+          "explanation": "Mit freundlichen Grüßen is the standard formal closing."
+        },
+        {
+          "id": "b1-m3-l2-p-m4",
+          "type": "mcq",
+          "prompt": "Which sentence makes a polite request?",
+          "options": [
+            "Schick mir das.",
+            "Könnten Sie mir das bitte schicken?",
+            "Ich will das jetzt.",
+            "Du musst antworten."
+          ],
+          "answer": 1,
+          "explanation": "Könnten Sie … bitte is the polite formal request pattern."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l2-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "b1-m3-l2",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "b1-m3-l2-p-g1",
+          "type": "gap",
+          "prompt": "___ geehrte Damen und Herren,",
+          "answers": [
+            "Sehr"
+          ],
+          "explanation": "The formal salutation begins with Sehr geehrte."
+        },
+        {
+          "id": "b1-m3-l2-p-g2",
+          "type": "gap",
+          "prompt": "Mit freundlichen ___",
+          "answers": [
+            "Grüßen"
+          ],
+          "explanation": "The closing formula ends with Grüßen."
+        },
+        {
+          "id": "b1-m3-l2-p-g3",
+          "type": "gap",
+          "prompt": "Ich schreibe Ihnen ___ meiner Bestellung.",
+          "answers": [
+            "wegen"
+          ],
+          "explanation": "Wegen introduces the reason for writing."
+        },
+        {
+          "id": "b1-m3-l2-p-g4",
+          "type": "gap",
+          "prompt": "Könnten Sie mir bitte den Status ___?",
+          "answers": [
+            "mitteilen"
+          ],
+          "explanation": "Mitteilen means to inform or let someone know."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l2-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "b1-m3-l2",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "b1-m3-l2-p-o1",
+          "type": "order",
+          "prompt": "Build: “I am writing to you about my order.”",
+          "tokens": [
+            "wegen",
+            "Ich",
+            "Ihnen",
+            "schreibe",
+            "meiner",
+            "Bestellung."
+          ],
+          "answer": "Ich schreibe Ihnen wegen meiner Bestellung.",
+          "explanation": "Ihnen is the formal dative object, followed by the reason."
+        },
+        {
+          "id": "b1-m3-l2-p-o2",
+          "type": "order",
+          "prompt": "Build: “Could you please let me know the delivery time?”",
+          "tokens": [
+            "mir",
+            "Könnten",
+            "die",
+            "Sie",
+            "Lieferzeit",
+            "mitteilen?"
+          ],
+          "answer": "Könnten Sie mir die Lieferzeit mitteilen?",
+          "explanation": "The modal opens the question and the infinitive closes it."
+        },
+        {
+          "id": "b1-m3-l2-p-o3",
+          "type": "order",
+          "prompt": "Build: “Thank you in advance.”",
+          "tokens": [
+            "im",
+            "Vielen",
+            "Dank",
+            "Voraus."
+          ],
+          "answer": "Vielen Dank im Voraus.",
+          "explanation": "This is a fixed formal phrase."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l2-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "b1-m3-l2",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Eine E-Mail wird vorgelesen",
+      "script": [
+        {
+          "speaker": "Sekretärin",
+          "de": "Betreff: Termin am Donnerstag.",
+          "en": "Subject: Appointment on Thursday."
+        },
+        {
+          "speaker": "Sekretärin",
+          "de": "Sehr geehrter Herr Braun, leider muss ich unseren Termin verschieben.",
+          "en": "Dear Mr Braun, unfortunately I have to move our appointment."
+        },
+        {
+          "speaker": "Sekretärin",
+          "de": "Könnten Sie mir bitte mitteilen, ob Ihnen Montag um zehn Uhr passt?",
+          "en": "Could you please let me know whether Monday at ten suits you?"
+        },
+        {
+          "speaker": "Sekretärin",
+          "de": "Mit freundlichen Grüßen, Petra Lang",
+          "en": "Kind regards, Petra Lang"
+        }
+      ],
+      "questions": [
+        {
+          "id": "b1-m3-l2-l1",
+          "type": "mcq",
+          "prompt": "What is the email about?",
+          "options": [
+            "A job application",
+            "Moving an appointment",
+            "A complaint",
+            "An invoice"
+          ],
+          "answer": 1,
+          "explanation": "The writer says she has to move the appointment."
+        },
+        {
+          "id": "b1-m3-l2-l2",
+          "type": "mcq",
+          "prompt": "What does she ask Mr Braun?",
+          "options": [
+            "To call her",
+            "Whether Monday at ten suits him",
+            "To pay a bill",
+            "To send a document"
+          ],
+          "answer": 1,
+          "explanation": "She asks whether Monday at ten is convenient."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l2-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "b1-m3-l2",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Draft and say a short formal email: subject, greeting, reason, request and closing.",
+      "model": {
+        "de": "Betreff: Frage zu meinem Kurs. Sehr geehrte Frau Weber, ich schreibe Ihnen wegen meines Kurses. Könnten Sie mir bitte den neuen Termin mitteilen? Vielen Dank. Mit freundlichen Grüßen, Ali Yildiz.",
+        "en": "Subject: Question about my course. Dear Ms Weber, I am writing to you about my course. Could you please let me know the new date? Thank you. Kind regards, Ali Yildiz."
+      },
+      "tips": [
+        "Say the subject line first, as if you were reading the email aloud.",
+        "Keep the request to one sentence.",
+        "Use the same formal closing every time so it becomes automatic."
+      ]
+    },
+    {
+      "id": "b1-m3-l2-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "b1-m3-l2",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Betreff: Hallo",
+          "right": "Betreff: Frage zu meiner Bestellung",
+          "why": "A subject line should state the topic, not greet the reader."
+        },
+        {
+          "wrong": "Sehr geehrte Frau Weber, Ich schreibe Ihnen …",
+          "right": "Sehr geehrte Frau Weber, ich schreibe Ihnen …",
+          "why": "After the salutation comma, the next word is lower case."
+        },
+        {
+          "wrong": "Mit freundlichen Grüße",
+          "right": "Mit freundlichen Grüßen",
+          "why": "The fixed closing uses the dative plural Grüßen."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l2-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "b1-m3-l2",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "b1-m3-l2-a1",
+          "type": "mcq",
+          "prompt": "Which subject line is most appropriate for a formal email?",
+          "options": [
+            "Hallo",
+            "Frage zu meiner Bestellung Nr. 4821",
+            "Wichtig!!!",
+            "Email"
+          ],
+          "answer": 1,
+          "explanation": "A specific subject line tells the reader what the email is about."
+        },
+        {
+          "id": "b1-m3-l2-a2",
+          "type": "mcq",
+          "prompt": "Sehr geehrte Frau Weber, ___ schreibe Ihnen wegen meiner Bestellung.",
+          "options": [
+            "ich",
+            "mich",
+            "mir",
+            "Sie"
+          ],
+          "answer": 0,
+          "explanation": "The subject pronoun ich follows the salutation."
+        },
+        {
+          "id": "b1-m3-l2-a3",
+          "type": "mcq",
+          "prompt": "Which closing is formal?",
+          "options": [
+            "Liebe Grüße",
+            "Mit freundlichen Grüßen",
+            "Bis dann",
+            "Tschüss"
+          ],
+          "answer": 1,
+          "explanation": "Mit freundlichen Grüßen is the standard formal closing."
+        },
+        {
+          "id": "b1-m3-l2-a4",
+          "type": "mcq",
+          "prompt": "Which sentence makes a polite request?",
+          "options": [
+            "Schick mir das.",
+            "Könnten Sie mir das bitte schicken?",
+            "Ich will das jetzt.",
+            "Du musst antworten."
+          ],
+          "answer": 1,
+          "explanation": "Könnten Sie … bitte is the polite formal request pattern."
+        },
+        {
+          "id": "b1-m3-l2-a5",
+          "type": "gap",
+          "prompt": "___ geehrte Damen und Herren,",
+          "answers": [
+            "Sehr"
+          ],
+          "explanation": "The formal salutation begins with Sehr geehrte."
+        },
+        {
+          "id": "b1-m3-l2-a6",
+          "type": "gap",
+          "prompt": "Mit freundlichen ___",
+          "answers": [
+            "Grüßen"
+          ],
+          "explanation": "The closing formula ends with Grüßen."
+        },
+        {
+          "id": "b1-m3-l2-a7",
+          "type": "gap",
+          "prompt": "Ich schreibe Ihnen ___ meiner Bestellung.",
+          "answers": [
+            "wegen"
+          ],
+          "explanation": "Wegen introduces the reason for writing."
+        },
+        {
+          "id": "b1-m3-l2-a8",
+          "type": "gap",
+          "prompt": "Könnten Sie mir bitte den Status ___?",
+          "answers": [
+            "mitteilen"
+          ],
+          "explanation": "Mitteilen means to inform or let someone know."
+        },
+        {
+          "id": "b1-m3-l2-a9",
+          "type": "order",
+          "prompt": "Build: “I am writing to you about my order.”",
+          "tokens": [
+            "wegen",
+            "Ich",
+            "Ihnen",
+            "schreibe",
+            "meiner",
+            "Bestellung."
+          ],
+          "answer": "Ich schreibe Ihnen wegen meiner Bestellung.",
+          "explanation": "Ihnen is the formal dative object, followed by the reason."
+        },
+        {
+          "id": "b1-m3-l2-a10",
+          "type": "order",
+          "prompt": "Build: “Could you please let me know the delivery time?”",
+          "tokens": [
+            "mir",
+            "Könnten",
+            "die",
+            "Sie",
+            "Lieferzeit",
+            "mitteilen?"
+          ],
+          "answer": "Könnten Sie mir die Lieferzeit mitteilen?",
+          "explanation": "The modal opens the question and the infinitive closes it."
+        }
+      ]
+    }
+  ]
+}

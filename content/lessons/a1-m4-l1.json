@@ -1,0 +1,632 @@
+{
+  "id": "a1-m4-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "a1-m4-l1-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "a1-m4-l1",
+      "prompt": "Name three people in your family and one word that describes each of them.",
+      "items": [
+        "Meine Schwester ist sehr freundlich.",
+        "die Familie",
+        "die Schwester",
+        "der Bruder"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "a1-m4-l1-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "a1-m4-l1",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "a1-m4-l1-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "a1-m4-l1",
+      "lede": "Introduce the people closest to you with possessives and the verb sein.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Use mein or meine before a family member: mein Bruder, meine Schwester, meine Eltern. The possessive ending follows the gender and number of the noun, not the person who owns it."
+        },
+        {
+          "kind": "p",
+          "text": "To describe someone, use sein plus an adjective: Mein Bruder ist freundlich. After sein, the adjective has no ending. For age, German uses the verb sein, not haben: Sie ist zwanzig Jahre alt."
+        },
+        {
+          "kind": "note",
+          "title": "Family words are often irregular",
+          "text": "Learn the plural with the noun: der Bruder → die Brüder, die Schwester → die Schwestern, das Kind → die Kinder."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l1-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "a1-m4-l1",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "mein + masculine/neuter",
+              "mein Bruder, mein Kind"
+            ],
+            [
+              "meine + feminine/plural",
+              "meine Schwester, meine Eltern"
+            ],
+            [
+              "sein + adjective",
+              "Mein Bruder ist freundlich."
+            ],
+            [
+              "age with sein",
+              "Meine Schwester ist zwanzig Jahre alt."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The adjective after sein does not take an ending.",
+            "Use alt for people and things; use \"Jahre alt\" for age.",
+            "Eltern, Geschwister and Großeltern are plural words."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l1-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "a1-m4-l1",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "die Familie",
+          "en": "family",
+          "article": "die",
+          "plural": "die Familien",
+          "example": "Meine Familie ist nicht groß.",
+          "exampleEn": "My family is not big."
+        },
+        {
+          "de": "die Schwester",
+          "en": "sister",
+          "article": "die",
+          "plural": "die Schwestern",
+          "example": "Meine Schwester heißt Lena.",
+          "exampleEn": "My sister is called Lena."
+        },
+        {
+          "de": "der Bruder",
+          "en": "brother",
+          "article": "der",
+          "plural": "die Brüder",
+          "example": "Mein Bruder ist zehn Jahre alt.",
+          "exampleEn": "My brother is ten years old."
+        },
+        {
+          "de": "freundlich",
+          "en": "friendly",
+          "example": "Meine Schwester ist sehr freundlich.",
+          "exampleEn": "My sister is very friendly."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l1-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "a1-m4-l1",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Meine Schwester ist sehr freundlich.",
+          "en": "My sister is very friendly.",
+          "note": "After sein, freundlich has no ending."
+        },
+        {
+          "de": "Mein Bruder ist zehn Jahre alt.",
+          "en": "My brother is ten years old.",
+          "note": "German uses sein for age."
+        },
+        {
+          "de": "Meine Eltern wohnen in Köln.",
+          "en": "My parents live in Cologne.",
+          "note": "Eltern is plural, so meine."
+        },
+        {
+          "de": "Ist das deine Großmutter?",
+          "en": "Is that your grandmother?",
+          "note": "Großmutter is feminine, so deine."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l1-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "a1-m4-l1",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Familie",
+          "hint": "Stress the second syllable: fa-MI-lie, with a long i."
+        },
+        {
+          "de": "die Schwester",
+          "hint": "Start with sch, then a short e: SHVES-ter."
+        },
+        {
+          "de": "der Bruder",
+          "hint": "The u is long: BROO-der. The final -er is soft."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l1-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "a1-m4-l1",
+      "heading": "Talking about family in German",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German family words are often used without possessive articles when the relationship is clear: \"Das ist meine Schwester\" is common, but \"Meine Schwester ist Ärztin\" is more natural than repeating the name."
+        },
+        {
+          "kind": "p",
+          "text": "Many German families are small, and \"Geschwister\" covers brothers and sisters together. If you want to ask someone about their family, \"Hast du Geschwister?\" is a natural, polite question."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l1-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "a1-m4-l1",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "At a language course, Mia and Jonas introduce their families.",
+      "lines": [
+        {
+          "speaker": "Mia",
+          "de": "Hast du Geschwister?",
+          "en": "Do you have siblings?"
+        },
+        {
+          "speaker": "Jonas",
+          "de": "Ja, ich habe einen Bruder und eine Schwester.",
+          "en": "Yes, I have a brother and a sister."
+        },
+        {
+          "speaker": "Mia",
+          "de": "Meine Schwester ist auch im Kurs.",
+          "en": "My sister is in the course too."
+        },
+        {
+          "speaker": "Jonas",
+          "de": "Mein Bruder ist zehn und sehr freundlich.",
+          "en": "My brother is ten and very friendly."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l1-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "a1-m4-l1",
+      "heading": "Possessives and sein",
+      "lede": "The possessive ending depends on the noun that follows it.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "mein Bruder",
+              "masculine singular"
+            ],
+            [
+              "meine Schwester",
+              "feminine singular"
+            ],
+            [
+              "mein Kind",
+              "neuter singular"
+            ],
+            [
+              "meine Eltern",
+              "plural"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Add an adjective after sein without an ending: Mein Bruder ist freundlich. Do not say \"mein freundlicher Bruder\" at A1 unless you are describing the noun before a statement."
+        }
+      ],
+      "tip": "Use sein for age and descriptions: Er ist zwölf. Sie ist freundlich."
+    },
+    {
+      "id": "a1-m4-l1-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "a1-m4-l1",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "a1-m4-l1-p-m1",
+          "type": "mcq",
+          "prompt": "___ Schwester ist Lehrerin.",
+          "options": [
+            "Mein",
+            "Meine",
+            "Meinen",
+            "Meines"
+          ],
+          "answer": 1,
+          "explanation": "Schwester is feminine, so use meine."
+        },
+        {
+          "id": "a1-m4-l1-p-m2",
+          "type": "mcq",
+          "prompt": "Mein Bruder ___ zehn Jahre alt.",
+          "options": [
+            "hat",
+            "ist",
+            "sind",
+            "haben"
+          ],
+          "answer": 1,
+          "explanation": "Age uses sein in German: Er ist zehn Jahre alt."
+        },
+        {
+          "id": "a1-m4-l1-p-m3",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Meine Bruder ist freundlich.",
+            "Mein Bruder ist freundlich.",
+            "Mein Bruder hat freundlich.",
+            "Meine Bruder hat freundlich."
+          ],
+          "answer": 1,
+          "explanation": "Bruder is masculine, so use mein, and the description uses ist."
+        },
+        {
+          "id": "a1-m4-l1-p-m4",
+          "type": "mcq",
+          "prompt": "___ Eltern wohnen in Berlin.",
+          "options": [
+            "Mein",
+            "Meine",
+            "Meinen",
+            "Meiner"
+          ],
+          "answer": 1,
+          "explanation": "Eltern is plural, so the possessive is meine."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l1-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "a1-m4-l1",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "a1-m4-l1-p-g1",
+          "type": "gap",
+          "prompt": "___ Schwester heißt Anna.",
+          "answers": [
+            "Meine"
+          ],
+          "explanation": "Schwester is feminine, so use meine."
+        },
+        {
+          "id": "a1-m4-l1-p-g2",
+          "type": "gap",
+          "prompt": "Mein Bruder ___ zwölf Jahre alt.",
+          "answers": [
+            "ist"
+          ],
+          "explanation": "Age is expressed with sein: er ist zwölf."
+        },
+        {
+          "id": "a1-m4-l1-p-g3",
+          "type": "gap",
+          "prompt": "Das ist ___ Bruder. (my)",
+          "answers": [
+            "mein"
+          ],
+          "explanation": "Bruder is masculine, so mein has no ending."
+        },
+        {
+          "id": "a1-m4-l1-p-g4",
+          "type": "gap",
+          "prompt": "Meine Eltern ___ sehr freundlich.",
+          "answers": [
+            "sind"
+          ],
+          "explanation": "Eltern is plural, so the verb is sind."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l1-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "a1-m4-l1",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "a1-m4-l1-p-o1",
+          "type": "order",
+          "prompt": "Build: “My sister is very friendly.”",
+          "tokens": [
+            "sehr",
+            "Meine",
+            "freundlich",
+            "Schwester",
+            "ist"
+          ],
+          "answer": "Meine Schwester ist sehr freundlich.",
+          "explanation": "The verb ist comes second and the adjective follows it without an ending."
+        },
+        {
+          "id": "a1-m4-l1-p-o2",
+          "type": "order",
+          "prompt": "Build: “My brother is ten years old.”",
+          "tokens": [
+            "Jahre",
+            "Mein",
+            "zehn",
+            "Bruder",
+            "ist",
+            "alt"
+          ],
+          "answer": "Mein Bruder ist zehn Jahre alt.",
+          "explanation": "German uses sein plus the age phrase."
+        },
+        {
+          "id": "a1-m4-l1-p-o3",
+          "type": "order",
+          "prompt": "Build: “Do you have siblings?”",
+          "tokens": [
+            "Geschwister",
+            "du",
+            "Hast"
+          ],
+          "answer": "Hast du Geschwister?",
+          "explanation": "A yes/no question starts with the verb."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l1-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "a1-m4-l1",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Im Deutschkurs",
+      "script": [
+        {
+          "speaker": "Lena",
+          "de": "Das ist meine Schwester Mia.",
+          "en": "This is my sister Mia."
+        },
+        {
+          "speaker": "Tom",
+          "de": "Ist sie auch im Kurs?",
+          "en": "Is she in the course too?"
+        },
+        {
+          "speaker": "Lena",
+          "de": "Ja, sie ist sehr freundlich.",
+          "en": "Yes, she is very friendly."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a1-m4-l1-l1",
+          "type": "mcq",
+          "prompt": "Who is Mia?",
+          "options": [
+            "Lena’s sister",
+            "Lena’s teacher",
+            "Tom’s sister",
+            "Tom’s neighbour"
+          ],
+          "answer": 0,
+          "explanation": "Lena says \"Das ist meine Schwester Mia.\""
+        },
+        {
+          "id": "a1-m4-l1-l2",
+          "type": "mcq",
+          "prompt": "How does Lena describe Mia?",
+          "options": [
+            "Quiet",
+            "Friendly",
+            "Tall",
+            "Strict"
+          ],
+          "answer": 1,
+          "explanation": "Lena says Mia is \"sehr freundlich\", very friendly."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l1-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "a1-m4-l1",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Introduce two family members and describe each one with one adjective.",
+      "model": {
+        "de": "Das ist meine Schwester. Sie ist sehr freundlich. Mein Bruder ist zehn Jahre alt.",
+        "en": "This is my sister. She is very friendly. My brother is ten years old."
+      },
+      "tips": [
+        "Use meine before feminine nouns and mein before masculine or neuter nouns.",
+        "After ist, do not add an ending to the adjective.",
+        "Use \"Das ist …\" to introduce someone, then a second sentence to describe them."
+      ]
+    },
+    {
+      "id": "a1-m4-l1-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "a1-m4-l1",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Mein Schwester ist freundlich.",
+          "right": "Meine Schwester ist freundlich.",
+          "why": "Schwester is feminine, so the possessive takes -e."
+        },
+        {
+          "wrong": "Mein Bruder hat zehn Jahre.",
+          "right": "Mein Bruder ist zehn Jahre alt.",
+          "why": "German expresses age with sein, not haben."
+        },
+        {
+          "wrong": "Meine Bruder ist freundlich.",
+          "right": "Mein Bruder ist freundlich.",
+          "why": "Bruder is masculine, so mein has no ending."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l1-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "a1-m4-l1",
+      "lede": "A 8-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "a1-m4-l1-a1",
+          "type": "mcq",
+          "prompt": "___ Schwester ist Lehrerin.",
+          "options": [
+            "Mein",
+            "Meine",
+            "Meinen",
+            "Meines"
+          ],
+          "answer": 1,
+          "explanation": "Schwester is feminine, so use meine."
+        },
+        {
+          "id": "a1-m4-l1-a2",
+          "type": "mcq",
+          "prompt": "Mein Bruder ___ zehn Jahre alt.",
+          "options": [
+            "hat",
+            "ist",
+            "sind",
+            "haben"
+          ],
+          "answer": 1,
+          "explanation": "Age uses sein in German: Er ist zehn Jahre alt."
+        },
+        {
+          "id": "a1-m4-l1-a3",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Meine Bruder ist freundlich.",
+            "Mein Bruder ist freundlich.",
+            "Mein Bruder hat freundlich.",
+            "Meine Bruder hat freundlich."
+          ],
+          "answer": 1,
+          "explanation": "Bruder is masculine, so use mein, and the description uses ist."
+        },
+        {
+          "id": "a1-m4-l1-a4",
+          "type": "mcq",
+          "prompt": "___ Eltern wohnen in Berlin.",
+          "options": [
+            "Mein",
+            "Meine",
+            "Meinen",
+            "Meiner"
+          ],
+          "answer": 1,
+          "explanation": "Eltern is plural, so the possessive is meine."
+        },
+        {
+          "id": "a1-m4-l1-a5",
+          "type": "gap",
+          "prompt": "___ Schwester heißt Anna.",
+          "answers": [
+            "Meine"
+          ],
+          "explanation": "Schwester is feminine, so use meine."
+        },
+        {
+          "id": "a1-m4-l1-a6",
+          "type": "gap",
+          "prompt": "Mein Bruder ___ zwölf Jahre alt.",
+          "answers": [
+            "ist"
+          ],
+          "explanation": "Age is expressed with sein: er ist zwölf."
+        },
+        {
+          "id": "a1-m4-l1-a7",
+          "type": "gap",
+          "prompt": "Das ist ___ Bruder. (my)",
+          "answers": [
+            "mein"
+          ],
+          "explanation": "Bruder is masculine, so mein has no ending."
+        },
+        {
+          "id": "a1-m4-l1-a8",
+          "type": "gap",
+          "prompt": "Meine Eltern ___ sehr freundlich.",
+          "answers": [
+            "sind"
+          ],
+          "explanation": "Eltern is plural, so the verb is sind."
+        }
+      ]
+    }
+  ]
+}

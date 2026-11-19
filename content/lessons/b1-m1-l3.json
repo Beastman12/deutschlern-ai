@@ -1,0 +1,627 @@
+{
+  "id": "b1-m1-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Read each sentence with a calm, friendly voice. Opinion phrases should sound thoughtful, not aggressive.",
+      "prompt": "Read the four sentences aloud. Then choose the one you disagree with most and say why in one sentence.",
+      "items": [
+        "Meiner Meinung nach sollte man mehr Rad fahren.",
+        "Ich finde, dass öffentliche Verkehrsmittel günstiger sein sollten.",
+        "Da stimme ich dir zu.",
+        "Das stimmt zwar, aber ich sehe das anders."
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "An opinion becomes convincing when it has a frame: a signal, a reason and room for the other side.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "At B1 you are expected to do more than state a preference. A good opinion has three parts: you introduce it, you support it with a reason or example, and you show awareness that another view exists. German has ready-made phrases for each part, and each phrase comes with its own word order."
+        },
+        {
+          "kind": "de",
+          "text": "Meiner Meinung nach sollte man mehr Rad fahren, weil es gesünder ist.",
+          "en": "In my opinion, people should cycle more because it is healthier."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Introduce: Meiner Meinung nach … / Ich finde, dass … / Ich bin der Meinung, dass …",
+            "Support: …, weil … / …, denn … / Ein Beispiel dafür ist …",
+            "Agree: Da stimme ich dir zu. / Das sehe ich auch so. / Genau.",
+            "Disagree politely: Das sehe ich anders. / Da bin ich anderer Meinung. / Das stimmt zwar, aber …",
+            "Balance: Einerseits …, andererseits …"
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Tone is grammar too",
+          "text": "“Das ist falsch” attacks the statement. “Das sehe ich anders” disagrees with the view while leaving the person room. The second version is not weaker — it is simply more likely to keep the conversation going."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "Four sentence frames cover most of the opinions you will need to express.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Frame", "Word order", "Example"],
+          "rows": [
+            ["Meiner Meinung nach …", "phrase in position 1, verb second", "Meiner Meinung nach ist das Angebot zu teuer."],
+            ["Ich finde, dass …", "dass-clause, verb final", "Ich finde, dass das Angebot zu teuer ist."],
+            ["Ich bin der Meinung, dass …", "dass-clause, verb final", "Ich bin der Meinung, dass wir warten sollten."],
+            ["Einerseits …, andererseits …", "both adverbs in position 1", "Einerseits ist es günstig, andererseits dauert es lange."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Meiner Meinung nach does not need a comma, and it does not change the verb position: verb second.",
+            "zustimmen and widersprechen take the dative: Ich stimme dir zu. Ich widerspreche ihm.",
+            "After zwar … aber the first part concedes a point: Das stimmt zwar, aber die Kosten sind hoch.",
+            "Use als, not wie, after anderer: Ich bin anderer Meinung als du.",
+            "A reason with weil is subordinating; a reason with denn keeps normal word order."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Build a balanced answer",
+          "text": "Opinion + reason + concession + conclusion is a reliable structure for speaking tests and short essays: Meiner Meinung nach …, weil …. Natürlich stimmt es, dass …. Trotzdem bleibe ich bei meiner Meinung, denn …."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These five words and one connector appear in the dialogue and the assessment.",
+      "items": [
+        {
+          "de": "die Meinung",
+          "en": "the opinion",
+          "article": "die",
+          "plural": "die Meinungen",
+          "pronunciation": "ˈmaɪ̯nʊŋ",
+          "example": "Meiner Meinung nach ist das eine gute Idee.",
+          "exampleEn": "In my opinion, that is a good idea."
+        },
+        {
+          "de": "zustimmen",
+          "en": "to agree",
+          "pronunciation": "ˈtsuːʃtɪmən",
+          "example": "Ich stimme dir zu: Der Plan ist sinnvoll.",
+          "exampleEn": "I agree with you: the plan makes sense."
+        },
+        {
+          "de": "widersprechen",
+          "en": "to disagree, to contradict",
+          "pronunciation": "ˈviːdɐʃpʁɛçn̩",
+          "example": "Da muss ich dir leider widersprechen.",
+          "exampleEn": "I am afraid I have to disagree with you there."
+        },
+        {
+          "de": "einerseits",
+          "en": "on the one hand",
+          "pronunciation": "ˈaɪ̯nɐzaɪ̯ts",
+          "example": "Einerseits ist die Wohnung schön, andererseits ist sie teuer.",
+          "exampleEn": "On the one hand the flat is nice; on the other hand it is expensive."
+        },
+        {
+          "de": "der Vorteil",
+          "en": "the advantage",
+          "article": "der",
+          "plural": "die Vorteile",
+          "pronunciation": "ˈfoːɐ̯taɪ̯l",
+          "example": "Ein großer Vorteil ist die gute Verkehrsanbindung.",
+          "exampleEn": "A big advantage is the good transport connection."
+        },
+        {
+          "de": "der Nachteil",
+          "en": "the disadvantage",
+          "article": "der",
+          "plural": "die Nachteile",
+          "pronunciation": "ˈnaːxtaɪ̯l",
+          "example": "Der Nachteil ist der hohe Preis.",
+          "exampleEn": "The disadvantage is the high price."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Notice how each sentence signals its job: opinion, reason, concession or agreement.",
+      "items": [
+        {
+          "de": "Meiner Meinung nach sollten Studierende mehr Praktika machen.",
+          "en": "In my opinion, students should do more internships.",
+          "note": "The phrase is position one; sollten is the verb in position two."
+        },
+        {
+          "de": "Ich finde, dass öffentliche Verkehrsmittel günstiger sein sollten.",
+          "en": "I think public transport should be cheaper.",
+          "note": "After dass, the conjugated verb sein sollten stands at the end."
+        },
+        {
+          "de": "Einerseits spart Homeoffice Zeit, andererseits fehlt der Kontakt zu den Kollegen.",
+          "en": "On the one hand, working from home saves time; on the other hand, contact with colleagues is missing.",
+          "note": "Both adverbs occupy position one, so both clauses have verb second."
+        },
+        {
+          "de": "Das stimmt zwar, aber die Mieten sind dadurch nicht gesunken.",
+          "en": "That is true, but rents have not fallen as a result.",
+          "note": "zwar concedes the point; aber introduces the limitation."
+        },
+        {
+          "de": "Da bin ich anderer Meinung als du, weil die Kosten zu hoch sind.",
+          "en": "I disagree with you there, because the costs are too high.",
+          "note": "anderer Meinung als du — als, not wie."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "Opinion words carry the stress that tells the listener which part of your answer matters.",
+      "items": [
+        {
+          "de": "Meinung",
+          "hint": "One clear “eye” diphthong, then a nasal -ung: MY-noong. Do not pronounce the g hard.",
+          "en": "opinion"
+        },
+        {
+          "de": "zustimmen",
+          "hint": "st at the start of a syllable sounds like “sht”: TSOO-shtim-men.",
+          "en": "to agree"
+        },
+        {
+          "de": "widersprechen",
+          "hint": "Long ee in the first syllable, then “shpr”; the final ch is soft: VEE-der-shpre-khen.",
+          "en": "to disagree"
+        },
+        {
+          "de": "einerseits",
+          "hint": "EYE-ner-zyts. Keep the final -ts crisp; it marks the two-sided structure.",
+          "en": "on the one hand"
+        },
+        {
+          "de": "Nachteil",
+          "hint": "The ch after a is rough, as in Bach; stress the first syllable: NAKH-tile.",
+          "en": "disadvantage"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Disagreement as participation",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In many German-speaking university seminars and workplaces, a clearly reasoned counter-argument is treated as interest in the topic rather than as a personal attack. Discussions often follow a “yes, but” pattern: first acknowledge the point, then explain what you see differently. That is why phrases such as Das stimmt zwar, aber … are so useful."
+        },
+        {
+          "kind": "p",
+          "text": "Directness still has limits. Criticism is usually aimed at the argument, not the person, and a calm reason is expected to follow the disagreement. In formal writing, phrases such as aus meiner Sicht or ich bin der Meinung, dass sound more measured than a bare ich finde das falsch."
+        },
+        {
+          "kind": "note",
+          "title": "Useful hedge",
+          "text": "Ich bin mir nicht sicher, ob … is a polite way to question a claim without calling it false. It invites the other person to explain rather than defend."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "Two friends discuss a car-free city centre. Both disagree at points, and neither conversation ends in a fight.",
+      "setting": "Two friends in a café, talking about a local proposal",
+      "lines": [
+        { "speaker": "Lena", "de": "Hast du den Artikel über die autofreie Innenstadt gelesen?", "en": "Did you read the article about the car-free city centre?" },
+        { "speaker": "Jonas", "de": "Ja. Meiner Meinung nach ist die Idee gut, weil die Luft sauberer wird.", "en": "Yes. In my opinion the idea is good, because the air becomes cleaner." },
+        { "speaker": "Lena", "de": "Da stimme ich dir zu. Allerdings mache ich mir Sorgen um die Geschäfte.", "en": "I agree with you. However, I am worried about the shops." },
+        { "speaker": "Jonas", "de": "Einerseits verstehe ich das, andererseits könnten Lieferzonen den Geschäften helfen.", "en": "On the one hand I understand that; on the other hand, delivery zones could help the shops." },
+        { "speaker": "Lena", "de": "Das wäre eine Lösung. Ich finde trotzdem, dass man die Anwohner fragen sollte.", "en": "That would be a solution. Nevertheless, I think the residents should be asked." },
+        { "speaker": "Jonas", "de": "Genau. Ein Plan ohne Beteiligung funktioniert selten.", "en": "Exactly. A plan without participation rarely works." },
+        { "speaker": "Lena", "de": "Also einigen wir uns: Die Idee ist gut, aber die Umsetzung muss fair sein.", "en": "So let us agree: the idea is good, but the implementation has to be fair." },
+        { "speaker": "Jonas", "de": "Dem stimme ich zu.", "en": "I agree with that." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Opinion phrases and the verb",
+      "lede": "The phrase you choose decides whether the verb is second or last.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Opening", "Verb position", "Complete sentence"],
+          "rows": [
+            ["Meiner Meinung nach", "second", "Meiner Meinung nach ist das richtig."],
+            ["Ich finde", "second, then dass-clause", "Ich finde, dass das richtig ist."],
+            ["Ich bin der Meinung", "second, then dass-clause", "Ich bin der Meinung, dass das richtig ist."],
+            ["Einerseits / Andererseits", "second", "Einerseits ist es praktisch, andererseits ist es teuer."],
+            ["Ich stimme dir zu", "verb at the end of the main clause", "Ich stimme dir zu, weil du recht hast."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Meiner Meinung nach is a fixed dative phrase. Do not write “meine Meinung nach”.",
+            "Ich finde can be followed directly by a main clause: Ich finde, das ist richtig. The comma replaces dass.",
+            "zustimmen and widersprechen always take a dative object: mir, dir, ihm, ihr, ihnen.",
+            "Use einerseits … andererseits to present two sides; use zwar … aber to concede one point.",
+            "To give an example, say Zum Beispiel … or Ein Beispiel dafür ist …."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Formal alternatives",
+          "text": "In an email or report, Meiner Meinung nach and Ich bin der Meinung, dass are neutral and safe. Ich finde is fine in conversation but can sound casual in a formal text; aus meiner Sicht is a good formal replacement."
+        }
+      ],
+      "tip": "Write your opinion in two sentences: one frame with a reason, one concession. Then check the verb after meiner Meinung nach and after dass."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Check the phrase, the case and the tone.",
+      "exercises": [
+        {
+          "id": "b1m1l3-p1",
+          "type": "mcq",
+          "prompt": "Which opening keeps the verb in second position?",
+          "options": ["Meiner Meinung nach", "Ich finde dass", "Weil ich finde", "Ich bin Meinung"],
+          "answer": 0,
+          "explanation": "Meiner Meinung nach occupies position one, so the verb follows immediately: Meiner Meinung nach ist …"
+        },
+        {
+          "id": "b1m1l3-p2",
+          "type": "mcq",
+          "prompt": "Complete: “Ich finde, ___ man mehr Rad fahren sollte.”",
+          "options": ["dass", "weil", "deshalb", "denn"],
+          "answer": 0,
+          "explanation": "Ich finde, dass … introduces the content of the opinion; the verb sollte goes to the end."
+        },
+        {
+          "id": "b1m1l3-p3",
+          "type": "mcq",
+          "prompt": "Which sentence disagrees politely?",
+          "options": ["Das ist falsch.", "Da bin ich anderer Meinung.", "Du hast keine Ahnung.", "Das ist doch Unsinn."],
+          "answer": 1,
+          "explanation": "Da bin ich anderer Meinung disagrees with the view without attacking the person."
+        },
+        {
+          "id": "b1m1l3-p4",
+          "type": "mcq",
+          "prompt": "Complete: “Ich stimme ___ zu.”",
+          "options": ["dich", "dir", "du", "dein"],
+          "answer": 1,
+          "explanation": "zustimmen takes the dative: Ich stimme dir zu."
+        },
+        {
+          "id": "b1m1l3-p5",
+          "type": "mcq",
+          "prompt": "Complete: “Einerseits ist es teuer, ___ spart es Zeit.”",
+          "options": ["andererseits", "deshalb", "weil", "obwohl"],
+          "answer": 0,
+          "explanation": "The pair einerseits … andererseits presents two contrasting sides."
+        },
+        {
+          "id": "b1m1l3-p6",
+          "type": "mcq",
+          "prompt": "What does “Das stimmt zwar, aber …” do?",
+          "options": ["It rejects the other view completely.", "It concedes a point and then adds a limitation.", "It changes the topic.", "It asks for permission."],
+          "answer": 1,
+          "explanation": "zwar acknowledges the point; aber introduces the speaker's limitation or objection."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type one word. Watch the case after verbs such as zustimmen and widersprechen.",
+      "exercises": [
+        {
+          "id": "b1m1l3-g1",
+          "type": "gap",
+          "prompt": "___ Meinung nach sollte man mehr Rad fahren.",
+          "answers": ["Meiner"],
+          "explanation": "The fixed phrase is meiner Meinung nach — dative feminine."
+        },
+        {
+          "id": "b1m1l3-g2",
+          "type": "gap",
+          "prompt": "Ich finde, ___ wir das Problem ernst nehmen sollten.",
+          "answers": ["dass"],
+          "explanation": "The dass-clause carries the content of the opinion; sollten is at the end."
+        },
+        {
+          "id": "b1m1l3-g3",
+          "type": "gap",
+          "prompt": "Ich stimme ___ zu. (ich)",
+          "answers": ["mir"],
+          "explanation": "zustimmen takes the dative; the dative of ich is mir."
+        },
+        {
+          "id": "b1m1l3-g4",
+          "type": "gap",
+          "prompt": "Er widerspricht ___ . (ich)",
+          "answers": ["mir"],
+          "explanation": "widersprechen also takes the dative: Er widerspricht mir."
+        },
+        {
+          "id": "b1m1l3-g5",
+          "type": "gap",
+          "prompt": "___ ist die Idee gut, andererseits ist sie teuer.",
+          "answers": ["Einerseits"],
+          "explanation": "The pair is einerseits … andererseits. Both stand in position one."
+        },
+        {
+          "id": "b1m1l3-g6",
+          "type": "gap",
+          "prompt": "Ich bin ___ Meinung, dass wir warten sollten.",
+          "answers": ["der"],
+          "explanation": "The fixed phrase is ich bin der Meinung, dass … — dative feminine."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Build the sentence and check the verb position after the opening phrase.",
+      "exercises": [
+        {
+          "id": "b1m1l3-o1",
+          "type": "order",
+          "prompt": "Build: “In my opinion, people should cycle more.”",
+          "tokens": ["man", "Meiner", "mehr", "Meinung", "sollte", "Rad", "nach", "fahren"],
+          "answer": "Meiner Meinung nach sollte man mehr Rad fahren.",
+          "explanation": "The phrase occupies position one, so sollte is the second element."
+        },
+        {
+          "id": "b1m1l3-o2",
+          "type": "order",
+          "prompt": "Build: “I think that is a good idea.”",
+          "tokens": ["eine", "Ich", "das", "gute", "finde", "Idee", "dass", "ist"],
+          "answer": "Ich finde, dass das eine gute Idee ist.",
+          "explanation": "After dass the conjugated verb ist goes to the end."
+        },
+        {
+          "id": "b1m1l3-o3",
+          "type": "order",
+          "prompt": "Build: “I agree with you.”",
+          "tokens": ["zu", "Ich", "dir", "stimme"],
+          "answer": "Ich stimme dir zu.",
+          "explanation": "zustimmen is separable and takes the dative: Ich stimme dir zu."
+        },
+        {
+          "id": "b1m1l3-o4",
+          "type": "order",
+          "prompt": "Build: “On the one hand it saves time; on the other hand it costs money.”",
+          "tokens": ["Zeit", "Einerseits", "es", "spart", "kostet", "andererseits", "Geld", "es"],
+          "answer": "Einerseits spart es Zeit, andererseits kostet es Geld.",
+          "explanation": "Both adverbs take position one, so each clause follows with its verb."
+        },
+        {
+          "id": "b1m1l3-o5",
+          "type": "order",
+          "prompt": "Build: “I disagree, because the costs are too high.”",
+          "tokens": ["anderer", "Ich", "Meinung", "bin", "weil", "die", "Kosten", "zu", "hoch", "sind"],
+          "answer": "Ich bin anderer Meinung, weil die Kosten zu hoch sind.",
+          "explanation": "anderer Meinung is a fixed phrase; weil sends sind to the end."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen for the two sides of the argument, then answer.",
+      "speaker": "Two colleagues, Anna and Paul",
+      "script": [
+        { "speaker": "Anna", "de": "Arbeitest du diese Woche von zu Hause?", "en": "Are you working from home this week?" },
+        { "speaker": "Paul", "de": "Ja, zwei Tage. Meiner Meinung nach ist das ideal, weil ich morgens keine Zeit im Stau verliere.", "en": "Yes, two days. In my opinion that is ideal, because I do not lose time in traffic in the morning." },
+        { "speaker": "Anna", "de": "Das stimmt zwar, aber ich finde, dass der Austausch im Büro fehlt.", "en": "That is true, but I think the exchange in the office is missing." },
+        { "speaker": "Paul", "de": "Einerseits hast du recht. Andererseits haben wir jeden Morgen ein kurzes Online-Meeting.", "en": "On the one hand you are right. On the other hand, we have a short online meeting every morning." },
+        { "speaker": "Anna", "de": "Stimmt. Trotzdem würde ich nicht ganz auf das Büro verzichten.", "en": "True. Nevertheless, I would not give up the office completely." },
+        { "speaker": "Paul", "de": "Da bin ich ganz deiner Meinung. Zwei Tage Büro, drei Tage zu Hause wäre mein Vorschlag.", "en": "I completely agree with you there. Two days in the office, three days at home would be my suggestion." }
+      ],
+      "questions": [
+        {
+          "id": "b1m1l3-lq1",
+          "type": "mcq",
+          "prompt": "How many days is Paul working from home this week?",
+          "options": ["One", "Two", "Three", "Five"],
+          "answer": 1,
+          "explanation": "Paul says: Ja, zwei Tage."
+        },
+        {
+          "id": "b1m1l3-lq2",
+          "type": "mcq",
+          "prompt": "What does Anna miss about the office?",
+          "options": ["The coffee", "The exchange with colleagues", "The longer journey", "The quiet room"],
+          "answer": 1,
+          "explanation": "Sie sagt: … ich finde, dass der Austausch im Büro fehlt."
+        },
+        {
+          "id": "b1m1l3-lq3",
+          "type": "mcq",
+          "prompt": "What does Paul suggest at the end?",
+          "options": ["Working only from home", "Two days in the office and three at home", "Five days in the office", "Ending the online meetings"],
+          "answer": 1,
+          "explanation": "Zwei Tage Büro, drei Tage zu Hause wäre mein Vorschlag."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Use the full structure: opinion, reason, example, concession. Speak for about forty seconds.",
+      "prompt": "Should students work part-time while studying? Give your opinion, support it with one reason and one example, and acknowledge the other side.",
+      "model": {
+        "de": "Meiner Meinung nach ist ein Nebenjob während des Studiums sinnvoll, weil man praktische Erfahrung sammelt. Ein Beispiel dafür ist mein Freund, der durch seinen Job im Café besser Deutsch gelernt hat. Natürlich stimmt es, dass zu viel Arbeit das Studium belastet. Deshalb finde ich, dass zehn Stunden pro Woche genug sind.",
+        "en": "In my opinion, a part-time job during university is sensible because you gain practical experience. One example is my friend, who learned German better through his job in a café. Of course it is true that too much work puts pressure on your studies. That is why I think ten hours a week are enough."
+      },
+      "tips": [
+        "Start with one clear frame — Meiner Meinung nach or Ich finde, dass — and do not stack several openers.",
+        "Give a real or realistic example after your reason; it makes the opinion sound grounded.",
+        "Add one concession with Natürlich stimmt es, dass … and then return to your position."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "These errors are about the frame, the case and the comparison word.",
+      "items": [
+        {
+          "wrong": "Meiner Meinung nach, das ist falsch.",
+          "right": "Meiner Meinung nach ist das falsch.",
+          "why": "The phrase occupies position one, so the verb comes second. No comma is needed."
+        },
+        {
+          "wrong": "Ich finde, dass das ist eine gute Idee.",
+          "right": "Ich finde, dass das eine gute Idee ist.",
+          "why": "After dass, the conjugated verb ist belongs at the end of the clause."
+        },
+        {
+          "wrong": "Ich stimme dich zu.",
+          "right": "Ich stimme dir zu.",
+          "why": "zustimmen takes the dative: dir, not dich."
+        },
+        {
+          "wrong": "Ich bin anderer Meinung wie du.",
+          "right": "Ich bin anderer Meinung als du.",
+          "why": "After a comparative such as anderer, German uses als, not wie."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 3,
+      "passScore": 70,
+      "lede": "Ten questions. Score 70% or more to unlock the next lesson.",
+      "questions": [
+        {
+          "id": "b1m1l3-a1",
+          "type": "mcq",
+          "prompt": "Which phrase is followed directly by the verb?",
+          "options": ["Meiner Meinung nach", "Ich finde, dass", "Weil ich finde, dass", "Ich bin der Meinung, dass"],
+          "answer": 0,
+          "explanation": "Meiner Meinung nach occupies position one, so the verb is the second element."
+        },
+        {
+          "id": "b1m1l3-a2",
+          "type": "mcq",
+          "prompt": "Which sentence disagrees without sounding aggressive?",
+          "options": ["Das ist völlig falsch.", "Da sehe ich einen anderen Punkt.", "Du verstehst nichts.", "Das ist Unsinn."],
+          "answer": 1,
+          "explanation": "Da sehe ich einen anderen Punkt states a different view while staying respectful."
+        },
+        {
+          "id": "b1m1l3-a3",
+          "type": "gap",
+          "prompt": "Ich finde, ___ wir mehr Zeit brauchen.",
+          "answers": ["dass"],
+          "explanation": "The dass-clause states what you think; brauchen is at the end."
+        },
+        {
+          "id": "b1m1l3-a4",
+          "type": "gap",
+          "prompt": "Ich stimme ___ zu. (du)",
+          "answers": ["dir"],
+          "explanation": "zustimmen takes the dative; the dative of du is dir."
+        },
+        {
+          "id": "b1m1l3-a5",
+          "type": "order",
+          "prompt": "Build: “In my opinion, people should cycle more.”",
+          "tokens": ["man", "Meiner", "mehr", "Meinung", "sollte", "Rad", "nach", "fahren"],
+          "answer": "Meiner Meinung nach sollte man mehr Rad fahren.",
+          "explanation": "Meiner Meinung nach + verb + subject: … sollte man …"
+        },
+        {
+          "id": "b1m1l3-a6",
+          "type": "mcq",
+          "prompt": "What does “zwar” signal in “Das stimmt zwar, aber …”?",
+          "options": ["A complete rejection", "A concession before a limitation", "A request for repetition", "A change of subject"],
+          "answer": 1,
+          "explanation": "zwar acknowledges that the other point is valid; aber then adds the speaker's limitation."
+        },
+        {
+          "id": "b1m1l3-a7",
+          "type": "gap",
+          "prompt": "___ ist es günstig, andererseits dauert es lange.",
+          "answers": ["Einerseits"],
+          "explanation": "The matching pair is einerseits … andererseits."
+        },
+        {
+          "id": "b1m1l3-a8",
+          "type": "order",
+          "prompt": "Build: “I disagree, because the costs are too high.”",
+          "tokens": ["anderer", "Ich", "Meinung", "bin", "weil", "die", "Kosten", "zu", "hoch", "sind"],
+          "answer": "Ich bin anderer Meinung, weil die Kosten zu hoch sind.",
+          "explanation": "anderer Meinung + weil-clause with the verb sind at the end."
+        },
+        {
+          "id": "b1m1l3-a9",
+          "type": "mcq",
+          "prompt": "Which case does “widersprechen” require?",
+          "options": ["Nominative", "Accusative", "Dative", "Genitive"],
+          "answer": 2,
+          "explanation": "widersprechen takes the dative: Ich widerspreche ihm."
+        },
+        {
+          "id": "b1m1l3-a10",
+          "type": "gap",
+          "prompt": "Ich bin ___ Meinung, dass wir warten sollten.",
+          "answers": ["der"],
+          "explanation": "The fixed phrase is ich bin der Meinung, dass …"
+        }
+      ]
+    }
+  ]
+}

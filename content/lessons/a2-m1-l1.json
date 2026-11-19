@@ -1,0 +1,648 @@
+{
+  "id": "a2-m1-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Read the sentences aloud and listen for the verb at the very end.",
+      "prompt": "Say these sentences aloud. Do not worry about the grammar yet — just notice how each sentence ends.",
+      "items": [
+        "Ich habe gestern einen Film gesehen.",
+        "Wir sind am Wochenende nach Berlin gefahren.",
+        "Was hast du gemacht?",
+        "Wo bist du gewesen?"
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "The Perfekt is the past tense Germans actually use in conversation.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "The Perfekt has two parts: a conjugated form of haben or sein in the second position, and a past participle at the very end of the sentence. Together they form a bracket around the rest of the sentence."
+        },
+        {
+          "kind": "de",
+          "text": "Ich habe gestern einen Film gesehen.",
+          "en": "I watched a film yesterday."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Step 1: choose the auxiliary — haben for most verbs, sein for movement and change of state.",
+            "Step 2: build the past participle — gemacht, gesehen, gefahren.",
+            "Step 3: conjugate the auxiliary for the subject and put the participle last.",
+            "Nothing else moves into the final position: the participle stays there even in a question."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Spoken and written German",
+          "text": "In conversation the Perfekt is the normal past. Newspapers, reports and stories prefer the Präteritum, which you will meet in the next lesson."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "Two decisions: how to build the participle, and which auxiliary to use.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Verb type", "Pattern", "Example", "Participle"],
+          "rows": [
+            ["Regular", "ge- + stem + -t", "machen", "gemacht"],
+            ["Stem ends in -t or -d", "ge- + stem + -et", "arbeiten", "gearbeitet"],
+            ["Irregular", "ge- + changed stem + -en", "sehen", "gesehen"],
+            ["Separable prefix", "prefix + ge- + participle", "aufstehen", "aufgestanden"],
+            ["Inseparable prefix (be-, ver-, er-)", "no ge-", "besuchen", "besucht"],
+            ["Verbs in -ieren", "no ge-", "studieren", "studiert"]
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Auxiliary", "Used for", "Examples"],
+          "rows": [
+            ["haben", "most verbs, including verbs with an accusative object", "Ich habe gegessen. Wir haben uns getroffen."],
+            ["sein", "movement from A to B", "Ich bin gefahren. Sie ist gelaufen."],
+            ["sein", "change of state", "Er ist eingeschlafen. Das Eis ist geschmolzen."],
+            ["sein", "sein, bleiben, werden, passieren", "Ich bin gewesen. Sie ist geblieben."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Movement from one place to another takes sein: gehen, fahren, fliegen, kommen, reisen.",
+            "A change of state also takes sein: aufwachen, einschlafen, sterben, wachsen.",
+            "Bleiben, sein, werden and passieren take sein even though nothing moves.",
+            "If the verb has a direct object, it almost always takes haben."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Memory hook",
+          "text": "Ask: does the subject move to a new place, or does something about it change? If yes, use sein. If the verb simply describes an action, use haben."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "Participles are vocabulary too: learn each one with the verb it belongs to.",
+      "items": [
+        {
+          "de": "der Ausflug",
+          "en": "the trip / outing",
+          "article": "der",
+          "plural": "die Ausflüge",
+          "pronunciation": "OWS-flook",
+          "example": "Wir haben einen Ausflug an die Ostsee gemacht.",
+          "exampleEn": "We went on a trip to the Baltic Sea."
+        },
+        {
+          "de": "die Wanderung",
+          "en": "the hike / walk",
+          "article": "die",
+          "plural": "die Wanderungen",
+          "pronunciation": "VAN-de-roong",
+          "example": "Die Wanderung hat drei Stunden gedauert.",
+          "exampleEn": "The hike lasted three hours."
+        },
+        {
+          "de": "gesehen",
+          "en": "seen (participle of sehen)",
+          "pronunciation": "ge-ZAY-en",
+          "example": "Hast du den Film schon gesehen?",
+          "exampleEn": "Have you seen the film yet?"
+        },
+        {
+          "de": "gefahren",
+          "en": "driven / travelled (participle of fahren)",
+          "pronunciation": "ge-FAH-ren",
+          "example": "Wir sind mit dem Zug nach Köln gefahren.",
+          "exampleEn": "We travelled to Cologne by train."
+        },
+        {
+          "de": "gemacht",
+          "en": "done / made (participle of machen)",
+          "pronunciation": "ge-MAKHT",
+          "example": "Was hast du am Wochenende gemacht?",
+          "exampleEn": "What did you do at the weekend?"
+        },
+        {
+          "de": "gewesen",
+          "en": "been (participle of sein)",
+          "pronunciation": "ge-VAY-zen",
+          "example": "Wo bist du so lange gewesen?",
+          "exampleEn": "Where have you been all this time?"
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Notice the bracket: auxiliary in position two, participle at the end.",
+      "items": [
+        {
+          "de": "Ich habe am Samstag meine Eltern besucht.",
+          "en": "I visited my parents on Saturday.",
+          "note": "besuchen has an inseparable prefix, so there is no ge-."
+        },
+        {
+          "de": "Wir sind um sieben Uhr losgefahren.",
+          "en": "We set off at seven o'clock.",
+          "note": "losfahren is separable: los + ge + fahren."
+        },
+        {
+          "de": "Sie hat den ganzen Tag gearbeitet.",
+          "en": "She worked all day.",
+          "note": "The stem ends in -t, so the participle takes -et."
+        },
+        {
+          "de": "Er ist zu Hause geblieben, weil er krank war.",
+          "en": "He stayed at home because he was ill.",
+          "note": "bleiben takes sein."
+        },
+        {
+          "de": "Hast du schon gefrühstückt?",
+          "en": "Have you had breakfast yet?",
+          "note": "In a yes/no question the auxiliary comes first and the participle stays last."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "Participles are long words. Keep the stress on the second syllable.",
+      "items": [
+        {
+          "de": "gemacht",
+          "hint": "End with a crisp t. Do not add an extra syllable as in English “maked”.",
+          "en": "done / made"
+        },
+        {
+          "de": "gesehen",
+          "hint": "The s is voiced like English z, and the stress is on the second syllable: ge-ZEH-en.",
+          "en": "seen"
+        },
+        {
+          "de": "gefahren",
+          "hint": "Hold the long a as in “father”, then finish with a soft -en.",
+          "en": "driven / travelled"
+        },
+        {
+          "de": "gewesen",
+          "hint": "The w sounds like English v: ge-VAY-zen.",
+          "en": "been"
+        },
+        {
+          "de": "passiert",
+          "hint": "No ge- in this participle. Stress the last syllable: pa-SEERT.",
+          "en": "happened"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "One past, two habits",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In everyday conversation the Perfekt is the standard past tense across the German-speaking world. In southern Germany, Austria and Switzerland it is used almost exclusively in speech, while northern speakers more often say ich war and ich hatte."
+        },
+        {
+          "kind": "p",
+          "text": "Written German keeps the Präteritum for narration. A newspaper report says Die Firma kaufte das Gebäude; a colleague telling the same story says Die Firma hat das Gebäude gekauft. Both are correct, and the choice is about register rather than meaning."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "Two colleagues compare their weekends in the office kitchen.",
+      "setting": "Monday morning in the office kitchen",
+      "lines": [
+        { "speaker": "Nina", "de": "Morgen, Tom! Wie war dein Wochenende?", "en": "Morning, Tom! How was your weekend?" },
+        { "speaker": "Tom", "de": "Gut, danke. Ich bin am Samstag nach Hamburg gefahren.", "en": "Good, thanks. I went to Hamburg on Saturday." },
+        { "speaker": "Nina", "de": "Oh, schön! Was hast du dort gemacht?", "en": "Oh, nice! What did you do there?" },
+        { "speaker": "Tom", "de": "Ich habe meine Schwester besucht. Wir haben zusammen gegessen und sind abends spazieren gegangen.", "en": "I visited my sister. We ate together and went for a walk in the evening." },
+        { "speaker": "Nina", "de": "Und bist du mit dem Zug gefahren?", "en": "And did you go by train?" },
+        { "speaker": "Tom", "de": "Ja, mit dem ICE. Die Fahrt hat nur zwei Stunden gedauert.", "en": "Yes, on the ICE. The journey only took two hours." },
+        { "speaker": "Nina", "de": "Ich bin am Wochenende zu Hause geblieben. Ich habe nur geschlafen und gelesen.", "en": "I stayed at home at the weekend. I only slept and read." },
+        { "speaker": "Tom", "de": "Das klingt auch gut!", "en": "That sounds good too!" }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "The sentence bracket: haben or sein plus participle",
+      "lede": "The auxiliary carries the person; the participle carries the meaning.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Person", "haben", "sein"],
+          "rows": [
+            ["ich", "habe", "bin"],
+            ["du", "hast", "bist"],
+            ["er / sie / es", "hat", "ist"],
+            ["wir", "haben", "sind"],
+            ["ihr", "habt", "seid"],
+            ["sie / Sie", "haben", "sind"]
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Sentence", "English", "Bracket"],
+          "rows": [
+            ["Ich habe den Film gesehen.", "I saw the film.", "habe … gesehen"],
+            ["Wir sind nach Hause gegangen.", "We went home.", "sind … gegangen"],
+            ["Hast du gut geschlafen?", "Did you sleep well?", "Hast … geschlafen"],
+            ["Sie hat nicht geantwortet.", "She did not answer.", "hat … geantwortet"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "nicht goes before the participle: Ich habe den Film nicht gesehen.",
+            "Time and place expressions sit inside the bracket: Ich habe gestern im Kino einen Film gesehen.",
+            "A separable prefix joins the participle: aufgestanden, eingekauft, mitgebracht.",
+            "With modal verbs the Perfekt is rare; use the Präteritum instead: Ich konnte nicht kommen."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Watch the auxiliary",
+          "text": "The auxiliary must agree with the subject, not with the participle: wir sind gefahren, but wir haben gearbeitet."
+        }
+      ],
+      "tip": "Say the auxiliary out loud first, then finish the sentence with the participle. This keeps the bracket intact under pressure."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 5,
+      "lede": "Choose the auxiliary or the participle that fits.",
+      "exercises": [
+        {
+          "id": "m1l1-p1",
+          "type": "mcq",
+          "prompt": "Which auxiliary does fahren take in the Perfekt?",
+          "options": ["haben", "sein", "werden", "tun"],
+          "answer": 1,
+          "explanation": "fahren describes movement from one place to another, so it takes sein: Ich bin gefahren."
+        },
+        {
+          "id": "m1l1-p2",
+          "type": "mcq",
+          "prompt": "What is the past participle of arbeiten?",
+          "options": ["gearbeit", "gearbeitet", "gearbeiten", "arbeitet"],
+          "answer": 1,
+          "explanation": "The stem ends in -t, so the participle adds -et: ge- + arbeit + -et = gearbeitet."
+        },
+        {
+          "id": "m1l1-p3",
+          "type": "mcq",
+          "prompt": "Complete: Wir ___ gestern ins Kino gegangen.",
+          "options": ["haben", "sind", "waren", "ist"],
+          "answer": 1,
+          "explanation": "gehen is movement, so the auxiliary is sein. Wir sind … gegangen."
+        },
+        {
+          "id": "m1l1-p4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": ["Ich habe gestern zu Hause geblieben.", "Ich bin gestern zu Hause geblieben.", "Ich bin gestern zu Hause gebleibt.", "Ich habe gestern zu Hause gebleiben."],
+          "answer": 1,
+          "explanation": "bleiben takes sein, and its participle is geblieben."
+        },
+        {
+          "id": "m1l1-p5",
+          "type": "mcq",
+          "prompt": "What is the past participle of besuchen?",
+          "options": ["gebesucht", "besucht", "besuchen", "gebesuchen"],
+          "answer": 1,
+          "explanation": "The inseparable prefix be- blocks ge-, so the participle is simply besucht."
+        },
+        {
+          "id": "m1l1-p6",
+          "type": "mcq",
+          "prompt": "Which verb does NOT take sein in the Perfekt?",
+          "options": ["fliegen", "einschlafen", "bleiben", "kaufen"],
+          "answer": 3,
+          "explanation": "kaufen has a direct object (etwas kaufen) and takes haben: Ich habe ein Buch gekauft."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 5,
+      "lede": "Type the missing auxiliary or participle. Use the verb in brackets to help you.",
+      "exercises": [
+        {
+          "id": "m1l1-g1",
+          "type": "gap",
+          "prompt": "Ich ___ gestern einen Film gesehen.",
+          "answers": ["habe"],
+          "explanation": "sehen takes haben, and ich habe is the first person form."
+        },
+        {
+          "id": "m1l1-g2",
+          "type": "gap",
+          "prompt": "Wir ___ am Sonntag nach Köln gefahren.",
+          "answers": ["sind"],
+          "explanation": "fahren is movement, so wir sind is correct."
+        },
+        {
+          "id": "m1l1-g3",
+          "type": "gap",
+          "prompt": "Sie hat den ganzen Tag ___. (arbeiten)",
+          "answers": ["gearbeitet"],
+          "explanation": "arbeiten → gearbeitet, because the stem ends in -t."
+        },
+        {
+          "id": "m1l1-g4",
+          "type": "gap",
+          "prompt": "___ du schon gefrühstückt?",
+          "answers": ["Hast"],
+          "explanation": "The yes/no question starts with the auxiliary: Hast du …?"
+        },
+        {
+          "id": "m1l1-g5",
+          "type": "gap",
+          "prompt": "Er ist zu Hause ___. (bleiben)",
+          "answers": ["geblieben"],
+          "explanation": "bleiben is irregular and takes sein: er ist geblieben."
+        },
+        {
+          "id": "m1l1-g6",
+          "type": "gap",
+          "prompt": "Ich habe meine Eltern ___. (besuchen)",
+          "answers": ["besucht"],
+          "explanation": "The prefix be- means no ge-: besucht."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 4,
+      "lede": "Put the words in order. Keep the participle at the end.",
+      "exercises": [
+        {
+          "id": "m1l1-o1",
+          "type": "order",
+          "prompt": "Build: “I watched a film yesterday.”",
+          "tokens": ["einen", "gesehen", "Ich", "Film", "habe", "gestern"],
+          "answer": "Ich habe gestern einen Film gesehen.",
+          "explanation": "The auxiliary habe is in position two and the participle gesehen is last."
+        },
+        {
+          "id": "m1l1-o2",
+          "type": "order",
+          "prompt": "Build: “We travelled by train.”",
+          "tokens": ["Zug", "mit", "gefahren", "sind", "Wir", "dem"],
+          "answer": "Wir sind mit dem Zug gefahren.",
+          "explanation": "Movement takes sein, and the participle closes the sentence."
+        },
+        {
+          "id": "m1l1-o3",
+          "type": "order",
+          "prompt": "Build: “What did you do at the weekend?”",
+          "tokens": ["gemacht", "hast", "am", "Was", "Wochenende", "du"],
+          "answer": "Was hast du am Wochenende gemacht?",
+          "explanation": "A W-question starts with the question word, then the auxiliary, then the subject."
+        },
+        {
+          "id": "m1l1-o4",
+          "type": "order",
+          "prompt": "Build: “She stayed at home.”",
+          "tokens": ["geblieben", "Hause", "ist", "Sie", "zu"],
+          "answer": "Sie ist zu Hause geblieben.",
+          "explanation": "bleiben takes sein, and the participle geblieben comes last."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice, then answer without reading the transcript.",
+      "speaker": "Two friends on the phone",
+      "script": [
+        { "speaker": "Ben", "de": "Hallo Lena! Bist du wieder in Berlin?", "en": "Hello Lena! Are you back in Berlin?" },
+        { "speaker": "Lena", "de": "Ja, ich bin gestern Abend zurückgekommen.", "en": "Yes, I came back yesterday evening." },
+        { "speaker": "Ben", "de": "Und wie war es in Wien?", "en": "And how was it in Vienna?" },
+        { "speaker": "Lena", "de": "Sehr schön. Ich habe viel gesehen und viel Kaffee getrunken.", "en": "Very nice. I saw a lot and drank a lot of coffee." },
+        { "speaker": "Ben", "de": "Bist du mit dem Zug gefahren?", "en": "Did you go by train?" },
+        { "speaker": "Lena", "de": "Nein, ich bin geflogen. Das war viel schneller.", "en": "No, I flew. That was much faster." }
+      ],
+      "questions": [
+        {
+          "id": "m1l1-lq1",
+          "type": "mcq",
+          "prompt": "How did Lena travel to Vienna?",
+          "options": ["by train", "by plane", "by car", "by bus"],
+          "answer": 1,
+          "explanation": "She says: Ich bin geflogen — I flew."
+        },
+        {
+          "id": "m1l1-lq2",
+          "type": "mcq",
+          "prompt": "What did Lena do in Vienna?",
+          "options": ["She worked all day.", "She visited her parents.", "She saw a lot and drank coffee.", "She stayed in the hotel."],
+          "answer": 2,
+          "explanation": "She says: Ich habe viel gesehen und viel Kaffee getrunken."
+        },
+        {
+          "id": "m1l1-lq3",
+          "type": "mcq",
+          "prompt": "When did Lena come back?",
+          "options": ["yesterday morning", "yesterday evening", "last week", "this morning"],
+          "answer": 1,
+          "explanation": "She says: Ich bin gestern Abend zurückgekommen."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Tell your own story. Use at least three different participles.",
+      "prompt": "Describe your last weekend in four or five sentences. Use the Perfekt and at least one verb with sein.",
+      "model": {
+        "de": "Am Samstag habe ich lange geschlafen. Danach bin ich mit dem Fahrrad in die Stadt gefahren. Ich habe einen Freund getroffen, und wir haben zusammen zu Mittag gegessen. Am Abend bin ich zu Hause geblieben und habe einen Film gesehen. Am Sonntag habe ich meine Wohnung aufgeräumt.",
+        "en": "On Saturday I slept late. Then I cycled into town. I met a friend, and we had lunch together. In the evening I stayed at home and watched a film. On Sunday I tidied my flat."
+      },
+      "tips": [
+        "Plan the auxiliary before you speak: say ich habe or ich bin, then finish the sentence with the participle.",
+        "Use the sein list deliberately: gehen, fahren, fliegen, kommen, bleiben, passieren.",
+        "Record yourself and listen for the final participle. If it is missing, the sentence sounds unfinished to a German ear."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 3,
+      "lede": "These errors are normal while the bracket is still new.",
+      "items": [
+        {
+          "wrong": "Ich habe nach Berlin gefahren.",
+          "right": "Ich bin nach Berlin gefahren.",
+          "why": "fahren expresses movement from one place to another, so the auxiliary is sein."
+        },
+        {
+          "wrong": "Ich habe gestern zu Hause geblieben.",
+          "right": "Ich bin gestern zu Hause geblieben.",
+          "why": "bleiben belongs to the sein group, even though there is no movement."
+        },
+        {
+          "wrong": "Ich habe das Buch gelest.",
+          "right": "Ich habe das Buch gelesen.",
+          "why": "lesen is irregular: the participle is gelesen, not gelest."
+        },
+        {
+          "wrong": "Ich habe besucht meine Oma.",
+          "right": "Ich habe meine Oma besucht.",
+          "why": "The participle must stay at the end of the sentence, not directly after the auxiliary."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions on the Perfekt. Score 70% or more to pass.",
+      "questions": [
+        {
+          "id": "m1l1-a1",
+          "type": "mcq",
+          "prompt": "Which auxiliary completes the sentence? Wir ___ gestern nach Dresden gefahren.",
+          "options": ["haben", "sind", "waren", "hatten"],
+          "answer": 1,
+          "explanation": "fahren is a verb of movement, so the Perfekt uses sein: Wir sind gefahren."
+        },
+        {
+          "id": "m1l1-a2",
+          "type": "mcq",
+          "prompt": "What is the past participle of essen?",
+          "options": ["geesst", "gegessen", "geessen", "esst"],
+          "answer": 1,
+          "explanation": "essen is irregular: ich habe gegessen."
+        },
+        {
+          "id": "m1l1-a3",
+          "type": "mcq",
+          "prompt": "Which sentence has the correct word order?",
+          "options": ["Ich habe gesehen den Film.", "Ich den Film habe gesehen.", "Ich habe den Film gesehen.", "Ich gesehen habe den Film."],
+          "answer": 2,
+          "explanation": "The auxiliary is in position two and the participle is at the end."
+        },
+        {
+          "id": "m1l1-a4",
+          "type": "mcq",
+          "prompt": "Which verb takes sein in the Perfekt?",
+          "options": ["kaufen", "lesen", "einschlafen", "trinken"],
+          "answer": 2,
+          "explanation": "einschlafen is a change of state, so it takes sein: Ich bin eingeschlafen."
+        },
+        {
+          "id": "m1l1-a5",
+          "type": "gap",
+          "prompt": "Wir ___ gestern im Restaurant gegessen.",
+          "answers": ["haben"],
+          "explanation": "essen has a direct object and takes haben; wir haben is the correct form."
+        },
+        {
+          "id": "m1l1-a6",
+          "type": "gap",
+          "prompt": "Sie ___ letzte Woche nach Italien geflogen.",
+          "answers": ["ist"],
+          "explanation": "fliegen is movement, so the auxiliary is sein: sie ist geflogen."
+        },
+        {
+          "id": "m1l1-a7",
+          "type": "gap",
+          "prompt": "Hast du die Hausaufgaben schon ___? (machen)",
+          "answers": ["gemacht"],
+          "explanation": "machen is regular: ge- + mach + -t = gemacht."
+        },
+        {
+          "id": "m1l1-a8",
+          "type": "gap",
+          "prompt": "Er ist den ganzen Tag zu Hause ___. (bleiben)",
+          "answers": ["geblieben"],
+          "explanation": "bleiben takes sein, and its participle is geblieben."
+        },
+        {
+          "id": "m1l1-a9",
+          "type": "order",
+          "prompt": "Build: “I got up early yesterday.”",
+          "tokens": ["aufgestanden", "gestern", "bin", "Ich", "früh"],
+          "answer": "Ich bin gestern früh aufgestanden.",
+          "explanation": "aufstehen is separable: the participle is aufgestanden, and sein is the auxiliary."
+        },
+        {
+          "id": "m1l1-a10",
+          "type": "order",
+          "prompt": "Build: “What did you do at the weekend?”",
+          "tokens": ["gemacht", "hast", "am", "Was", "Wochenende", "du"],
+          "answer": "Was hast du am Wochenende gemacht?",
+          "explanation": "Question word, auxiliary, subject, then the rest and the participle."
+        },
+        {
+          "id": "m1l1-a11",
+          "type": "order",
+          "prompt": "Build: “We drank a coffee.”",
+          "tokens": ["Kaffee", "haben", "einen", "Wir", "getrunken"],
+          "answer": "Wir haben einen Kaffee getrunken.",
+          "explanation": "trinken takes haben, and the participle getrunken is last."
+        },
+        {
+          "id": "m1l1-a12",
+          "type": "mcq",
+          "prompt": "What is the past participle of telefonieren?",
+          "options": ["getelefoniert", "telefoniert", "telefonieren", "getelefonieren"],
+          "answer": 1,
+          "explanation": "Verbs ending in -ieren take no ge-: telefoniert."
+        }
+      ]
+    }
+  ]
+}

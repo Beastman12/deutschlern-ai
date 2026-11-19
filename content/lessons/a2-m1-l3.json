@@ -1,0 +1,615 @@
+{
+  "id": "a2-m1-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Read the story aloud and listen for the words that hold it together.",
+      "prompt": "Say these sentences aloud. Notice how each connector pushes the verb into second place.",
+      "items": [
+        "Letztes Jahr bin ich nach Hamburg gereist.",
+        "Zuerst haben wir das Hotel gesucht.",
+        "Danach sind wir an die Elbe gegangen.",
+        "Schließlich waren wir sehr müde."
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "A good past story needs an anchor, a sequence and a clear end.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Telling a past experience is more than putting verbs in the past. You need a time anchor such as letztes Jahr or vor zwei Jahren, a sequence of events, and a closing sentence. German speakers signal the sequence with short adverbs: zuerst, dann, danach, anschließend, schließlich."
+        },
+        {
+          "kind": "de",
+          "text": "Letztes Jahr bin ich nach Hamburg gereist. Zuerst habe ich das Hotel gesucht, danach bin ich an die Elbe gegangen.",
+          "en": "Last year I travelled to Hamburg. First I looked for the hotel; after that I went to the Elbe."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Start with when: letzte Woche, letzten Monat, letztes Jahr, vor zwei Jahren.",
+            "Put the events in order with zuerst, dann, danach and schließlich.",
+            "Use the Perfekt for most verbs and the Präteritum for war, hatte and modal verbs.",
+            "End with a reaction or a summary: Es war ein schöner Tag."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "The verb stays in second place",
+          "text": "When a time word or connector starts the sentence, the conjugated verb comes immediately after it: Danach bin ich nach Hause gegangen — never Danach ich bin …"
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "Two toolkits: time anchors and sequence words.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Time expression", "English", "Example"],
+          "rows": [
+            ["gestern", "yesterday", "Gestern war ich im Kino."],
+            ["letzte Woche", "last week", "Letzte Woche hatte ich Urlaub."],
+            ["letzten Monat", "last month", "Letzten Monat habe ich meine Familie besucht."],
+            ["letztes Jahr", "last year", "Letztes Jahr sind wir nach Italien gefahren."],
+            ["vor zwei Jahren", "two years ago", "Vor zwei Jahren habe ich hier angefangen."],
+            ["im Sommer", "in summer", "Im Sommer waren wir oft am See."]
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Connector", "Meaning", "Example"],
+          "rows": [
+            ["zuerst", "first", "Zuerst haben wir gefrühstückt."],
+            ["dann", "then", "Dann sind wir losgefahren."],
+            ["danach", "after that", "Danach haben wir das Museum besucht."],
+            ["anschließend", "afterwards", "Anschließend sind wir essen gegangen."],
+            ["schließlich", "finally / in the end", "Schließlich waren wir zu müde."],
+            ["zum Schluss", "at the end", "Zum Schluss haben wir bezahlt."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "letzte Woche (feminine), letzten Monat (masculine), letztes Jahr (neuter): the ending follows the noun's gender in the accusative.",
+            "vor + time expression means “ago”: vor drei Tagen, vor einer Woche, vor zwei Jahren.",
+            "dann and danach are close in meaning; danach stresses that the next event comes after the previous one.",
+            "schließlich often suggests a result after some effort or waiting, not just the next step."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "als or wenn?",
+          "text": "Use als for one event or period in the past: Als ich in Rom war, habe ich viel gesehen. Use wenn for something that happened repeatedly: Immer wenn ich in Rom war, habe ich viel gesehen."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These six expressions turn single sentences into a story.",
+      "items": [
+        {
+          "de": "letztes Jahr",
+          "en": "last year",
+          "pronunciation": "LETS-tes yahr",
+          "example": "Letztes Jahr bin ich nach Hamburg gereist.",
+          "exampleEn": "Last year I travelled to Hamburg."
+        },
+        {
+          "de": "zuerst",
+          "en": "first / at first",
+          "pronunciation": "tsu-ERST",
+          "example": "Zuerst haben wir das Hotel gesucht.",
+          "exampleEn": "First we looked for the hotel."
+        },
+        {
+          "de": "danach",
+          "en": "after that",
+          "pronunciation": "da-NAHKH",
+          "example": "Danach sind wir an die Elbe gegangen.",
+          "exampleEn": "After that we went to the Elbe."
+        },
+        {
+          "de": "schließlich",
+          "en": "finally / in the end",
+          "pronunciation": "SHLEES-likh",
+          "example": "Schließlich waren wir alle sehr müde.",
+          "exampleEn": "In the end we were all very tired."
+        },
+        {
+          "de": "die Reise",
+          "en": "the journey / trip",
+          "article": "die",
+          "plural": "die Reisen",
+          "pronunciation": "RY-ze",
+          "example": "Die Reise nach Hamburg war sehr schön.",
+          "exampleEn": "The trip to Hamburg was very nice."
+        },
+        {
+          "de": "das Erlebnis",
+          "en": "the experience (a particular event)",
+          "article": "das",
+          "plural": "die Erlebnisse",
+          "pronunciation": "air-LEB-nis",
+          "example": "Das war ein unvergessliches Erlebnis.",
+          "exampleEn": "That was an unforgettable experience."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "This is one short story in five sentences.",
+      "items": [
+        {
+          "de": "Letztes Jahr bin ich mit meiner Schwester nach Hamburg gereist.",
+          "en": "Last year I travelled to Hamburg with my sister.",
+          "note": "The time expression is first, so the verb bin comes second."
+        },
+        {
+          "de": "Zuerst haben wir das Hotel gesucht, dann sind wir an die Elbe gegangen.",
+          "en": "First we looked for the hotel, then we went to the Elbe.",
+          "note": "Zuerst and dann mark the two steps of the afternoon."
+        },
+        {
+          "de": "Danach haben wir Fisch gegessen und sind durch die Altstadt gelaufen.",
+          "en": "After that we ate fish and walked through the old town.",
+          "note": "essen takes haben, laufen takes sein."
+        },
+        {
+          "de": "Am Abend waren wir sehr müde, aber glücklich.",
+          "en": "In the evening we were very tired but happy.",
+          "note": "Use war/waren for states, not the Perfekt."
+        },
+        {
+          "de": "Zum Schluss haben wir am Sonntag die Rückfahrt gebucht.",
+          "en": "Finally, on Sunday we booked the return journey.",
+          "note": "Zum Schluss closes the sequence."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "The connectors are short but carry the rhythm of the story.",
+      "items": [
+        {
+          "de": "letztes",
+          "hint": "Say “ts” in the middle, not an English z: LETS-tes.",
+          "en": "last"
+        },
+        {
+          "de": "zuerst",
+          "hint": "Start with a crisp ts and stress the second syllable: tsu-ERST.",
+          "en": "first"
+        },
+        {
+          "de": "danach",
+          "hint": "The final ch is the rougher sound after a: da-NAHKH, like the ch in Bach.",
+          "en": "after that"
+        },
+        {
+          "de": "schließlich",
+          "hint": "Begin with “sh” and end softly: SHLEES-likh.",
+          "en": "finally"
+        },
+        {
+          "de": "Erlebnis",
+          "hint": "Long e in the middle and stress on the second syllable: air-LEB-nis.",
+          "en": "experience"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Erlebnis and Erfahrung",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German distinguishes two kinds of experience. An Erlebnis is a single event you go through, often something memorable: Ein Konzert war ein tolles Erlebnis. Erfahrung is knowledge or skill built up over time: Sie hat viel Erfahrung im Job."
+        },
+        {
+          "kind": "p",
+          "text": "This is why a CV lists Erfahrung, not Erlebnisse. When you tell a story about a trip, you are describing an Erlebnis; when you summarise what years of work taught you, you are talking about Erfahrung."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "Jonas tells Mia about a rainy trip to the Baltic Sea.",
+      "setting": "Coffee after work",
+      "lines": [
+        { "speaker": "Mia", "de": "Du warst doch letzte Woche an der Ostsee, oder?", "en": "You were at the Baltic Sea last week, weren't you?" },
+        { "speaker": "Jonas", "de": "Ja, ich bin mit zwei Freunden für vier Tage nach Rügen gefahren.", "en": "Yes, I went to Rügen with two friends for four days." },
+        { "speaker": "Mia", "de": "Und wie war das Wetter?", "en": "And how was the weather?" },
+        { "speaker": "Jonas", "de": "Am ersten Tag hat es geregnet. Zuerst waren wir enttäuscht, aber dann sind wir trotzdem an den Strand gegangen.", "en": "It rained on the first day. At first we were disappointed, but then we went to the beach anyway." },
+        { "speaker": "Mia", "de": "Was habt ihr danach gemacht?", "en": "What did you do after that?" },
+        { "speaker": "Jonas", "de": "Danach haben wir in einem kleinen Restaurant gegessen. Am letzten Tag war die Sonne endlich da.", "en": "After that we ate in a small restaurant. On the last day the sun was finally there." },
+        { "speaker": "Mia", "de": "Und wann seid ihr zurückgekommen?", "en": "And when did you come back?" },
+        { "speaker": "Jonas", "de": "Erst am Sonntagabend. Schließlich waren wir alle sehr müde, aber glücklich.", "en": "Not until Sunday evening. In the end we were all very tired but happy." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Time first, verb second",
+      "lede": "Fronting a time expression does not change the verb's position.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Neutral order", "Fronted time phrase", "English"],
+          "rows": [
+            ["Ich bin letztes Jahr nach Hamburg gereist.", "Letztes Jahr bin ich nach Hamburg gereist.", "Last year I travelled to Hamburg."],
+            ["Wir haben zuerst das Hotel gesucht.", "Zuerst haben wir das Hotel gesucht.", "First we looked for the hotel."],
+            ["Ich war danach sehr müde.", "Danach war ich sehr müde.", "After that I was very tired."],
+            ["Wir sind schließlich nach Hause gegangen.", "Schließlich sind wir nach Hause gegangen.", "In the end we went home."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Position one can hold only one element: a time phrase, a connector, or the subject.",
+            "The conjugated verb always takes position two in a main clause.",
+            "The past participle stays at the end: Danach haben wir gegessen.",
+            "After a fronted als-clause, the main clause also starts with its verb: Als ich klein war, wohnte ich in München."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Commas matter",
+          "text": "A subordinate clause with als or wenn takes a comma before the main clause. The comma is obligatory in German, even when the clause is short."
+        }
+      ],
+      "tip": "Build your story backwards: choose the ending first, then place zuerst, danach and schließlich in front of the events. Each connector gives you a ready-made sentence opening."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Choose the correct time expression, connector or word order.",
+      "exercises": [
+        {
+          "id": "m1l3-p1",
+          "type": "mcq",
+          "prompt": "Complete: ___ Jahr bin ich nach Spanien gereist.",
+          "options": ["Letzte", "Letztes", "Letzten", "Letzter"],
+          "answer": 1,
+          "explanation": "das Jahr is neuter, so the accusative time expression is letztes Jahr."
+        },
+        {
+          "id": "m1l3-p2",
+          "type": "mcq",
+          "prompt": "Complete: ___ Woche war ich krank.",
+          "options": ["Letzte", "Letztes", "Letzten", "Letzter"],
+          "answer": 0,
+          "explanation": "die Woche is feminine: letzte Woche."
+        },
+        {
+          "id": "m1l3-p3",
+          "type": "mcq",
+          "prompt": "Complete: Danach ___ ich nach Hause gegangen.",
+          "options": ["habe", "bin", "war", "hatte"],
+          "answer": 1,
+          "explanation": "gehen is movement and takes sein: Danach bin ich … gegangen."
+        },
+        {
+          "id": "m1l3-p4",
+          "type": "mcq",
+          "prompt": "Which word best means “in the end, after some effort”?",
+          "options": ["zuerst", "danach", "schließlich", "gestern"],
+          "answer": 2,
+          "explanation": "schließlich closes a sequence and often suggests a result after waiting or effort."
+        },
+        {
+          "id": "m1l3-p5",
+          "type": "mcq",
+          "prompt": "Complete: ___ ich klein war, wohnten wir in München.",
+          "options": ["Als", "Wenn", "Wann", "Dann"],
+          "answer": 0,
+          "explanation": "Use als for a single period in the past. wenn is for repeated events."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing time word or connector.",
+      "exercises": [
+        {
+          "id": "m1l3-g1",
+          "type": "gap",
+          "prompt": "___ Jahr bin ich nach Hamburg gereist.",
+          "answers": ["Letztes"],
+          "explanation": "das Jahr → letztes Jahr."
+        },
+        {
+          "id": "m1l3-g2",
+          "type": "gap",
+          "prompt": "___ Woche hatten wir viel Stress.",
+          "answers": ["Letzte"],
+          "explanation": "die Woche → letzte Woche."
+        },
+        {
+          "id": "m1l3-g3",
+          "type": "gap",
+          "prompt": "Zuerst haben wir gefrühstückt, ___ sind wir losgefahren.",
+          "answers": ["dann", "danach"],
+          "explanation": "Both dann and danach mark the next step; the verb follows immediately."
+        },
+        {
+          "id": "m1l3-g4",
+          "type": "gap",
+          "prompt": "___ waren wir alle sehr müde.",
+          "answers": ["Schließlich", "Schliesslich"],
+          "explanation": "schließlich = finally, in the end. It starts the sentence, so it takes a capital letter."
+        },
+        {
+          "id": "m1l3-g5",
+          "type": "gap",
+          "prompt": "___ ich in Berlin war, habe ich viele Museen besucht.",
+          "answers": ["Als"],
+          "explanation": "A single past period takes als, and the verb of the main clause follows the comma."
+        },
+        {
+          "id": "m1l3-g6",
+          "type": "gap",
+          "prompt": "Wir sind ___ zwei Jahren nach Italien gefahren.",
+          "answers": ["vor"],
+          "explanation": "vor + time expression means “ago”: vor zwei Jahren."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 4,
+      "lede": "Put the story in order. Watch the verb after the first element.",
+      "exercises": [
+        {
+          "id": "m1l3-o1",
+          "type": "order",
+          "prompt": "Build: “Last year I travelled to Hamburg.”",
+          "tokens": ["nach", "bin", "Jahr", "Ich", "Hamburg", "Letztes", "gereist"],
+          "answer": "Letztes Jahr bin ich nach Hamburg gereist.",
+          "explanation": "The time phrase is first, so the verb bin is in position two."
+        },
+        {
+          "id": "m1l3-o2",
+          "type": "order",
+          "prompt": "Build: “First we looked for the hotel.”",
+          "tokens": ["das", "haben", "Hotel", "Zuerst", "gesucht", "wir"],
+          "answer": "Zuerst haben wir das Hotel gesucht.",
+          "explanation": "Zuerst occupies position one; the auxiliary follows in position two and the participle is last."
+        },
+        {
+          "id": "m1l3-o3",
+          "type": "order",
+          "prompt": "Build: “After that we went to the beach.”",
+          "tokens": ["an", "Danach", "Strand", "sind", "den", "gegangen", "wir"],
+          "answer": "Danach sind wir an den Strand gegangen.",
+          "explanation": "The connector is first, the verb second; an den Strand is a direction, so it takes the accusative."
+        },
+        {
+          "id": "m1l3-o4",
+          "type": "order",
+          "prompt": "Build: “In the end we were all very tired.”",
+          "tokens": ["alle", "müde", "Schließlich", "waren", "sehr", "wir"],
+          "answer": "Schließlich waren wir alle sehr müde.",
+          "explanation": "After the fronted connector, waren comes directly in position two."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice, then answer from memory.",
+      "speaker": "Two friends talking about a holiday",
+      "script": [
+        { "speaker": "Clara", "de": "Erzähl mal, wie war dein Urlaub in Italien?", "en": "Tell me, how was your holiday in Italy?" },
+        { "speaker": "Paul", "de": "Super. Zuerst waren wir drei Tage in Rom.", "en": "Great. First we were in Rome for three days." },
+        { "speaker": "Clara", "de": "Und dann?", "en": "And then?" },
+        { "speaker": "Paul", "de": "Danach sind wir mit dem Zug nach Florenz gefahren. Dort haben wir viel gesehen.", "en": "After that we went to Florence by train. We saw a lot there." },
+        { "speaker": "Clara", "de": "Hat es viel geregnet?", "en": "Did it rain a lot?" },
+        { "speaker": "Paul", "de": "Nur am ersten Tag. Schließlich hatten wir jeden Tag Sonne.", "en": "Only on the first day. In the end we had sun every day." }
+      ],
+      "questions": [
+        {
+          "id": "m1l3-lq1",
+          "type": "mcq",
+          "prompt": "How long were Clara and Paul in Rome?",
+          "options": ["one day", "two days", "three days", "a week"],
+          "answer": 2,
+          "explanation": "Paul says: Zuerst waren wir drei Tage in Rom."
+        },
+        {
+          "id": "m1l3-lq2",
+          "type": "mcq",
+          "prompt": "How did they travel to Florence?",
+          "options": ["by car", "by train", "by plane", "by bus"],
+          "answer": 1,
+          "explanation": "He says: Danach sind wir mit dem Zug nach Florenz gefahren."
+        },
+        {
+          "id": "m1l3-lq3",
+          "type": "mcq",
+          "prompt": "What was the weather like at the end of the trip?",
+          "options": ["It rained every day.", "It was cold.", "It snowed.", "It was sunny every day."],
+          "answer": 3,
+          "explanation": "Paul says: Schließlich hatten wir jeden Tag Sonne."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Tell a short anecdote with a beginning, a middle and an end.",
+      "prompt": "Tell a short travel story in five sentences. Use two time expressions and at least three sequencing words.",
+      "model": {
+        "de": "Letztes Jahr bin ich für eine Woche nach Wien gefahren. Zuerst habe ich mir das Zentrum angesehen. Danach bin ich in ein kleines Café gegangen und habe Kuchen gegessen. Am Abend habe ich einen Freund getroffen. Schließlich bin ich sehr müde ins Hotel zurückgegangen, aber es war ein toller Tag.",
+        "en": "Last year I went to Vienna for a week. First I looked at the city centre. After that I went into a small café and ate cake. In the evening I met a friend. In the end I went back to the hotel very tired, but it was a great day."
+      },
+      "tips": [
+        "Say the time anchor before anything else, then put the verb immediately after it.",
+        "Use an die, in die or auf die for movement, and remember that these phrases come before the participle.",
+        "Do not use danach twice in a row. Vary with dann, anschließend and schließlich so the story keeps moving."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 3,
+      "lede": "Storytelling errors are usually word-order errors.",
+      "items": [
+        {
+          "wrong": "Letzte Jahr bin ich nach Berlin gefahren.",
+          "right": "Letztes Jahr bin ich nach Berlin gefahren.",
+          "why": "das Jahr is neuter, so the ending is -es: letztes Jahr."
+        },
+        {
+          "wrong": "Danach ich bin nach Hause gegangen.",
+          "right": "Danach bin ich nach Hause gegangen.",
+          "why": "After a fronted connector the verb must stay in position two."
+        },
+        {
+          "wrong": "Als ich klein war, ich wohnte in München.",
+          "right": "Als ich klein war, wohnte ich in München.",
+          "why": "The als-clause fills position one, so the main clause begins with its verb."
+        },
+        {
+          "wrong": "Vor zwei Jahren ich habe hier angefangen.",
+          "right": "Vor zwei Jahren habe ich hier angefangen.",
+          "why": "A fronted time phrase also triggers verb-second order."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Ten questions on time expressions, sequencing and word order. Score 70% or more to pass.",
+      "questions": [
+        {
+          "id": "m1l3-a1",
+          "type": "mcq",
+          "prompt": "Complete: Letztes Jahr ___ ich nach Wien gereist.",
+          "options": ["habe", "bin", "war", "hatte"],
+          "answer": 1,
+          "explanation": "reisen is movement, so the Perfekt uses sein: bin … gereist."
+        },
+        {
+          "id": "m1l3-a2",
+          "type": "mcq",
+          "prompt": "Complete: ___ Monat habe ich meine Familie besucht.",
+          "options": ["Letzte", "Letztes", "Letzten", "Letzter"],
+          "answer": 2,
+          "explanation": "der Monat is masculine: letzten Monat."
+        },
+        {
+          "id": "m1l3-a3",
+          "type": "mcq",
+          "prompt": "Which sentence has the correct word order?",
+          "options": ["Danach ich bin nach Hause gegangen.", "Danach bin ich nach Hause gegangen.", "Danach nach Hause ich bin gegangen.", "Ich danach bin nach Hause gegangen."],
+          "answer": 1,
+          "explanation": "The connector is in position one, so the auxiliary bin follows in position two."
+        },
+        {
+          "id": "m1l3-a4",
+          "type": "mcq",
+          "prompt": "Which word means “at first / first”?",
+          "options": ["schließlich", "danach", "zuerst", "damals"],
+          "answer": 2,
+          "explanation": "zuerst opens a sequence; schließlich closes it."
+        },
+        {
+          "id": "m1l3-a5",
+          "type": "gap",
+          "prompt": "___ Woche war ich krank.",
+          "answers": ["Letzte"],
+          "explanation": "die Woche is feminine: letzte Woche."
+        },
+        {
+          "id": "m1l3-a6",
+          "type": "gap",
+          "prompt": "Zuerst haben wir gepackt, ___ sind wir gefahren.",
+          "answers": ["dann", "danach"],
+          "explanation": "dann or danach continues the sequence; the verb follows directly."
+        },
+        {
+          "id": "m1l3-a7",
+          "type": "gap",
+          "prompt": "___ ich in Rom war, habe ich viel gesehen.",
+          "answers": ["Als"],
+          "explanation": "A single past period takes als, not wenn."
+        },
+        {
+          "id": "m1l3-a8",
+          "type": "order",
+          "prompt": "Build: “Last year I travelled to Hamburg.”",
+          "tokens": ["nach", "bin", "Jahr", "Ich", "Hamburg", "Letztes", "gereist"],
+          "answer": "Letztes Jahr bin ich nach Hamburg gereist.",
+          "explanation": "Time phrase first, verb second, participle last."
+        },
+        {
+          "id": "m1l3-a9",
+          "type": "order",
+          "prompt": "Build: “After that we went to the beach.”",
+          "tokens": ["an", "Danach", "Strand", "sind", "den", "gegangen", "wir"],
+          "answer": "Danach sind wir an den Strand gegangen.",
+          "explanation": "Danach is position one, sind is position two, and the participle closes the sentence."
+        },
+        {
+          "id": "m1l3-a10",
+          "type": "order",
+          "prompt": "Build: “In the end we were very tired.”",
+          "tokens": ["müde", "Schließlich", "waren", "sehr", "wir"],
+          "answer": "Schließlich waren wir sehr müde.",
+          "explanation": "The fronted connector is followed immediately by the past verb waren."
+        }
+      ]
+    }
+  ]
+}

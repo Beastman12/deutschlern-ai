@@ -1,0 +1,675 @@
+{
+  "id": "b1-m4-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "b1-m4-l3-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "b1-m4-l3",
+      "prompt": "Something you ordered arrived damaged. What is the first thing you say on the phone?",
+      "items": [
+        "Ich habe ein Problem mit meiner Bestellung.",
+        "die Beschwerde",
+        "die Lösung",
+        "defekt"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "b1-m4-l3-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "b1-m4-l3",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "b1-m4-l3-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "b1-m4-l3",
+      "lede": "Complaining well means describing the problem precisely, staying polite and proposing a solution.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Start with the facts: what you ordered, when it arrived and what is wrong. “Ich habe am Montag eine Jacke bestellt, aber sie ist beschädigt angekommen” is clearer than a long complaint."
+        },
+        {
+          "kind": "p",
+          "text": "Then state what you want: a replacement (“Ersatz”), a refund (“Erstattung”) or a repair (“Reparatur”). A calm, specific request gets a faster answer than an emotional one. Close by confirming the next step and the timeline."
+        },
+        {
+          "kind": "note",
+          "title": "Problem, request, next step",
+          "text": "Use this three-part structure in every complaint. It keeps you polite and makes it easy for the other person to help."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l3-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "b1-m4-l3",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "problem",
+              "Meine Bestellung ist beschädigt angekommen."
+            ],
+            [
+              "request",
+              "Ich möchte bitte einen Ersatz."
+            ],
+            [
+              "refund",
+              "Könnten Sie mir den Betrag erstatten?"
+            ],
+            [
+              "next step",
+              "Wann kann ich mit einer Antwort rechnen?"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "“Defekt” means faulty or broken; “beschädigt” means damaged.",
+            "Use “leider” to soften a complaint: Leider ist das Gerät defekt.",
+            "Confirm the solution in writing when you can."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l3-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "b1-m4-l3",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "die Beschwerde",
+          "en": "complaint",
+          "article": "die",
+          "plural": "die Beschwerden",
+          "example": "Ich möchte eine Beschwerde einreichen.",
+          "exampleEn": "I would like to file a complaint."
+        },
+        {
+          "de": "die Lösung",
+          "en": "solution",
+          "article": "die",
+          "plural": "die Lösungen",
+          "example": "Wir suchen eine Lösung für das Problem.",
+          "exampleEn": "We are looking for a solution to the problem."
+        },
+        {
+          "de": "defekt",
+          "en": "faulty, broken",
+          "example": "Das Gerät ist leider defekt.",
+          "exampleEn": "Unfortunately the device is faulty."
+        },
+        {
+          "de": "erstatten",
+          "en": "to refund",
+          "example": "Könnten Sie mir den Betrag erstatten?",
+          "exampleEn": "Could you refund the amount to me?"
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l3-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "b1-m4-l3",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Ich habe ein Problem mit meiner Bestellung.",
+          "en": "I have a problem with my order.",
+          "note": "A neutral, clear opening."
+        },
+        {
+          "de": "Die Jacke ist beschädigt angekommen.",
+          "en": "The jacket arrived damaged.",
+          "note": "Beschädigt is more precise than schlecht."
+        },
+        {
+          "de": "Könnten Sie mir bitte einen Ersatz schicken?",
+          "en": "Could you please send me a replacement?",
+          "note": "A specific request is easier to answer."
+        },
+        {
+          "de": "Wann kann ich mit einer Antwort rechnen?",
+          "en": "When can I expect an answer?",
+          "note": "This confirms the next step without sounding aggressive."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l3-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "b1-m4-l3",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Beschwerde",
+          "hint": "Stress the second syllable: be-SHVER-de."
+        },
+        {
+          "de": "defekt",
+          "hint": "Stress the second syllable: de-FEKT."
+        },
+        {
+          "de": "erstatten",
+          "hint": "Stress the second syllable: er-SHTA-ten."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l3-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "b1-m4-l3",
+      "heading": "Complaining in Germany",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German customer service responds well to clear facts and a written record. Keep receipts, order numbers and photos; these speed up the process more than a long explanation."
+        },
+        {
+          "kind": "p",
+          "text": "A formal complaint (“schriftliche Beschwerde”) is common and expected. It should state the facts, the requested solution and a deadline for the reply."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l3-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "b1-m4-l3",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A customer calls an online shop about a damaged delivery.",
+      "lines": [
+        {
+          "speaker": "Kundin",
+          "de": "Guten Tag, ich habe ein Problem mit meiner Bestellung.",
+          "en": "Hello, I have a problem with my order."
+        },
+        {
+          "speaker": "Service",
+          "de": "Was ist passiert?",
+          "en": "What happened?"
+        },
+        {
+          "speaker": "Kundin",
+          "de": "Die Jacke ist beschädigt angekommen. Ich möchte bitte einen Ersatz.",
+          "en": "The jacket arrived damaged. I would like a replacement, please."
+        },
+        {
+          "speaker": "Service",
+          "de": "Das tut mir leid. Wir schicken Ihnen einen Ersatz. Er kommt in zwei Tagen.",
+          "en": "I am sorry. We will send you a replacement. It will arrive in two days."
+        },
+        {
+          "speaker": "Kundin",
+          "de": "Vielen Dank. Könnten Sie mir das bitte per E-Mail bestätigen?",
+          "en": "Thank you. Could you please confirm that by email?"
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l3-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "b1-m4-l3",
+      "heading": "Complaint language",
+      "lede": "State the problem, request a solution, confirm the next step.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Ich habe ein Problem mit …",
+              "opening"
+            ],
+            [
+              "… ist beschädigt angekommen.",
+              "describing damage"
+            ],
+            [
+              "Ich möchte bitte einen Ersatz.",
+              "requesting a replacement"
+            ],
+            [
+              "Könnten Sie mir das bestätigen?",
+              "confirming in writing"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Use the dative for the person receiving the refund: Könnten Sie mir den Betrag erstatten? Mir is the person, den Betrag is the thing."
+        }
+      ],
+      "tip": "Stay factual. “Die Jacke ist beschädigt” is stronger than “Die Jacke ist schlecht”, because it describes exactly what is wrong."
+    },
+    {
+      "id": "b1-m4-l3-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "b1-m4-l3",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "b1-m4-l3-p-m1",
+          "type": "mcq",
+          "prompt": "Which sentence opens a complaint politely?",
+          "options": [
+            "Alles ist schlecht!",
+            "Ich habe ein Problem mit meiner Bestellung.",
+            "Sie sind unmöglich.",
+            "Ich will mein Geld!"
+          ],
+          "answer": 1,
+          "explanation": "This is neutral, clear and leaves room for a solution."
+        },
+        {
+          "id": "b1-m4-l3-p-m2",
+          "type": "mcq",
+          "prompt": "Das Gerät ist ___.",
+          "options": [
+            "defekt",
+            "defekte",
+            "defekten",
+            "Defekt"
+          ],
+          "answer": 0,
+          "explanation": "After sein, the adjective has no ending: ist defekt."
+        },
+        {
+          "id": "b1-m4-l3-p-m3",
+          "type": "mcq",
+          "prompt": "Könnten Sie mir den Betrag ___?",
+          "options": [
+            "erstatten",
+            "erstattet",
+            "erstatte",
+            "Erstattung"
+          ],
+          "answer": 0,
+          "explanation": "After the modal, use the infinitive erstatten."
+        },
+        {
+          "id": "b1-m4-l3-p-m4",
+          "type": "mcq",
+          "prompt": "Which phrase asks about the next step?",
+          "options": [
+            "Wann kann ich mit einer Antwort rechnen?",
+            "Wie alt sind Sie?",
+            "Was kostet das?",
+            "Wo wohnen Sie?"
+          ],
+          "answer": 0,
+          "explanation": "This asks when you can expect a reply."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l3-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "b1-m4-l3",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "b1-m4-l3-p-g1",
+          "type": "gap",
+          "prompt": "Ich habe ein Problem ___ meiner Bestellung.",
+          "answers": [
+            "mit"
+          ],
+          "explanation": "The phrase is ein Problem mit etwas haben."
+        },
+        {
+          "id": "b1-m4-l3-p-g2",
+          "type": "gap",
+          "prompt": "Die Jacke ist beschädigt ___.",
+          "answers": [
+            "angekommen"
+          ],
+          "explanation": "Angekommen is the past participle of ankommen."
+        },
+        {
+          "id": "b1-m4-l3-p-g3",
+          "type": "gap",
+          "prompt": "Könnten Sie mir bitte einen ___ schicken?",
+          "answers": [
+            "Ersatz"
+          ],
+          "explanation": "Ersatz means replacement."
+        },
+        {
+          "id": "b1-m4-l3-p-g4",
+          "type": "gap",
+          "prompt": "Das Gerät ist ___.",
+          "answers": [
+            "defekt"
+          ],
+          "explanation": "Defekt means faulty or broken."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l3-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "b1-m4-l3",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "b1-m4-l3-p-o1",
+          "type": "order",
+          "prompt": "Build: “I have a problem with my order.”",
+          "tokens": [
+            "meiner",
+            "Ich",
+            "ein",
+            "habe",
+            "Problem",
+            "mit",
+            "Bestellung."
+          ],
+          "answer": "Ich habe ein Problem mit meiner Bestellung.",
+          "explanation": "Mit takes the dative: mit meiner Bestellung."
+        },
+        {
+          "id": "b1-m4-l3-p-o2",
+          "type": "order",
+          "prompt": "Build: “The jacket arrived damaged.”",
+          "tokens": [
+            "beschädigt",
+            "Die",
+            "angekommen.",
+            "Jacke",
+            "ist"
+          ],
+          "answer": "Die Jacke ist beschädigt angekommen.",
+          "explanation": "The participle ankommen closes the sentence."
+        },
+        {
+          "id": "b1-m4-l3-p-o3",
+          "type": "order",
+          "prompt": "Build: “Could you please send me a replacement?”",
+          "tokens": [
+            "mir",
+            "Könnten",
+            "bitte",
+            "einen",
+            "Sie",
+            "Ersatz",
+            "schicken?"
+          ],
+          "answer": "Könnten Sie mir bitte einen Ersatz schicken?",
+          "explanation": "The modal opens the question and the infinitive closes it."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l3-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "b1-m4-l3",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Im Kundenservice",
+      "script": [
+        {
+          "speaker": "Kunde",
+          "de": "Guten Tag, meine Lieferung ist beschädigt angekommen.",
+          "en": "Hello, my delivery arrived damaged."
+        },
+        {
+          "speaker": "Service",
+          "de": "Das tut mir leid. Haben Sie die Bestellnummer?",
+          "en": "I am sorry. Do you have the order number?"
+        },
+        {
+          "speaker": "Kunde",
+          "de": "Ja, die Nummer ist 4821. Ich möchte bitte einen Ersatz.",
+          "en": "Yes, the number is 4821. I would like a replacement, please."
+        },
+        {
+          "speaker": "Service",
+          "de": "Wir schicken Ihnen einen Ersatz. Er kommt in drei Tagen.",
+          "en": "We will send you a replacement. It will arrive in three days."
+        }
+      ],
+      "questions": [
+        {
+          "id": "b1-m4-l3-l1",
+          "type": "mcq",
+          "prompt": "What is the problem?",
+          "options": [
+            "The order is late",
+            "The delivery is damaged",
+            "The price is wrong",
+            "The address is wrong"
+          ],
+          "answer": 1,
+          "explanation": "The customer says the delivery arrived damaged."
+        },
+        {
+          "id": "b1-m4-l3-l2",
+          "type": "mcq",
+          "prompt": "What solution is offered?",
+          "options": [
+            "A refund",
+            "A replacement",
+            "A repair",
+            "A discount"
+          ],
+          "answer": 1,
+          "explanation": "The service offers to send a replacement."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l3-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "b1-m4-l3",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Describe a problem with an order, request a solution and ask when you will hear back.",
+      "model": {
+        "de": "Ich habe ein Problem mit meiner Bestellung. Das Gerät ist defekt angekommen. Könnten Sie mir bitte einen Ersatz schicken? Wann kann ich mit einer Antwort rechnen?",
+        "en": "I have a problem with my order. The device arrived faulty. Could you please send me a replacement? When can I expect an answer?"
+      },
+      "tips": [
+        "Give the order number and the exact problem.",
+        "Ask for one clear solution.",
+        "End with a question about the timeline."
+      ]
+    },
+    {
+      "id": "b1-m4-l3-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "b1-m4-l3",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Ich habe ein Problem mit meine Bestellung.",
+          "right": "Ich habe ein Problem mit meiner Bestellung.",
+          "why": "Mit takes the dative, so meine becomes meiner."
+        },
+        {
+          "wrong": "Die Jacke ist beschädigt ankommen.",
+          "right": "Die Jacke ist beschädigt angekommen.",
+          "why": "The perfect tense needs the past participle angekommen."
+        },
+        {
+          "wrong": "Ich will mein Geld zurück jetzt!",
+          "right": "Könnten Sie mir den Betrag bitte erstatten?",
+          "why": "A polite request is more effective than a demand."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l3-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "b1-m4-l3",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "b1-m4-l3-a1",
+          "type": "mcq",
+          "prompt": "Which sentence opens a complaint politely?",
+          "options": [
+            "Alles ist schlecht!",
+            "Ich habe ein Problem mit meiner Bestellung.",
+            "Sie sind unmöglich.",
+            "Ich will mein Geld!"
+          ],
+          "answer": 1,
+          "explanation": "This is neutral, clear and leaves room for a solution."
+        },
+        {
+          "id": "b1-m4-l3-a2",
+          "type": "mcq",
+          "prompt": "Das Gerät ist ___.",
+          "options": [
+            "defekt",
+            "defekte",
+            "defekten",
+            "Defekt"
+          ],
+          "answer": 0,
+          "explanation": "After sein, the adjective has no ending: ist defekt."
+        },
+        {
+          "id": "b1-m4-l3-a3",
+          "type": "mcq",
+          "prompt": "Könnten Sie mir den Betrag ___?",
+          "options": [
+            "erstatten",
+            "erstattet",
+            "erstatte",
+            "Erstattung"
+          ],
+          "answer": 0,
+          "explanation": "After the modal, use the infinitive erstatten."
+        },
+        {
+          "id": "b1-m4-l3-a4",
+          "type": "mcq",
+          "prompt": "Which phrase asks about the next step?",
+          "options": [
+            "Wann kann ich mit einer Antwort rechnen?",
+            "Wie alt sind Sie?",
+            "Was kostet das?",
+            "Wo wohnen Sie?"
+          ],
+          "answer": 0,
+          "explanation": "This asks when you can expect a reply."
+        },
+        {
+          "id": "b1-m4-l3-a5",
+          "type": "gap",
+          "prompt": "Ich habe ein Problem ___ meiner Bestellung.",
+          "answers": [
+            "mit"
+          ],
+          "explanation": "The phrase is ein Problem mit etwas haben."
+        },
+        {
+          "id": "b1-m4-l3-a6",
+          "type": "gap",
+          "prompt": "Die Jacke ist beschädigt ___.",
+          "answers": [
+            "angekommen"
+          ],
+          "explanation": "Angekommen is the past participle of ankommen."
+        },
+        {
+          "id": "b1-m4-l3-a7",
+          "type": "gap",
+          "prompt": "Könnten Sie mir bitte einen ___ schicken?",
+          "answers": [
+            "Ersatz"
+          ],
+          "explanation": "Ersatz means replacement."
+        },
+        {
+          "id": "b1-m4-l3-a8",
+          "type": "gap",
+          "prompt": "Das Gerät ist ___.",
+          "answers": [
+            "defekt"
+          ],
+          "explanation": "Defekt means faulty or broken."
+        },
+        {
+          "id": "b1-m4-l3-a9",
+          "type": "order",
+          "prompt": "Build: “I have a problem with my order.”",
+          "tokens": [
+            "meiner",
+            "Ich",
+            "ein",
+            "habe",
+            "Problem",
+            "mit",
+            "Bestellung."
+          ],
+          "answer": "Ich habe ein Problem mit meiner Bestellung.",
+          "explanation": "Mit takes the dative: mit meiner Bestellung."
+        },
+        {
+          "id": "b1-m4-l3-a10",
+          "type": "order",
+          "prompt": "Build: “The jacket arrived damaged.”",
+          "tokens": [
+            "beschädigt",
+            "Die",
+            "angekommen.",
+            "Jacke",
+            "ist"
+          ],
+          "answer": "Die Jacke ist beschädigt angekommen.",
+          "explanation": "The participle ankommen closes the sentence."
+        }
+      ]
+    }
+  ]
+}

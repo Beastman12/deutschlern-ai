@@ -1,0 +1,706 @@
+{
+  "id": "b1-m3-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "b1-m3-l3-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "b1-m3-l3",
+      "prompt": "Say one thing that is done in your town every year, without saying who does it.",
+      "items": [
+        "Die Rechnung wird morgen bezahlt.",
+        "werden",
+        "bezahlt",
+        "gebaut"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "b1-m3-l3-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "b1-m3-l3",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "b1-m3-l3-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "b1-m3-l3",
+      "lede": "The passive moves the focus from the person acting to the action itself.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "The passive is formed with werden plus the past participle: Die Rechnung wird morgen bezahlt. The thing that is affected becomes the subject, and the person doing it can be left out or added with von."
+        },
+        {
+          "kind": "p",
+          "text": "Use the passive when the action matters more than the actor, when the actor is unknown, or when you want to sound neutral and factual. In the past tense, werden becomes wurde: Die Rechnung wurde gestern bezahlt."
+        },
+        {
+          "kind": "note",
+          "title": "Active or passive?",
+          "text": "Active: Der Techniker repariert das Gerät. Passive: Das Gerät wird repariert. The passive is shorter when the actor is irrelevant."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l3-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "b1-m3-l3",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "present passive",
+              "Das Brot wird jeden Morgen gebacken."
+            ],
+            [
+              "past passive",
+              "Das Haus wurde 1990 gebaut."
+            ],
+            [
+              "agent with von",
+              "Das Buch wurde von Kafka geschrieben."
+            ],
+            [
+              "modal passive",
+              "Das Formular muss ausgefüllt werden."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The past participle goes to the end of the clause.",
+            "Use von for a person or institution, and durch for a means or cause.",
+            "With a modal, werden stays in the infinitive at the end."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l3-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "b1-m3-l3",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "werden",
+          "en": "to become, to be (passive auxiliary)",
+          "example": "Die Rechnung wird morgen bezahlt.",
+          "exampleEn": "The invoice will be paid tomorrow."
+        },
+        {
+          "de": "bezahlt",
+          "en": "paid",
+          "example": "Die Miete wird am ersten Tag bezahlt.",
+          "exampleEn": "The rent is paid on the first day."
+        },
+        {
+          "de": "gebaut",
+          "en": "built",
+          "example": "Die Brücke wurde 2010 gebaut.",
+          "exampleEn": "The bridge was built in 2010."
+        },
+        {
+          "de": "von",
+          "en": "by (agent)",
+          "example": "Das Buch wurde von einer Lehrerin geschrieben.",
+          "exampleEn": "The book was written by a teacher."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l3-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "b1-m3-l3",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Die Rechnung wird morgen bezahlt.",
+          "en": "The invoice will be paid tomorrow.",
+          "note": "Present passive: wird + past participle."
+        },
+        {
+          "de": "Das Haus wurde 1990 gebaut.",
+          "en": "The house was built in 1990.",
+          "note": "Past passive: wurde + past participle."
+        },
+        {
+          "de": "Das Formular muss ausgefüllt werden.",
+          "en": "The form must be filled in.",
+          "note": "With a modal, werden goes to the end."
+        },
+        {
+          "de": "Der Kuchen wird von meiner Oma gebacken.",
+          "en": "The cake is baked by my grandmother.",
+          "note": "Von introduces the person doing the action."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l3-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "b1-m3-l3",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "wird",
+          "hint": "The i is short and the r is soft: virt."
+        },
+        {
+          "de": "wurde",
+          "hint": "The u is short: VOOR-de."
+        },
+        {
+          "de": "gebaut",
+          "hint": "The au sounds like “ow”: ge-BOWT."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l3-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "b1-m3-l3",
+      "heading": "Impersonal German",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German official language often uses the passive to sound neutral: “Das Formular ist bis Freitag einzureichen.” This avoids blaming an individual and keeps rules impersonal."
+        },
+        {
+          "kind": "p",
+          "text": "In news, the passive lets reporters focus on events: “Die Straße wurde gesperrt.” It is not necessarily evasive; it simply puts the action first."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l3-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "b1-m3-l3",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A tenant calls the landlord about a broken heating system.",
+      "lines": [
+        {
+          "speaker": "Mieterin",
+          "de": "Die Heizung ist kaputt. Wann wird sie repariert?",
+          "en": "The heating is broken. When will it be repaired?"
+        },
+        {
+          "speaker": "Vermieter",
+          "de": "Ein Techniker wird morgen früh geschickt.",
+          "en": "A technician will be sent tomorrow morning."
+        },
+        {
+          "speaker": "Mieterin",
+          "de": "Wurde das Problem schon gemeldet?",
+          "en": "Has the problem already been reported?"
+        },
+        {
+          "speaker": "Vermieter",
+          "de": "Ja, die Meldung wurde gestern gemacht.",
+          "en": "Yes, the report was made yesterday."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l3-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "b1-m3-l3",
+      "heading": "Forming the passive",
+      "lede": "Werden carries the tense; the past participle carries the meaning.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Präsens",
+              "Das Brot wird gebacken."
+            ],
+            [
+              "Präteritum",
+              "Das Brot wurde gebacken."
+            ],
+            [
+              "Perfekt",
+              "Das Brot ist gebacken worden."
+            ],
+            [
+              "Modal",
+              "Das Brot muss gebacken werden."
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "The agent is optional. Add von + dative for a person: von der Lehrerin. Use durch for a means: durch den Sturm."
+        }
+      ],
+      "tip": "Check the participle first, then conjugate werden to match the subject and tense."
+    },
+    {
+      "id": "b1-m3-l3-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "b1-m3-l3",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "b1-m3-l3-p-m1",
+          "type": "mcq",
+          "prompt": "Die Rechnung ___ morgen bezahlt.",
+          "options": [
+            "wird",
+            "werden",
+            "wurde",
+            "ist"
+          ],
+          "answer": 0,
+          "explanation": "Present passive with a singular subject uses wird."
+        },
+        {
+          "id": "b1-m3-l3-p-m2",
+          "type": "mcq",
+          "prompt": "Das Haus ___ 1990 gebaut.",
+          "options": [
+            "wird",
+            "wurde",
+            "werden",
+            "wurden"
+          ],
+          "answer": 1,
+          "explanation": "The past passive of a singular subject uses wurde."
+        },
+        {
+          "id": "b1-m3-l3-p-m3",
+          "type": "mcq",
+          "prompt": "Das Formular muss ausgefüllt ___.",
+          "options": [
+            "werden",
+            "wird",
+            "wurde",
+            "worden"
+          ],
+          "answer": 0,
+          "explanation": "With a modal, werden stays in the infinitive at the end."
+        },
+        {
+          "id": "b1-m3-l3-p-m4",
+          "type": "mcq",
+          "prompt": "Which sentence is passive?",
+          "options": [
+            "Der Techniker repariert das Gerät.",
+            "Das Gerät wird repariert.",
+            "Der Techniker hat das Gerät repariert.",
+            "Das Gerät ist kaputt."
+          ],
+          "answer": 1,
+          "explanation": "Werden plus past participle marks the passive."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l3-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "b1-m3-l3",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "b1-m3-l3-p-g1",
+          "type": "gap",
+          "prompt": "Die Brücke ___ 2010 gebaut.",
+          "answers": [
+            "wurde"
+          ],
+          "explanation": "Past passive singular: wurde."
+        },
+        {
+          "id": "b1-m3-l3-p-g2",
+          "type": "gap",
+          "prompt": "Das Brot ___ jeden Morgen gebacken.",
+          "answers": [
+            "wird"
+          ],
+          "explanation": "Present passive singular: wird."
+        },
+        {
+          "id": "b1-m3-l3-p-g3",
+          "type": "gap",
+          "prompt": "Das Formular muss ausgefüllt ___.",
+          "answers": [
+            "werden"
+          ],
+          "explanation": "The modal construction ends with werden."
+        },
+        {
+          "id": "b1-m3-l3-p-g4",
+          "type": "gap",
+          "prompt": "Das Buch wurde ___ Kafka geschrieben.",
+          "answers": [
+            "von"
+          ],
+          "explanation": "Von introduces the person who performed the action."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l3-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "b1-m3-l3",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "b1-m3-l3-p-o1",
+          "type": "order",
+          "prompt": "Build: “The invoice will be paid tomorrow.”",
+          "tokens": [
+            "morgen",
+            "Die",
+            "bezahlt.",
+            "Rechnung",
+            "wird"
+          ],
+          "answer": "Die Rechnung wird morgen bezahlt.",
+          "explanation": "Wird is the conjugated auxiliary; bezahlt closes the sentence."
+        },
+        {
+          "id": "b1-m3-l3-p-o2",
+          "type": "order",
+          "prompt": "Build: “The house was built in 1990.”",
+          "tokens": [
+            "1990",
+            "Das",
+            "gebaut.",
+            "Haus",
+            "wurde"
+          ],
+          "answer": "Das Haus wurde 1990 gebaut.",
+          "explanation": "Wurde marks the past passive and the participle is final."
+        },
+        {
+          "id": "b1-m3-l3-p-o3",
+          "type": "order",
+          "prompt": "Build: “The form must be filled in.”",
+          "tokens": [
+            "ausgefüllt",
+            "Das",
+            "werden.",
+            "Formular",
+            "muss"
+          ],
+          "answer": "Das Formular muss ausgefüllt werden.",
+          "explanation": "The modal is second, the participle follows, and werden closes the sentence."
+        },
+        {
+          "id": "b1-m3-l3-p-o4",
+          "type": "order",
+          "prompt": "Build: “The cake is baked by my grandmother.”",
+          "tokens": [
+            "von",
+            "Der",
+            "gebacken.",
+            "Kuchen",
+            "wird",
+            "meiner",
+            "Oma"
+          ],
+          "answer": "Der Kuchen wird von meiner Oma gebacken.",
+          "explanation": "Von plus dative names the agent before the final participle."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l3-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "b1-m3-l3",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Nachrichten im Radio",
+      "script": [
+        {
+          "speaker": "Sprecher",
+          "de": "Die neue Brücke wurde am Montag eröffnet.",
+          "en": "The new bridge was opened on Monday."
+        },
+        {
+          "speaker": "Sprecher",
+          "de": "Wegen des Sturms wurden mehrere Straßen gesperrt.",
+          "en": "Because of the storm, several roads were closed."
+        },
+        {
+          "speaker": "Sprecher",
+          "de": "Die Reparaturen werden voraussichtlich zwei Wochen dauern.",
+          "en": "The repairs are expected to take two weeks."
+        },
+        {
+          "speaker": "Sprecher",
+          "de": "Weitere Informationen werden morgen veröffentlicht.",
+          "en": "Further information will be published tomorrow."
+        }
+      ],
+      "questions": [
+        {
+          "id": "b1-m3-l3-l1",
+          "type": "mcq",
+          "prompt": "What happened on Monday?",
+          "options": [
+            "A bridge was opened",
+            "A road was closed",
+            "A storm began",
+            "A report was published"
+          ],
+          "answer": 0,
+          "explanation": "The first line says the new bridge was opened on Monday."
+        },
+        {
+          "id": "b1-m3-l3-l2",
+          "type": "mcq",
+          "prompt": "How long will the repairs take?",
+          "options": [
+            "Two days",
+            "Two weeks",
+            "Two months",
+            "Two years"
+          ],
+          "answer": 1,
+          "explanation": "The reporter says the repairs will probably take two weeks."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l3-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "b1-m3-l3",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Describe three things that happen in your town without saying who does them. Use the passive.",
+      "model": {
+        "de": "Jeden Samstag wird der Markt geöffnet. Die Straßen werden am Morgen gereinigt. Im Sommer werden viele Feste gefeiert.",
+        "en": "Every Saturday the market is opened. The streets are cleaned in the morning. In summer many festivals are celebrated."
+      },
+      "tips": [
+        "Start with the thing affected, then use werden + participle.",
+        "Keep the participle at the end of the clause.",
+        "Use wurde for a completed past event."
+      ]
+    },
+    {
+      "id": "b1-m3-l3-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "b1-m3-l3",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Die Rechnung wird morgen bezahlen.",
+          "right": "Die Rechnung wird morgen bezahlt.",
+          "why": "The passive needs the past participle bezahlt."
+        },
+        {
+          "wrong": "Das Haus wurde 1990 gebaut worden.",
+          "right": "Das Haus wurde 1990 gebaut.",
+          "why": "Do not combine wurde with worden in the simple past passive."
+        },
+        {
+          "wrong": "Das Formular muss ausgefüllt wird.",
+          "right": "Das Formular muss ausgefüllt werden.",
+          "why": "After a modal, the passive auxiliary stays in the infinitive."
+        }
+      ]
+    },
+    {
+      "id": "b1-m3-l3-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "b1-m3-l3",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "b1-m3-l3-a1",
+          "type": "mcq",
+          "prompt": "Die Rechnung ___ morgen bezahlt.",
+          "options": [
+            "wird",
+            "werden",
+            "wurde",
+            "ist"
+          ],
+          "answer": 0,
+          "explanation": "Present passive with a singular subject uses wird."
+        },
+        {
+          "id": "b1-m3-l3-a2",
+          "type": "mcq",
+          "prompt": "Das Haus ___ 1990 gebaut.",
+          "options": [
+            "wird",
+            "wurde",
+            "werden",
+            "wurden"
+          ],
+          "answer": 1,
+          "explanation": "The past passive of a singular subject uses wurde."
+        },
+        {
+          "id": "b1-m3-l3-a3",
+          "type": "mcq",
+          "prompt": "Das Formular muss ausgefüllt ___.",
+          "options": [
+            "werden",
+            "wird",
+            "wurde",
+            "worden"
+          ],
+          "answer": 0,
+          "explanation": "With a modal, werden stays in the infinitive at the end."
+        },
+        {
+          "id": "b1-m3-l3-a4",
+          "type": "mcq",
+          "prompt": "Which sentence is passive?",
+          "options": [
+            "Der Techniker repariert das Gerät.",
+            "Das Gerät wird repariert.",
+            "Der Techniker hat das Gerät repariert.",
+            "Das Gerät ist kaputt."
+          ],
+          "answer": 1,
+          "explanation": "Werden plus past participle marks the passive."
+        },
+        {
+          "id": "b1-m3-l3-a5",
+          "type": "gap",
+          "prompt": "Die Brücke ___ 2010 gebaut.",
+          "answers": [
+            "wurde"
+          ],
+          "explanation": "Past passive singular: wurde."
+        },
+        {
+          "id": "b1-m3-l3-a6",
+          "type": "gap",
+          "prompt": "Das Brot ___ jeden Morgen gebacken.",
+          "answers": [
+            "wird"
+          ],
+          "explanation": "Present passive singular: wird."
+        },
+        {
+          "id": "b1-m3-l3-a7",
+          "type": "gap",
+          "prompt": "Das Formular muss ausgefüllt ___.",
+          "answers": [
+            "werden"
+          ],
+          "explanation": "The modal construction ends with werden."
+        },
+        {
+          "id": "b1-m3-l3-a8",
+          "type": "gap",
+          "prompt": "Das Buch wurde ___ Kafka geschrieben.",
+          "answers": [
+            "von"
+          ],
+          "explanation": "Von introduces the person who performed the action."
+        },
+        {
+          "id": "b1-m3-l3-a9",
+          "type": "order",
+          "prompt": "Build: “The invoice will be paid tomorrow.”",
+          "tokens": [
+            "morgen",
+            "Die",
+            "bezahlt.",
+            "Rechnung",
+            "wird"
+          ],
+          "answer": "Die Rechnung wird morgen bezahlt.",
+          "explanation": "Wird is the conjugated auxiliary; bezahlt closes the sentence."
+        },
+        {
+          "id": "b1-m3-l3-a10",
+          "type": "order",
+          "prompt": "Build: “The house was built in 1990.”",
+          "tokens": [
+            "1990",
+            "Das",
+            "gebaut.",
+            "Haus",
+            "wurde"
+          ],
+          "answer": "Das Haus wurde 1990 gebaut.",
+          "explanation": "Wurde marks the past passive and the participle is final."
+        },
+        {
+          "id": "b1-m3-l3-a11",
+          "type": "order",
+          "prompt": "Build: “The form must be filled in.”",
+          "tokens": [
+            "ausgefüllt",
+            "Das",
+            "werden.",
+            "Formular",
+            "muss"
+          ],
+          "answer": "Das Formular muss ausgefüllt werden.",
+          "explanation": "The modal is second, the participle follows, and werden closes the sentence."
+        },
+        {
+          "id": "b1-m3-l3-a12",
+          "type": "order",
+          "prompt": "Build: “The cake is baked by my grandmother.”",
+          "tokens": [
+            "von",
+            "Der",
+            "gebacken.",
+            "Kuchen",
+            "wird",
+            "meiner",
+            "Oma"
+          ],
+          "answer": "Der Kuchen wird von meiner Oma gebacken.",
+          "explanation": "Von plus dative names the agent before the final participle."
+        }
+      ]
+    }
+  ]
+}

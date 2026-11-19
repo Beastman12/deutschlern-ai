@@ -1,0 +1,657 @@
+{
+  "id": "c2-m2-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 3,
+      "prompt": "Read these lines aloud. One is a quotation, one is an idiom, one is a cultural label.",
+      "items": [
+        "Die Botschaft hör ich wohl, allein mir fehlt der Glaube.",
+        "Es ist fünf vor zwölf.",
+        "Diese Besprechung war kafkaesk."
+      ],
+      "lede": "Cultural literacy is the ability to hear where a phrase comes from."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to decode common allusions and use them with the right timing."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 5,
+      "lede": "An allusion works only when the listener recognises the frame. At C2 you need both the reference and a sense of when to use it.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German conversation is full of compressed cultural knowledge. A single adjective such as kafkaesk can summon an entire atmosphere; a line from Goethe can turn a complaint into a shared joke. Idioms work the same way: they are short, fixed and often carry an image whose origin has been forgotten. The skill is to decode the image, place the reference and judge the company."
+        },
+        {
+          "kind": "de",
+          "text": "Diese Anspielung versteht nur, wer die Geschichte kennt.",
+          "en": "Only someone who knows the history understands this allusion."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "An Anspielung is an indirect reference. It assumes shared knowledge and rewards recognition.",
+            "A Redewendung is a fixed idiom. Its wording is conventional; changing the article or the verb usually breaks it.",
+            "Some references are literary (Faust, Kafka), some historical (die Stunde Null, die Wende), some everyday (fünf vor zwölf).",
+            "Geflügelte Worte are familiar quotations that circulate like proverbs. Georg Büchmann's collection of that name has been published since the nineteenth century.",
+            "Allusions create intimacy, but they can also exclude. In a mixed or formal setting, explain the reference or choose a plain phrase."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Meaning before origin",
+          "text": "If you are unsure of an idiom's etymology, say what it means and note that the origin is disputed. A confident wrong story is worse than an honest “Die Herkunft ist umstritten”."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "Four habits separate cultural literacy from name-dropping.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Habit", "What it means", "Example"],
+          "rows": [
+            ["Decode the image", "Ask what picture the idiom paints.", "Fünf vor zwölf: the clock is almost at midnight."],
+            ["Place the source", "Know whether the reference is literary, historical or everyday.", "Kafkaesk points to Kafka; die Stunde Null to 1945."],
+            ["Check the company", "Use an allusion only when the listener can share it.", "Explain kafkaesk to someone outside German-speaking culture."],
+            ["Keep the wording", "Idioms and quotations are fixed formulas.", "Die Botschaft hör ich wohl, allein mir fehlt der Glaube."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Idioms are not word-for-word translatable. Das kommt mir spanisch vor has nothing to do with the Spanish language; it means “that seems suspicious to me”.",
+            "A quotation should be accurate. If you cannot recall the exact wording, paraphrase and say that you are paraphrasing.",
+            "Historical allusions carry weight. Die Stunde Null refers to 1945 and the collapse of the Nazi regime; it is not a neutral synonym for “a new start”.",
+            "Kafkaesk is an adjective, not a literary judgement. It describes an atmosphere of absurd, bureaucratic threat, not simply a difficult text.",
+            "Irony and allusion are close relatives. Both depend on shared knowledge, and both can misfire when the audience does not share the frame."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "The metalanguage of cultural reference. These are the words you need to explain a phrase.",
+      "items": [
+        {
+          "de": "die Anspielung",
+          "en": "the allusion, indirect reference",
+          "article": "die",
+          "plural": "die Anspielungen",
+          "pronunciation": "ˈanʃpiːlʊŋ",
+          "example": "Diese Anspielung versteht nur, wer die Geschichte kennt.",
+          "exampleEn": "Only someone who knows the history understands this allusion."
+        },
+        {
+          "de": "der Ursprung",
+          "en": "the origin, source",
+          "article": "der",
+          "plural": "die Ursprünge",
+          "pronunciation": "ˈuːɐ̯ʃpʁʊŋ",
+          "example": "Der Ursprung der Redewendung ist umstritten.",
+          "exampleEn": "The origin of the idiom is disputed."
+        },
+        {
+          "de": "die Redewendung",
+          "en": "the idiom, expression",
+          "article": "die",
+          "plural": "die Redewendungen",
+          "pronunciation": "ˈʁeːdəvɛndʊŋ",
+          "example": "Diese Redewendung ist im Süden geläufiger als im Norden.",
+          "exampleEn": "This expression is more common in the south than in the north."
+        },
+        {
+          "de": "die Kulturreferenz",
+          "en": "the cultural reference",
+          "article": "die",
+          "plural": "die Kulturreferenzen",
+          "pronunciation": "kʊlˈtuːɐ̯ʁefəʁɛnts",
+          "example": "Die Kulturreferenz funktioniert nur, wenn das Publikum sie erkennt.",
+          "exampleEn": "The cultural reference works only if the audience recognises it."
+        },
+        {
+          "de": "die Herkunft",
+          "en": "the origin, provenance",
+          "article": "die",
+          "plural": "die Herkünfte",
+          "pronunciation": "ˈheːɐ̯kʊnft",
+          "example": "Die Herkunft des Zitats lässt sich eindeutig belegen.",
+          "exampleEn": "The origin of the quotation can be clearly documented."
+        },
+        {
+          "de": "das Zitat",
+          "en": "the quotation",
+          "article": "das",
+          "plural": "die Zitate",
+          "pronunciation": "tsiˈtaːt",
+          "example": "Ein bekanntes Zitat stammt aus Goethes Faust.",
+          "exampleEn": "A well-known quotation comes from Goethe's Faust."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 5,
+      "lede": "Each sentence uses a reference and makes its meaning clear from context.",
+      "items": [
+        {
+          "de": "Diese Anspielung versteht nur, wer die Geschichte kennt.",
+          "en": "Only someone who knows the history understands this allusion.",
+          "note": "Anspielung is an indirect reference; the sentence names the condition for understanding it."
+        },
+        {
+          "de": "Mit „kafkaesk“ beschreibt man eine unheimliche, bürokratische Situation.",
+          "en": "“Kafkaesk” describes an uncanny, bureaucratic situation.",
+          "note": "The adjective derives from Kafka but describes an atmosphere, not a text by him."
+        },
+        {
+          "de": "„Die Botschaft hör ich wohl, allein mir fehlt der Glaube“ stammt aus Goethes „Faust“.",
+          "en": "“I hear the message well, but I lack the faith” comes from Goethe's Faust.",
+          "note": "The line is used when someone doubts a promise they have just heard."
+        },
+        {
+          "de": "Die Herkunft der Wendung „Das kommt mir spanisch vor“ ist umstritten.",
+          "en": "The origin of the expression “that seems suspicious to me” is disputed.",
+          "note": "A common explanation points to the Spanish court, but the etymology is not settled."
+        },
+        {
+          "de": "Es ist fünf vor zwölf: Wir müssen jetzt handeln.",
+          "en": "It is high time: we must act now.",
+          "note": "The clock image means that a deadline is almost upon us."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 4,
+      "lede": "Long compounds are normal here. Keep the stress on the first element unless the word is a loan.",
+      "items": [
+        {
+          "de": "Anspielung",
+          "hint": "Stress the first syllable: AN-shpee-lung. The ie is a long ee sound.",
+          "en": "allusion"
+        },
+        {
+          "de": "Redewendung",
+          "hint": "Stress the first syllable: RE-de-ven-dung. Keep the three parts light and even.",
+          "en": "idiom"
+        },
+        {
+          "de": "Ursprung",
+          "hint": "Stress the first syllable: UR-shprung. The initial U is long and the final -ung is clear.",
+          "en": "origin"
+        },
+        {
+          "de": "kafkaesk",
+          "hint": "Stress the final syllable: kaf-ka-ESK. The name Kafka stays recognisable inside the adjective.",
+          "en": "Kafkaesque"
+        },
+        {
+          "de": "Zitat",
+          "hint": "Stress the second syllable: tsi-TAAT. The initial Z is the “ts” sound.",
+          "en": "quotation"
+        },
+        {
+          "de": "Herkunft",
+          "hint": "Stress the first syllable: HER-kunft. The final -ft is crisp, not voiced.",
+          "en": "origin"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 3,
+      "heading": "Bildung, quotations and the limits of allusion",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In German-speaking countries, a shared canon of quotations is part of what many people mean by Bildung. Lines from Goethe, Schiller, Luther and the Bible circulate as geflügelte Worte, and a well-placed quotation can signal that speaker and listener belong to the same cultural world. Georg Büchmann's collection Geflügelte Worte, first published in the nineteenth century, helped codify this shared inventory."
+        },
+        {
+          "kind": "p",
+          "text": "The same mechanism can exclude. In an international team or a formal letter, an allusion that nobody recognises becomes a private joke or a small act of gatekeeping. Cultural literacy therefore includes judgement: explain the reference when needed, and do not use historical allusions as decoration."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "Two colleagues leave a long meeting. The allusions do the complaining for them.",
+      "setting": "After a long meeting in an office",
+      "lines": [
+        {
+          "speaker": "Jonas",
+          "de": "Diese Besprechung war wieder einmal kafkaesk.",
+          "en": "That meeting was Kafkaesque once again."
+        },
+        {
+          "speaker": "Elif",
+          "de": "Kafkaesk? Du meinst, sie war absurd und endlos?",
+          "en": "Kafkaesque? You mean it was absurd and endless?"
+        },
+        {
+          "speaker": "Jonas",
+          "de": "Genau. Und am Ende hat niemand gewusst, wer entscheiden darf.",
+          "en": "Exactly. And in the end nobody knew who was allowed to decide."
+        },
+        {
+          "speaker": "Elif",
+          "de": "Das kommt mir bekannt vor. Bei uns heißt es dann: Es ist fünf vor zwölf.",
+          "en": "That sounds familiar. Where I'm from people say: it is five to twelve."
+        },
+        {
+          "speaker": "Jonas",
+          "de": "Und trotzdem wird weiter diskutiert.",
+          "en": "And yet the discussion continues."
+        },
+        {
+          "speaker": "Elif",
+          "de": "Dann zitieren wir beim nächsten Mal Goethe: „Die Botschaft hör ich wohl, allein mir fehlt der Glaube.“",
+          "en": "Then next time we'll quote Goethe: “I hear the message well, but I lack the faith.”"
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Redewendungen: Bedeutung und Herkunft",
+      "lede": "Learn each expression as a package: meaning, image, source and register.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Redewendung", "Bedeutung", "Herkunft / Register"],
+          "rows": [
+            ["Morgenstund hat Gold im Mund.", "An early start pays off.", "traditional proverb"],
+            ["Es ist fünf vor zwölf.", "It is high time.", "clock image; urgent, slightly dramatic"],
+            ["Das kommt mir spanisch vor.", "That seems suspicious to me.", "origin disputed; often linked to the Spanish court"],
+            ["kafkaesk", "absurd, oppressive, bureaucratic", "from Franz Kafka; literary label"],
+            ["Die Botschaft hör ich wohl, allein mir fehlt der Glaube.", "I doubt the promise I have just heard.", "Goethe, Faust I"],
+            ["die Stunde Null", "a radical new beginning after collapse", "historical; refers to 1945"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Idioms are fixed formulas. Changing the article, the preposition or the verb usually destroys the expression.",
+            "Explain an allusion when your listener may not share the frame; otherwise it excludes rather than includes.",
+            "Quotations should be accurate. If you are unsure of the wording, paraphrase and say so.",
+            "Some allusions carry historical weight. Use die Stunde Null, die Wende or die Mauer with awareness of the context, not as stylistic decoration.",
+            "A single well-placed reference is usually stronger than a chain of them. Density can look like showing off."
+          ]
+        }
+      ],
+      "tip": "When you meet a new idiom, record four things: the literal image, the idiomatic meaning, the register and the source if it is known. The image is what makes the expression memorable; the source is what makes it safe to use."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 5,
+      "lede": "Test the meaning first, then the source and the register.",
+      "exercises": [
+        {
+          "id": "c2m2l3-p1",
+          "type": "mcq",
+          "prompt": "What does „kafkaesk“ describe?",
+          "options": ["A text written by Kafka", "An uncanny, bureaucratic atmosphere", "A cheerful celebration", "A precise scientific argument"],
+          "answer": 1,
+          "explanation": "Kafkaesk describes an absurd, oppressive, bureaucratic atmosphere. It does not mean simply “by Kafka”."
+        },
+        {
+          "id": "c2m2l3-p2",
+          "type": "mcq",
+          "prompt": "Where does „Die Botschaft hör ich wohl, allein mir fehlt der Glaube“ come from?",
+          "options": ["Schiller's Wilhelm Tell", "Goethe's Faust", "Kafka's Die Verwandlung", "Luther's Bible translation"],
+          "answer": 1,
+          "explanation": "The line comes from Goethe's Faust. It is used when someone doubts a promise they have just heard."
+        },
+        {
+          "id": "c2m2l3-p3",
+          "type": "mcq",
+          "prompt": "What does „Es ist fünf vor zwölf“ mean?",
+          "options": ["It is exactly midnight.", "It is high time to act.", "It is five minutes past twelve.", "It is too late to act."],
+          "answer": 1,
+          "explanation": "The clock image means a deadline is almost upon us: it is high time."
+        },
+        {
+          "id": "c2m2l3-p4",
+          "type": "mcq",
+          "prompt": "What does „Das kommt mir spanisch vor“ mean?",
+          "options": ["That seems to be in Spanish.", "That seems suspicious to me.", "That is a Spanish custom.", "That is difficult to translate."],
+          "answer": 1,
+          "explanation": "The idiom means “that seems suspicious to me”. It is not a comment on the Spanish language."
+        },
+        {
+          "id": "c2m2l3-p5",
+          "type": "mcq",
+          "prompt": "What are „geflügelte Worte“?",
+          "options": ["Familiar quotations that circulate like proverbs", "Words borrowed from English", "Poetic lines without meaning", "Regional dialect words"],
+          "answer": 0,
+          "explanation": "Geflügelte Worte are familiar quotations and sayings. Büchmann's collection of that name helped codify them."
+        },
+        {
+          "id": "c2m2l3-p6",
+          "type": "mcq",
+          "prompt": "When is a cultural allusion most appropriate?",
+          "options": ["When it shows that the speaker has read more than the listener", "When the listener can share the frame of reference", "When it replaces an argument", "When it is used in every sentence"],
+          "answer": 1,
+          "explanation": "An allusion depends on shared knowledge. If the listener cannot share the frame, it excludes rather than communicates."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 5,
+      "lede": "Type the missing word. Several items test the fixed wording of an idiom.",
+      "exercises": [
+        {
+          "id": "c2m2l3-g1",
+          "type": "gap",
+          "prompt": "Diese ___ versteht nur, wer die Geschichte kennt.",
+          "answers": ["Anspielung"],
+          "explanation": "Die Anspielung is the allusion; the relative clause explains the knowledge it requires."
+        },
+        {
+          "id": "c2m2l3-g2",
+          "type": "gap",
+          "prompt": "Der ___ der Redewendung ist umstritten.",
+          "answers": ["Ursprung"],
+          "explanation": "Der Ursprung is the origin; umstritten means disputed."
+        },
+        {
+          "id": "c2m2l3-g3",
+          "type": "gap",
+          "prompt": "Mit „___“ beschreibt man eine bürokratische Albtraumsituation.",
+          "answers": ["kafkaesk"],
+          "explanation": "Kafkaesk describes an absurd, bureaucratic nightmare atmosphere. The adjective is written with a lowercase k."
+        },
+        {
+          "id": "c2m2l3-g4",
+          "type": "gap",
+          "prompt": "Es ist fünf ___ zwölf.",
+          "answers": ["vor"],
+          "explanation": "The fixed idiom is fünf vor zwölf: five minutes to twelve."
+        },
+        {
+          "id": "c2m2l3-g5",
+          "type": "gap",
+          "prompt": "Die Botschaft hör ich wohl, allein mir fehlt der ___.",
+          "answers": ["Glaube"],
+          "explanation": "The Goethe line ends with der Glaube: faith. The noun is masculine."
+        },
+        {
+          "id": "c2m2l3-g6",
+          "type": "gap",
+          "prompt": "Ein bekanntes ___ stammt aus Goethes Faust.",
+          "answers": ["Zitat"],
+          "explanation": "Das Zitat is the quotation; ein bekanntes Zitat is a well-known quotation."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 4,
+      "lede": "Build sentences that explain a reference rather than simply display it.",
+      "exercises": [
+        {
+          "id": "c2m2l3-o1",
+          "type": "order",
+          "prompt": "Build: “Only someone who knows the history understands this allusion.”",
+          "tokens": ["wer", "Anspielung", "Diese", "die", "kennt", "Geschichte", "versteht", "nur"],
+          "answer": "Diese Anspielung versteht nur, wer die Geschichte kennt.",
+          "explanation": "The main clause begins with the object for emphasis; the relative clause wer die Geschichte kennt follows nur."
+        },
+        {
+          "id": "c2m2l3-o2",
+          "type": "order",
+          "prompt": "Build: “The origin of the idiom is disputed.”",
+          "tokens": ["umstritten", "der", "Die", "Redewendung", "Herkunft", "ist"],
+          "answer": "Die Herkunft der Redewendung ist umstritten.",
+          "explanation": "Herkunft and Ursprung are near-synonyms here; der Redewendung is genitive."
+        },
+        {
+          "id": "c2m2l3-o3",
+          "type": "order",
+          "prompt": "Build: “It is five to twelve.”",
+          "tokens": ["zwölf", "Es", "fünf", "vor", "ist"],
+          "answer": "Es ist fünf vor zwölf.",
+          "explanation": "The fixed idiom is Es ist fünf vor zwölf; the time phrase stands after ist."
+        },
+        {
+          "id": "c2m2l3-o4",
+          "type": "order",
+          "prompt": "Build: “An allusion can create closeness or exclude.”",
+          "tokens": ["ausschließen", "Nähe", "Eine", "schaffen", "oder", "Anspielung", "kann"],
+          "answer": "Eine Anspielung kann Nähe schaffen oder ausschließen.",
+          "explanation": "Kann is the modal verb in second position; the two infinitives schaffen and ausschließen stand at the end."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 5,
+      "lede": "A colleague explains two references. Listen for the moment the explanation becomes a definition.",
+      "speaker": "Two colleagues after a meeting",
+      "script": [
+        {
+          "speaker": "Tim",
+          "de": "Diese Besprechung war wirklich kafkaesk.",
+          "en": "That meeting was really Kafkaesque."
+        },
+        {
+          "speaker": "Sara",
+          "de": "Was meinst du damit? Kafka hat doch Romane geschrieben.",
+          "en": "What do you mean by that? Kafka wrote novels, after all."
+        },
+        {
+          "speaker": "Tim",
+          "de": "Genau. Kafkaesk heißt: absurd, bedrohlich und bürokratisch zugleich.",
+          "en": "Exactly. Kafkaesque means absurd, threatening and bureaucratic at the same time."
+        },
+        {
+          "speaker": "Sara",
+          "de": "Verstehe. Und „fünf vor zwölf“ heißt einfach, dass es höchste Zeit ist?",
+          "en": "I see. And “five to twelve” simply means that it is high time?"
+        },
+        {
+          "speaker": "Tim",
+          "de": "Ja. Und wenn jemand eine Botschaft hört, aber nicht glaubt, zitieren wir Goethe.",
+          "en": "Yes. And when someone hears a message but does not believe it, we quote Goethe."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2m2l3-lq1",
+          "type": "mcq",
+          "prompt": "What does Tim mean by kafkaesk?",
+          "options": ["Written by Kafka", "Absurd, threatening and bureaucratic", "Cheerful and efficient", "Short and precise"],
+          "answer": 1,
+          "explanation": "Tim defines it as absurd, bedrohlich und bürokratisch zugleich."
+        },
+        {
+          "id": "c2m2l3-lq2",
+          "type": "mcq",
+          "prompt": "What does Sara ask about?",
+          "options": ["The meaning of kafkaesk", "The time of the next meeting", "Kafka's biography", "The price of a book"],
+          "answer": 0,
+          "explanation": "Sara asks Was meinst du damit? and says Kafka wrote novels, so she is asking what kafkaesk means."
+        },
+        {
+          "id": "c2m2l3-lq3",
+          "type": "mcq",
+          "prompt": "What does „fünf vor zwölf“ mean?",
+          "options": ["It is exactly midnight.", "It is high time.", "It is five minutes past twelve.", "It is too early to decide."],
+          "answer": 1,
+          "explanation": "Sara paraphrases it as dass es höchste Zeit ist — that it is high time."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 5,
+      "lede": "Explain a reference as if your listener has never heard it. Clarity is part of cultural competence.",
+      "prompt": "Explain a German idiom or cultural reference you have encountered. Give its meaning, its image or origin if you know it, and one situation in which you would use it.",
+      "model": {
+        "de": "Die Wendung „Es ist fünf vor zwölf“ bedeutet, dass es höchste Zeit ist. Das Bild kommt von der Uhr: Es ist kurz vor Mitternacht, also kurz vor einem Wendepunkt. Ich würde sie in einer Diskussion über eine drohende Entscheidung verwenden, aber nicht in einem formellen Bericht, wo „Es ist dringend“ klarer wäre.",
+        "en": "The expression “it is five to twelve” means that it is high time. The image comes from the clock: it is shortly before midnight, and therefore shortly before a turning point. I would use it in a discussion about an impending decision, but not in a formal report, where “it is urgent” would be clearer."
+      },
+      "tips": [
+        "Separate meaning from origin. If the etymology is disputed, say so instead of inventing a story.",
+        "Explain the image behind the idiom; that is what makes it memorable and shows you understand it.",
+        "Match the register. An idiom can lighten a conversation, but it can sound out of place in a formal text."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 3,
+      "lede": "These errors confuse a reference with its source or a literal meaning with an idiomatic one.",
+      "items": [
+        {
+          "wrong": "Kafkaesk bedeutet, dass etwas von Kafka geschrieben wurde.",
+          "right": "Kafkaesk beschreibt eine unheimliche, bürokratische Atmosphäre.",
+          "why": "The adjective is a cultural label, not a statement of authorship. A text by Kafka is simply ein Text von Kafka."
+        },
+        {
+          "wrong": "„Das kommt mir spanisch vor“ heißt: Das ist auf Spanisch.",
+          "right": "„Das kommt mir spanisch vor“ heißt: Das kommt mir verdächtig vor.",
+          "why": "The idiom means “that seems suspicious to me”. Its literal reading is misleading."
+        },
+        {
+          "wrong": "„Die Botschaft hör ich wohl, allein mir fehlt der Glaube“ stammt von Schiller.",
+          "right": "„Die Botschaft hör ich wohl, allein mir fehlt der Glaube“ stammt von Goethe.",
+          "why": "The line is from Goethe's Faust I. Attributing it to Schiller is a common mix-up between the two Weimar classics."
+        },
+        {
+          "wrong": "Eine Anspielung ist immer witzig.",
+          "right": "Eine Anspielung kann Nähe schaffen, aber auch ausschließen oder verletzen.",
+          "why": "The effect depends on the listener and the context. An allusion that nobody recognises becomes a private joke or a barrier."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Ten questions. Score 70% or more to complete the lesson check.",
+      "questions": [
+        {
+          "id": "c2m2l3-a1",
+          "type": "mcq",
+          "prompt": "What does „kafkaesk“ describe?",
+          "options": ["A text written by Kafka", "An uncanny, bureaucratic atmosphere", "A cheerful celebration", "A precise scientific argument"],
+          "answer": 1,
+          "explanation": "Kafkaesk describes an absurd, oppressive, bureaucratic atmosphere."
+        },
+        {
+          "id": "c2m2l3-a2",
+          "type": "mcq",
+          "prompt": "Where does „Die Botschaft hör ich wohl, allein mir fehlt der Glaube“ come from?",
+          "options": ["Schiller's Wilhelm Tell", "Goethe's Faust", "Kafka's Die Verwandlung", "Luther's Bible translation"],
+          "answer": 1,
+          "explanation": "The line comes from Goethe's Faust."
+        },
+        {
+          "id": "c2m2l3-a3",
+          "type": "mcq",
+          "prompt": "What does „Es ist fünf vor zwölf“ mean?",
+          "options": ["It is exactly midnight.", "It is high time to act.", "It is five minutes past twelve.", "It is too late to act."],
+          "answer": 1,
+          "explanation": "The clock image means that a deadline is almost upon us."
+        },
+        {
+          "id": "c2m2l3-a4",
+          "type": "mcq",
+          "prompt": "What does „Das kommt mir spanisch vor“ mean?",
+          "options": ["That seems to be in Spanish.", "That seems suspicious to me.", "That is a Spanish custom.", "That is difficult to translate."],
+          "answer": 1,
+          "explanation": "The idiom means that something seems suspicious."
+        },
+        {
+          "id": "c2m2l3-a5",
+          "type": "mcq",
+          "prompt": "When is a cultural allusion most appropriate?",
+          "options": ["When it shows superior knowledge", "When the listener can share the frame of reference", "When it replaces an argument", "When it is used in every sentence"],
+          "answer": 1,
+          "explanation": "An allusion depends on shared knowledge; otherwise it excludes."
+        },
+        {
+          "id": "c2m2l3-a6",
+          "type": "gap",
+          "prompt": "Diese ___ versteht nur, wer die Geschichte kennt.",
+          "answers": ["Anspielung"],
+          "explanation": "Die Anspielung is the allusion."
+        },
+        {
+          "id": "c2m2l3-a7",
+          "type": "gap",
+          "prompt": "Der ___ der Redewendung ist umstritten.",
+          "answers": ["Ursprung"],
+          "explanation": "Der Ursprung is the origin; umstritten means disputed."
+        },
+        {
+          "id": "c2m2l3-a8",
+          "type": "gap",
+          "prompt": "Mit „___“ beschreibt man eine bürokratische Albtraumsituation.",
+          "answers": ["kafkaesk"],
+          "explanation": "Kafkaesk describes an absurd, bureaucratic nightmare atmosphere."
+        },
+        {
+          "id": "c2m2l3-a9",
+          "type": "order",
+          "prompt": "Build: “Only someone who knows the history understands this allusion.”",
+          "tokens": ["wer", "Anspielung", "Diese", "die", "kennt", "Geschichte", "versteht", "nur"],
+          "answer": "Diese Anspielung versteht nur, wer die Geschichte kennt.",
+          "explanation": "The object is fronted for emphasis; the relative clause wer die Geschichte kennt follows nur."
+        },
+        {
+          "id": "c2m2l3-a10",
+          "type": "order",
+          "prompt": "Build: “It is five to twelve.”",
+          "tokens": ["zwölf", "Es", "fünf", "vor", "ist"],
+          "answer": "Es ist fünf vor zwölf.",
+          "explanation": "The fixed idiom is Es ist fünf vor zwölf."
+        }
+      ]
+    }
+  ]
+}

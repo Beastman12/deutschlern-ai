@@ -1,0 +1,665 @@
+{
+  "id": "b2-m4-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "b2-m4-l1-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "b2-m4-l1",
+      "prompt": "Say one thing that plays an important role in your work, and one decision you took into account.",
+      "items": [
+        "Diese Entscheidung spielt eine wichtige Rolle.",
+        "eine Rolle spielen",
+        "ins Auge fallen",
+        "in Kauf nehmen"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "b2-m4-l1-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "b2-m4-l1",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "b2-m4-l1-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "b2-m4-l1",
+      "lede": "Collocations are the words that naturally go together; idioms are fixed expressions whose meaning is not literal.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A collocation is a habitual pairing: eine Rolle spielen, eine Entscheidung treffen, zur Verfügung stehen. The individual words are simple, but the combination is what sounds natural. Learning nouns with their verbs is more useful than learning either alone."
+        },
+        {
+          "kind": "p",
+          "text": "Idioms are fixed phrases such as “ins Auge fallen” (to stand out) or “in Kauf nehmen” (to accept a drawback). Use them sparingly and only when the register fits. A misplaced idiom sounds worse than a plain sentence."
+        },
+        {
+          "kind": "note",
+          "title": "Learn the whole chunk",
+          "text": "Do not translate “take a decision” word by word. Learn “eine Entscheidung treffen” as one unit and reuse it."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l1-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "b2-m4-l1",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "eine Rolle spielen",
+              "Diese Entscheidung spielt eine wichtige Rolle."
+            ],
+            [
+              "in Kauf nehmen",
+              "Wir nehmen längere Wartezeiten in Kauf."
+            ],
+            [
+              "zur Verfügung stehen",
+              "Der Raum steht allen zur Verfügung."
+            ],
+            [
+              "ins Auge fallen",
+              "Der Fehler fällt sofort ins Auge."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use “treffen” with Entscheidung, but “machen” with Fehler.",
+            "“Zur Verfügung stehen” takes the dative: mir zur Verfügung stehen.",
+            "Idioms are usually informal or journalistic; avoid them in formal reports."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l1-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "b2-m4-l1",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "eine Rolle spielen",
+          "en": "to play a role",
+          "example": "Diese Entscheidung spielt eine wichtige Rolle.",
+          "exampleEn": "This decision plays an important role."
+        },
+        {
+          "de": "ins Auge fallen",
+          "en": "to stand out, to catch the eye",
+          "example": "Der Fehler fällt sofort ins Auge.",
+          "exampleEn": "The mistake catches the eye immediately."
+        },
+        {
+          "de": "in Kauf nehmen",
+          "en": "to accept (a drawback)",
+          "example": "Wir nehmen längere Wartezeiten in Kauf.",
+          "exampleEn": "We accept longer waiting times."
+        },
+        {
+          "de": "zur Verfügung stehen",
+          "en": "to be available",
+          "example": "Der Raum steht allen zur Verfügung.",
+          "exampleEn": "The room is available to everyone."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l1-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "b2-m4-l1",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Diese Entscheidung spielt eine wichtige Rolle.",
+          "en": "This decision plays an important role.",
+          "note": "Rolle spielen is a fixed collocation."
+        },
+        {
+          "de": "Der Fehler fällt sofort ins Auge.",
+          "en": "The mistake stands out immediately.",
+          "note": "Ins Auge fallen means to be noticeable."
+        },
+        {
+          "de": "Wir nehmen längere Wartezeiten in Kauf.",
+          "en": "We accept longer waiting times.",
+          "note": "In Kauf nehmen means to accept a disadvantage."
+        },
+        {
+          "de": "Der Raum steht allen zur Verfügung.",
+          "en": "The room is available to everyone.",
+          "note": "Zur Verfügung stehen takes the dative."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l1-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "b2-m4-l1",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Rolle",
+          "hint": "The r is soft and the o is short: ROL-le."
+        },
+        {
+          "de": "zur Verfügung",
+          "hint": "Stress the second word: tsur fer-FOO-gung."
+        },
+        {
+          "de": "ins Auge fallen",
+          "hint": "The au sounds like “ow”: ins OW-ge fal-len."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l1-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "b2-m4-l1",
+      "heading": "Idioms and register",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German business language uses collocations more than idioms. “Eine Entscheidung treffen” and “zur Verfügung stellen” appear in almost every formal email."
+        },
+        {
+          "kind": "p",
+          "text": "Idioms such as “ins Fettnäpfchen treten” (to put your foot in it) belong to informal conversation. Using them correctly can build rapport, but they are risky in writing."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l1-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "b2-m4-l1",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "Two colleagues discuss a decision about a new office.",
+      "lines": [
+        {
+          "speaker": "Kollegin",
+          "de": "Welche Rolle spielt der Preis bei der Entscheidung?",
+          "en": "What role does the price play in the decision?"
+        },
+        {
+          "speaker": "Kollege",
+          "de": "Der Preis ist wichtig, aber die Lage fällt stärker ins Auge.",
+          "en": "The price is important, but the location stands out more."
+        },
+        {
+          "speaker": "Kollegin",
+          "de": "Dann nehmen wir längere Wege in Kauf?",
+          "en": "Then we accept longer journeys?"
+        },
+        {
+          "speaker": "Kollege",
+          "de": "Ja, wenn uns mehr Räume zur Verfügung stehen.",
+          "en": "Yes, if more rooms are available to us."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l1-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "b2-m4-l1",
+      "heading": "Collocations in context",
+      "lede": "Learn the noun with its verb and preposition.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "eine Rolle spielen",
+              "role + spielen"
+            ],
+            [
+              "eine Entscheidung treffen",
+              "decision + treffen"
+            ],
+            [
+              "zur Verfügung stehen",
+              "available + dative"
+            ],
+            [
+              "in Kauf nehmen",
+              "accept a drawback"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "A dictionary entry is useful only if it shows the collocation. Note “eine Entscheidung treffen”, not just “Entscheidung = decision”."
+        }
+      ],
+      "tip": "Collect five collocations per week in full sentences. A chunk you can say is worth more than a list you can only recognise."
+    },
+    {
+      "id": "b2-m4-l1-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "b2-m4-l1",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "b2-m4-l1-p-m1",
+          "type": "mcq",
+          "prompt": "Diese Entscheidung ___ eine wichtige Rolle.",
+          "options": [
+            "spielt",
+            "macht",
+            "nimmt",
+            "steht"
+          ],
+          "answer": 0,
+          "explanation": "The collocation is eine Rolle spielen."
+        },
+        {
+          "id": "b2-m4-l1-p-m2",
+          "type": "mcq",
+          "prompt": "Wir nehmen längere Wartezeiten ___.",
+          "options": [
+            "in Kauf",
+            "zur Verfügung",
+            "ins Auge",
+            "auf Rolle"
+          ],
+          "answer": 0,
+          "explanation": "In Kauf nehmen means to accept a drawback."
+        },
+        {
+          "id": "b2-m4-l1-p-m3",
+          "type": "mcq",
+          "prompt": "Der Raum steht allen zur ___.",
+          "options": [
+            "Verfügung",
+            "Verfügen",
+            "verfügbar",
+            "Verfügungen"
+          ],
+          "answer": 0,
+          "explanation": "The fixed phrase is zur Verfügung stehen."
+        },
+        {
+          "id": "b2-m4-l1-p-m4",
+          "type": "mcq",
+          "prompt": "Which verb collocates with Entscheidung?",
+          "options": [
+            "machen",
+            "treffen",
+            "nehmen",
+            "spielen"
+          ],
+          "answer": 1,
+          "explanation": "German says eine Entscheidung treffen."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l1-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "b2-m4-l1",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "b2-m4-l1-p-g1",
+          "type": "gap",
+          "prompt": "Diese Entscheidung spielt eine wichtige ___.",
+          "answers": [
+            "Rolle"
+          ],
+          "explanation": "The collocation is eine Rolle spielen."
+        },
+        {
+          "id": "b2-m4-l1-p-g2",
+          "type": "gap",
+          "prompt": "Wir nehmen längere Wartezeiten in ___.",
+          "answers": [
+            "Kauf"
+          ],
+          "explanation": "The fixed phrase is in Kauf nehmen."
+        },
+        {
+          "id": "b2-m4-l1-p-g3",
+          "type": "gap",
+          "prompt": "Der Fehler fällt sofort ins ___.",
+          "answers": [
+            "Auge"
+          ],
+          "explanation": "Ins Auge fallen means to stand out."
+        },
+        {
+          "id": "b2-m4-l1-p-g4",
+          "type": "gap",
+          "prompt": "Der Raum steht allen zur ___.",
+          "answers": [
+            "Verfügung"
+          ],
+          "explanation": "Zur Verfügung stehen means to be available."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l1-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "b2-m4-l1",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "b2-m4-l1-p-o1",
+          "type": "order",
+          "prompt": "Build: “This decision plays an important role.”",
+          "tokens": [
+            "eine",
+            "Diese",
+            "wichtige",
+            "Entscheidung",
+            "spielt",
+            "Rolle."
+          ],
+          "answer": "Diese Entscheidung spielt eine wichtige Rolle.",
+          "explanation": "Rolle spielen is the fixed collocation."
+        },
+        {
+          "id": "b2-m4-l1-p-o2",
+          "type": "order",
+          "prompt": "Build: “The mistake stands out immediately.”",
+          "tokens": [
+            "sofort",
+            "Der",
+            "ins",
+            "Fehler",
+            "fällt",
+            "Auge."
+          ],
+          "answer": "Der Fehler fällt sofort ins Auge.",
+          "explanation": "Ins Auge fallen is a fixed idiom."
+        },
+        {
+          "id": "b2-m4-l1-p-o3",
+          "type": "order",
+          "prompt": "Build: “The room is available to everyone.”",
+          "tokens": [
+            "allen",
+            "Der",
+            "zur",
+            "Raum",
+            "steht",
+            "Verfügung."
+          ],
+          "answer": "Der Raum steht allen zur Verfügung.",
+          "explanation": "Allen is dative, and zur Verfügung stehen is the fixed phrase."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l1-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "b2-m4-l1",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Ein Gespräch über eine Stellenanzeige",
+      "script": [
+        {
+          "speaker": "Bewerberin",
+          "de": "Welche Rolle spielt die Erfahrung für die Stelle?",
+          "en": "What role does experience play for the position?"
+        },
+        {
+          "speaker": "Personal",
+          "de": "Eine große Rolle. Aber auch die Motivation fällt ins Auge.",
+          "en": "A big role. But motivation also stands out."
+        },
+        {
+          "speaker": "Bewerberin",
+          "de": "Würden Sie auch eine längere Einarbeitung in Kauf nehmen?",
+          "en": "Would you also accept a longer training period?"
+        },
+        {
+          "speaker": "Personal",
+          "de": "Ja, wenn uns dafür mehr Zeit zur Verfügung steht.",
+          "en": "Yes, if we have more time available for it."
+        }
+      ],
+      "questions": [
+        {
+          "id": "b2-m4-l1-l1",
+          "type": "mcq",
+          "prompt": "What plays a big role according to the HR manager?",
+          "options": [
+            "Experience",
+            "The location",
+            "The salary",
+            "The start date"
+          ],
+          "answer": 0,
+          "explanation": "The HR manager says experience plays a big role."
+        },
+        {
+          "id": "b2-m4-l1-l2",
+          "type": "mcq",
+          "prompt": "What does the applicant ask about?",
+          "options": [
+            "A longer training period",
+            "A higher salary",
+            "A later start",
+            "More holiday"
+          ],
+          "answer": 0,
+          "explanation": "The applicant asks about accepting a longer training period."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l1-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "b2-m4-l1",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Use three collocations to describe a recent decision at work or in study.",
+      "model": {
+        "de": "Bei meiner letzten Entscheidung spielte die Zeit eine wichtige Rolle. Wir haben längere Wege in Kauf genommen, weil uns mehr Räume zur Verfügung standen. Der Unterschied fiel sofort ins Auge.",
+        "en": "In my last decision, time played an important role. We accepted longer journeys because more rooms were available to us. The difference stood out immediately."
+      },
+      "tips": [
+        "Say the whole collocation, not just the noun.",
+        "Use one idiom at most in a short answer.",
+        "Check the preposition: zur Verfügung, ins Auge, in Kauf."
+      ]
+    },
+    {
+      "id": "b2-m4-l1-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "b2-m4-l1",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "eine Entscheidung machen",
+          "right": "eine Entscheidung treffen",
+          "why": "German collocates Entscheidung with treffen."
+        },
+        {
+          "wrong": "Der Raum steht allen zur verfügung.",
+          "right": "Der Raum steht allen zur Verfügung.",
+          "why": "Verfügung is a noun and must be capitalised."
+        },
+        {
+          "wrong": "Wir nehmen längere Wartezeiten auf Kauf.",
+          "right": "Wir nehmen längere Wartezeiten in Kauf.",
+          "why": "The fixed expression is in Kauf nehmen."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l1-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "b2-m4-l1",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "b2-m4-l1-a1",
+          "type": "mcq",
+          "prompt": "Diese Entscheidung ___ eine wichtige Rolle.",
+          "options": [
+            "spielt",
+            "macht",
+            "nimmt",
+            "steht"
+          ],
+          "answer": 0,
+          "explanation": "The collocation is eine Rolle spielen."
+        },
+        {
+          "id": "b2-m4-l1-a2",
+          "type": "mcq",
+          "prompt": "Wir nehmen längere Wartezeiten ___.",
+          "options": [
+            "in Kauf",
+            "zur Verfügung",
+            "ins Auge",
+            "auf Rolle"
+          ],
+          "answer": 0,
+          "explanation": "In Kauf nehmen means to accept a drawback."
+        },
+        {
+          "id": "b2-m4-l1-a3",
+          "type": "mcq",
+          "prompt": "Der Raum steht allen zur ___.",
+          "options": [
+            "Verfügung",
+            "Verfügen",
+            "verfügbar",
+            "Verfügungen"
+          ],
+          "answer": 0,
+          "explanation": "The fixed phrase is zur Verfügung stehen."
+        },
+        {
+          "id": "b2-m4-l1-a4",
+          "type": "mcq",
+          "prompt": "Which verb collocates with Entscheidung?",
+          "options": [
+            "machen",
+            "treffen",
+            "nehmen",
+            "spielen"
+          ],
+          "answer": 1,
+          "explanation": "German says eine Entscheidung treffen."
+        },
+        {
+          "id": "b2-m4-l1-a5",
+          "type": "gap",
+          "prompt": "Diese Entscheidung spielt eine wichtige ___.",
+          "answers": [
+            "Rolle"
+          ],
+          "explanation": "The collocation is eine Rolle spielen."
+        },
+        {
+          "id": "b2-m4-l1-a6",
+          "type": "gap",
+          "prompt": "Wir nehmen längere Wartezeiten in ___.",
+          "answers": [
+            "Kauf"
+          ],
+          "explanation": "The fixed phrase is in Kauf nehmen."
+        },
+        {
+          "id": "b2-m4-l1-a7",
+          "type": "gap",
+          "prompt": "Der Fehler fällt sofort ins ___.",
+          "answers": [
+            "Auge"
+          ],
+          "explanation": "Ins Auge fallen means to stand out."
+        },
+        {
+          "id": "b2-m4-l1-a8",
+          "type": "gap",
+          "prompt": "Der Raum steht allen zur ___.",
+          "answers": [
+            "Verfügung"
+          ],
+          "explanation": "Zur Verfügung stehen means to be available."
+        },
+        {
+          "id": "b2-m4-l1-a9",
+          "type": "order",
+          "prompt": "Build: “This decision plays an important role.”",
+          "tokens": [
+            "eine",
+            "Diese",
+            "wichtige",
+            "Entscheidung",
+            "spielt",
+            "Rolle."
+          ],
+          "answer": "Diese Entscheidung spielt eine wichtige Rolle.",
+          "explanation": "Rolle spielen is the fixed collocation."
+        },
+        {
+          "id": "b2-m4-l1-a10",
+          "type": "order",
+          "prompt": "Build: “The mistake stands out immediately.”",
+          "tokens": [
+            "sofort",
+            "Der",
+            "ins",
+            "Fehler",
+            "fällt",
+            "Auge."
+          ],
+          "answer": "Der Fehler fällt sofort ins Auge.",
+          "explanation": "Ins Auge fallen is a fixed idiom."
+        }
+      ]
+    }
+  ]
+}

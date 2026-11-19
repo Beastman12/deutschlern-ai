@@ -1,0 +1,45 @@
+# DeutschLern AI — single-instance deployment (Milestone 9).
+#
+# Copy .env.example to .env, set a strong SESSION_SECRET, then:
+#   docker compose up -d --build
+# No external database or message broker is required: progress and accounts
+# persist in the named volume mounted at DATA_DIR.
+services:
+  app:
+    build: .
+    image: deutschlern-ai:1.0.0
+    container_name: deutschlern-ai
+    restart: unless-stopped
+    ports:
+      - "${PORT:-3000}:3000"
+    environment:
+      NODE_ENV: production
+      PORT: "3000"
+      DATA_DIR: /app/data
+      # Required in production. Compose refuses to start without it, matching
+      # the server's fail-closed readiness behaviour.
+      SESSION_SECRET: ${SESSION_SECRET:?Set SESSION_SECRET in .env before starting}
+      # Optional, server-side only. Leave blank to keep honest unavailable states.
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      OPENAI_MODEL: ${OPENAI_MODEL:-gpt-4o-mini}
+      AZURE_SPEECH_KEY: ${AZURE_SPEECH_KEY:-}
+      AZURE_SPEECH_REGION: ${AZURE_SPEECH_REGION:-}
+      # Optional per-IP limiter tuning (safe defaults are built in).
+      RATE_LOGIN_MAX: ${RATE_LOGIN_MAX:-30}
+      RATE_REGISTER_MAX: ${RATE_REGISTER_MAX:-20}
+      RATE_SYNC_WRITE_MAX: ${RATE_SYNC_WRITE_MAX:-60}
+    volumes:
+      - data:/app/data
+    healthcheck:
+      test:
+        - CMD
+        - node
+        - -e
+        - "fetch('http://127.0.0.1:3000/api/health/ready').then(r=>process.exit(r.status===200?0:1)).catch(()=>process.exit(1))"
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+
+volumes:
+  data:

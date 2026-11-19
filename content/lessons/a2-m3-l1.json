@@ -1,0 +1,698 @@
+{
+  "id": "a2-m3-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "a2-m3-l1-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "a2-m3-l1",
+      "prompt": "Say three things you have to do today, then one thing you are allowed to do.",
+      "items": [
+        "Ich muss heute länger arbeiten.",
+        "können",
+        "müssen",
+        "dürfen"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "a2-m3-l1-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "a2-m3-l1",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "a2-m3-l1-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "a2-m3-l1",
+      "lede": "Modal verbs express ability, obligation, permission and intention — and they push the main verb to the end.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A modal verb takes the second position in the sentence and the main verb moves to the end as an infinitive: Ich muss heute länger arbeiten. The modal is conjugated, the infinitive never changes."
+        },
+        {
+          "kind": "p",
+          "text": "The six core modals are können (can), müssen (must), dürfen (may), wollen (want), sollen (should) and mögen (like). Their ich and er/sie/es forms are identical and often have no ending: ich kann, er kann; ich muss, sie muss."
+        },
+        {
+          "kind": "note",
+          "title": "The sentence bracket",
+          "text": "Think of the modal and the infinitive as two halves of a bracket: Ich [muss] heute länger [arbeiten]. Everything else sits inside it."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l1-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "a2-m3-l1",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "können",
+              "Ich kann gut schwimmen."
+            ],
+            [
+              "müssen",
+              "Du musst jetzt gehen."
+            ],
+            [
+              "dürfen",
+              "Hier darf man nicht rauchen."
+            ],
+            [
+              "wollen / sollen / mögen",
+              "Wir wollen ins Kino. Du sollst warten. Ich mag Kaffee."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The main verb is an infinitive at the very end of the clause.",
+            "Modal verbs have no ending in the ich and er/sie/es forms.",
+            "Use könnte and würde for polite requests: Könnten Sie mir helfen?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l1-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "a2-m3-l1",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "können",
+          "en": "can, to be able to",
+          "example": "Ich kann heute nicht kommen.",
+          "exampleEn": "I cannot come today."
+        },
+        {
+          "de": "müssen",
+          "en": "must, to have to",
+          "example": "Ich muss heute länger arbeiten.",
+          "exampleEn": "I have to work longer today."
+        },
+        {
+          "de": "dürfen",
+          "en": "may, to be allowed to",
+          "example": "Darf ich hier parken?",
+          "exampleEn": "May I park here?"
+        },
+        {
+          "de": "wollen",
+          "en": "to want to",
+          "example": "Wir wollen am Samstag wandern.",
+          "exampleEn": "We want to hike on Saturday."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l1-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "a2-m3-l1",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Ich muss heute länger arbeiten.",
+          "en": "I have to work longer today.",
+          "note": "The infinitive arbeiten closes the sentence."
+        },
+        {
+          "de": "Kannst du mir bitte helfen?",
+          "en": "Can you help me, please?",
+          "note": "The modal starts a yes/no question."
+        },
+        {
+          "de": "Hier darf man nicht rauchen.",
+          "en": "You are not allowed to smoke here.",
+          "note": "The infinitive rauchen goes to the end."
+        },
+        {
+          "de": "Könnten Sie das wiederholen?",
+          "en": "Could you repeat that?",
+          "note": "Könnten is the polite form of können."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l1-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "a2-m3-l1",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "müssen",
+          "hint": "The ü is rounded: say “ee” with rounded lips, then a short -ssen."
+        },
+        {
+          "de": "dürfen",
+          "hint": "The ü is long and rounded; the final -en is soft."
+        },
+        {
+          "de": "können",
+          "hint": "The ö is rounded like the vowel in “bird”, but shorter."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l1-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "a2-m3-l1",
+      "heading": "Rules and permission in Germany",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German public life runs on clear rules, and signs often state what is forbidden rather than what is allowed: “Rauchen verboten”, “Betreten verboten”. Understanding dürfen and müssen helps you read them quickly."
+        },
+        {
+          "kind": "p",
+          "text": "At work, sollen often expresses an instruction from a manager rather than a moral duty. A polite “Soll ich das bis Freitag erledigen?” is a normal way to confirm a task."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l1-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "a2-m3-l1",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "At the office, Lea asks her manager about tomorrow’s schedule.",
+      "lines": [
+        {
+          "speaker": "Lea",
+          "de": "Kann ich morgen später anfangen?",
+          "en": "Can I start later tomorrow?"
+        },
+        {
+          "speaker": "Chef",
+          "de": "Ja, aber du musst bis zehn Uhr im Büro sein.",
+          "en": "Yes, but you have to be in the office by ten."
+        },
+        {
+          "speaker": "Lea",
+          "de": "Danke. Darf ich dann von zu Hause arbeiten?",
+          "en": "Thanks. May I work from home then?"
+        },
+        {
+          "speaker": "Chef",
+          "de": "Das können wir machen. Schick mir bitte eine E-Mail.",
+          "en": "We can do that. Please send me an email."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l1-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "a2-m3-l1",
+      "heading": "Modal verbs and the sentence bracket",
+      "lede": "The modal is conjugated in position two; the main verb stays in the infinitive at the end.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "ich muss … arbeiten",
+              "obligation"
+            ],
+            [
+              "ich kann … kommen",
+              "ability or possibility"
+            ],
+            [
+              "ich darf … rauchen",
+              "permission"
+            ],
+            [
+              "ich möchte … bestellen",
+              "polite wish"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Möchte is the polite form of wollen and is extremely common in shops and restaurants: Ich möchte einen Kaffee, bitte."
+        }
+      ],
+      "tip": "Learn each modal with its ich form first. The ich and er/sie/es forms are the same, which removes half the endings you expected."
+    },
+    {
+      "id": "a2-m3-l1-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "a2-m3-l1",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "a2-m3-l1-p-m1",
+          "type": "mcq",
+          "prompt": "Ich ___ heute länger arbeiten.",
+          "options": [
+            "muss",
+            "musst",
+            "müssen",
+            "müsse"
+          ],
+          "answer": 0,
+          "explanation": "The ich form of müssen is muss, followed by the infinitive at the end."
+        },
+        {
+          "id": "a2-m3-l1-p-m2",
+          "type": "mcq",
+          "prompt": "___ du mir bitte helfen?",
+          "options": [
+            "Kann",
+            "Kannst",
+            "Können",
+            "Könnt"
+          ],
+          "answer": 1,
+          "explanation": "The du form of können is kannst."
+        },
+        {
+          "id": "a2-m3-l1-p-m3",
+          "type": "mcq",
+          "prompt": "Hier ___ man nicht rauchen.",
+          "options": [
+            "darf",
+            "dürfen",
+            "darfst",
+            "dürfte"
+          ],
+          "answer": 0,
+          "explanation": "Man takes the er/sie/es form, which is darf."
+        },
+        {
+          "id": "a2-m3-l1-p-m4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Ich muss arbeiten heute länger.",
+            "Ich muss heute länger arbeiten.",
+            "Ich heute muss länger arbeiten.",
+            "Ich muss heute länger arbeite."
+          ],
+          "answer": 1,
+          "explanation": "The modal is second and the infinitive comes at the end."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l1-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "a2-m3-l1",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "a2-m3-l1-p-g1",
+          "type": "gap",
+          "prompt": "Wir ___ am Samstag wandern. (want)",
+          "answers": [
+            "wollen"
+          ],
+          "explanation": "The wir form of wollen is wollen."
+        },
+        {
+          "id": "a2-m3-l1-p-g2",
+          "type": "gap",
+          "prompt": "Du ___ jetzt gehen. (must)",
+          "answers": [
+            "musst"
+          ],
+          "explanation": "The du form of müssen is musst."
+        },
+        {
+          "id": "a2-m3-l1-p-g3",
+          "type": "gap",
+          "prompt": "___ ich hier parken? (may)",
+          "answers": [
+            "Darf"
+          ],
+          "explanation": "The ich form of dürfen is darf."
+        },
+        {
+          "id": "a2-m3-l1-p-g4",
+          "type": "gap",
+          "prompt": "Sie ___ sehr gut Klavier spielen. (can)",
+          "answers": [
+            "kann"
+          ],
+          "explanation": "The er/sie/es form of können is kann."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l1-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "a2-m3-l1",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "a2-m3-l1-p-o1",
+          "type": "order",
+          "prompt": "Build: “I have to work longer today.”",
+          "tokens": [
+            "heute",
+            "muss",
+            "Ich",
+            "länger",
+            "arbeiten."
+          ],
+          "answer": "Ich muss heute länger arbeiten.",
+          "explanation": "The modal muss is second; the infinitive closes the sentence."
+        },
+        {
+          "id": "a2-m3-l1-p-o2",
+          "type": "order",
+          "prompt": "Build: “Can you help me?”",
+          "tokens": [
+            "mir",
+            "Kannst",
+            "helfen?",
+            "du"
+          ],
+          "answer": "Kannst du mir helfen?",
+          "explanation": "A yes/no question starts with the modal, then the subject."
+        },
+        {
+          "id": "a2-m3-l1-p-o3",
+          "type": "order",
+          "prompt": "Build: “We want to go to the cinema.”",
+          "tokens": [
+            "ins",
+            "wollen",
+            "Wir",
+            "Kino",
+            "gehen."
+          ],
+          "answer": "Wir wollen ins Kino gehen.",
+          "explanation": "The infinitive gehen sits at the end after the place phrase."
+        },
+        {
+          "id": "a2-m3-l1-p-o4",
+          "type": "order",
+          "prompt": "Build: “I can come tomorrow.”",
+          "tokens": [
+            "morgen",
+            "kann",
+            "Ich",
+            "kommen."
+          ],
+          "answer": "Ich kann morgen kommen.",
+          "explanation": "The modal kann is second; the infinitive kommen is at the end."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l1-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "a2-m3-l1",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Am Telefon",
+      "script": [
+        {
+          "speaker": "Kunde",
+          "de": "Guten Tag, kann ich meinen Termin verschieben?",
+          "en": "Hello, can I move my appointment?"
+        },
+        {
+          "speaker": "Praxis",
+          "de": "Ja, das können wir machen. Wann möchten Sie kommen?",
+          "en": "Yes, we can do that. When would you like to come?"
+        },
+        {
+          "speaker": "Kunde",
+          "de": "Am Donnerstag. Ich muss aber bis vier Uhr arbeiten.",
+          "en": "On Thursday. But I have to work until four."
+        },
+        {
+          "speaker": "Praxis",
+          "de": "Dann geben wir Ihnen einen Termin um halb fünf.",
+          "en": "Then we will give you an appointment at half past four."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a2-m3-l1-l1",
+          "type": "mcq",
+          "prompt": "What does the customer want to do?",
+          "options": [
+            "Cancel an appointment",
+            "Move an appointment",
+            "Pay a bill",
+            "Order a prescription"
+          ],
+          "answer": 1,
+          "explanation": "The customer asks “Kann ich meinen Termin verschieben?”, to move the appointment."
+        },
+        {
+          "id": "a2-m3-l1-l2",
+          "type": "mcq",
+          "prompt": "Why can’t the customer come before four?",
+          "options": [
+            "He is travelling",
+            "He has to work",
+            "He is ill",
+            "He has no car"
+          ],
+          "answer": 1,
+          "explanation": "He says “Ich muss aber bis vier Uhr arbeiten.”"
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l1-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "a2-m3-l1",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Say two things you must do this week and one thing you are allowed to do. Use modal verbs.",
+      "model": {
+        "de": "Ich muss am Montag arbeiten. Ich muss auch meine Eltern anrufen. Am Freitag darf ich früher nach Hause gehen.",
+        "en": "I have to work on Monday. I also have to call my parents. On Friday I may go home earlier."
+      },
+      "tips": [
+        "Keep the modal in second position and the infinitive at the end.",
+        "Use darf for permission and muss for obligation.",
+        "Add a time phrase such as am Montag directly after the modal."
+      ]
+    },
+    {
+      "id": "a2-m3-l1-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "a2-m3-l1",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Ich muss heute länger arbeite.",
+          "right": "Ich muss heute länger arbeiten.",
+          "why": "After a modal verb, the main verb stays in the infinitive."
+        },
+        {
+          "wrong": "Ich kann nicht komme.",
+          "right": "Ich kann nicht kommen.",
+          "why": "The main verb is an infinitive at the end."
+        },
+        {
+          "wrong": "Darf ich hier parken darf?",
+          "right": "Darf ich hier parken?",
+          "why": "The modal appears once, at the start of the yes/no question."
+        }
+      ]
+    },
+    {
+      "id": "a2-m3-l1-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "a2-m3-l1",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "a2-m3-l1-a1",
+          "type": "mcq",
+          "prompt": "Ich ___ heute länger arbeiten.",
+          "options": [
+            "muss",
+            "musst",
+            "müssen",
+            "müsse"
+          ],
+          "answer": 0,
+          "explanation": "The ich form of müssen is muss, followed by the infinitive at the end."
+        },
+        {
+          "id": "a2-m3-l1-a2",
+          "type": "mcq",
+          "prompt": "___ du mir bitte helfen?",
+          "options": [
+            "Kann",
+            "Kannst",
+            "Können",
+            "Könnt"
+          ],
+          "answer": 1,
+          "explanation": "The du form of können is kannst."
+        },
+        {
+          "id": "a2-m3-l1-a3",
+          "type": "mcq",
+          "prompt": "Hier ___ man nicht rauchen.",
+          "options": [
+            "darf",
+            "dürfen",
+            "darfst",
+            "dürfte"
+          ],
+          "answer": 0,
+          "explanation": "Man takes the er/sie/es form, which is darf."
+        },
+        {
+          "id": "a2-m3-l1-a4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "Ich muss arbeiten heute länger.",
+            "Ich muss heute länger arbeiten.",
+            "Ich heute muss länger arbeiten.",
+            "Ich muss heute länger arbeite."
+          ],
+          "answer": 1,
+          "explanation": "The modal is second and the infinitive comes at the end."
+        },
+        {
+          "id": "a2-m3-l1-a5",
+          "type": "gap",
+          "prompt": "Wir ___ am Samstag wandern. (want)",
+          "answers": [
+            "wollen"
+          ],
+          "explanation": "The wir form of wollen is wollen."
+        },
+        {
+          "id": "a2-m3-l1-a6",
+          "type": "gap",
+          "prompt": "Du ___ jetzt gehen. (must)",
+          "answers": [
+            "musst"
+          ],
+          "explanation": "The du form of müssen is musst."
+        },
+        {
+          "id": "a2-m3-l1-a7",
+          "type": "gap",
+          "prompt": "___ ich hier parken? (may)",
+          "answers": [
+            "Darf"
+          ],
+          "explanation": "The ich form of dürfen is darf."
+        },
+        {
+          "id": "a2-m3-l1-a8",
+          "type": "gap",
+          "prompt": "Sie ___ sehr gut Klavier spielen. (can)",
+          "answers": [
+            "kann"
+          ],
+          "explanation": "The er/sie/es form of können is kann."
+        },
+        {
+          "id": "a2-m3-l1-a9",
+          "type": "order",
+          "prompt": "Build: “I have to work longer today.”",
+          "tokens": [
+            "heute",
+            "muss",
+            "Ich",
+            "länger",
+            "arbeiten."
+          ],
+          "answer": "Ich muss heute länger arbeiten.",
+          "explanation": "The modal muss is second; the infinitive closes the sentence."
+        },
+        {
+          "id": "a2-m3-l1-a10",
+          "type": "order",
+          "prompt": "Build: “Can you help me?”",
+          "tokens": [
+            "mir",
+            "Kannst",
+            "helfen?",
+            "du"
+          ],
+          "answer": "Kannst du mir helfen?",
+          "explanation": "A yes/no question starts with the modal, then the subject."
+        },
+        {
+          "id": "a2-m3-l1-a11",
+          "type": "order",
+          "prompt": "Build: “We want to go to the cinema.”",
+          "tokens": [
+            "ins",
+            "wollen",
+            "Wir",
+            "Kino",
+            "gehen."
+          ],
+          "answer": "Wir wollen ins Kino gehen.",
+          "explanation": "The infinitive gehen sits at the end after the place phrase."
+        },
+        {
+          "id": "a2-m3-l1-a12",
+          "type": "order",
+          "prompt": "Build: “I can come tomorrow.”",
+          "tokens": [
+            "morgen",
+            "kann",
+            "Ich",
+            "kommen."
+          ],
+          "answer": "Ich kann morgen kommen.",
+          "explanation": "The modal kann is second; the infinitive kommen is at the end."
+        }
+      ]
+    }
+  ]
+}

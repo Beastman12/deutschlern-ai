@@ -1,0 +1,634 @@
+{
+  "id": "b2-m1-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "prompt": "Read each pair aloud. Notice how the verb phrase becomes a noun phrase.",
+      "items": [
+        "Wir führen das Projekt durch. → die Durchführung des Projekts",
+        "Die Regierung entscheidet. → die Entscheidung der Regierung",
+        "Das Unternehmen entwickelt Produkte. → die Entwicklung neuer Produkte",
+        "Wir prüfen die Unterlagen. → die Prüfung der Unterlagen"
+      ],
+      "lede": "Two minutes of reading shows the basic trade: a verb becomes a noun, and the details become attributes."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "Nominalisation turns actions into nouns. It makes German compact and formal — and, if overused, difficult to read.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German formal writing often prefers nouns to verbs. Instead of saying who does something, it names the action itself: durchführen becomes die Durchführung, entscheiden becomes die Entscheidung. The result is a dense noun phrase that fits neatly into reports, headings and academic prose."
+        },
+        {
+          "kind": "de",
+          "text": "Die Durchführung des Projekts wurde verschoben.",
+          "en": "The implementation of the project was postponed."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The verb's subject often becomes a genitive attribute: die Entscheidung der Regierung.",
+            "The verb's object can also become genitive: die Prüfung der Unterlagen.",
+            "A whole clause can shrink to a prepositional phrase: nach Prüfung der Unterlagen = after the documents have been checked.",
+            "Nominal style is not automatically better. It hides the agent, so responsibility can disappear from the sentence."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "The B2 skill",
+          "text": "You do not need to write every sentence in nominal style. You need to recognise it when you read and to choose it deliberately when a report, heading or formal summary calls for density."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "Three suffix families and one infinitive pattern cover most noun formations you will meet.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Pattern", "Base", "Noun", "English"],
+          "rows": [
+            ["-ung (feminine)", "durchführen", "die Durchführung", "the implementation"],
+            ["-ung (feminine)", "entscheiden", "die Entscheidung", "the decision"],
+            ["-ung (feminine)", "entwickeln", "die Entwicklung", "the development"],
+            ["-heit / -keit (feminine)", "möglich", "die Möglichkeit", "the possibility"],
+            ["-heit / -keit (feminine)", "schwierig", "die Schwierigkeit", "the difficulty"],
+            ["infinitive as neuter noun", "lesen", "das Lesen", "reading"],
+            ["infinitive as neuter noun", "warten", "das Warten", "waiting"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Nouns in -ung, -heit and -keit are always feminine: die Durchführung, die Freiheit, die Möglichkeit.",
+            "Infinitives used as nouns are neuter and take a capital letter: das Lesen, das Rauchen, das Warten.",
+            "The genitive attribute usually follows the noun: die Entwicklung des Projekts, die Prüfung der Unterlagen.",
+            "In the plural genitive, the article often disappears: die Entwicklung neuer Produkte.",
+            "Formal phrases often use a preposition plus noun: nach Prüfung, vor Beginn, bei Bedarf, aus Gründen der Sicherheit."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Watch the chain",
+          "text": "Long genitive chains are a hallmark of bureaucratic German: die Durchführung der Prüfung der Unterlagen der Bewerber. One genitive is usually enough; two already need care."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These nouns are common in reports and project documents. Learn the article with each one.",
+      "items": [
+        {
+          "de": "die Durchführung",
+          "en": "the implementation / carrying out",
+          "article": "die",
+          "plural": "die Durchführungen",
+          "pronunciation": "ˈdʊʁçfyːʁʊŋ",
+          "example": "Die Durchführung des Projekts wurde verschoben.",
+          "exampleEn": "The implementation of the project was postponed."
+        },
+        {
+          "de": "die Entscheidung",
+          "en": "the decision",
+          "article": "die",
+          "plural": "die Entscheidungen",
+          "pronunciation": "ɛntˈʃaɪ̯dʊŋ",
+          "example": "Die Entscheidung über den Antrag fällt morgen.",
+          "exampleEn": "The decision on the application will be made tomorrow."
+        },
+        {
+          "de": "die Entwicklung",
+          "en": "the development",
+          "article": "die",
+          "plural": "die Entwicklungen",
+          "pronunciation": "ɛntˈvɪklʊŋ",
+          "example": "Die Entwicklung neuer Produkte erfordert Geduld.",
+          "exampleEn": "The development of new products requires patience."
+        },
+        {
+          "de": "die Möglichkeit",
+          "en": "the possibility / opportunity",
+          "article": "die",
+          "plural": "die Möglichkeiten",
+          "pronunciation": "ˈmøːklɪçkaɪ̯t",
+          "example": "Es besteht die Möglichkeit, den Termin zu verschieben.",
+          "exampleEn": "There is the possibility of postponing the appointment."
+        },
+        {
+          "de": "die Anforderung",
+          "en": "the requirement",
+          "article": "die",
+          "plural": "die Anforderungen",
+          "pronunciation": "ˈanfɔʁdəʁʊŋ",
+          "example": "Die Anforderungen an die Bewerber sind hoch.",
+          "exampleEn": "The requirements for the applicants are high."
+        },
+        {
+          "de": "erfordern",
+          "en": "to require",
+          "pronunciation": "ɛɐ̯ˈfɔʁdɐn",
+          "example": "Die Aufgabe erfordert viel Konzentration.",
+          "exampleEn": "The task requires a lot of concentration."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Each sentence is typical of a report, a formal email or an academic summary.",
+      "items": [
+        {
+          "de": "Die Durchführung des Projekts wurde verschoben.",
+          "en": "The implementation of the project was postponed.",
+          "note": "des Projekts is the genitive attribute that replaces the verb's object."
+        },
+        {
+          "de": "Die Entscheidung über den Antrag fällt morgen.",
+          "en": "The decision on the application will be made tomorrow.",
+          "note": "über den Antrag stays a prepositional phrase after the noun."
+        },
+        {
+          "de": "Die Entwicklung neuer Produkte erfordert Geduld.",
+          "en": "The development of new products requires patience.",
+          "note": "neuer Produkte is a plural genitive with no article."
+        },
+        {
+          "de": "Es besteht die Möglichkeit, den Termin zu verschieben.",
+          "en": "There is the possibility of postponing the appointment.",
+          "note": "The infinitive clause with zu replaces a full that-clause."
+        },
+        {
+          "de": "Nach Prüfung der Unterlagen erhalten Sie eine Antwort.",
+          "en": "After the documents have been checked, you will receive an answer.",
+          "note": "nach + noun is a compact formal alternative to nachdem wir die Unterlagen geprüft haben."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 4,
+      "lede": "Long nouns need a clear stressed syllable. The ending -ung is never stressed.",
+      "items": [
+        {
+          "de": "Durchführung",
+          "hint": "Stress the first syllable: DURCH-füh-rung. Round the lips for ü and keep ch soft after it.",
+          "en": "implementation"
+        },
+        {
+          "de": "Entscheidung",
+          "hint": "Stress the second syllable: ent-SCHEI-dung. Say sch cleanly and glide ei from a to i.",
+          "en": "decision"
+        },
+        {
+          "de": "Entwicklung",
+          "hint": "Stress the second syllable: ent-WICK-lung. The w is like English v.",
+          "en": "development"
+        },
+        {
+          "de": "Möglichkeit",
+          "hint": "Stress the first syllable: MÖG-lich-keit. Round the lips for ö and keep the ch soft.",
+          "en": "possibility"
+        },
+        {
+          "de": "erfordern",
+          "hint": "Stress the second syllable: er-FOR-dern. The unstressed prefix er- is light and short.",
+          "en": "to require"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Nominal style and the plain-language debate",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German official letters, forms and administrative notices have a long tradition of noun-heavy style. Phrases such as nach Prüfung der Unterlagen or bei Bedarf sound impersonal and authoritative, which is exactly why institutions use them."
+        },
+        {
+          "kind": "p",
+          "text": "Plain-language movements argue that this style can exclude readers, especially in health, legal and government communication. Many public bodies now try to replace long nominal phrases with clearer verbs, while academic and legal texts continue to value density and precision."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lede": "Two colleagues revise a report that has become too noun-heavy.",
+      "setting": "An editorial meeting in a public relations team",
+      "lines": [
+        { "speaker": "Lena", "de": "Dieser Absatz ist kaum lesbar. Kannst du ihn kürzen?", "en": "This paragraph is barely readable. Can you shorten it?" },
+        { "speaker": "Tobias", "de": "Ich habe versucht, die Durchführung der Maßnahmen verständlich zu beschreiben.", "en": "I tried to describe the implementation of the measures in an understandable way." },
+        { "speaker": "Lena", "de": "Die Nominalisierung macht den Text schwer. Schreib lieber: Wir führen die Maßnahmen im Mai durch.", "en": "The nominalisation makes the text heavy. Better write: We will carry out the measures in May." },
+        { "speaker": "Tobias", "de": "Aber in einem Bericht klingt das weniger formal.", "en": "But in a report that sounds less formal." },
+        { "speaker": "Lena", "de": "Formal heißt nicht automatisch kompliziert. Ein klares Verb ist oft überzeugender.", "en": "Formal does not automatically mean complicated. A clear verb is often more convincing." },
+        { "speaker": "Tobias", "de": "Einverstanden. Ich ersetze die Nominalisierung durch einen aktiven Satz.", "en": "Agreed. I will replace the nominalisation with an active sentence." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "heading": "From clause to noun phrase",
+      "lede": "The conversion follows a reliable pattern: verb → noun, subject → genitive, object → genitive or prepositional phrase.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Verbal sentence", "Nominal phrase", "What changed"],
+          "rows": [
+            ["Wir führen das Projekt durch.", "die Durchführung des Projekts", "verb → noun; object → genitive"],
+            ["Die Regierung entscheidet über den Antrag.", "die Entscheidung der Regierung über den Antrag", "subject → genitive; preposition stays"],
+            ["Das Unternehmen entwickelt neue Produkte.", "die Entwicklung neuer Produkte", "object → plural genitive without article"],
+            ["Wir prüfen die Unterlagen.", "die Prüfung der Unterlagen", "object → genitive"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Keep the article: die Durchführung, die Entscheidung, die Entwicklung.",
+            "If the noun phrase is the subject, the sentence still needs a verb: Die Durchführung wurde verschoben.",
+            "If the noun phrase is an adverbial, use a preposition: nach Prüfung, vor Beginn, bei Bedarf.",
+            "Add the agent when responsibility matters: Die Entscheidung der Regierung — not just die Entscheidung.",
+            "Prefer a verb when you want clarity: Wir haben entschieden, dass …"
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Editing test",
+          "text": "Read the sentence aloud. If you have to pause twice to find the main noun, the nominal phrase is too long for its purpose."
+        }
+      ],
+      "tip": "Ask “who does what to whom?” before you nominalise. Whatever disappears from the answer is the information your reader may lose."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Check noun formation, gender and the meaning of the nominal phrase.",
+      "exercises": [
+        {
+          "id": "b2m1l2-p1",
+          "type": "mcq",
+          "prompt": "Which noun belongs to the verb entscheiden?",
+          "options": ["die Entscheidung", "das Entscheiden", "die Entschiedenheit", "der Entscheid"],
+          "answer": 0,
+          "explanation": "entscheiden → die Entscheidung. The suffix -ung forms a feminine noun."
+        },
+        {
+          "id": "b2m1l2-p2",
+          "type": "mcq",
+          "prompt": "Which sentence is the correct nominal version of “Wir prüfen den Antrag”?",
+          "options": [
+            "Die Prüfung des Antrags",
+            "Die Prüfung den Antrag",
+            "Das Prüfen dem Antrag",
+            "Der Prüfung des Antrags"
+          ],
+          "answer": 0,
+          "explanation": "prüfen → die Prüfung; the object den Antrag becomes the genitive des Antrags."
+        },
+        {
+          "id": "b2m1l2-p3",
+          "type": "mcq",
+          "prompt": "Which gender do nouns ending in -ung have?",
+          "options": ["masculine", "feminine", "neuter", "it depends on the verb"],
+          "answer": 1,
+          "explanation": "All nouns in -ung are feminine: die Durchführung, die Entwicklung, die Prüfung."
+        },
+        {
+          "id": "b2m1l2-p4",
+          "type": "mcq",
+          "prompt": "What does “die Entwicklung neuer Produkte” mean?",
+          "options": [
+            "the development of new products",
+            "the developers of new products",
+            "the products developed recently",
+            "the new development of products"
+          ],
+          "answer": 0,
+          "explanation": "neuer Produkte is a plural genitive: the development of new products."
+        },
+        {
+          "id": "b2m1l2-p5",
+          "type": "mcq",
+          "prompt": "Which version is clearer and more direct?",
+          "options": [
+            "Die Vornahme einer Prüfung der Unterlagen erfolgt durch die Abteilung.",
+            "Die Abteilung prüft die Unterlagen.",
+            "Die Unterlagen finden eine Prüfung durch die Abteilung.",
+            "Es erfolgt eine Unterlagenprüfung."
+          ],
+          "answer": 1,
+          "explanation": "The active sentence names the agent and uses a clear verb. The other versions hide who is responsible."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing noun. Watch the article and the capital letter.",
+      "exercises": [
+        {
+          "id": "b2m1l2-g1",
+          "type": "gap",
+          "prompt": "Die ___ des Projekts wurde verschoben.",
+          "answers": ["Durchführung"],
+          "explanation": "durchführen → die Durchführung = the implementation."
+        },
+        {
+          "id": "b2m1l2-g2",
+          "type": "gap",
+          "prompt": "Die ___ über den Antrag fällt morgen.",
+          "answers": ["Entscheidung"],
+          "explanation": "entscheiden → die Entscheidung = the decision."
+        },
+        {
+          "id": "b2m1l2-g3",
+          "type": "gap",
+          "prompt": "Die ___ neuer Produkte erfordert Geduld.",
+          "answers": ["Entwicklung"],
+          "explanation": "entwickeln → die Entwicklung = the development."
+        },
+        {
+          "id": "b2m1l2-g4",
+          "type": "gap",
+          "prompt": "Es besteht die ___, den Termin zu verschieben.",
+          "answers": ["Möglichkeit"],
+          "explanation": "möglich → die Möglichkeit = the possibility."
+        },
+        {
+          "id": "b2m1l2-g5",
+          "type": "gap",
+          "prompt": "Die ___ an die Bewerber sind hoch.",
+          "answers": ["Anforderungen"],
+          "explanation": "die Anforderung → die Anforderungen (plural) = the requirements."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Build each formal sentence. Keep the genitive attribute directly after its noun.",
+      "exercises": [
+        {
+          "id": "b2m1l2-o1",
+          "type": "order",
+          "prompt": "Build: “The implementation of the project was postponed.”",
+          "tokens": ["des", "Die", "wurde", "Projekts", "Durchführung", "verschoben"],
+          "answer": "Die Durchführung des Projekts wurde verschoben.",
+          "explanation": "Die Durchführung is the subject; des Projekts is the genitive attribute."
+        },
+        {
+          "id": "b2m1l2-o2",
+          "type": "order",
+          "prompt": "Build: “The decision on the application will be made tomorrow.”",
+          "tokens": ["morgen", "Die", "über", "Entscheidung", "den", "fällt", "Antrag"],
+          "answer": "Die Entscheidung über den Antrag fällt morgen.",
+          "explanation": "The prepositional phrase über den Antrag stays after the noun."
+        },
+        {
+          "id": "b2m1l2-o3",
+          "type": "order",
+          "prompt": "Build: “The development of new products requires patience.”",
+          "tokens": ["Geduld", "Die", "neuer", "Entwicklung", "erfordert", "Produkte"],
+          "answer": "Die Entwicklung neuer Produkte erfordert Geduld.",
+          "explanation": "neuer Produkte is a plural genitive with no article."
+        },
+        {
+          "id": "b2m1l2-o4",
+          "type": "order",
+          "prompt": "Build: “After the documents have been checked, you will receive an answer.”",
+          "tokens": ["Sie", "Prüfung", "eine", "Nach", "der", "erhalten", "Unterlagen", "Antwort"],
+          "answer": "Nach Prüfung der Unterlagen erhalten Sie eine Antwort.",
+          "explanation": "nach + noun replaces a subordinate clause; the main clause begins with erhalten."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice. The speakers discuss a report and its style.",
+      "speaker": "Two colleagues in a communications team",
+      "script": [
+        { "speaker": "Nina", "de": "Hast du den Bericht zur Durchführung des Projekts schon gelesen?", "en": "Have you already read the report on the implementation of the project?" },
+        { "speaker": "Paul", "de": "Ja, aber der Text ist voller Nominalisierungen. Die Entscheidung über die nächsten Schritte fehlt völlig.", "en": "Yes, but the text is full of nominalisations. The decision on the next steps is completely missing." },
+        { "speaker": "Nina", "de": "Dann formulieren wir die wichtigsten Sätze mit Verben neu.", "en": "Then let us reformulate the most important sentences with verbs." },
+        { "speaker": "Paul", "de": "Gute Idee. Aus „die Prüfung der Unterlagen“ machen wir „wir prüfen die Unterlagen“.", "en": "Good idea. We will turn “the checking of the documents” into “we check the documents”." },
+        { "speaker": "Nina", "de": "Und die Entwicklung neuer Produkte beschreiben wir in einem eigenen Absatz.", "en": "And we will describe the development of new products in a separate paragraph." }
+      ],
+      "questions": [
+        {
+          "id": "b2m1l2-lq1",
+          "type": "mcq",
+          "prompt": "What is Paul's main criticism of the report?",
+          "options": ["It is too short.", "It contains too many nominalisations.", "It has no title.", "It was written in English."],
+          "answer": 1,
+          "explanation": "Paul says: der Text ist voller Nominalisierungen."
+        },
+        {
+          "id": "b2m1l2-lq2",
+          "type": "mcq",
+          "prompt": "What are Nina and Paul going to do?",
+          "options": ["Delete the report", "Rewrite key sentences with verbs", "Postpone the project", "Hire a translator"],
+          "answer": 1,
+          "explanation": "Nina suggests reformulating the most important sentences with verbs."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Practise moving between verbal and nominal style. Say both versions aloud.",
+      "prompt": "Summarise a project update in three sentences. Use at least two nominal phrases and then explain one of them with a verbal sentence.",
+      "model": {
+        "de": "Die Durchführung des Projekts läuft planmäßig. Die Entscheidung über das Budget fällt nächste Woche. Wir prüfen derzeit die Unterlagen der Bewerber, damit wir die passenden Kandidaten einladen können.",
+        "en": "The implementation of the project is on schedule. The decision on the budget will be made next week. We are currently checking the applicants' documents so that we can invite the right candidates."
+      },
+      "tips": [
+        "Say the noun phrase first, then repeat the same idea with a verb: die Prüfung der Unterlagen → wir prüfen die Unterlagen.",
+        "Stress the main noun, not the ending -ung.",
+        "Use nominal style for headings and summaries, but keep the spoken explanation verbal."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "Most errors concern gender, the genitive and the temptation to nominalise everything.",
+      "items": [
+        {
+          "wrong": "der Durchführung",
+          "right": "die Durchführung",
+          "why": "Nouns in -ung are feminine: die Durchführung, die Entwicklung, die Entscheidung."
+        },
+        {
+          "wrong": "die Prüfung den Antrag",
+          "right": "die Prüfung des Antrags",
+          "why": "The object of the verb becomes a genitive attribute: den Antrag → des Antrags."
+        },
+        {
+          "wrong": "Die Entscheidung wird morgen gefällt.",
+          "right": "Die Entscheidung fällt morgen.",
+          "why": "German says eine Entscheidung treffen or die Entscheidung fällt. gefällt would mean “pleases”."
+        },
+        {
+          "wrong": "Die Durchführung der Prüfung der Unterlagen der Bewerber erfolgte.",
+          "right": "Die Unterlagen der Bewerber wurden geprüft.",
+          "why": "Too many genitives hide the action. A clear passive or active sentence is easier to read."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions. Score 70% or more to unlock the next lesson. You can retake this check as often as you need.",
+      "questions": [
+        {
+          "id": "b2m1l2-a1",
+          "type": "mcq",
+          "prompt": "Which noun is derived from the verb entwickeln?",
+          "options": ["die Entwicklung", "die Entwickelung", "das Entwickeln", "der Entwicklung"],
+          "answer": 0,
+          "explanation": "entwickeln → die Entwicklung. The standard noun is feminine."
+        },
+        {
+          "id": "b2m1l2-a2",
+          "type": "mcq",
+          "prompt": "Which phrase correctly means “the decision of the government”?",
+          "options": ["die Entscheidung der Regierung", "die Entscheidung die Regierung", "der Entscheidung der Regierung", "die Entscheidung von der Regierung"],
+          "answer": 0,
+          "explanation": "The subject becomes a genitive attribute: die Entscheidung der Regierung."
+        },
+        {
+          "id": "b2m1l2-a3",
+          "type": "mcq",
+          "prompt": "What is the plural genitive in “die Entwicklung neuer Produkte”?",
+          "options": ["neue Produkte", "neuer Produkte", "neuen Produkte", "der neue Produkte"],
+          "answer": 1,
+          "explanation": "In the plural genitive without an article, the adjective takes -er: neuer Produkte."
+        },
+        {
+          "id": "b2m1l2-a4",
+          "type": "mcq",
+          "prompt": "Which sentence uses nominal style?",
+          "options": [
+            "Wir prüfen die Unterlagen.",
+            "Die Prüfung der Unterlagen dauert zwei Tage.",
+            "Wir haben die Unterlagen geprüft.",
+            "Die Unterlagen werden geprüft."
+          ],
+          "answer": 1,
+          "explanation": "Nominal style turns the action into a noun: die Prüfung."
+        },
+        {
+          "id": "b2m1l2-a5",
+          "type": "mcq",
+          "prompt": "Why can nominal style be a problem in official communication?",
+          "options": [
+            "It makes sentences too short.",
+            "It can hide who is responsible for an action.",
+            "It uses too many personal pronouns.",
+            "It is only used in spoken German."
+          ],
+          "answer": 1,
+          "explanation": "When the verb disappears, the agent often disappears too, so responsibility becomes unclear."
+        },
+        {
+          "id": "b2m1l2-a6",
+          "type": "gap",
+          "prompt": "Die ___ des Projekts wurde verschoben.",
+          "answers": ["Durchführung"],
+          "explanation": "durchführen → die Durchführung = the implementation."
+        },
+        {
+          "id": "b2m1l2-a7",
+          "type": "gap",
+          "prompt": "Die ___ über den Antrag fällt morgen.",
+          "answers": ["Entscheidung"],
+          "explanation": "entscheiden → die Entscheidung = the decision."
+        },
+        {
+          "id": "b2m1l2-a8",
+          "type": "gap",
+          "prompt": "Es besteht die ___, den Termin zu verschieben.",
+          "answers": ["Möglichkeit"],
+          "explanation": "möglich → die Möglichkeit = the possibility."
+        },
+        {
+          "id": "b2m1l2-a9",
+          "type": "gap",
+          "prompt": "Die ___ an die Bewerber sind hoch.",
+          "answers": ["Anforderungen"],
+          "explanation": "die Anforderung → die Anforderungen = the requirements."
+        },
+        {
+          "id": "b2m1l2-a10",
+          "type": "order",
+          "prompt": "Build: “The implementation of the project was postponed.”",
+          "tokens": ["des", "Die", "wurde", "Projekts", "Durchführung", "verschoben"],
+          "answer": "Die Durchführung des Projekts wurde verschoben.",
+          "explanation": "Subject + genitive attribute + passive verb."
+        },
+        {
+          "id": "b2m1l2-a11",
+          "type": "order",
+          "prompt": "Build: “The development of new products requires patience.”",
+          "tokens": ["Geduld", "Die", "neuer", "Entwicklung", "erfordert", "Produkte"],
+          "answer": "Die Entwicklung neuer Produkte erfordert Geduld.",
+          "explanation": "The plural genitive neuer Produkte follows the noun."
+        },
+        {
+          "id": "b2m1l2-a12",
+          "type": "mcq",
+          "prompt": "Which ending is typical for feminine nouns formed from adjectives, as in möglich → die Möglichkeit?",
+          "options": ["-ung", "-keit", "-chen", "-er"],
+          "answer": 1,
+          "explanation": "Adjectives commonly form feminine nouns with -heit or -keit: die Möglichkeit, die Schwierigkeit."
+        }
+      ]
+    }
+  ]
+}

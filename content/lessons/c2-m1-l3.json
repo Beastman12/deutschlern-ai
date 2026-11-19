@@ -1,0 +1,655 @@
+{
+  "id": "c2-m1-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 3,
+      "prompt": "Read these lines aloud. They are all standard German — just not all from the same country.",
+      "items": [
+        "Im Jänner kaufe ich am liebsten frische Semmeln.",
+        "In der Schweiz sagt man Velo statt Fahrrad.",
+        "Diese Redewendung ist im Süden geläufiger als im Norden."
+      ],
+      "lede": "German is a pluricentric language. Today you will learn to hear the centres."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will recognise national standard forms and place them correctly."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 5,
+      "lede": "Standard German is a spectrum, not a single voice. Germany, Austria and Switzerland each have a standard variety with its own vocabulary and spelling conventions.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Learners often meet Austrian or Swiss words and assume they are dialect. Many are not. Jänner, Semmel and Velo are standard words in their national varieties, used in newspapers, schools and official documents. Dialect is a different layer: it changes pronunciation and grammar far more radically and is usually spoken rather than written."
+        },
+        {
+          "kind": "de",
+          "text": "Diese Redewendung ist im Süden geläufiger als im Norden.",
+          "en": "This expression is more common in the south than in the north."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Austrian German uses Jänner for January, Semmel for bread roll and Sackerl for bag.",
+            "Swiss Standard German writes ss instead of ß: Strasse, gross, heissen.",
+            "Swiss German also prefers Velo to Fahrrad and uses Sack where Germany uses Tüte.",
+            "Vocabulary varies more than grammar. The most visible differences concern food, everyday objects and months.",
+            "Regional colour is not automatically appropriate. A national standard form belongs in a text from that country; a dialect form usually does not belong in formal writing at all."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "A question of level",
+          "text": "Ask two questions about a regional form: Is it standard or dialect? And which national variety does the text belong to? The answers decide whether the form is a resource or a mismatch."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "Four principles keep regional German accurate and respectful.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Principle", "What it means", "Example"],
+          "rows": [
+            ["National standards are equal", "Austrian and Swiss standard forms are not errors.", "Jänner is standard in Austria, not a misspelling of Januar."],
+            ["Spelling follows the nation", "Swiss texts use ss, Austrian and German texts use ß.", "Strasse in Zurich, Straße in Vienna and Berlin."],
+            ["Vocabulary is the visible layer", "Food and everyday objects differ most.", "Semmel, Sackerl, Marille, Velo, Sack."],
+            ["Consistency beats purism", "Choose one variety and keep it.", "Do not mix Jänner and Januar in the same report."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Austrian German is a national standard variety, not a dialect of German. It has its own dictionary, the Österreichisches Wörterbuch.",
+            "Swiss Standard German is the written standard used in Switzerland. It uses ss instead of ß and has its own vocabulary, but it is not the same as Swiss German dialect.",
+            "In southern Germany, Austria and Switzerland, Servus and Grüß Gott are common greetings. They are regional and, in the case of Servus, informal.",
+            "A regional form can be a cultural signal. Using Velo in a Swiss text says “this text belongs here”; using it in a Berlin report may simply distract.",
+            "When you quote a regional form, keep the original spelling. Do not normalise Jänner to Januar inside a quotation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "Six everyday words with a clear national home. Learn the variety as part of the word.",
+      "items": [
+        {
+          "de": "der Jänner",
+          "en": "January (Austrian standard)",
+          "article": "der",
+          "pronunciation": "ˈjɛnɐ",
+          "example": "Im Jänner kaufe ich am liebsten frische Semmeln.",
+          "exampleEn": "In January I like to buy fresh rolls."
+        },
+        {
+          "de": "die Semmel",
+          "en": "bread roll (Austrian and southern German)",
+          "article": "die",
+          "plural": "die Semmeln",
+          "pronunciation": "ˈzɛml̩",
+          "example": "Zum Frühstück gibt es eine Semmel mit Butter.",
+          "exampleEn": "For breakfast there is a bread roll with butter."
+        },
+        {
+          "de": "das Velo",
+          "en": "bicycle (Swiss standard)",
+          "article": "das",
+          "plural": "die Velos",
+          "pronunciation": "ˈveːlo",
+          "example": "In Zürich fährt man oft mit dem Velo zur Arbeit.",
+          "exampleEn": "In Zurich people often cycle to work."
+        },
+        {
+          "de": "das Sackerl",
+          "en": "bag (Austrian)",
+          "article": "das",
+          "plural": "die Sackerl",
+          "pronunciation": "ˈzakɐl",
+          "example": "Die Semmeln kommen in ein Sackerl.",
+          "exampleEn": "The rolls go into a bag."
+        },
+        {
+          "de": "die Marille",
+          "en": "apricot (Austrian)",
+          "article": "die",
+          "plural": "die Marillen",
+          "pronunciation": "maˈʁɪlə",
+          "example": "Im Sommer gibt es Marillen aus der Wachau.",
+          "exampleEn": "In summer there are apricots from the Wachau."
+        },
+        {
+          "de": "servus",
+          "en": "hello / bye (informal, southern German, Austrian)",
+          "pronunciation": "ˈzɛʁvʊs",
+          "example": "Servus! Wie geht es dir?",
+          "exampleEn": "Hi! How are you?"
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 5,
+      "lede": "Each sentence is correct in its own variety. Notice what marks it as regional.",
+      "items": [
+        {
+          "de": "Im Jänner kaufe ich am liebsten frische Semmeln.",
+          "en": "In January I like to buy fresh rolls.",
+          "note": "Jänner and Semmel mark the sentence as Austrian."
+        },
+        {
+          "de": "In der Schweiz sagt man Velo statt Fahrrad.",
+          "en": "In Switzerland people say Velo instead of Fahrrad.",
+          "note": "Velo is Swiss standard, not dialect."
+        },
+        {
+          "de": "Servus! So begrüßt man sich in Bayern und Österreich oft informell.",
+          "en": "Servus! That is how people often greet each other informally in Bavaria and Austria.",
+          "note": "The greeting is regional and informal; it would be out of place in a formal letter."
+        },
+        {
+          "de": "Diese Redewendung ist im Süden geläufiger als im Norden.",
+          "en": "This expression is more common in the south than in the north.",
+          "note": "Geläufig means common or familiar; it is more formal than üblich."
+        },
+        {
+          "de": "In der Schweiz schreibt man „Strasse“ mit ss, in Österreich und Deutschland mit ß.",
+          "en": "In Switzerland “Strasse” is written with ss; in Austria and Germany it is written with ß.",
+          "note": "The spelling difference is a national convention, not a mistake."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 4,
+      "lede": "Regional words often keep regional sound habits. Start with these five.",
+      "items": [
+        {
+          "de": "Jänner",
+          "hint": "Initial j is the English y sound: YEN-ner. Keep the ä short and open.",
+          "en": "January"
+        },
+        {
+          "de": "Semmel",
+          "hint": "Initial s is voiced, like English z: ZEM-mel. The final -el is weak, almost a syllabic l.",
+          "en": "bread roll"
+        },
+        {
+          "de": "Velo",
+          "hint": "Stress the first syllable and keep the e long: VE-lo. Do not turn the final o into an English diphthong.",
+          "en": "bicycle"
+        },
+        {
+          "de": "Marille",
+          "hint": "Stress the second syllable: ma-RIL-le. The final -e is light and clear.",
+          "en": "apricot"
+        },
+        {
+          "de": "Servus",
+          "hint": "Stress the first syllable: SER-vus. The v is voiced, not an English w.",
+          "en": "hello / bye"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 3,
+      "heading": "Three standards, one language",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German is pluricentric: Germany, Austria and Switzerland each have a standard variety, and German is also an official language in Liechtenstein, Luxembourg, Belgium and South Tyrol. Austria publishes its own dictionary, the Österreichisches Wörterbuch, and Swiss publishers follow Swiss spelling rules. These are matters of national convention, not matters of correctness."
+        },
+        {
+          "kind": "p",
+          "text": "In practice, Austrian and Swiss standard German are close to the German standard in grammar and syntax. The differences are concentrated in vocabulary, spelling and a small number of usage preferences. That is why a learner can read a Viennese newspaper with little difficulty and still be surprised by a word like Sackerl or Marille."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "A Viennese café scene. The vocabulary is Austrian, the courtesy is Viennese, and the coffee has its own name.",
+      "setting": "A café in Vienna",
+      "lines": [
+        {
+          "speaker": "Kellner",
+          "de": "Grüß Gott! Was darf es sein?",
+          "en": "Good day! What can I get you?"
+        },
+        {
+          "speaker": "Gast",
+          "de": "Ich hätte gern eine Semmel mit Butter und eine Melange, bitte.",
+          "en": "I would like a roll with butter and a melange, please."
+        },
+        {
+          "speaker": "Kellner",
+          "de": "Sehr gern. Möchten Sie das Sackerl gleich mitnehmen?",
+          "en": "Certainly. Would you like to take the bag with you straight away?"
+        },
+        {
+          "speaker": "Gast",
+          "de": "Ja, bitte. Und haben Sie auch Marillenmarmelade?",
+          "en": "Yes, please. And do you also have apricot jam?"
+        },
+        {
+          "speaker": "Kellner",
+          "de": "Natürlich. Die ist hausgemacht.",
+          "en": "Of course. It is homemade."
+        },
+        {
+          "speaker": "Gast",
+          "de": "Perfekt. Zahlen kann ich mit Karte, oder?",
+          "en": "Perfect. I can pay by card, right?"
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Drei Standardvarietäten im Vergleich",
+      "lede": "The differences are real but bounded. Learn them as equivalents, not as deviations.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Deutschland", "Österreich", "Schweiz", "English"],
+          "rows": [
+            ["Januar", "Jänner", "Januar", "January"],
+            ["Brötchen", "Semmel", "Brötchen (dialect: Weggli)", "bread roll"],
+            ["Fahrrad", "Fahrrad", "Velo", "bicycle"],
+            ["Tüte", "Sackerl", "Sack", "bag"],
+            ["Aprikose", "Marille", "Aprikose", "apricot"],
+            ["Straße", "Straße", "Strasse", "street"],
+            ["Hallo", "Servus / Grüß Gott", "Grüezi (dialect)", "hello"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Austrian and Swiss standard forms are national standards, not errors. They appear in newspapers, school books and official documents.",
+            "Swiss Standard German uses ss for ß: Strasse, gross, heissen, massgeblich.",
+            "Vocabulary differs more than grammar. The most visible fields are food, shopping and months.",
+            "Consistency matters more than which variety you choose. A report that mixes Jänner and Januar looks careless, even though both words are correct.",
+            "Dialect and standard are different levels. Grüezi is a Swiss German greeting; in formal Swiss Standard German writing, Guten Tag is the safer choice."
+          ]
+        }
+      ],
+      "tip": "When you edit a text for a Swiss or Austrian audience, check three things first: ß, month names and everyday objects. Those are the places where a German-standard text most visibly reveals its origin."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 5,
+      "lede": "Match the word to its national variety — and separate standard from dialect.",
+      "exercises": [
+        {
+          "id": "c2m1l3-p1",
+          "type": "mcq",
+          "prompt": "Which word is the Austrian standard word for Brötchen?",
+          "options": ["Semmel", "Velo", "Sackerl", "Marille"],
+          "answer": 0,
+          "explanation": "Die Semmel is the Austrian and southern German word for a bread roll."
+        },
+        {
+          "id": "c2m1l3-p2",
+          "type": "mcq",
+          "prompt": "Which word is the Swiss standard word for bicycle?",
+          "options": ["Fahrrad", "Velo", "Sackerl", "Natel"],
+          "answer": 1,
+          "explanation": "Das Velo is Swiss standard German for bicycle. Fahrrad is the German and Austrian word."
+        },
+        {
+          "id": "c2m1l3-p3",
+          "type": "mcq",
+          "prompt": "Which spelling follows Swiss Standard German?",
+          "options": ["Straße", "Strasse", "Strase", "Strasseß"],
+          "answer": 1,
+          "explanation": "Swiss Standard German writes ss instead of ß, so Straße becomes Strasse."
+        },
+        {
+          "id": "c2m1l3-p4",
+          "type": "mcq",
+          "prompt": "Which greeting is common in Austria and Bavaria?",
+          "options": ["Moin", "Servus", "Tach", "Grüezi"],
+          "answer": 1,
+          "explanation": "Servus is an informal greeting used in Bavaria, Austria and parts of southern Europe. Moin belongs to northern Germany, Grüezi to German-speaking Switzerland."
+        },
+        {
+          "id": "c2m1l3-p5",
+          "type": "mcq",
+          "prompt": "Which month name is standard in Austria?",
+          "options": ["Januar", "Jänner", "Jannuar", "Jenner"],
+          "answer": 1,
+          "explanation": "Austrian standard German uses der Jänner for January."
+        },
+        {
+          "id": "c2m1l3-p6",
+          "type": "mcq",
+          "prompt": "Which statement about Austrian and Swiss standard forms is accurate?",
+          "options": ["They are dialect forms and should be avoided in writing.", "They are national standard variants, not errors.", "They are older forms that German has replaced.", "They are only used in informal speech."],
+          "answer": 1,
+          "explanation": "Austrian and Swiss standard German are national standard varieties with their own conventions. They are not dialects and not mistakes."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 5,
+      "lede": "Type the regional word that fits the national context.",
+      "exercises": [
+        {
+          "id": "c2m1l3-g1",
+          "type": "gap",
+          "prompt": "In Wien bestellt man zum Frühstück oft eine ___.",
+          "answers": ["Semmel"],
+          "explanation": "Die Semmel is the Austrian word for a bread roll."
+        },
+        {
+          "id": "c2m1l3-g2",
+          "type": "gap",
+          "prompt": "In Zürich fährt man oft mit dem ___ zur Arbeit.",
+          "answers": ["Velo"],
+          "explanation": "Das Velo is Swiss standard German for bicycle."
+        },
+        {
+          "id": "c2m1l3-g3",
+          "type": "gap",
+          "prompt": "In Österreich heißt der erste Monat des Jahres ___.",
+          "answers": ["Jänner"],
+          "explanation": "Austrian standard German uses der Jänner instead of der Januar."
+        },
+        {
+          "id": "c2m1l3-g4",
+          "type": "gap",
+          "prompt": "In der Schweiz schreibt man „Straße“ als ___.",
+          "answers": ["Strasse"],
+          "explanation": "Swiss Standard German replaces ß with ss: Strasse."
+        },
+        {
+          "id": "c2m1l3-g5",
+          "type": "gap",
+          "prompt": "In Bayern und Österreich begrüßt man Freunde oft mit ___.",
+          "answers": ["Servus"],
+          "explanation": "Servus is an informal regional greeting in Bavaria and Austria."
+        },
+        {
+          "id": "c2m1l3-g6",
+          "type": "gap",
+          "prompt": "Die österreichische Bezeichnung für Aprikose ist ___.",
+          "answers": ["Marille"],
+          "explanation": "Die Marille is the Austrian word for apricot; the plural is Marillen."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 4,
+      "lede": "Build sentences that name a regional difference accurately.",
+      "exercises": [
+        {
+          "id": "c2m1l3-o1",
+          "type": "order",
+          "prompt": "Build: “In January I buy fresh rolls.”",
+          "tokens": ["frische", "ich", "Jänner", "Semmeln", "Im", "kaufe"],
+          "answer": "Im Jänner kaufe ich frische Semmeln.",
+          "explanation": "The time phrase fills position one, so the verb kaufe comes second and the subject follows."
+        },
+        {
+          "id": "c2m1l3-o2",
+          "type": "order",
+          "prompt": "Build: “In Switzerland people say Velo instead of Fahrrad.”",
+          "tokens": ["statt", "man", "Velo", "der", "In", "sagt", "Fahrrad", "Schweiz"],
+          "answer": "In der Schweiz sagt man Velo statt Fahrrad.",
+          "explanation": "The prepositional phrase In der Schweiz occupies position one; the verb sagt follows immediately."
+        },
+        {
+          "id": "c2m1l3-o3",
+          "type": "order",
+          "prompt": "Build: “This expression is more common in the south than in the north.”",
+          "tokens": ["geläufiger", "im", "Diese", "Norden", "Redewendung", "Süden", "ist", "als", "im"],
+          "answer": "Diese Redewendung ist im Süden geläufiger als im Norden.",
+          "explanation": "The comparative geläufiger als links the two regions; ist stays in second position."
+        },
+        {
+          "id": "c2m1l3-o4",
+          "type": "order",
+          "prompt": "Build: “In Vienna you get the roll in a bag.”",
+          "tokens": ["in", "bekommt", "einem", "Wien", "die", "Sackerl", "In", "Semmel", "man"],
+          "answer": "In Wien bekommt man die Semmel in einem Sackerl.",
+          "explanation": "In Wien fills position one, bekommt is the second-position verb, and in einem Sackerl is a dative phrase."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 5,
+      "lede": "An Austrian and a Swiss colleague compare everyday words. Listen for who uses which form.",
+      "speaker": "An Austrian and a Swiss colleague",
+      "script": [
+        {
+          "speaker": "Anna",
+          "de": "Ich brauche noch Semmeln für das Frühstück. Kommst du mit zum Bäcker?",
+          "en": "I still need rolls for breakfast. Are you coming to the bakery with me?"
+        },
+        {
+          "speaker": "Beat",
+          "de": "Semmeln? Bei uns heißen sie Brötchen — oder Weggli, wenn man Dialekt spricht.",
+          "en": "Semmeln? Where I'm from they're called Brötchen — or Weggli in dialect."
+        },
+        {
+          "speaker": "Anna",
+          "de": "Und wie sagt man bei euch zu einer Tüte?",
+          "en": "And what do you call a bag?"
+        },
+        {
+          "speaker": "Beat",
+          "de": "Sack. Und das Fahrrad heißt bei uns Velo.",
+          "en": "Sack. And a bicycle is called Velo where I'm from."
+        },
+        {
+          "speaker": "Anna",
+          "de": "Bei uns in Wien ist der Jänner übrigens der kälteste Monat.",
+          "en": "In Vienna, by the way, January is the coldest month."
+        },
+        {
+          "speaker": "Beat",
+          "de": "In Zürich sagt man Januar, aber geschrieben wird trotzdem Strasse ohne ß.",
+          "en": "In Zurich people say Januar, but it is still written Strasse without ß."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2m1l3-lq1",
+          "type": "mcq",
+          "prompt": "What does Anna need to buy?",
+          "options": ["Bread rolls", "Apricots", "A bicycle", "A bag"],
+          "answer": 0,
+          "explanation": "Anna says she needs Semmeln, Austrian for bread rolls."
+        },
+        {
+          "id": "c2m1l3-lq2",
+          "type": "mcq",
+          "prompt": "What does Beat call a Tüte?",
+          "options": ["Sackerl", "Sack", "Semmel", "Velo"],
+          "answer": 1,
+          "explanation": "Beat says Sack is the Swiss word for a bag."
+        },
+        {
+          "id": "c2m1l3-lq3",
+          "type": "mcq",
+          "prompt": "What does Beat say about Swiss spelling?",
+          "options": ["It uses ß after long vowels.", "It writes Strasse without ß.", "It writes Strasse with two s and an ß.", "It has no standard spelling."],
+          "answer": 1,
+          "explanation": "He says written Swiss German uses Strasse without ß."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 5,
+      "lede": "Describe two regional differences without turning them into a comedy sketch.",
+      "prompt": "Name two German regional or national standard forms you have noticed, explain what they mean, and say in which context you would use each.",
+      "model": {
+        "de": "In Österreich sagt man Jänner statt Januar und Semmel statt Brötchen. In der Schweiz heißt das Fahrrad Velo, und man schreibt Strasse ohne ß. Ich würde diese Formen in einem Text aus dem jeweiligen Land verwenden, aber nicht in einem bundesdeutschen Bericht mischen.",
+        "en": "In Austria people say Jänner instead of Januar and Semmel instead of Brötchen. In Switzerland a bicycle is Velo, and Strasse is written without ß. I would use these forms in a text from the respective country, but I would not mix them in a German report."
+      },
+      "tips": [
+        "Say “standard variety”, not “dialect”, when you mean Jänner, Semmel or Velo. The distinction is part of the content.",
+        "Give the context before the judgement: a form can be perfectly correct in one country and distracting in another.",
+        "Avoid performing an accent. Regional vocabulary is information, not entertainment."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 3,
+      "lede": "Most errors here are mismatches of gender, number or variety — not failures of grammar.",
+      "items": [
+        {
+          "wrong": "das Jänner",
+          "right": "der Jänner",
+          "why": "Month names are masculine. The Austrian form Jänner keeps the gender of Januar: der Jänner."
+        },
+        {
+          "wrong": "Ich kaufe drei Semmel.",
+          "right": "Ich kaufe drei Semmeln.",
+          "why": "The plural of die Semmel is die Semmeln. The same pattern applies to die Marille → die Marillen."
+        },
+        {
+          "wrong": "In einem Schweizer Text: die Straße",
+          "right": "In einem Schweizer Text: die Strasse",
+          "why": "Swiss Standard German uses ss instead of ß. The spelling is a national convention, not a stylistic option."
+        },
+        {
+          "wrong": "In einem bundesdeutschen Bericht: Ich fahre mit dem Velo.",
+          "right": "In einem bundesdeutschen Bericht: Ich fahre mit dem Fahrrad.",
+          "why": "Velo is Swiss standard. It is correct in a Swiss text; in a German text it is an inconsistent variety unless the context explains it."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Ten questions. Score 70% or more to complete the lesson check.",
+      "questions": [
+        {
+          "id": "c2m1l3-a1",
+          "type": "mcq",
+          "prompt": "Which word is Austrian standard for Brötchen?",
+          "options": ["Semmel", "Velo", "Sack", "Marille"],
+          "answer": 0,
+          "explanation": "Die Semmel is the Austrian and southern German word for a bread roll."
+        },
+        {
+          "id": "c2m1l3-a2",
+          "type": "mcq",
+          "prompt": "Which word is Swiss standard for Fahrrad?",
+          "options": ["Sackerl", "Velo", "Semmel", "Natel"],
+          "answer": 1,
+          "explanation": "Das Velo is the Swiss standard word for bicycle."
+        },
+        {
+          "id": "c2m1l3-a3",
+          "type": "mcq",
+          "prompt": "Which spelling is correct in Swiss Standard German?",
+          "options": ["Straße", "Strasse", "Strase", "Strasseß"],
+          "answer": 1,
+          "explanation": "Swiss Standard German replaces ß with ss: Strasse."
+        },
+        {
+          "id": "c2m1l3-a4",
+          "type": "mcq",
+          "prompt": "Which month name is standard in Austria?",
+          "options": ["Januar", "Jänner", "Jannuar", "Jenner"],
+          "answer": 1,
+          "explanation": "Austrian standard German uses der Jänner."
+        },
+        {
+          "id": "c2m1l3-a5",
+          "type": "mcq",
+          "prompt": "Which statement about regional standard forms is accurate?",
+          "options": ["They are dialect and should be avoided in writing.", "They are national standard variants, not errors.", "They are old-fashioned forms of German.", "They are only used in informal speech."],
+          "answer": 1,
+          "explanation": "Austrian and Swiss standard German are national standard varieties, not dialects or mistakes."
+        },
+        {
+          "id": "c2m1l3-a6",
+          "type": "gap",
+          "prompt": "In Wien bestellt man zum Frühstück oft eine ___.",
+          "answers": ["Semmel"],
+          "explanation": "Die Semmel is the Austrian word for a bread roll."
+        },
+        {
+          "id": "c2m1l3-a7",
+          "type": "gap",
+          "prompt": "In Zürich fährt man oft mit dem ___ zur Arbeit.",
+          "answers": ["Velo"],
+          "explanation": "Das Velo is Swiss standard German for bicycle."
+        },
+        {
+          "id": "c2m1l3-a8",
+          "type": "gap",
+          "prompt": "In Österreich heißt der erste Monat des Jahres ___.",
+          "answers": ["Jänner"],
+          "explanation": "Austrian standard German uses der Jänner for January."
+        },
+        {
+          "id": "c2m1l3-a9",
+          "type": "order",
+          "prompt": "Build: “In January I buy fresh rolls.”",
+          "tokens": ["frische", "ich", "Jänner", "Semmeln", "Im", "kaufe"],
+          "answer": "Im Jänner kaufe ich frische Semmeln.",
+          "explanation": "The time phrase occupies position one, so the verb kaufe comes second."
+        },
+        {
+          "id": "c2m1l3-a10",
+          "type": "order",
+          "prompt": "Build: “This expression is more common in the south than in the north.”",
+          "tokens": ["geläufiger", "im", "Diese", "Norden", "Redewendung", "Süden", "ist", "als", "im"],
+          "answer": "Diese Redewendung ist im Süden geläufiger als im Norden.",
+          "explanation": "The comparative construction geläufiger als compares the south and the north; ist remains in second position."
+        }
+      ]
+    }
+  ]
+}

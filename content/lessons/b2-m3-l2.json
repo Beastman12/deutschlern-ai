@@ -1,0 +1,688 @@
+{
+  "id": "b2-m3-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "b2-m3-l2-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "b2-m3-l2",
+      "prompt": "Think of a recent meeting. What was decided, and what is the next step?",
+      "items": [
+        "Ich schlage vor, dass wir einen Kompromiss finden.",
+        "die Tagesordnung",
+        "der Vorschlag",
+        "der Kompromiss"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "b2-m3-l2-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "b2-m3-l2",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "b2-m3-l2-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "b2-m3-l2",
+      "lede": "A good meeting has an agenda, clear proposals and a short summary of decisions.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Open with the agenda: “Heute besprechen wir drei Punkte.” Keep each item short and move to a decision. Use “Ich schlage vor, dass …” for a proposal and “Was halten Sie davon?” to invite a reaction."
+        },
+        {
+          "kind": "p",
+          "text": "Disagree diplomatically by acknowledging the other point first: “Das ist ein wichtiger Punkt, aber ich sehe ein Risiko bei …”. Close by summarising who does what and when: “Wir halten fest: Frau Lang prüft den Vertrag bis Freitag.”"
+        },
+        {
+          "kind": "note",
+          "title": "A meeting is a decision machine",
+          "text": "Aim for a decision, an owner and a date. If the item is not ready, agree on what is needed and when it will return."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l2-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "b2-m3-l2",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "agenda",
+              "Heute besprechen wir drei Punkte."
+            ],
+            [
+              "proposal",
+              "Ich schlage vor, dass wir einen Kompromiss finden."
+            ],
+            [
+              "diplomatic disagreement",
+              "Das ist ein wichtiger Punkt, aber …"
+            ],
+            [
+              "summary",
+              "Wir halten fest, dass …"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "“Ich schlage vor, dass …” requires a subordinate clause with the verb at the end.",
+            "Use “einwenden” for a formal objection: Ich möchte etwas einwenden.",
+            "Assign one owner per task and confirm the deadline aloud."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l2-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "b2-m3-l2",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "die Tagesordnung",
+          "en": "agenda",
+          "article": "die",
+          "plural": "die Tagesordnungen",
+          "example": "Die Tagesordnung hat drei Punkte.",
+          "exampleEn": "The agenda has three items."
+        },
+        {
+          "de": "der Vorschlag",
+          "en": "proposal",
+          "article": "der",
+          "plural": "die Vorschläge",
+          "example": "Ich habe einen Vorschlag für die nächste Runde.",
+          "exampleEn": "I have a proposal for the next round."
+        },
+        {
+          "de": "der Kompromiss",
+          "en": "compromise",
+          "article": "der",
+          "plural": "die Kompromisse",
+          "example": "Wir müssen einen Kompromiss finden.",
+          "exampleEn": "We have to find a compromise."
+        },
+        {
+          "de": "das Ergebnis",
+          "en": "result",
+          "article": "das",
+          "plural": "die Ergebnisse",
+          "example": "Das Ergebnis der Besprechung ist positiv.",
+          "exampleEn": "The result of the meeting is positive."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l2-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "b2-m3-l2",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Ich schlage vor, dass wir einen Kompromiss finden.",
+          "en": "I propose that we find a compromise.",
+          "note": "The dass-clause sends the verb to the end."
+        },
+        {
+          "de": "Das ist ein wichtiger Punkt, aber ich sehe ein Risiko.",
+          "en": "That is an important point, but I see a risk.",
+          "note": "Acknowledge first, then disagree."
+        },
+        {
+          "de": "Wir halten fest, dass Frau Lang den Vertrag prüft.",
+          "en": "We note that Ms Lang is checking the contract.",
+          "note": "Halten fest is a standard summary phrase."
+        },
+        {
+          "de": "Können wir das auf die nächste Sitzung verschieben?",
+          "en": "Can we move that to the next meeting?",
+          "note": "A polite way to defer an item."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l2-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "b2-m3-l2",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Tagesordnung",
+          "hint": "Stress the first syllable: TA-ges-or-dnung."
+        },
+        {
+          "de": "der Vorschlag",
+          "hint": "The sch is one sound: FOR-shlahk."
+        },
+        {
+          "de": "der Kompromiss",
+          "hint": "Stress the final syllable: kom-pro-MISS."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l2-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "b2-m3-l2",
+      "heading": "Meeting culture",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German business meetings often start on time and follow the agenda closely. Arriving late without a reason is noticed, even in informal teams."
+        },
+        {
+          "kind": "p",
+          "text": "Silence is not necessarily disapproval. Participants may be thinking or taking notes. If you need a reaction, ask a direct question: “Wie sehen Sie das, Herr Lang?”"
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l2-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "b2-m3-l2",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A project meeting about a delayed launch.",
+      "lines": [
+        {
+          "speaker": "Leiterin",
+          "de": "Heute besprechen wir zwei Punkte: den Zeitplan und das Budget.",
+          "en": "Today we are discussing two items: the schedule and the budget."
+        },
+        {
+          "speaker": "Kollege",
+          "de": "Ich schlage vor, dass wir die Testphase um zwei Wochen verlängern.",
+          "en": "I propose that we extend the test phase by two weeks."
+        },
+        {
+          "speaker": "Leiterin",
+          "de": "Das ist ein wichtiger Punkt, aber die Kosten steigen dann.",
+          "en": "That is an important point, but the costs will rise then."
+        },
+        {
+          "speaker": "Kollege",
+          "de": "Vielleicht finden wir einen Kompromiss: eine Woche mehr und ein kleineres Team.",
+          "en": "Perhaps we can find a compromise: one more week and a smaller team."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l2-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "b2-m3-l2",
+      "heading": "Proposals and decisions",
+      "lede": "Use subordinate clauses for proposals and summaries.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Ich schlage vor, dass …",
+              "proposal with verb-final clause"
+            ],
+            [
+              "Ich halte fest, dass …",
+              "summary of a decision"
+            ],
+            [
+              "Das ist ein wichtiger Punkt, aber …",
+              "diplomatic disagreement"
+            ],
+            [
+              "Können wir … verschieben?",
+              "defer an item politely"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "“Einigen” and “sich einigen” mean to reach agreement: Wir haben uns auf einen Kompromiss geeinigt. The preposition is auf + accusative."
+        }
+      ],
+      "tip": "At the end of each agenda item, say the decision aloud in one sentence. It prevents misunderstandings later."
+    },
+    {
+      "id": "b2-m3-l2-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "b2-m3-l2",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "b2-m3-l2-p-m1",
+          "type": "mcq",
+          "prompt": "Ich schlage vor, dass wir einen Kompromiss ___.",
+          "options": [
+            "finden",
+            "findet",
+            "finde",
+            "gefunden"
+          ],
+          "answer": 0,
+          "explanation": "The dass-clause ends with the infinitive finden after wir."
+        },
+        {
+          "id": "b2-m3-l2-p-m2",
+          "type": "mcq",
+          "prompt": "Wir haben uns ___ einen Kompromiss geeinigt.",
+          "options": [
+            "für",
+            "auf",
+            "um",
+            "an"
+          ],
+          "answer": 1,
+          "explanation": "Sich einigen auf takes the accusative."
+        },
+        {
+          "id": "b2-m3-l2-p-m3",
+          "type": "mcq",
+          "prompt": "Which phrase disagrees diplomatically?",
+          "options": [
+            "Das ist falsch.",
+            "Das ist ein wichtiger Punkt, aber ich sehe ein Risiko.",
+            "Nein, auf keinen Fall.",
+            "Sie irren sich."
+          ],
+          "answer": 1,
+          "explanation": "It acknowledges the point before raising a concern."
+        },
+        {
+          "id": "b2-m3-l2-p-m4",
+          "type": "mcq",
+          "prompt": "Which phrase summarises a decision?",
+          "options": [
+            "Ich schlage vor, dass …",
+            "Wir halten fest, dass …",
+            "Können wir das verschieben?",
+            "Was halten Sie davon?"
+          ],
+          "answer": 1,
+          "explanation": "Wir halten fest introduces the agreed result."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l2-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "b2-m3-l2",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "b2-m3-l2-p-g1",
+          "type": "gap",
+          "prompt": "Ich schlage vor, dass wir das Budget ___. (reduce)",
+          "answers": [
+            "reduzieren"
+          ],
+          "explanation": "The verb goes to the end of the dass-clause."
+        },
+        {
+          "id": "b2-m3-l2-p-g2",
+          "type": "gap",
+          "prompt": "Wir haben uns ___ einen Kompromiss geeinigt.",
+          "answers": [
+            "auf"
+          ],
+          "explanation": "Sich einigen auf takes the accusative."
+        },
+        {
+          "id": "b2-m3-l2-p-g3",
+          "type": "gap",
+          "prompt": "Die ___ hat drei Punkte.",
+          "answers": [
+            "Tagesordnung"
+          ],
+          "explanation": "Tagesordnung means agenda."
+        },
+        {
+          "id": "b2-m3-l2-p-g4",
+          "type": "gap",
+          "prompt": "Können wir das auf die nächste Sitzung ___?",
+          "answers": [
+            "verschieben"
+          ],
+          "explanation": "Verschieben means to move or defer."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l2-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "b2-m3-l2",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "b2-m3-l2-p-o1",
+          "type": "order",
+          "prompt": "Build: “I propose that we find a compromise.”",
+          "tokens": [
+            "einen",
+            "Ich",
+            "vor,",
+            "schlage",
+            "dass",
+            "wir",
+            "Kompromiss",
+            "finden."
+          ],
+          "answer": "Ich schlage vor, dass wir einen Kompromiss finden.",
+          "explanation": "The separable prefix vor comes after the verb, then the dass-clause."
+        },
+        {
+          "id": "b2-m3-l2-p-o2",
+          "type": "order",
+          "prompt": "Build: “That is an important point, but I see a risk.”",
+          "tokens": [
+            "ein",
+            "Das",
+            "wichtiger",
+            "ist",
+            "Punkt,",
+            "aber",
+            "ich",
+            "sehe",
+            "ein",
+            "Risiko."
+          ],
+          "answer": "Das ist ein wichtiger Punkt, aber ich sehe ein Risiko.",
+          "explanation": "The comma separates the two main clauses."
+        },
+        {
+          "id": "b2-m3-l2-p-o3",
+          "type": "order",
+          "prompt": "Build: “We note that Ms Lang is checking the contract.”",
+          "tokens": [
+            "fest,",
+            "Wir",
+            "dass",
+            "halten",
+            "Frau",
+            "Lang",
+            "den",
+            "Vertrag",
+            "prüft."
+          ],
+          "answer": "Wir halten fest, dass Frau Lang den Vertrag prüft.",
+          "explanation": "The dass-clause ends with the verb prüft."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l2-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "b2-m3-l2",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Eine Besprechung im Büro",
+      "script": [
+        {
+          "speaker": "Leiterin",
+          "de": "Der erste Punkt ist der Zeitplan. Wie ist der Stand?",
+          "en": "The first item is the schedule. What is the status?"
+        },
+        {
+          "speaker": "Team",
+          "de": "Die Testphase dauert länger als geplant.",
+          "en": "The test phase is taking longer than planned."
+        },
+        {
+          "speaker": "Leiterin",
+          "de": "Ich schlage vor, dass wir die Veröffentlichung um eine Woche verschieben.",
+          "en": "I propose that we postpone the release by one week."
+        },
+        {
+          "speaker": "Team",
+          "de": "Das ist ein guter Kompromiss. Wir halten fest: Veröffentlichung am 15. Mai.",
+          "en": "That is a good compromise. We note: release on 15 May."
+        }
+      ],
+      "questions": [
+        {
+          "id": "b2-m3-l2-l1",
+          "type": "mcq",
+          "prompt": "What is taking longer than planned?",
+          "options": [
+            "The budget",
+            "The test phase",
+            "The meeting",
+            "The release"
+          ],
+          "answer": 1,
+          "explanation": "The team says the test phase is taking longer than planned."
+        },
+        {
+          "id": "b2-m3-l2-l2",
+          "type": "mcq",
+          "prompt": "What is the agreed result?",
+          "options": [
+            "Cancel the project",
+            "Release on 15 May",
+            "Hire more staff",
+            "Reduce the budget"
+          ],
+          "answer": 1,
+          "explanation": "They agree to release on 15 May."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l2-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "b2-m3-l2",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Open a short meeting, make a proposal and summarise a decision.",
+      "model": {
+        "de": "Heute besprechen wir zwei Punkte. Ich schlage vor, dass wir die Frist um eine Woche verlängern. Das ist ein wichtiger Punkt, aber wir müssen die Kosten prüfen. Wir halten fest: Wir prüfen die Kosten bis Freitag.",
+        "en": "Today we are discussing two items. I propose that we extend the deadline by one week. That is an important point, but we need to check the costs. We note: we will check the costs by Friday."
+      },
+      "tips": [
+        "Name the agenda items at the start.",
+        "Use a dass-clause for your proposal.",
+        "Finish with a clear owner and deadline."
+      ]
+    },
+    {
+      "id": "b2-m3-l2-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "b2-m3-l2",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Ich schlage vor, dass wir finden einen Kompromiss.",
+          "right": "Ich schlage vor, dass wir einen Kompromiss finden.",
+          "why": "The dass-clause puts the verb at the end."
+        },
+        {
+          "wrong": "Wir haben uns für einen Kompromiss geeinigt.",
+          "right": "Wir haben uns auf einen Kompromiss geeinigt.",
+          "why": "The standard preposition is auf + accusative."
+        },
+        {
+          "wrong": "Ich bin nicht einverstanden, das ist falsch.",
+          "right": "Das ist ein wichtiger Punkt, aber ich sehe das anders.",
+          "why": "Acknowledge the other view before disagreeing."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l2-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "b2-m3-l2",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "b2-m3-l2-a1",
+          "type": "mcq",
+          "prompt": "Ich schlage vor, dass wir einen Kompromiss ___.",
+          "options": [
+            "finden",
+            "findet",
+            "finde",
+            "gefunden"
+          ],
+          "answer": 0,
+          "explanation": "The dass-clause ends with the infinitive finden after wir."
+        },
+        {
+          "id": "b2-m3-l2-a2",
+          "type": "mcq",
+          "prompt": "Wir haben uns ___ einen Kompromiss geeinigt.",
+          "options": [
+            "für",
+            "auf",
+            "um",
+            "an"
+          ],
+          "answer": 1,
+          "explanation": "Sich einigen auf takes the accusative."
+        },
+        {
+          "id": "b2-m3-l2-a3",
+          "type": "mcq",
+          "prompt": "Which phrase disagrees diplomatically?",
+          "options": [
+            "Das ist falsch.",
+            "Das ist ein wichtiger Punkt, aber ich sehe ein Risiko.",
+            "Nein, auf keinen Fall.",
+            "Sie irren sich."
+          ],
+          "answer": 1,
+          "explanation": "It acknowledges the point before raising a concern."
+        },
+        {
+          "id": "b2-m3-l2-a4",
+          "type": "mcq",
+          "prompt": "Which phrase summarises a decision?",
+          "options": [
+            "Ich schlage vor, dass …",
+            "Wir halten fest, dass …",
+            "Können wir das verschieben?",
+            "Was halten Sie davon?"
+          ],
+          "answer": 1,
+          "explanation": "Wir halten fest introduces the agreed result."
+        },
+        {
+          "id": "b2-m3-l2-a5",
+          "type": "gap",
+          "prompt": "Ich schlage vor, dass wir das Budget ___. (reduce)",
+          "answers": [
+            "reduzieren"
+          ],
+          "explanation": "The verb goes to the end of the dass-clause."
+        },
+        {
+          "id": "b2-m3-l2-a6",
+          "type": "gap",
+          "prompt": "Wir haben uns ___ einen Kompromiss geeinigt.",
+          "answers": [
+            "auf"
+          ],
+          "explanation": "Sich einigen auf takes the accusative."
+        },
+        {
+          "id": "b2-m3-l2-a7",
+          "type": "gap",
+          "prompt": "Die ___ hat drei Punkte.",
+          "answers": [
+            "Tagesordnung"
+          ],
+          "explanation": "Tagesordnung means agenda."
+        },
+        {
+          "id": "b2-m3-l2-a8",
+          "type": "gap",
+          "prompt": "Können wir das auf die nächste Sitzung ___?",
+          "answers": [
+            "verschieben"
+          ],
+          "explanation": "Verschieben means to move or defer."
+        },
+        {
+          "id": "b2-m3-l2-a9",
+          "type": "order",
+          "prompt": "Build: “I propose that we find a compromise.”",
+          "tokens": [
+            "einen",
+            "Ich",
+            "vor,",
+            "schlage",
+            "dass",
+            "wir",
+            "Kompromiss",
+            "finden."
+          ],
+          "answer": "Ich schlage vor, dass wir einen Kompromiss finden.",
+          "explanation": "The separable prefix vor comes after the verb, then the dass-clause."
+        },
+        {
+          "id": "b2-m3-l2-a10",
+          "type": "order",
+          "prompt": "Build: “That is an important point, but I see a risk.”",
+          "tokens": [
+            "ein",
+            "Das",
+            "wichtiger",
+            "ist",
+            "Punkt,",
+            "aber",
+            "ich",
+            "sehe",
+            "ein",
+            "Risiko."
+          ],
+          "answer": "Das ist ein wichtiger Punkt, aber ich sehe ein Risiko.",
+          "explanation": "The comma separates the two main clauses."
+        }
+      ]
+    }
+  ]
+}

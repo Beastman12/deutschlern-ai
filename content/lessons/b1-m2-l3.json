@@ -1,0 +1,650 @@
+{
+  "id": "b1-m2-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Read the pairs aloud. The preposition is part of the verb, so keep them together in your mind.",
+      "prompt": "Read each sentence, then say the verb and its preposition as one unit: warten auf, sich freuen auf, denken an.",
+      "items": [
+        "Ich warte auf den Bus.",
+        "Sie interessiert sich für deutsche Geschichte.",
+        "Wir freuen uns auf das Wochenende.",
+        "Ich denke oft an meine Familie."
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "Some German verbs come with a preposition that you cannot translate word for word.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "English says to wait for, to be interested in and to think about. German chooses different prepositions: warten auf, sich interessieren für, denken an. The preposition is not free; it belongs to the verb the way the ending belongs to the verb. Learn the pair as a single unit."
+        },
+        {
+          "kind": "de",
+          "text": "Ich interessiere mich für deutsche Geschichte.",
+          "en": "I am interested in German history."
+        },
+        {
+          "kind": "p",
+          "text": "Each pair also fixes a case. Some prepositions always take the accusative here (für, auf, an, um, über), others the dative (mit, von, nach, bei). When you learn a new verb, note three things: the preposition, the case and an example sentence."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "warten auf + accusative: Ich warte auf den Bus.",
+            "sich interessieren für + accusative: Sie interessiert sich für Musik.",
+            "sich freuen auf + accusative: looking forward to something in the future.",
+            "denken an + accusative: Ich denke an dich.",
+            "sich beschäftigen mit + dative: Er beschäftigt sich mit dem Projekt.",
+            "teilnehmen an + dative: Ich nehme an dem Kurs teil."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Asking and pointing back",
+          "text": "For things, use a wo-compound to ask and a da-compound to answer: Worauf wartest du? — Ich warte darauf. For people, use the preposition plus pronoun: Ich warte auf ihn."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "These ten pairs cover a large share of everyday B1 situations.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Verb + preposition", "Case", "Example", "English"],
+          "rows": [
+            ["warten auf", "accusative", "Ich warte auf den Arzt.", "I am waiting for the doctor."],
+            ["sich interessieren für", "accusative", "Ich interessiere mich für Technik.", "I am interested in technology."],
+            ["sich freuen auf", "accusative", "Wir freuen uns auf den Urlaub.", "We are looking forward to the holiday."],
+            ["denken an", "accusative", "Sie denkt oft an ihre Familie.", "She often thinks of her family."],
+            ["sich bewerben um", "accusative", "Er bewirbt sich um die Stelle.", "He is applying for the position."],
+            ["sprechen über", "accusative", "Wir sprechen über den Plan.", "We are talking about the plan."],
+            ["sich beschäftigen mit", "dative", "Sie beschäftigt sich mit dem Thema.", "She is working on the topic."],
+            ["teilnehmen an", "dative", "Ich nehme an dem Kurs teil.", "I am taking part in the course."],
+            ["abhängen von", "dative", "Das hängt vom Wetter ab.", "That depends on the weather."],
+            ["sich entscheiden für", "accusative", "Wir entscheiden uns für den Zug.", "We are deciding on the train."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "sich freuen auf looks forward to the future; sich freuen über reacts to something present or past.",
+            "teilnehmen is separable: Ich nehme am Kurs teil. The preposition an takes the dative here.",
+            "abhängen von contracts with the article: von + dem = vom.",
+            "In a question about a thing, wo- + preposition: Worauf, Womit, Wofür, Woran.",
+            "In an answer about a thing, da- + preposition: darauf, damit, dafür, daran. Before a vowel, add r: darauf, daran."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Do not translate the English preposition",
+          "text": "“I am interested in …” becomes ich interessiere mich für …, not “in”. “It depends on …” becomes es hängt von … ab, not “auf”. The German pair must be memorised as a whole."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "Each entry is a verb–preposition pair. Learn the example with the pair.",
+      "items": [
+        {
+          "de": "warten auf",
+          "en": "to wait for",
+          "pronunciation": "ˈvaʁtn̩ aʊ̯f",
+          "example": "Ich warte schon zwanzig Minuten auf den Bus.",
+          "exampleEn": "I have been waiting for the bus for twenty minutes."
+        },
+        {
+          "de": "sich interessieren für",
+          "en": "to be interested in",
+          "pronunciation": "zɪç ɪntəʁɛˈsiːʁən fyːɐ̯",
+          "example": "Sie interessiert sich für deutsche Geschichte.",
+          "exampleEn": "She is interested in German history."
+        },
+        {
+          "de": "sich freuen auf",
+          "en": "to look forward to",
+          "pronunciation": "zɪç ˈfʁɔɪ̯ən aʊ̯f",
+          "example": "Wir freuen uns auf das Wochenende.",
+          "exampleEn": "We are looking forward to the weekend."
+        },
+        {
+          "de": "denken an",
+          "en": "to think of / about",
+          "pronunciation": "ˈdɛŋkn̩ an",
+          "example": "Ich denke oft an meine Familie.",
+          "exampleEn": "I often think of my family."
+        },
+        {
+          "de": "sich beschäftigen mit",
+          "en": "to occupy oneself with, to work on",
+          "pronunciation": "zɪç bəˈʃɛftɪɡn̩ mɪt",
+          "example": "Er beschäftigt sich mit einem neuen Projekt.",
+          "exampleEn": "He is working on a new project."
+        },
+        {
+          "de": "teilnehmen an",
+          "en": "to take part in",
+          "pronunciation": "ˈtaɪ̯lneːmən an",
+          "example": "Nimmst du an dem Kurs teil?",
+          "exampleEn": "Are you taking part in the course?"
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "For each sentence, say the pair and the case before you translate.",
+      "items": [
+        {
+          "de": "Ich warte schon zwanzig Minuten auf den Bus.",
+          "en": "I have been waiting for the bus for twenty minutes.",
+          "note": "warten auf + accusative: auf den Bus."
+        },
+        {
+          "de": "Sie interessiert sich für deutsche Geschichte.",
+          "en": "She is interested in German history.",
+          "note": "sich interessieren für + accusative; the reflexive pronoun stays with the verb."
+        },
+        {
+          "de": "Wir freuen uns auf das Wochenende.",
+          "en": "We are looking forward to the weekend.",
+          "note": "sich freuen auf points to something in the future."
+        },
+        {
+          "de": "Ich denke oft an meine Familie.",
+          "en": "I often think of my family.",
+          "note": "denken an + accusative: an meine Familie."
+        },
+        {
+          "de": "Er beschäftigt sich mit einem neuen Projekt.",
+          "en": "He is working on a new project.",
+          "note": "sich beschäftigen mit + dative: mit einem Projekt."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "Keep the preposition attached to the verb when you say the pair aloud.",
+      "items": [
+        {
+          "de": "warten",
+          "hint": "w sounds like English v, and the a is short: VAR-ten.",
+          "en": "to wait"
+        },
+        {
+          "de": "interessieren",
+          "hint": "Stress the last syllable and keep the double s sharp: in-te-res-SEE-ren.",
+          "en": "to interest"
+        },
+        {
+          "de": "freuen",
+          "hint": "eu is an “oy” diphthong: FROY-en. Do not say “froo-en”.",
+          "en": "to be glad"
+        },
+        {
+          "de": "beschäftigen",
+          "hint": "Short ä, then a clear sch: be-SHEF-ti-gen.",
+          "en": "to occupy"
+        },
+        {
+          "de": "worauf",
+          "hint": "Stress the second syllable; au is “ow”: vo-ROUF.",
+          "en": "what … on"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Small words that mark fluent German",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Verb–preposition pairs are one of the clearest signals of advanced beginner German. A sentence can be grammatically perfect and still sound foreign if the preposition comes from English. Native speakers notice ich warte für den Bus immediately; ich warte auf den Bus sounds natural."
+        },
+        {
+          "kind": "p",
+          "text": "The da-compounds are equally common in everyday and formal language. In emails you will read Ich freue mich darauf, von Ihnen zu hören or Ich würde mich über eine Antwort freuen. The compound keeps the sentence short and avoids repeating a long noun phrase."
+        },
+        {
+          "kind": "note",
+          "title": "Learning habit",
+          "text": "Keep a list with three columns: verb, preposition and case. Add one short example under each pair. Review the examples aloud; the preposition will start to sound wrong when it is wrong."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "A learner asks about an evening course. Every answer contains a verb–preposition pair.",
+      "setting": "At a language school reception, asking about an evening course",
+      "lines": [
+        { "speaker": "Anmeldung", "de": "Guten Tag, Sprachschule Nord. Wie kann ich Ihnen helfen?", "en": "Good day, Sprachschule Nord. How can I help you?" },
+        { "speaker": "Kurs", "de": "Guten Tag. Ich interessiere mich für den Deutschkurs am Abend.", "en": "Good day. I am interested in the evening German course." },
+        { "speaker": "Anmeldung", "de": "Der Kurs dauert zwölf Wochen. Möchten Sie daran teilnehmen?", "en": "The course lasts twelve weeks. Would you like to take part in it?" },
+        { "speaker": "Kurs", "de": "Ja, gern. Ich freue mich auf den Unterricht. Worauf muss ich beim Einstufungstest achten?", "en": "Yes, gladly. I am looking forward to the lessons. What do I need to pay attention to in the placement test?" },
+        { "speaker": "Anmeldung", "de": "Nehmen Sie sich zehn Minuten Zeit. Außerdem hängt der Kursort von der Gruppengröße ab.", "en": "Allow yourself ten minutes. In addition, the course location depends on the group size." },
+        { "speaker": "Kurs", "de": "Und womit kann ich bezahlen?", "en": "And how can I pay?" },
+        { "speaker": "Anmeldung", "de": "Mit Karte oder bar. Ich schicke Ihnen die Anmeldung, damit Sie sie unterschreiben können.", "en": "By card or in cash. I will send you the registration form so that you can sign it." },
+        { "speaker": "Kurs", "de": "Danke. Ich freue mich darauf.", "en": "Thank you. I am looking forward to it." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "Questions and da-compounds",
+      "lede": "German does not say “on what?” or “on it” when the object is a thing. It builds a compound.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Function", "Thing", "Person", "Example"],
+          "rows": [
+            ["Question", "Worauf …?", "Auf wen …?", "Worauf wartest du? / Auf wen wartest du?"],
+            ["Answer", "darauf", "auf ihn / auf sie", "Ich warte darauf. / Ich warte auf ihn."],
+            ["Question", "Womit …?", "Mit wem …?", "Womit beschäftigst du dich? / Mit wem sprichst du?"],
+            ["Answer", "damit", "mit ihm / mit ihr", "Ich beschäftige mich damit. / Ich spreche mit ihr."],
+            ["Question", "Wofür …?", "Für wen …?", "Wofür interessierst du dich?"],
+            ["Answer", "dafür", "für ihn / für sie", "Ich interessiere mich dafür."]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Build the question with wo + preposition: wo + auf = worauf, wo + mit = womit, wo + an = woran.",
+            "Build the answer with da + preposition: da + auf = darauf, da + mit = damit, da + an = daran.",
+            "Before a vowel, insert r: wo + an = woran; da + an = daran. The r only makes the words easier to say.",
+            "Use a pronoun, not a da-compound, for people: Ich warte auf sie, not “ich warte darauf” when sie is a person.",
+            "The da-compound can point forward to a whole clause: Ich freue mich darauf, dich zu sehen."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Word order with da-compounds",
+          "text": "The compound behaves like a normal prepositional object: Ich freue mich darauf. In a subordinate clause it stays before the final verb: …, weil ich mich darauf freue."
+        }
+      ],
+      "tip": "When you hear worauf or darauf, split it back into preposition + question or preposition + thing. The verb in the sentence tells you which preposition to expect."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 5,
+      "lede": "Choose the preposition that belongs to the verb, then check the case.",
+      "exercises": [
+        {
+          "id": "b1m2l3-p1",
+          "type": "mcq",
+          "prompt": "Complete: “Ich warte ___ den Bus.”",
+          "options": ["auf", "für", "an", "von"],
+          "answer": 0,
+          "explanation": "The pair is warten auf + accusative: Ich warte auf den Bus."
+        },
+        {
+          "id": "b1m2l3-p2",
+          "type": "mcq",
+          "prompt": "Complete: “Sie interessiert sich ___ deutsche Geschichte.”",
+          "options": ["für", "auf", "über", "mit"],
+          "answer": 0,
+          "explanation": "sich interessieren für + accusative: für deutsche Geschichte."
+        },
+        {
+          "id": "b1m2l3-p3",
+          "type": "mcq",
+          "prompt": "Complete: “Wir freuen uns ___ das Wochenende.”",
+          "options": ["auf", "für", "über", "an"],
+          "answer": 0,
+          "explanation": "The weekend is in the future, so sich freuen auf is correct."
+        },
+        {
+          "id": "b1m2l3-p4",
+          "type": "mcq",
+          "prompt": "Complete: “Er beschäftigt sich ___ einem neuen Projekt.”",
+          "options": ["mit", "für", "auf", "über"],
+          "answer": 0,
+          "explanation": "sich beschäftigen mit + dative: mit einem neuen Projekt."
+        },
+        {
+          "id": "b1m2l3-p5",
+          "type": "mcq",
+          "prompt": "Complete: “___ freust du dich?”",
+          "options": ["Worauf", "Wofür", "Womit", "Woran"],
+          "answer": 0,
+          "explanation": "The verb is sich freuen auf, so the question compound is worauf."
+        },
+        {
+          "id": "b1m2l3-p6",
+          "type": "mcq",
+          "prompt": "Complete: “Ich freue mich ___ , dich wiederzusehen.”",
+          "options": ["darauf", "dafür", "damit", "daran"],
+          "answer": 0,
+          "explanation": "A thing or an action is referred to with a da-compound: sich freuen auf → darauf."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 5,
+      "lede": "Type the missing preposition or compound. One answer is a contraction.",
+      "exercises": [
+        {
+          "id": "b1m2l3-g1",
+          "type": "gap",
+          "prompt": "Ich warte ___ den Zug.",
+          "answers": ["auf"],
+          "explanation": "warten auf + accusative: Ich warte auf den Zug."
+        },
+        {
+          "id": "b1m2l3-g2",
+          "type": "gap",
+          "prompt": "Sie interessiert sich ___ Kunst.",
+          "answers": ["für"],
+          "explanation": "sich interessieren für + accusative: für Kunst."
+        },
+        {
+          "id": "b1m2l3-g3",
+          "type": "gap",
+          "prompt": "Wir freuen uns ___ den Urlaub.",
+          "answers": ["auf"],
+          "explanation": "The holiday is in the future: sich freuen auf."
+        },
+        {
+          "id": "b1m2l3-g4",
+          "type": "gap",
+          "prompt": "Er denkt oft ___ seine Familie.",
+          "answers": ["an"],
+          "explanation": "denken an + accusative: an seine Familie."
+        },
+        {
+          "id": "b1m2l3-g5",
+          "type": "gap",
+          "prompt": "Nimmst du ___ dem Kurs teil?",
+          "answers": ["an"],
+          "explanation": "teilnehmen an + dative: an dem Kurs."
+        },
+        {
+          "id": "b1m2l3-g6",
+          "type": "gap",
+          "prompt": "Das hängt ___ Wetter ab.",
+          "answers": ["vom", "von dem"],
+          "explanation": "abhängen von + dative; von + dem contracts to vom."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 4,
+      "lede": "Build the sentence and keep the preposition next to its object.",
+      "exercises": [
+        {
+          "id": "b1m2l3-o1",
+          "type": "order",
+          "prompt": "Build: “I am waiting for the bus.”",
+          "tokens": ["auf", "Ich", "den", "warte", "Bus"],
+          "answer": "Ich warte auf den Bus.",
+          "explanation": "warten auf + accusative: auf den Bus."
+        },
+        {
+          "id": "b1m2l3-o2",
+          "type": "order",
+          "prompt": "Build: “She is interested in German history.”",
+          "tokens": ["sich", "Sie", "für", "interessiert", "deutsche", "Geschichte"],
+          "answer": "Sie interessiert sich für deutsche Geschichte.",
+          "explanation": "The reflexive pronoun follows the verb; für + accusative completes the pair."
+        },
+        {
+          "id": "b1m2l3-o3",
+          "type": "order",
+          "prompt": "Build: “We are looking forward to the weekend.”",
+          "tokens": ["uns", "Wir", "auf", "freuen", "das", "Wochenende"],
+          "answer": "Wir freuen uns auf das Wochenende.",
+          "explanation": "sich freuen auf + accusative: auf das Wochenende."
+        },
+        {
+          "id": "b1m2l3-o4",
+          "type": "order",
+          "prompt": "Build: “He is working on a new project.”",
+          "tokens": ["sich", "Er", "mit", "beschäftigt", "einem", "neuen", "Projekt"],
+          "answer": "Er beschäftigt sich mit einem neuen Projekt.",
+          "explanation": "sich beschäftigen mit + dative: mit einem neuen Projekt."
+        },
+        {
+          "id": "b1m2l3-o5",
+          "type": "order",
+          "prompt": "Build: “What are you looking forward to?”",
+          "tokens": ["du", "Worauf", "dich", "freust"],
+          "answer": "Worauf freust du dich?",
+          "explanation": "Worauf is the question compound for sich freuen auf; the verb comes second."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen for the event, the thing the speaker looks forward to, and the meeting place.",
+      "speaker": "Two friends, Ines and Karim",
+      "script": [
+        { "speaker": "Ines", "de": "Interessierst du dich für klassische Musik?", "en": "Are you interested in classical music?" },
+        { "speaker": "Karim", "de": "Ja, sehr. Ich freue mich schon auf das Konzert am Freitag.", "en": "Yes, very much. I am already looking forward to the concert on Friday." },
+        { "speaker": "Ines", "de": "Ich habe zwei Karten. Kommst du mit?", "en": "I have two tickets. Are you coming along?" },
+        { "speaker": "Karim", "de": "Gern! Worauf freust du dich am meisten?", "en": "Gladly! What are you looking forward to most?" },
+        { "speaker": "Ines", "de": "Auf das Orchester. Es spielt ein Stück, das ich seit Jahren kenne.", "en": "The orchestra. It is playing a piece that I have known for years." },
+        { "speaker": "Karim", "de": "Ich freue mich darauf, dich wiederzusehen. Wann treffen wir uns?", "en": "I am looking forward to seeing you again. When shall we meet?" },
+        { "speaker": "Ines", "de": "Um sieben vor dem Eingang. Ich warte auf dich.", "en": "At seven in front of the entrance. I will wait for you." }
+      ],
+      "questions": [
+        {
+          "id": "b1m2l3-lq1",
+          "type": "mcq",
+          "prompt": "What event are they talking about?",
+          "options": ["A concert on Friday", "A film on Saturday", "A course on Monday", "A party on Sunday"],
+          "answer": 0,
+          "explanation": "Karim says: Ich freue mich schon auf das Konzert am Freitag."
+        },
+        {
+          "id": "b1m2l3-lq2",
+          "type": "mcq",
+          "prompt": "What is Ines looking forward to most?",
+          "options": ["The tickets", "The orchestra", "The entrance", "The weather"],
+          "answer": 1,
+          "explanation": "Sie sagt: Auf das Orchester."
+        },
+        {
+          "id": "b1m2l3-lq3",
+          "type": "mcq",
+          "prompt": "Where will they meet?",
+          "options": ["At the station", "In front of the entrance", "Inside the hall", "At a café"],
+          "answer": 1,
+          "explanation": "Um sieben vor dem Eingang. Ich warte auf dich."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Use three different verb–preposition pairs and one da-compound. Speak for about forty seconds.",
+      "prompt": "Talk about your hobbies and interests. Say what you are interested in, what you are looking forward to and what you are currently working on.",
+      "model": {
+        "de": "Ich interessiere mich für Musik und Fotografie. Im Moment beschäftige ich mich mit einem kleinen Fotoprojekt über meine Stadt. Ich freue mich schon auf den Sommer, weil ich dann mehr Zeit dafür habe. Außerdem denke ich oft an meine Familie, die weit weg wohnt.",
+        "en": "I am interested in music and photography. At the moment I am working on a small photo project about my city. I am already looking forward to the summer, because I will have more time for it then. I also often think of my family, who live far away."
+      },
+      "tips": [
+        "Say the pair as one block — interessiere mich für — instead of translating the preposition from English.",
+        "Check the case after the preposition: für + accusative, mit + dative, von + dative.",
+        "Use a da-compound to avoid repeating a long noun: Ich freue mich darauf, statt Ich freue mich auf das Projekt."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "Each wrong sentence uses the English preposition instead of the German one.",
+      "items": [
+        {
+          "wrong": "Ich warte für den Bus.",
+          "right": "Ich warte auf den Bus.",
+          "why": "The German pair is warten auf + accusative. für is not possible here."
+        },
+        {
+          "wrong": "Ich interessiere mich über Geschichte.",
+          "right": "Ich interessiere mich für Geschichte.",
+          "why": "sich interessieren takes für + accusative, not über."
+        },
+        {
+          "wrong": "Ich freue mich für das Wochenende.",
+          "right": "Ich freue mich auf das Wochenende.",
+          "why": "Something in the future takes sich freuen auf; für does not belong to this verb."
+        },
+        {
+          "wrong": "Ich freue mich auf es.",
+          "right": "Ich freue mich darauf.",
+          "why": "For a thing or an action, German uses a da-compound: darauf, not “auf es”."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions on prepositions, case and compounds. Score 70% or more to unlock the next lesson.",
+      "questions": [
+        {
+          "id": "b1m2l3-a1",
+          "type": "mcq",
+          "prompt": "Which preposition belongs to “warten”?",
+          "options": ["auf", "für", "an", "mit"],
+          "answer": 0,
+          "explanation": "warten auf + accusative: Ich warte auf den Bus."
+        },
+        {
+          "id": "b1m2l3-a2",
+          "type": "gap",
+          "prompt": "Sie interessiert sich ___ deutsche Literatur.",
+          "answers": ["für"],
+          "explanation": "sich interessieren für + accusative: für deutsche Literatur."
+        },
+        {
+          "id": "b1m2l3-a3",
+          "type": "mcq",
+          "prompt": "Complete: “Ich freue mich ___ den Urlaub.”",
+          "options": ["auf", "über", "für", "an"],
+          "answer": 0,
+          "explanation": "The holiday is in the future, so sich freuen auf is the right pair."
+        },
+        {
+          "id": "b1m2l3-a4",
+          "type": "gap",
+          "prompt": "Er denkt oft ___ seine Familie.",
+          "answers": ["an"],
+          "explanation": "denken an + accusative: an seine Familie."
+        },
+        {
+          "id": "b1m2l3-a5",
+          "type": "order",
+          "prompt": "Build: “I am waiting for the bus.”",
+          "tokens": ["auf", "Ich", "den", "warte", "Bus"],
+          "answer": "Ich warte auf den Bus.",
+          "explanation": "warten auf + accusative: auf den Bus."
+        },
+        {
+          "id": "b1m2l3-a6",
+          "type": "mcq",
+          "prompt": "Which question compound fits “sich freuen auf”?",
+          "options": ["Worauf", "Wofür", "Womit", "Woran"],
+          "answer": 0,
+          "explanation": "wo + auf = worauf: Worauf freust du dich?"
+        },
+        {
+          "id": "b1m2l3-a7",
+          "type": "mcq",
+          "prompt": "How do you refer back to a thing after “sich freuen auf”?",
+          "options": ["darauf", "dafür", "damit", "daran"],
+          "answer": 0,
+          "explanation": "da + auf = darauf: Ich freue mich darauf."
+        },
+        {
+          "id": "b1m2l3-a8",
+          "type": "gap",
+          "prompt": "Er beschäftigt sich ___ einem neuen Projekt.",
+          "answers": ["mit"],
+          "explanation": "sich beschäftigen mit + dative: mit einem neuen Projekt."
+        },
+        {
+          "id": "b1m2l3-a9",
+          "type": "order",
+          "prompt": "Build: “She is interested in German history.”",
+          "tokens": ["sich", "Sie", "für", "interessiert", "deutsche", "Geschichte"],
+          "answer": "Sie interessiert sich für deutsche Geschichte.",
+          "explanation": "Sie interessiert sich für + accusative."
+        },
+        {
+          "id": "b1m2l3-a10",
+          "type": "gap",
+          "prompt": "Das hängt ___ Wetter ab.",
+          "answers": ["vom", "von dem"],
+          "explanation": "abhängen von + dative; von + dem contracts to vom."
+        },
+        {
+          "id": "b1m2l3-a11",
+          "type": "mcq",
+          "prompt": "Which case follows “mit” in “sich beschäftigen mit”?",
+          "options": ["Nominative", "Accusative", "Dative", "Genitive"],
+          "answer": 2,
+          "explanation": "mit always takes the dative: mit einem Projekt, mit der Kollegin."
+        },
+        {
+          "id": "b1m2l3-a12",
+          "type": "order",
+          "prompt": "Build: “We are looking forward to the weekend.”",
+          "tokens": ["uns", "Wir", "auf", "freuen", "das", "Wochenende"],
+          "answer": "Wir freuen uns auf das Wochenende.",
+          "explanation": "sich freuen auf + accusative: auf das Wochenende."
+        }
+      ]
+    }
+  ]
+}

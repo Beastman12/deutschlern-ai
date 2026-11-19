@@ -1,0 +1,724 @@
+{
+  "id": "c2-m4-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "c2-m4-l3-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "c2-m4-l3",
+      "prompt": "Choose between two near-synonyms and explain the difference in tone.",
+      "items": [
+        "Der Begriff ist in diesem Zusammenhang irreführend.",
+        "die Konnotation",
+        "die Kollokation",
+        "irreführend"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "c2-m4-l3-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "c2-m4-l3",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "c2-m4-l3-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "c2-m4-l3",
+      "lede": "Precision at C2 means choosing the word that is not only correct but right for the context.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Near-synonyms differ in connotation, intensity and collocation. “Günstig” is neutral or positive (good value), while “billig” can suggest low quality. “Zurückhaltend” is reserved or restrained; “gleichgültig” is indifferent. A single wrong choice can shift the whole tone."
+        },
+        {
+          "kind": "p",
+          "text": "Collocation is the company a word keeps: man trifft eine Entscheidung, man macht keinen Fehler (but: einen Fehler machen). “Irreführend” means misleading; “treffend” means apt or fitting. Learn these words with the nouns and verbs they naturally pair with."
+        },
+        {
+          "kind": "note",
+          "title": "Correct is not the same as right",
+          "text": "A sentence can be grammatically correct and still sound wrong because a word carries the wrong connotation. Precision is the final layer of fluency."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l3-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "c2-m4-l3",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "connotation",
+              "Das Wort „billig“ hat oft eine negative Konnotation."
+            ],
+            [
+              "collocation",
+              "Es heißt eine Entscheidung treffen, nicht eine Entscheidung machen."
+            ],
+            [
+              "misleading",
+              "Der Begriff ist in diesem Zusammenhang irreführend."
+            ],
+            [
+              "apt",
+              "Das treffende Wort ist hier „Zurückhaltung“."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "“Konnotation” is the feeling a word carries; “Denotation” is its literal meaning.",
+            "“Irreführend” means misleading, not simply wrong.",
+            "“Treffend” means precise and fitting: ein treffendes Beispiel."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l3-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "c2-m4-l3",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "die Konnotation",
+          "en": "connotation",
+          "article": "die",
+          "plural": "die Konnotationen",
+          "example": "Das Wort „billig“ hat oft eine negative Konnotation.",
+          "exampleEn": "The word “cheap” often has a negative connotation."
+        },
+        {
+          "de": "die Kollokation",
+          "en": "collocation",
+          "article": "die",
+          "plural": "die Kollokationen",
+          "example": "Eine Kollokation ist eine feste Wortverbindung.",
+          "exampleEn": "A collocation is a fixed word combination."
+        },
+        {
+          "de": "irreführend",
+          "en": "misleading",
+          "example": "Der Begriff ist in diesem Zusammenhang irreführend.",
+          "exampleEn": "The term is misleading in this context."
+        },
+        {
+          "de": "treffend",
+          "en": "apt, fitting",
+          "example": "Das treffende Wort ist hier „Zurückhaltung“.",
+          "exampleEn": "The fitting word here is “restraint”."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l3-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "c2-m4-l3",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Das Wort „billig“ hat oft eine negative Konnotation.",
+          "en": "The word “cheap” often has a negative connotation.",
+          "note": "Connotation shapes tone."
+        },
+        {
+          "de": "Es heißt eine Entscheidung treffen, nicht machen.",
+          "en": "The correct phrase is to make a decision, not “to do” a decision.",
+          "note": "A fixed collocation."
+        },
+        {
+          "de": "Der Begriff ist in diesem Zusammenhang irreführend.",
+          "en": "The term is misleading in this context.",
+          "note": "A precise critique of word choice."
+        },
+        {
+          "de": "Das treffende Wort ist hier „Zurückhaltung“.",
+          "en": "The fitting word here is “restraint”.",
+          "note": "Treffend praises an apt choice."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l3-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "c2-m4-l3",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Konnotation",
+          "hint": "Stress the final syllable: kon-no-ta-TSION."
+        },
+        {
+          "de": "die Kollokation",
+          "hint": "Stress the final syllable: kol-lo-ka-TSION."
+        },
+        {
+          "de": "irreführend",
+          "hint": "Stress the second syllable: ir-re-FÜ-rent."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l3-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "c2-m4-l3",
+      "heading": "Word choice and register",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German business and academic writing rewards precise word choice. A text that uses the same vague verb for every action (“machen”, “tun”) reads as unprofessional."
+        },
+        {
+          "kind": "p",
+          "text": "Connotation can differ between German-speaking regions. “Servus” is friendly in Austria and Bavaria but unusual in northern Germany. Context matters more than the dictionary."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l3-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "c2-m4-l3",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "Two editors discuss a sentence in a brochure.",
+      "lines": [
+        {
+          "speaker": "Lektorin",
+          "de": "Ist „billig“ hier das richtige Wort?",
+          "en": "Is “cheap” the right word here?"
+        },
+        {
+          "speaker": "Autor",
+          "de": "Nein, der Begriff ist in diesem Zusammenhang irreführend.",
+          "en": "No, the term is misleading in this context."
+        },
+        {
+          "speaker": "Lektorin",
+          "de": "Welches Wort wäre treffender?",
+          "en": "Which word would be more fitting?"
+        },
+        {
+          "speaker": "Autor",
+          "de": "„Günstig“ hat eine positivere Konnotation.",
+          "en": "“Good value” has a more positive connotation."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l3-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "c2-m4-l3",
+      "heading": "Precision checklist",
+      "lede": "Check meaning, connotation and collocation before you choose.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Denotation",
+              "the literal meaning"
+            ],
+            [
+              "Konnotation",
+              "the tone or association"
+            ],
+            [
+              "Kollokation",
+              "the words it naturally combines with"
+            ],
+            [
+              "Register",
+              "the level of formality"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Replace general verbs with precise ones: not “machen” but “durchführen”, “treffen”, “erheben”, “festhalten” — each pairs with specific nouns."
+        }
+      ],
+      "tip": "When two words look identical in the dictionary, search for each in a full sentence. The context reveals the connotation."
+    },
+    {
+      "id": "c2-m4-l3-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "c2-m4-l3",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "c2-m4-l3-p-m1",
+          "type": "mcq",
+          "prompt": "Der Begriff ist in diesem Zusammenhang ___.",
+          "options": [
+            "irreführend",
+            "irregeführt",
+            "führend",
+            "geführt"
+          ],
+          "answer": 0,
+          "explanation": "Irreführend means misleading."
+        },
+        {
+          "id": "c2-m4-l3-p-m2",
+          "type": "mcq",
+          "prompt": "Es heißt eine Entscheidung ___.",
+          "options": [
+            "treffen",
+            "machen",
+            "nehmen",
+            "tun"
+          ],
+          "answer": 0,
+          "explanation": "The fixed collocation is eine Entscheidung treffen."
+        },
+        {
+          "id": "c2-m4-l3-p-m3",
+          "type": "mcq",
+          "prompt": "Which word usually has a negative connotation?",
+          "options": [
+            "günstig",
+            "billig",
+            "preiswert",
+            "kostengünstig"
+          ],
+          "answer": 1,
+          "explanation": "Billig can suggest low quality, unlike günstig or preiswert."
+        },
+        {
+          "id": "c2-m4-l3-p-m4",
+          "type": "mcq",
+          "prompt": "Das ___ Wort ist hier „Zurückhaltung“.",
+          "options": [
+            "treffende",
+            "treffend",
+            "treffenden",
+            "Treffende"
+          ],
+          "answer": 0,
+          "explanation": "The adjective before the neuter noun takes -e: das treffende Wort."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l3-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "c2-m4-l3",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "c2-m4-l3-p-g1",
+          "type": "gap",
+          "prompt": "Der Begriff ist in diesem Zusammenhang ___.",
+          "answers": [
+            "irreführend"
+          ],
+          "explanation": "Irreführend means misleading."
+        },
+        {
+          "id": "c2-m4-l3-p-g2",
+          "type": "gap",
+          "prompt": "Das ___ Wort ist hier „Zurückhaltung“.",
+          "answers": [
+            "treffende"
+          ],
+          "explanation": "The adjective before das Wort takes -e."
+        },
+        {
+          "id": "c2-m4-l3-p-g3",
+          "type": "gap",
+          "prompt": "Es heißt eine Entscheidung ___.",
+          "answers": [
+            "treffen"
+          ],
+          "explanation": "The fixed collocation is eine Entscheidung treffen."
+        },
+        {
+          "id": "c2-m4-l3-p-g4",
+          "type": "gap",
+          "prompt": "Die ___ des Wortes ist eher negativ.",
+          "answers": [
+            "Konnotation"
+          ],
+          "explanation": "Konnotation means connotation."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l3-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "c2-m4-l3",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "c2-m4-l3-p-o1",
+          "type": "order",
+          "prompt": "Build: “The term is misleading in this context.”",
+          "tokens": [
+            "ist",
+            "Der",
+            "Begriff",
+            "in",
+            "diesem",
+            "Zusammenhang",
+            "irreführend."
+          ],
+          "answer": "Der Begriff ist in diesem Zusammenhang irreführend.",
+          "explanation": "The adjective follows the prepositional phrase after sein."
+        },
+        {
+          "id": "c2-m4-l3-p-o2",
+          "type": "order",
+          "prompt": "Build: “The correct phrase is to make a decision, not to “do” a decision.”",
+          "tokens": [
+            "heißt",
+            "Es",
+            "eine",
+            "Entscheidung",
+            "treffen,",
+            "nicht",
+            "eine",
+            "Entscheidung",
+            "machen."
+          ],
+          "answer": "Es heißt eine Entscheidung treffen, nicht eine Entscheidung machen.",
+          "explanation": "The fixed collocation treffen contrasts with the incorrect machen."
+        },
+        {
+          "id": "c2-m4-l3-p-o3",
+          "type": "order",
+          "prompt": "Build: “The fitting word here is restraint.”",
+          "tokens": [
+            "Wort",
+            "Das",
+            "treffende",
+            "ist",
+            "hier",
+            "Zurückhaltung."
+          ],
+          "answer": "Das treffende Wort ist hier Zurückhaltung.",
+          "explanation": "The adjective treffende agrees with das Wort."
+        },
+        {
+          "id": "c2-m4-l3-p-o4",
+          "type": "order",
+          "prompt": "Build: “The connotation of the word is rather negative.”",
+          "tokens": [
+            "des",
+            "Die",
+            "Konnotation",
+            "Wortes",
+            "ist",
+            "eher",
+            "negativ."
+          ],
+          "answer": "Die Konnotation des Wortes ist eher negativ.",
+          "explanation": "Des Wortes is the neuter genitive."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l3-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "c2-m4-l3",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Ein Gespräch im Lektorat",
+      "script": [
+        {
+          "speaker": "Lektorin",
+          "de": "Ist „billig“ hier das richtige Wort?",
+          "en": "Is “cheap” the right word here?"
+        },
+        {
+          "speaker": "Autor",
+          "de": "Nein, der Begriff ist in diesem Zusammenhang irreführend.",
+          "en": "No, the term is misleading in this context."
+        },
+        {
+          "speaker": "Lektorin",
+          "de": "Welches Wort wäre treffender?",
+          "en": "Which word would be more fitting?"
+        },
+        {
+          "speaker": "Autor",
+          "de": "„Günstig“ hat eine positivere Konnotation.",
+          "en": "“Good value” has a more positive connotation."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2-m4-l3-l1",
+          "type": "mcq",
+          "prompt": "Why is “billig” not the right word?",
+          "options": [
+            "It is grammatically wrong",
+            "It is misleading in this context",
+            "It is too formal",
+            "It is too long"
+          ],
+          "answer": 1,
+          "explanation": "The author says the term is misleading in this context."
+        },
+        {
+          "id": "c2-m4-l3-l2",
+          "type": "mcq",
+          "prompt": "Why is “günstig” better?",
+          "options": [
+            "It is shorter",
+            "It has a more positive connotation",
+            "It is more formal",
+            "It is a noun"
+          ],
+          "answer": 1,
+          "explanation": "Günstig has a more positive connotation."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l3-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "c2-m4-l3",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Explain the difference between two near-synonyms and correct one unnatural collocation.",
+      "model": {
+        "de": "„Günstig“ und „billig“ bedeuten beide wenig Geld, aber „billig“ hat oft eine negative Konnotation. Es heißt eine Entscheidung treffen, nicht eine Entscheidung machen. Der Begriff „billig“ ist in einem Werbetext daher irreführend.",
+        "en": "“Günstig” and “billig” both mean little money, but “billig” often has a negative connotation. The correct phrase is to “treffen” a decision, not to “machen” a decision. The term “billig” is therefore misleading in an advertising text."
+      },
+      "tips": [
+        "Name the connotation, not just the literal meaning.",
+        "Give the correct collocation as a full phrase.",
+        "Explain why the wrong word would mislead the reader."
+      ]
+    },
+    {
+      "id": "c2-m4-l3-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "c2-m4-l3",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Es heißt eine Entscheidung machen.",
+          "right": "Es heißt eine Entscheidung treffen.",
+          "why": "The fixed collocation is eine Entscheidung treffen."
+        },
+        {
+          "wrong": "Der Begriff ist in diesem Zusammenhang irregeführt.",
+          "right": "Der Begriff ist in diesem Zusammenhang irreführend.",
+          "why": "The adjective is irreführend; irregeführt is the participle of irre führen."
+        },
+        {
+          "wrong": "Das treffend Wort ist hier Zurückhaltung.",
+          "right": "Das treffende Wort ist hier Zurückhaltung.",
+          "why": "The adjective before a noun needs an ending: das treffende Wort."
+        }
+      ]
+    },
+    {
+      "id": "c2-m4-l3-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "c2-m4-l3",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "c2-m4-l3-a1",
+          "type": "mcq",
+          "prompt": "Der Begriff ist in diesem Zusammenhang ___.",
+          "options": [
+            "irreführend",
+            "irregeführt",
+            "führend",
+            "geführt"
+          ],
+          "answer": 0,
+          "explanation": "Irreführend means misleading."
+        },
+        {
+          "id": "c2-m4-l3-a2",
+          "type": "mcq",
+          "prompt": "Es heißt eine Entscheidung ___.",
+          "options": [
+            "treffen",
+            "machen",
+            "nehmen",
+            "tun"
+          ],
+          "answer": 0,
+          "explanation": "The fixed collocation is eine Entscheidung treffen."
+        },
+        {
+          "id": "c2-m4-l3-a3",
+          "type": "mcq",
+          "prompt": "Which word usually has a negative connotation?",
+          "options": [
+            "günstig",
+            "billig",
+            "preiswert",
+            "kostengünstig"
+          ],
+          "answer": 1,
+          "explanation": "Billig can suggest low quality, unlike günstig or preiswert."
+        },
+        {
+          "id": "c2-m4-l3-a4",
+          "type": "mcq",
+          "prompt": "Das ___ Wort ist hier „Zurückhaltung“.",
+          "options": [
+            "treffende",
+            "treffend",
+            "treffenden",
+            "Treffende"
+          ],
+          "answer": 0,
+          "explanation": "The adjective before the neuter noun takes -e: das treffende Wort."
+        },
+        {
+          "id": "c2-m4-l3-a5",
+          "type": "gap",
+          "prompt": "Der Begriff ist in diesem Zusammenhang ___.",
+          "answers": [
+            "irreführend"
+          ],
+          "explanation": "Irreführend means misleading."
+        },
+        {
+          "id": "c2-m4-l3-a6",
+          "type": "gap",
+          "prompt": "Das ___ Wort ist hier „Zurückhaltung“.",
+          "answers": [
+            "treffende"
+          ],
+          "explanation": "The adjective before das Wort takes -e."
+        },
+        {
+          "id": "c2-m4-l3-a7",
+          "type": "gap",
+          "prompt": "Es heißt eine Entscheidung ___.",
+          "answers": [
+            "treffen"
+          ],
+          "explanation": "The fixed collocation is eine Entscheidung treffen."
+        },
+        {
+          "id": "c2-m4-l3-a8",
+          "type": "gap",
+          "prompt": "Die ___ des Wortes ist eher negativ.",
+          "answers": [
+            "Konnotation"
+          ],
+          "explanation": "Konnotation means connotation."
+        },
+        {
+          "id": "c2-m4-l3-a9",
+          "type": "order",
+          "prompt": "Build: “The term is misleading in this context.”",
+          "tokens": [
+            "ist",
+            "Der",
+            "Begriff",
+            "in",
+            "diesem",
+            "Zusammenhang",
+            "irreführend."
+          ],
+          "answer": "Der Begriff ist in diesem Zusammenhang irreführend.",
+          "explanation": "The adjective follows the prepositional phrase after sein."
+        },
+        {
+          "id": "c2-m4-l3-a10",
+          "type": "order",
+          "prompt": "Build: “The correct phrase is to make a decision, not to “do” a decision.”",
+          "tokens": [
+            "heißt",
+            "Es",
+            "eine",
+            "Entscheidung",
+            "treffen,",
+            "nicht",
+            "eine",
+            "Entscheidung",
+            "machen."
+          ],
+          "answer": "Es heißt eine Entscheidung treffen, nicht eine Entscheidung machen.",
+          "explanation": "The fixed collocation treffen contrasts with the incorrect machen."
+        },
+        {
+          "id": "c2-m4-l3-a11",
+          "type": "order",
+          "prompt": "Build: “The fitting word here is restraint.”",
+          "tokens": [
+            "Wort",
+            "Das",
+            "treffende",
+            "ist",
+            "hier",
+            "Zurückhaltung."
+          ],
+          "answer": "Das treffende Wort ist hier Zurückhaltung.",
+          "explanation": "The adjective treffende agrees with das Wort."
+        },
+        {
+          "id": "c2-m4-l3-a12",
+          "type": "order",
+          "prompt": "Build: “The connotation of the word is rather negative.”",
+          "tokens": [
+            "des",
+            "Die",
+            "Konnotation",
+            "Wortes",
+            "ist",
+            "eher",
+            "negativ."
+          ],
+          "answer": "Die Konnotation des Wortes ist eher negativ.",
+          "explanation": "Des Wortes is the neuter genitive."
+        }
+      ]
+    }
+  ]
+}

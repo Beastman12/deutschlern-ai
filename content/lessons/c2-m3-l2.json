@@ -1,0 +1,679 @@
+{
+  "id": "c2-m3-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "c2-m3-l2-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "c2-m3-l2",
+      "prompt": "Summarise a paragraph you read today in one sentence, then paraphrase it in different words.",
+      "items": [
+        "Zusammengefasst lässt sich festhalten, dass …",
+        "zusammenfassen",
+        "paraphrasieren",
+        "die Kernaussage"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "c2-m3-l2-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "c2-m3-l2",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "c2-m3-l2-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "c2-m3-l2",
+      "lede": "Summarising compresses; paraphrasing rewrites. Both must preserve meaning and mark what belongs to the author.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A summary reduces a text to its central claim and the steps that support it. A paraphrase rewrites a passage in your own words at roughly the same length. Both require you to separate the author’s position from your own evaluation."
+        },
+        {
+          "kind": "p",
+          "text": "Signpost the move: “Zusammengefasst lässt sich festhalten, dass …” for a summary, “Anders formuliert bedeutet das, dass …” for a paraphrase. Name what is lost: “Dabei geht die Nuance verloren, dass …”. Precision about loss is part of accurate summarising."
+        },
+        {
+          "kind": "note",
+          "title": "Quote, paraphrase, summarise",
+          "text": "Quote exact words with quotation marks, paraphrase closely with a citation, and summarise the gist with a reference. Never present a paraphrase as your own idea."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l2-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "c2-m3-l2",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "summary",
+              "Zusammengefasst lässt sich festhalten, dass die Maßnahme wirkt."
+            ],
+            [
+              "paraphrase",
+              "Anders formuliert bedeutet das, dass die Kosten steigen."
+            ],
+            [
+              "core message",
+              "Die Kernaussage des Textes ist klar und präzise."
+            ],
+            [
+              "nuance",
+              "Dabei geht die Nuance verloren, dass die Daten begrenzt sind."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "“Festhalten” means to note or record a conclusion: Wir halten fest, dass …",
+            "A paraphrase keeps the argument but changes the wording.",
+            "Always cite the source, even when you summarise rather than quote."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l2-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "c2-m3-l2",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "zusammenfassen",
+          "en": "to summarise",
+          "example": "Zusammengefasst lässt sich festhalten, dass die Maßnahme wirkt.",
+          "exampleEn": "In summary, it can be stated that the measure works."
+        },
+        {
+          "de": "paraphrasieren",
+          "en": "to paraphrase",
+          "example": "Beim Paraphrasieren darf man die Quelle nicht vergessen.",
+          "exampleEn": "When paraphrasing, one must not forget the source."
+        },
+        {
+          "de": "die Kernaussage",
+          "en": "core message",
+          "article": "die",
+          "plural": "die Kernaussagen",
+          "example": "Die Kernaussage des Textes ist klar und präzise.",
+          "exampleEn": "The core message of the text is clear and precise."
+        },
+        {
+          "de": "die Nuance",
+          "en": "nuance",
+          "article": "die",
+          "plural": "die Nuancen",
+          "example": "Dabei geht eine wichtige Nuance verloren.",
+          "exampleEn": "An important nuance gets lost in the process."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l2-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "c2-m3-l2",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Zusammengefasst lässt sich festhalten, dass die Maßnahme wirkt.",
+          "en": "In summary, it can be stated that the measure works.",
+          "note": "A standard summary opener."
+        },
+        {
+          "de": "Anders formuliert bedeutet das, dass die Kosten steigen.",
+          "en": "Put differently, this means that costs will rise.",
+          "note": "A paraphrase signal."
+        },
+        {
+          "de": "Die Kernaussage des Textes ist klar und präzise.",
+          "en": "The core message of the text is clear and precise.",
+          "note": "Naming the central claim."
+        },
+        {
+          "de": "Dabei geht die Nuance verloren, dass die Daten begrenzt sind.",
+          "en": "In doing so, the nuance that the data are limited is lost.",
+          "note": "Naming what the summary omits."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l2-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "c2-m3-l2",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "zusammenfassen",
+          "hint": "Stress the first syllable: tsu-ZAM-men-fa-sen."
+        },
+        {
+          "de": "paraphrasieren",
+          "hint": "Stress the final syllable: pa-ra-fra-ZEE-ren."
+        },
+        {
+          "de": "die Nuance",
+          "hint": "The u is short and the final sound is soft: nü-AN-se."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l2-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "c2-m3-l2",
+      "heading": "Summarising in German study and work",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German academic culture expects clear attribution. A summary that hides the original author is treated as a serious breach, even if the wording is entirely new."
+        },
+        {
+          "kind": "p",
+          "text": "In meetings, a short “Zusammengefasst heißt das …” is a valued skill. It signals that you have understood the discussion and can reduce it to a decision."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l2-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "c2-m3-l2",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A student summarises an article in a seminar.",
+      "lines": [
+        {
+          "speaker": "Dozentin",
+          "de": "Was ist die Kernaussage des Textes?",
+          "en": "What is the core message of the text?"
+        },
+        {
+          "speaker": "Student",
+          "de": "Zusammengefasst lässt sich festhalten, dass die Maßnahme wirkt.",
+          "en": "In summary, it can be stated that the measure works."
+        },
+        {
+          "speaker": "Dozentin",
+          "de": "Und was geht dabei verloren?",
+          "en": "And what gets lost in the process?"
+        },
+        {
+          "speaker": "Student",
+          "de": "Die Nuance, dass die Daten nur eine Stadt abdecken.",
+          "en": "The nuance that the data cover only one city."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l2-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "c2-m3-l2",
+      "heading": "Summary and paraphrase phrases",
+      "lede": "Use a signpost for the move and a dass-clause for the content.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Zusammengefasst lässt sich festhalten, dass …",
+              "summary"
+            ],
+            [
+              "Anders formuliert bedeutet das, dass …",
+              "paraphrase"
+            ],
+            [
+              "Die Kernaussage ist …",
+              "core message"
+            ],
+            [
+              "Dabei geht die Nuance verloren, dass …",
+              "naming what is lost"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "“Festhalten” is separable: Wir halten fest, dass … In the passive it becomes “Es lässt sich festhalten, dass …”."
+        }
+      ],
+      "tip": "Write the summary first, then check it against the original. If a claim in your summary cannot be found in the text, remove it."
+    },
+    {
+      "id": "c2-m3-l2-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "c2-m3-l2",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "c2-m3-l2-p-m1",
+          "type": "mcq",
+          "prompt": "___ lässt sich festhalten, dass die Maßnahme wirkt.",
+          "options": [
+            "Zusammengefasst",
+            "Zusammenfassen",
+            "Zusammenfassung",
+            "Zusammenfassend"
+          ],
+          "answer": 0,
+          "explanation": "The fixed opener is “Zusammengefasst lässt sich festhalten, dass …”."
+        },
+        {
+          "id": "c2-m3-l2-p-m2",
+          "type": "mcq",
+          "prompt": "Die ___ des Textes ist klar und präzise.",
+          "options": [
+            "Kernaussage",
+            "Nuance",
+            "Paraphrase",
+            "Quelle"
+          ],
+          "answer": 0,
+          "explanation": "Kernaussage means the core message."
+        },
+        {
+          "id": "c2-m3-l2-p-m3",
+          "type": "mcq",
+          "prompt": "Which sentence paraphrases an idea?",
+          "options": [
+            "Der Autor sagt exakt: „…“.",
+            "Anders formuliert bedeutet das, dass die Kosten steigen.",
+            "Ich finde den Text gut.",
+            "Zusammengefasst ist alles klar."
+          ],
+          "answer": 1,
+          "explanation": "Anders formuliert signals a paraphrase in new words."
+        },
+        {
+          "id": "c2-m3-l2-p-m4",
+          "type": "mcq",
+          "prompt": "Which phrase names what a summary omits?",
+          "options": [
+            "Dabei geht die Nuance verloren, dass …",
+            "Zusammengefasst lässt sich festhalten, dass …",
+            "Anders formuliert bedeutet das, dass …",
+            "Die Kernaussage ist …"
+          ],
+          "answer": 0,
+          "explanation": "It explicitly identifies a nuance that is lost."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l2-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "c2-m3-l2",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "c2-m3-l2-p-g1",
+          "type": "gap",
+          "prompt": "___ lässt sich festhalten, dass die Maßnahme wirkt.",
+          "answers": [
+            "Zusammengefasst"
+          ],
+          "explanation": "The fixed opener is Zusammengefasst."
+        },
+        {
+          "id": "c2-m3-l2-p-g2",
+          "type": "gap",
+          "prompt": "Die ___ des Textes ist klar.",
+          "answers": [
+            "Kernaussage"
+          ],
+          "explanation": "Kernaussage means core message."
+        },
+        {
+          "id": "c2-m3-l2-p-g3",
+          "type": "gap",
+          "prompt": "Beim ___ darf man die Quelle nicht vergessen.",
+          "answers": [
+            "Paraphrasieren"
+          ],
+          "explanation": "Paraphrasieren means paraphrasing; after beim it is capitalised as a noun."
+        },
+        {
+          "id": "c2-m3-l2-p-g4",
+          "type": "gap",
+          "prompt": "Dabei geht eine wichtige ___ verloren.",
+          "answers": [
+            "Nuance"
+          ],
+          "explanation": "Nuance means nuance."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l2-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "c2-m3-l2",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "c2-m3-l2-p-o1",
+          "type": "order",
+          "prompt": "Build: “In summary, it can be stated that the measure works.”",
+          "tokens": [
+            "lässt",
+            "Zusammengefasst",
+            "sich",
+            "festhalten,",
+            "dass",
+            "die",
+            "Maßnahme",
+            "wirkt."
+          ],
+          "answer": "Zusammengefasst lässt sich festhalten, dass die Maßnahme wirkt.",
+          "explanation": "The dass-clause ends with the verb wirkt."
+        },
+        {
+          "id": "c2-m3-l2-p-o2",
+          "type": "order",
+          "prompt": "Build: “The core message of the text is clear and precise.”",
+          "tokens": [
+            "des",
+            "Die",
+            "Kernaussage",
+            "Textes",
+            "ist",
+            "klar",
+            "und",
+            "präzise."
+          ],
+          "answer": "Die Kernaussage des Textes ist klar und präzise.",
+          "explanation": "Des Textes is the masculine genitive."
+        },
+        {
+          "id": "c2-m3-l2-p-o3",
+          "type": "order",
+          "prompt": "Build: “When paraphrasing, the nuance must not be lost.”",
+          "tokens": [
+            "darf",
+            "Beim",
+            "Paraphrasieren",
+            "die",
+            "Nuance",
+            "nicht",
+            "verloren",
+            "gehen."
+          ],
+          "answer": "Beim Paraphrasieren darf die Nuance nicht verloren gehen.",
+          "explanation": "The modal darf sends the infinitive phrase to the end."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l2-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "c2-m3-l2",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Eine Zusammenfassung im Seminar",
+      "script": [
+        {
+          "speaker": "Studentin",
+          "de": "Die Kernaussage des Textes ist, dass die Maßnahme wirkt.",
+          "en": "The core message of the text is that the measure works."
+        },
+        {
+          "speaker": "Studentin",
+          "de": "Zusammengefasst lässt sich festhalten, dass die Daten diese Aussage stützen.",
+          "en": "In summary, it can be stated that the data support this claim."
+        },
+        {
+          "speaker": "Dozent",
+          "de": "Und was geht bei Ihrer Zusammenfassung verloren?",
+          "en": "And what gets lost in your summary?"
+        },
+        {
+          "speaker": "Studentin",
+          "de": "Die Nuance, dass die Untersuchung nur eine Stadt abdeckt.",
+          "en": "The nuance that the study covers only one city."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2-m3-l2-l1",
+          "type": "mcq",
+          "prompt": "What is the core message of the text?",
+          "options": [
+            "The measure works",
+            "The measure is irrelevant",
+            "The data are missing",
+            "The study is complete"
+          ],
+          "answer": 0,
+          "explanation": "The student states the core message is that the measure works."
+        },
+        {
+          "id": "c2-m3-l2-l2",
+          "type": "mcq",
+          "prompt": "What nuance is lost in the summary?",
+          "options": [
+            "The study covers only one city",
+            "The study is too old",
+            "The measure is too expensive",
+            "The author is unknown"
+          ],
+          "answer": 0,
+          "explanation": "The student names the nuance that the study covers only one city."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l2-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "c2-m3-l2",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Summarise an article in two sentences, then paraphrase one sentence and name what is lost.",
+      "model": {
+        "de": "Zusammengefasst lässt sich festhalten, dass regelmäßiges Feedback die Leistung verbessert. Die Kernaussage stützt sich auf eine Umfrage mit 200 Studierenden. Anders formuliert: Feedback wirkt dann, wenn es häufig erfolgt. Dabei geht die Nuance verloren, dass die Studie nur eine Universität abdeckt.",
+        "en": "In summary, it can be stated that regular feedback improves performance. The core message relies on a survey of 200 students. Put differently: feedback works when it is frequent. In doing so, the nuance that the study covers only one university is lost."
+      },
+      "tips": [
+        "Use one signpost per move: summary, paraphrase, limitation.",
+        "Keep the author’s claim separate from your own view.",
+        "Name a specific nuance, not a vague caveat."
+      ]
+    },
+    {
+      "id": "c2-m3-l2-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "c2-m3-l2",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Zusammengefasst lässt sich festhalten, dass die Maßnahme ist wirksam.",
+          "right": "Zusammengefasst lässt sich festhalten, dass die Maßnahme wirksam ist.",
+          "why": "The dass-clause puts the verb at the end."
+        },
+        {
+          "wrong": "Beim Paraphrasieren darf man die Quelle vergessen.",
+          "right": "Beim Paraphrasieren darf man die Quelle nicht vergessen.",
+          "why": "The negation changes the meaning completely."
+        },
+        {
+          "wrong": "Die Kernaussage des Text ist klar.",
+          "right": "Die Kernaussage des Textes ist klar.",
+          "why": "Masculine and neuter nouns take -es or -s in the genitive."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l2-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "c2-m3-l2",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "c2-m3-l2-a1",
+          "type": "mcq",
+          "prompt": "___ lässt sich festhalten, dass die Maßnahme wirkt.",
+          "options": [
+            "Zusammengefasst",
+            "Zusammenfassen",
+            "Zusammenfassung",
+            "Zusammenfassend"
+          ],
+          "answer": 0,
+          "explanation": "The fixed opener is “Zusammengefasst lässt sich festhalten, dass …”."
+        },
+        {
+          "id": "c2-m3-l2-a2",
+          "type": "mcq",
+          "prompt": "Die ___ des Textes ist klar und präzise.",
+          "options": [
+            "Kernaussage",
+            "Nuance",
+            "Paraphrase",
+            "Quelle"
+          ],
+          "answer": 0,
+          "explanation": "Kernaussage means the core message."
+        },
+        {
+          "id": "c2-m3-l2-a3",
+          "type": "mcq",
+          "prompt": "Which sentence paraphrases an idea?",
+          "options": [
+            "Der Autor sagt exakt: „…“.",
+            "Anders formuliert bedeutet das, dass die Kosten steigen.",
+            "Ich finde den Text gut.",
+            "Zusammengefasst ist alles klar."
+          ],
+          "answer": 1,
+          "explanation": "Anders formuliert signals a paraphrase in new words."
+        },
+        {
+          "id": "c2-m3-l2-a4",
+          "type": "mcq",
+          "prompt": "Which phrase names what a summary omits?",
+          "options": [
+            "Dabei geht die Nuance verloren, dass …",
+            "Zusammengefasst lässt sich festhalten, dass …",
+            "Anders formuliert bedeutet das, dass …",
+            "Die Kernaussage ist …"
+          ],
+          "answer": 0,
+          "explanation": "It explicitly identifies a nuance that is lost."
+        },
+        {
+          "id": "c2-m3-l2-a5",
+          "type": "gap",
+          "prompt": "___ lässt sich festhalten, dass die Maßnahme wirkt.",
+          "answers": [
+            "Zusammengefasst"
+          ],
+          "explanation": "The fixed opener is Zusammengefasst."
+        },
+        {
+          "id": "c2-m3-l2-a6",
+          "type": "gap",
+          "prompt": "Die ___ des Textes ist klar.",
+          "answers": [
+            "Kernaussage"
+          ],
+          "explanation": "Kernaussage means core message."
+        },
+        {
+          "id": "c2-m3-l2-a7",
+          "type": "gap",
+          "prompt": "Beim ___ darf man die Quelle nicht vergessen.",
+          "answers": [
+            "Paraphrasieren"
+          ],
+          "explanation": "Paraphrasieren means paraphrasing; after beim it is capitalised as a noun."
+        },
+        {
+          "id": "c2-m3-l2-a8",
+          "type": "gap",
+          "prompt": "Dabei geht eine wichtige ___ verloren.",
+          "answers": [
+            "Nuance"
+          ],
+          "explanation": "Nuance means nuance."
+        },
+        {
+          "id": "c2-m3-l2-a9",
+          "type": "order",
+          "prompt": "Build: “In summary, it can be stated that the measure works.”",
+          "tokens": [
+            "lässt",
+            "Zusammengefasst",
+            "sich",
+            "festhalten,",
+            "dass",
+            "die",
+            "Maßnahme",
+            "wirkt."
+          ],
+          "answer": "Zusammengefasst lässt sich festhalten, dass die Maßnahme wirkt.",
+          "explanation": "The dass-clause ends with the verb wirkt."
+        },
+        {
+          "id": "c2-m3-l2-a10",
+          "type": "order",
+          "prompt": "Build: “The core message of the text is clear and precise.”",
+          "tokens": [
+            "des",
+            "Die",
+            "Kernaussage",
+            "Textes",
+            "ist",
+            "klar",
+            "und",
+            "präzise."
+          ],
+          "answer": "Die Kernaussage des Textes ist klar und präzise.",
+          "explanation": "Des Textes is the masculine genitive."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+
+# Environment — never commit real credentials
+.env
+.env.local
+.env.*.local
+
+# Build & coverage output
+dist/
+coverage/
+*.log
+
+# Editor / OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local runtime state (session signing secret + credential hashes)
+data/
+
+# Local backups (may contain session secrets)
+backups/
+
+# Local test artifacts
+test-results/
+playwright-report/

@@ -1,0 +1,661 @@
+{
+  "id": "a1-m4-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "a1-m4-l2-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "a1-m4-l2",
+      "prompt": "Name three things you can order in a café, then say one price aloud.",
+      "items": [
+        "Ich hätte gern einen Kaffee, bitte.",
+        "das Brot",
+        "der Kaffee",
+        "die Rechnung"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "a1-m4-l2-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "a1-m4-l2",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "a1-m4-l2-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "a1-m4-l2",
+      "lede": "Order politely, ask for the price and understand the bill.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "The most useful café phrase at A1 is \"Ich hätte gern …\", which means \"I would like …\". It is softer than \"Ich will\" and works in cafés, shops and restaurants. The item after it is in the accusative: Ich hätte gern einen Kaffee."
+        },
+        {
+          "kind": "p",
+          "text": "To ask for the price, use \"Was kostet …?\" for one item or \"Was kosten …?\" for several. The answer often comes as a number plus Euro: \"Das macht drei Euro fünfzig.\" For the bill, ask \"Die Rechnung, bitte.\""
+        },
+        {
+          "kind": "note",
+          "title": "Polite without being complicated",
+          "text": "Learn \"Ich hätte gern …\" as one fixed phrase. You do not need to conjugate hätte again in the same sentence."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l2-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "a1-m4-l2",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "Ich hätte gern …",
+              "Ich hätte gern einen Kaffee."
+            ],
+            [
+              "Was kostet …?",
+              "Was kostet das Brot?"
+            ],
+            [
+              "Was kosten …?",
+              "Was kosten die Brötchen?"
+            ],
+            [
+              "Die Rechnung, bitte.",
+              "Ask for the bill at the end of a meal."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use einen for masculine items in the accusative: einen Kaffee, einen Tee.",
+            "Use eine for feminine items: eine Limonade, eine Suppe.",
+            "Use ein for neuter items: ein Wasser, ein Brot."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l2-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "a1-m4-l2",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "das Brot",
+          "en": "bread",
+          "article": "das",
+          "plural": "die Brote",
+          "example": "Ich hätte gern ein Brot.",
+          "exampleEn": "I would like a loaf of bread."
+        },
+        {
+          "de": "der Kaffee",
+          "en": "coffee",
+          "article": "der",
+          "plural": "die Kaffees",
+          "example": "Ich hätte gern einen Kaffee, bitte.",
+          "exampleEn": "I would like a coffee, please."
+        },
+        {
+          "de": "die Rechnung",
+          "en": "bill",
+          "article": "die",
+          "plural": "die Rechnungen",
+          "example": "Die Rechnung, bitte.",
+          "exampleEn": "The bill, please."
+        },
+        {
+          "de": "der Preis",
+          "en": "price",
+          "article": "der",
+          "plural": "die Preise",
+          "example": "Der Preis ist drei Euro fünfzig.",
+          "exampleEn": "The price is three euros fifty."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l2-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "a1-m4-l2",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Ich hätte gern einen Kaffee, bitte.",
+          "en": "I would like a coffee, please.",
+          "note": "Kaffee is masculine, so einen."
+        },
+        {
+          "de": "Was kostet das Brot?",
+          "en": "How much does the bread cost?",
+          "note": "One item takes the singular verb kostet."
+        },
+        {
+          "de": "Was kosten die Brötchen?",
+          "en": "How much do the rolls cost?",
+          "note": "Several items take the plural verb kosten."
+        },
+        {
+          "de": "Die Rechnung, bitte.",
+          "en": "The bill, please.",
+          "note": "A short, standard request at the end of a meal."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l2-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "a1-m4-l2",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "der Kaffee",
+          "hint": "Stress the second syllable: ka-FEE, with a long e."
+        },
+        {
+          "de": "die Rechnung",
+          "hint": "The ch after n is soft; the final -ung is a clear oong."
+        },
+        {
+          "de": "hätte",
+          "hint": "The ä is short and open, like the e in \"bet\"."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l2-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "a1-m4-l2",
+      "heading": "Paying in a German café",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In many German cafés you order at the table and pay at the end. It is normal to ask for the bill when you are ready, rather than waiting for it to be brought automatically."
+        },
+        {
+          "kind": "p",
+          "text": "Card payments are common in cities, but some small bakeries and cafés still prefer cash. Asking \"Kann ich mit Karte zahlen?\" before you order is always acceptable."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l2-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "a1-m4-l2",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "At a small café in Munich, Sara orders breakfast.",
+      "lines": [
+        {
+          "speaker": "Sara",
+          "de": "Guten Morgen. Ich hätte gern einen Kaffee und ein Brot.",
+          "en": "Good morning. I would like a coffee and a bread."
+        },
+        {
+          "speaker": "Kellner",
+          "de": "Gern. Möchten Sie auch etwas Wasser?",
+          "en": "Certainly. Would you like some water too?"
+        },
+        {
+          "speaker": "Sara",
+          "de": "Ja, bitte. Was kostet das?",
+          "en": "Yes, please. How much is that?"
+        },
+        {
+          "speaker": "Kellner",
+          "de": "Das macht fünf Euro zwanzig.",
+          "en": "That comes to five euros twenty."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l2-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "a1-m4-l2",
+      "heading": "Ordering with hätte gern",
+      "lede": "The phrase is fixed, but the article after it follows the noun.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "einen Kaffee",
+              "masculine accusative"
+            ],
+            [
+              "eine Limonade",
+              "feminine accusative"
+            ],
+            [
+              "ein Wasser",
+              "neuter accusative"
+            ],
+            [
+              "die Rechnung",
+              "feminine, plural context"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Use \"Ich hätte gern …\" for a polite order. \"Ich möchte …\" is also correct, but hätte gern is especially common in cafés."
+        }
+      ],
+      "tip": "Prices use a comma in German writing: 3,50 €. Say \"drei Euro fünfzig\"."
+    },
+    {
+      "id": "a1-m4-l2-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "a1-m4-l2",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "a1-m4-l2-p-m1",
+          "type": "mcq",
+          "prompt": "Ich hätte gern ___ Kaffee.",
+          "options": [
+            "ein",
+            "eine",
+            "einen",
+            "einem"
+          ],
+          "answer": 2,
+          "explanation": "Kaffee is masculine and the direct object, so use einen."
+        },
+        {
+          "id": "a1-m4-l2-p-m2",
+          "type": "mcq",
+          "prompt": "___ kostet das Brot?",
+          "options": [
+            "Was",
+            "Wie",
+            "Wer",
+            "Wo"
+          ],
+          "answer": 0,
+          "explanation": "Ask for a price with \"Was kostet …?\"."
+        },
+        {
+          "id": "a1-m4-l2-p-m3",
+          "type": "mcq",
+          "prompt": "Which phrase asks for the bill?",
+          "options": [
+            "Die Speisekarte, bitte.",
+            "Die Rechnung, bitte.",
+            "Das Brot, bitte.",
+            "Der Preis, bitte."
+          ],
+          "answer": 1,
+          "explanation": "Die Rechnung is the bill."
+        },
+        {
+          "id": "a1-m4-l2-p-m4",
+          "type": "mcq",
+          "prompt": "Was ___ die Brötchen?",
+          "options": [
+            "kostet",
+            "kosten",
+            "kostest",
+            "kostete"
+          ],
+          "answer": 1,
+          "explanation": "Brötchen is plural, so the verb is kosten."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l2-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "a1-m4-l2",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "a1-m4-l2-p-g1",
+          "type": "gap",
+          "prompt": "Ich hätte gern ___ Tee.",
+          "answers": [
+            "einen"
+          ],
+          "explanation": "Tee is masculine and the direct object, so use einen."
+        },
+        {
+          "id": "a1-m4-l2-p-g2",
+          "type": "gap",
+          "prompt": "Was ___ das Wasser?",
+          "answers": [
+            "kostet"
+          ],
+          "explanation": "Wasser is singular, so use kostet."
+        },
+        {
+          "id": "a1-m4-l2-p-g3",
+          "type": "gap",
+          "prompt": "Die ___, bitte.",
+          "answers": [
+            "Rechnung"
+          ],
+          "explanation": "Die Rechnung means the bill."
+        },
+        {
+          "id": "a1-m4-l2-p-g4",
+          "type": "gap",
+          "prompt": "Ich möchte ___ Limonade.",
+          "answers": [
+            "eine"
+          ],
+          "explanation": "Limonade is feminine, so use eine."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l2-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "a1-m4-l2",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "a1-m4-l2-p-o1",
+          "type": "order",
+          "prompt": "Build: “I would like a coffee, please.”",
+          "tokens": [
+            "gern",
+            "einen",
+            "hätte",
+            "Ich",
+            "Kaffee",
+            "bitte"
+          ],
+          "answer": "Ich hätte gern einen Kaffee, bitte.",
+          "explanation": "The fixed phrase is Ich hätte gern, followed by the accusative item."
+        },
+        {
+          "id": "a1-m4-l2-p-o2",
+          "type": "order",
+          "prompt": "Build: “How much does the bread cost?”",
+          "tokens": [
+            "das",
+            "Was",
+            "Brot",
+            "kostet"
+          ],
+          "answer": "Was kostet das Brot?",
+          "explanation": "A W-question starts with the question word, then the verb."
+        },
+        {
+          "id": "a1-m4-l2-p-o3",
+          "type": "order",
+          "prompt": "Build: “The bill, please.”",
+          "tokens": [
+            "bitte",
+            "Die",
+            "Rechnung"
+          ],
+          "answer": "Die Rechnung, bitte.",
+          "explanation": "This fixed phrase needs no verb."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l2-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "a1-m4-l2",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Im Café",
+      "script": [
+        {
+          "speaker": "Kellnerin",
+          "de": "Was möchten Sie bestellen?",
+          "en": "What would you like to order?"
+        },
+        {
+          "speaker": "Gast",
+          "de": "Ich hätte gern eine Suppe und ein Wasser.",
+          "en": "I would like a soup and a water."
+        },
+        {
+          "speaker": "Kellnerin",
+          "de": "Das macht sechs Euro fünfzig.",
+          "en": "That comes to six euros fifty."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a1-m4-l2-l1",
+          "type": "mcq",
+          "prompt": "What does the guest order?",
+          "options": [
+            "Soup and water",
+            "Coffee and bread",
+            "Salad and tea",
+            "Cake and juice"
+          ],
+          "answer": 0,
+          "explanation": "The guest orders \"eine Suppe und ein Wasser\"."
+        },
+        {
+          "id": "a1-m4-l2-l2",
+          "type": "mcq",
+          "prompt": "How much is the order?",
+          "options": [
+            "5,50 €",
+            "6,15 €",
+            "6,50 €",
+            "16,50 €"
+          ],
+          "answer": 2,
+          "explanation": "The waiter says \"sechs Euro fünfzig\", 6,50 €."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l2-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "a1-m4-l2",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Order a drink and a snack, then ask for the price. Use hätte gern and Was kostet …?",
+      "model": {
+        "de": "Ich hätte gern einen Kaffee und ein Brot. Was kostet das?",
+        "en": "I would like a coffee and a bread. How much is that?"
+      },
+      "tips": [
+        "Use einen for masculine drinks such as Kaffee and Tee.",
+        "Add \"bitte\" to sound polite without changing the grammar.",
+        "Say the price back to practise the numbers: drei Euro fünfzig."
+      ]
+    },
+    {
+      "id": "a1-m4-l2-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "a1-m4-l2",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Ich hätte gern ein Kaffee.",
+          "right": "Ich hätte gern einen Kaffee.",
+          "why": "Kaffee is masculine and the direct object, so ein becomes einen."
+        },
+        {
+          "wrong": "Was kostet die Brötchen?",
+          "right": "Was kosten die Brötchen?",
+          "why": "Brötchen is plural, so the verb must be kosten."
+        },
+        {
+          "wrong": "Ich will einen Kaffee.",
+          "right": "Ich hätte gern einen Kaffee.",
+          "why": "Ich will sounds blunt in a café; hätte gern is the polite standard."
+        }
+      ]
+    },
+    {
+      "id": "a1-m4-l2-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "a1-m4-l2",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "a1-m4-l2-a1",
+          "type": "mcq",
+          "prompt": "Ich hätte gern ___ Kaffee.",
+          "options": [
+            "ein",
+            "eine",
+            "einen",
+            "einem"
+          ],
+          "answer": 2,
+          "explanation": "Kaffee is masculine and the direct object, so use einen."
+        },
+        {
+          "id": "a1-m4-l2-a2",
+          "type": "mcq",
+          "prompt": "___ kostet das Brot?",
+          "options": [
+            "Was",
+            "Wie",
+            "Wer",
+            "Wo"
+          ],
+          "answer": 0,
+          "explanation": "Ask for a price with \"Was kostet …?\"."
+        },
+        {
+          "id": "a1-m4-l2-a3",
+          "type": "mcq",
+          "prompt": "Which phrase asks for the bill?",
+          "options": [
+            "Die Speisekarte, bitte.",
+            "Die Rechnung, bitte.",
+            "Das Brot, bitte.",
+            "Der Preis, bitte."
+          ],
+          "answer": 1,
+          "explanation": "Die Rechnung is the bill."
+        },
+        {
+          "id": "a1-m4-l2-a4",
+          "type": "mcq",
+          "prompt": "Was ___ die Brötchen?",
+          "options": [
+            "kostet",
+            "kosten",
+            "kostest",
+            "kostete"
+          ],
+          "answer": 1,
+          "explanation": "Brötchen is plural, so the verb is kosten."
+        },
+        {
+          "id": "a1-m4-l2-a5",
+          "type": "gap",
+          "prompt": "Ich hätte gern ___ Tee.",
+          "answers": [
+            "einen"
+          ],
+          "explanation": "Tee is masculine and the direct object, so use einen."
+        },
+        {
+          "id": "a1-m4-l2-a6",
+          "type": "gap",
+          "prompt": "Was ___ das Wasser?",
+          "answers": [
+            "kostet"
+          ],
+          "explanation": "Wasser is singular, so use kostet."
+        },
+        {
+          "id": "a1-m4-l2-a7",
+          "type": "gap",
+          "prompt": "Die ___, bitte.",
+          "answers": [
+            "Rechnung"
+          ],
+          "explanation": "Die Rechnung means the bill."
+        },
+        {
+          "id": "a1-m4-l2-a8",
+          "type": "gap",
+          "prompt": "Ich möchte ___ Limonade.",
+          "answers": [
+            "eine"
+          ],
+          "explanation": "Limonade is feminine, so use eine."
+        },
+        {
+          "id": "a1-m4-l2-a9",
+          "type": "order",
+          "prompt": "Build: “I would like a coffee, please.”",
+          "tokens": [
+            "gern",
+            "einen",
+            "hätte",
+            "Ich",
+            "Kaffee",
+            "bitte"
+          ],
+          "answer": "Ich hätte gern einen Kaffee, bitte.",
+          "explanation": "The fixed phrase is Ich hätte gern, followed by the accusative item."
+        },
+        {
+          "id": "a1-m4-l2-a10",
+          "type": "order",
+          "prompt": "Build: “How much does the bread cost?”",
+          "tokens": [
+            "das",
+            "Was",
+            "Brot",
+            "kostet"
+          ],
+          "answer": "Was kostet das Brot?",
+          "explanation": "A W-question starts with the question word, then the verb."
+        }
+      ]
+    }
+  ]
+}

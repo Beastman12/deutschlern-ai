@@ -1,0 +1,675 @@
+{
+  "id": "b2-m4-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "b2-m4-l2-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "b2-m4-l2",
+      "prompt": "Take one sentence you wrote recently and say how you would make it shorter and clearer.",
+      "items": [
+        "Aus den genannten Gründen befürworte ich …",
+        "der Zusammenhang",
+        "die Kohärenz",
+        "präzisieren"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "b2-m4-l2-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "b2-m4-l2",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "b2-m4-l2-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "b2-m4-l2",
+      "lede": "Formal writing improves when cohesion, precision and register work together.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Cohesion means the text holds together. Use pronouns and connectors to link sentences: “Diese Maßnahme … Sie … Aus diesem Grund …”. Avoid repeating the same noun in every sentence, and make sure each connector expresses the right relationship."
+        },
+        {
+          "kind": "p",
+          "text": "Precision means replacing vague verbs such as “machen” or “haben” with specific ones: “durchführen”, “gewährleisten”, “ermöglichen”. Register means choosing formal, impersonal forms where appropriate: “Es wird empfohlen” rather than “Ich finde, du solltest”."
+        },
+        {
+          "kind": "note",
+          "title": "Edit in three passes",
+          "text": "First edit structure, then sentences, then words. Trying to fix everything at once makes the text worse, not better."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l2-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "b2-m4-l2",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "cohesion",
+              "Diese Maßnahme … Sie … Aus diesem Grund …"
+            ],
+            [
+              "precision",
+              "eine Maßnahme durchführen, nicht machen"
+            ],
+            [
+              "register",
+              "Es wird empfohlen, …"
+            ],
+            [
+              "sentence length",
+              "One main idea per sentence."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use “dieser/diese/dieses” to refer back clearly.",
+            "Replace “sehr wichtig” with a specific reason or consequence.",
+            "Keep sentences under about 20 words in formal writing."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l2-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "b2-m4-l2",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "der Zusammenhang",
+          "en": "connection, context",
+          "article": "der",
+          "plural": "die Zusammenhänge",
+          "example": "Der Zusammenhang zwischen Kosten und Qualität ist klar.",
+          "exampleEn": "The connection between cost and quality is clear."
+        },
+        {
+          "de": "die Kohärenz",
+          "en": "coherence",
+          "article": "die",
+          "example": "Die Kohärenz des Textes leidet unter den vielen Wiederholungen.",
+          "exampleEn": "The coherence of the text suffers from the many repetitions."
+        },
+        {
+          "de": "präzisieren",
+          "en": "to make more precise",
+          "example": "Könnten Sie Ihre Aussage bitte präzisieren?",
+          "exampleEn": "Could you please make your statement more precise?"
+        },
+        {
+          "de": "überarbeiten",
+          "en": "to revise",
+          "example": "Ich muss den Bericht noch überarbeiten.",
+          "exampleEn": "I still need to revise the report."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l2-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "b2-m4-l2",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Aus den genannten Gründen befürworte ich die Maßnahme.",
+          "en": "For the reasons mentioned, I support the measure.",
+          "note": "A formal conclusion with a clear stance."
+        },
+        {
+          "de": "Die Maßnahme wurde im letzten Jahr durchgeführt.",
+          "en": "The measure was implemented last year.",
+          "note": "Durchführen is more precise than machen."
+        },
+        {
+          "de": "Es wird empfohlen, den Prozess zu vereinfachen.",
+          "en": "It is recommended to simplify the process.",
+          "note": "An impersonal formal recommendation."
+        },
+        {
+          "de": "Diese Entwicklung hat mehrere Ursachen. Eine davon ist der Fachkräftemangel.",
+          "en": "This development has several causes. One of them is the shortage of skilled workers.",
+          "note": "A short sentence with a clear link."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l2-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "b2-m4-l2",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "der Zusammenhang",
+          "hint": "Stress the first syllable: tsu-ZAM-men-hang."
+        },
+        {
+          "de": "präzisieren",
+          "hint": "Stress the final syllable: pre-tsi-ZEE-ren."
+        },
+        {
+          "de": "überarbeiten",
+          "hint": "Stress the third syllable: ü-ber-AR-bei-ten."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l2-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "b2-m4-l2",
+      "heading": "Formal style in German",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German formal writing values clarity and structure, but it also tolerates longer noun phrases than English. The goal is not to sound complicated; it is to be precise and easy to follow."
+        },
+        {
+          "kind": "p",
+          "text": "Nominal style (“die Durchführung der Maßnahme”) is common in reports. Too much of it becomes heavy. A good text mixes noun phrases with clear verbs."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l2-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "b2-m4-l2",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "Two colleagues review a draft report.",
+      "lines": [
+        {
+          "speaker": "Leiterin",
+          "de": "Der Text ist zu lang. Können wir ihn kürzen?",
+          "en": "The text is too long. Can we shorten it?"
+        },
+        {
+          "speaker": "Autor",
+          "de": "Ja, ich ersetze die Wiederholungen durch Pronomen.",
+          "en": "Yes, I will replace the repetitions with pronouns."
+        },
+        {
+          "speaker": "Leiterin",
+          "de": "Und bitte präzisieren Sie den letzten Absatz.",
+          "en": "And please make the last paragraph more precise."
+        },
+        {
+          "speaker": "Autor",
+          "de": "Gern. Ich überarbeite den Bericht bis morgen.",
+          "en": "Gladly. I will revise the report by tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l2-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "b2-m4-l2",
+      "heading": "Editing checklist",
+      "lede": "Check structure, then sentences, then words.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Struktur",
+              "Does each paragraph have one purpose?"
+            ],
+            [
+              "Kohärenz",
+              "Do the connectors express the right relationship?"
+            ],
+            [
+              "Präzision",
+              "Can a vague verb be replaced?"
+            ],
+            [
+              "Register",
+              "Is the tone appropriate for the audience?"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Nominalisations can hide the actor: “Die Durchführung erfolgt durch das Team.” If the actor matters, use the active voice: “Das Team führt die Maßnahme durch.”"
+        }
+      ],
+      "tip": "Read the text aloud. Long, tangled sentences are easier to hear than to see."
+    },
+    {
+      "id": "b2-m4-l2-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "b2-m4-l2",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "b2-m4-l2-p-m1",
+          "type": "mcq",
+          "prompt": "Which sentence is more precise?",
+          "options": [
+            "Wir machen das Projekt.",
+            "Wir führen das Projekt durch.",
+            "Wir haben das Projekt.",
+            "Wir sind das Projekt."
+          ],
+          "answer": 1,
+          "explanation": "Durchführen is a precise verb for carrying out a project."
+        },
+        {
+          "id": "b2-m4-l2-p-m2",
+          "type": "mcq",
+          "prompt": "Which connector shows a consequence?",
+          "options": [
+            "zum Beispiel",
+            "aus diesem Grund",
+            "im Gegensatz dazu",
+            "zunächst"
+          ],
+          "answer": 1,
+          "explanation": "Aus diesem Grund introduces a consequence."
+        },
+        {
+          "id": "b2-m4-l2-p-m3",
+          "type": "mcq",
+          "prompt": "Which sentence has formal, impersonal register?",
+          "options": [
+            "Ich finde, du solltest das machen.",
+            "Es wird empfohlen, den Prozess zu vereinfachen.",
+            "Mach das mal besser.",
+            "Das ist echt doof."
+          ],
+          "answer": 1,
+          "explanation": "Es wird empfohlen is impersonal and formal."
+        },
+        {
+          "id": "b2-m4-l2-p-m4",
+          "type": "mcq",
+          "prompt": "What does Kohärenz mean?",
+          "options": [
+            "Coherence",
+            "Length",
+            "Punctuation",
+            "Vocabulary size"
+          ],
+          "answer": 0,
+          "explanation": "Kohärenz is the logical connection of ideas in a text."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l2-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "b2-m4-l2",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "b2-m4-l2-p-g1",
+          "type": "gap",
+          "prompt": "Aus den genannten Gründen ___ ich die Maßnahme.",
+          "answers": [
+            "befürworte"
+          ],
+          "explanation": "Befürworten means to support or advocate."
+        },
+        {
+          "id": "b2-m4-l2-p-g2",
+          "type": "gap",
+          "prompt": "Es wird ___, den Prozess zu vereinfachen.",
+          "answers": [
+            "empfohlen"
+          ],
+          "explanation": "The impersonal passive uses empfohlen."
+        },
+        {
+          "id": "b2-m4-l2-p-g3",
+          "type": "gap",
+          "prompt": "Könnten Sie Ihre Aussage bitte ___?",
+          "answers": [
+            "präzisieren"
+          ],
+          "explanation": "Präzisieren means to make more precise."
+        },
+        {
+          "id": "b2-m4-l2-p-g4",
+          "type": "gap",
+          "prompt": "Ich muss den Bericht noch ___.",
+          "answers": [
+            "überarbeiten"
+          ],
+          "explanation": "Überarbeiten means to revise."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l2-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "b2-m4-l2",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "b2-m4-l2-p-o1",
+          "type": "order",
+          "prompt": "Build: “For the reasons mentioned, I support the measure.”",
+          "tokens": [
+            "den",
+            "Aus",
+            "genannten",
+            "Gründen",
+            "befürworte",
+            "ich",
+            "die",
+            "Maßnahme."
+          ],
+          "answer": "Aus den genannten Gründen befürworte ich die Maßnahme.",
+          "explanation": "The fronted prepositional phrase is followed immediately by the verb."
+        },
+        {
+          "id": "b2-m4-l2-p-o2",
+          "type": "order",
+          "prompt": "Build: “The measure was implemented last year.”",
+          "tokens": [
+            "im",
+            "Die",
+            "wurde",
+            "Maßnahme",
+            "letzten",
+            "Jahr",
+            "durchgeführt."
+          ],
+          "answer": "Die Maßnahme wurde im letzten Jahr durchgeführt.",
+          "explanation": "The passive puts the participle at the end."
+        },
+        {
+          "id": "b2-m4-l2-p-o3",
+          "type": "order",
+          "prompt": "Build: “It is recommended to simplify the process.”",
+          "tokens": [
+            "den",
+            "Es",
+            "empfohlen,",
+            "wird",
+            "Prozess",
+            "zu",
+            "vereinfachen."
+          ],
+          "answer": "Es wird empfohlen, den Prozess zu vereinfachen.",
+          "explanation": "The impersonal passive is followed by the zu-infinitive."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l2-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "b2-m4-l2",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Feedback zu einem Bericht",
+      "script": [
+        {
+          "speaker": "Leiterin",
+          "de": "Der Bericht ist inhaltlich gut, aber sprachlich zu lang.",
+          "en": "The report is good in content, but linguistically too long."
+        },
+        {
+          "speaker": "Autor",
+          "de": "Soll ich die Wiederholungen streichen?",
+          "en": "Should I remove the repetitions?"
+        },
+        {
+          "speaker": "Leiterin",
+          "de": "Ja, und bitte präzisieren Sie die Empfehlung am Ende.",
+          "en": "Yes, and please make the recommendation at the end more precise."
+        },
+        {
+          "speaker": "Autor",
+          "de": "Verstanden. Ich überarbeite den Text bis Freitag.",
+          "en": "Understood. I will revise the text by Friday."
+        }
+      ],
+      "questions": [
+        {
+          "id": "b2-m4-l2-l1",
+          "type": "mcq",
+          "prompt": "What is the main criticism?",
+          "options": [
+            "The content is wrong",
+            "The text is too long",
+            "The data is missing",
+            "The title is unclear"
+          ],
+          "answer": 1,
+          "explanation": "The manager says the report is linguistically too long."
+        },
+        {
+          "id": "b2-m4-l2-l2",
+          "type": "mcq",
+          "prompt": "What should the author make more precise?",
+          "options": [
+            "The introduction",
+            "The recommendation",
+            "The title",
+            "The table"
+          ],
+          "answer": 1,
+          "explanation": "The manager asks for a more precise recommendation at the end."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l2-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "b2-m4-l2",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Rewrite a vague sentence into precise, formal German and explain your change.",
+      "model": {
+        "de": "Statt „Wir machen das Projekt besser“ schreibe ich: „Wir optimieren die Projektabläufe, um die Durchlaufzeit zu verkürzen.“ Das ist präziser und formaler.",
+        "en": "Instead of “We are making the project better”, I write: “We are optimising the project processes in order to shorten the throughput time.” That is more precise and more formal."
+      },
+      "tips": [
+        "Replace one vague verb with a specific one.",
+        "Add a purpose clause with um … zu.",
+        "Read the sentence aloud to check its length."
+      ]
+    },
+    {
+      "id": "b2-m4-l2-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "b2-m4-l2",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Wir machen eine Maßnahme.",
+          "right": "Wir führen eine Maßnahme durch.",
+          "why": "Durchführen is the precise verb for implementing a measure."
+        },
+        {
+          "wrong": "Ich finde, dass das besser ist.",
+          "right": "Es wird empfohlen, den Vorschlag anzunehmen.",
+          "why": "Formal writing often prefers impersonal constructions."
+        },
+        {
+          "wrong": "Die Maßnahme wurde durchgeführt von uns im letzten Jahr.",
+          "right": "Die Maßnahme wurde im letzten Jahr durchgeführt.",
+          "why": "The agent is usually omitted in formal passive writing."
+        }
+      ]
+    },
+    {
+      "id": "b2-m4-l2-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "b2-m4-l2",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "b2-m4-l2-a1",
+          "type": "mcq",
+          "prompt": "Which sentence is more precise?",
+          "options": [
+            "Wir machen das Projekt.",
+            "Wir führen das Projekt durch.",
+            "Wir haben das Projekt.",
+            "Wir sind das Projekt."
+          ],
+          "answer": 1,
+          "explanation": "Durchführen is a precise verb for carrying out a project."
+        },
+        {
+          "id": "b2-m4-l2-a2",
+          "type": "mcq",
+          "prompt": "Which connector shows a consequence?",
+          "options": [
+            "zum Beispiel",
+            "aus diesem Grund",
+            "im Gegensatz dazu",
+            "zunächst"
+          ],
+          "answer": 1,
+          "explanation": "Aus diesem Grund introduces a consequence."
+        },
+        {
+          "id": "b2-m4-l2-a3",
+          "type": "mcq",
+          "prompt": "Which sentence has formal, impersonal register?",
+          "options": [
+            "Ich finde, du solltest das machen.",
+            "Es wird empfohlen, den Prozess zu vereinfachen.",
+            "Mach das mal besser.",
+            "Das ist echt doof."
+          ],
+          "answer": 1,
+          "explanation": "Es wird empfohlen is impersonal and formal."
+        },
+        {
+          "id": "b2-m4-l2-a4",
+          "type": "mcq",
+          "prompt": "What does Kohärenz mean?",
+          "options": [
+            "Coherence",
+            "Length",
+            "Punctuation",
+            "Vocabulary size"
+          ],
+          "answer": 0,
+          "explanation": "Kohärenz is the logical connection of ideas in a text."
+        },
+        {
+          "id": "b2-m4-l2-a5",
+          "type": "gap",
+          "prompt": "Aus den genannten Gründen ___ ich die Maßnahme.",
+          "answers": [
+            "befürworte"
+          ],
+          "explanation": "Befürworten means to support or advocate."
+        },
+        {
+          "id": "b2-m4-l2-a6",
+          "type": "gap",
+          "prompt": "Es wird ___, den Prozess zu vereinfachen.",
+          "answers": [
+            "empfohlen"
+          ],
+          "explanation": "The impersonal passive uses empfohlen."
+        },
+        {
+          "id": "b2-m4-l2-a7",
+          "type": "gap",
+          "prompt": "Könnten Sie Ihre Aussage bitte ___?",
+          "answers": [
+            "präzisieren"
+          ],
+          "explanation": "Präzisieren means to make more precise."
+        },
+        {
+          "id": "b2-m4-l2-a8",
+          "type": "gap",
+          "prompt": "Ich muss den Bericht noch ___.",
+          "answers": [
+            "überarbeiten"
+          ],
+          "explanation": "Überarbeiten means to revise."
+        },
+        {
+          "id": "b2-m4-l2-a9",
+          "type": "order",
+          "prompt": "Build: “For the reasons mentioned, I support the measure.”",
+          "tokens": [
+            "den",
+            "Aus",
+            "genannten",
+            "Gründen",
+            "befürworte",
+            "ich",
+            "die",
+            "Maßnahme."
+          ],
+          "answer": "Aus den genannten Gründen befürworte ich die Maßnahme.",
+          "explanation": "The fronted prepositional phrase is followed immediately by the verb."
+        },
+        {
+          "id": "b2-m4-l2-a10",
+          "type": "order",
+          "prompt": "Build: “The measure was implemented last year.”",
+          "tokens": [
+            "im",
+            "Die",
+            "wurde",
+            "Maßnahme",
+            "letzten",
+            "Jahr",
+            "durchgeführt."
+          ],
+          "answer": "Die Maßnahme wurde im letzten Jahr durchgeführt.",
+          "explanation": "The passive puts the participle at the end."
+        }
+      ]
+    }
+  ]
+}

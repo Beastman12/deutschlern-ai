@@ -1,0 +1,641 @@
+{
+  "id": "b2-m1-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "prompt": "Read each phrase aloud, then add the noun it describes. Notice how much information sits before the noun.",
+      "items": [
+        "die steigenden Kosten",
+        "der geschriebene Text",
+        "die betroffenen Personen",
+        "die bis Freitag zu erledigenden Aufgaben"
+      ],
+      "lede": "Two minutes of reading trains your eye to find the noun at the end of a long phrase."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "German can compress a whole relative clause into a phrase that sits before a noun. This is the style of reports, laws and academic texts.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A relative clause such as die Kosten, die steigen can become die steigenden Kosten. The verb turns into a participle, takes an adjective ending and moves in front of the noun. The result is shorter, denser and more formal."
+        },
+        {
+          "kind": "de",
+          "text": "Die seit Jahren steigenden Kosten belasten das Unternehmen.",
+          "en": "The costs, which have been rising for years, are putting pressure on the company."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The present participle (Partizip I) ends in -end and describes something active or ongoing: steigend, zunehmend, wachsend.",
+            "The past participle (Partizip II) often describes a completed result or a passive relationship: geschrieben, betroffen, beschlossen.",
+            "Extended attributes can carry several words: die von der Kommission beschlossene Reform.",
+            "zu + present participle expresses an obligation: die zu erledigenden Aufgaben = the tasks that must be completed."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Find the noun first",
+          "text": "When reading a long phrase, skip to the noun, then work backwards through the participle and its modifiers. German readers do this automatically; learners can train it."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "Two participles, one adjective ending, and a clear difference in meaning.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Form", "Meaning", "Example", "English"],
+          "rows": [
+            ["Partizip I: steigend", "active, ongoing", "die steigenden Kosten", "the rising costs"],
+            ["Partizip I: zunehmend", "active, ongoing", "die zunehmende Nachfrage", "the increasing demand"],
+            ["Partizip II: geschrieben", "completed, passive result", "der geschriebene Text", "the written text"],
+            ["Partizip II: betroffen", "affected", "die betroffenen Personen", "the people affected"],
+            ["zu + Partizip I", "must be done", "die zu erledigenden Aufgaben", "the tasks to be completed"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Partizip I is formed from the infinitive + d: steigen → steigend, zunehmen → zunehmend.",
+            "Before a noun, the participle takes the normal adjective ending: die steigenden Kosten, der geschriebene Text.",
+            "Extended attributes stand between the article and the noun: die [von der Kommission beschlossene] Reform.",
+            "The phrase must agree with the noun in gender, number and case: die betroffenen Personen, der betroffene Mann.",
+            "A relative clause is often clearer when the attribute becomes very long or when you are speaking rather than writing."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "-end or ge-?",
+          "text": "Ask whether the action is still happening or already complete. Steigende Kosten are still rising. Geschriebene Texte have already been written."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These phrases are ready-made models. Learn the whole phrase, including the ending.",
+      "items": [
+        {
+          "de": "die steigenden Kosten",
+          "en": "the rising costs",
+          "article": "die",
+          "plural": "die steigenden Kosten",
+          "pronunciation": "diː ˈʃtaɪ̯ɡn̩dn̩ ˈkɔstn̩",
+          "example": "Die steigenden Kosten zwingen das Unternehmen zum Handeln.",
+          "exampleEn": "The rising costs are forcing the company to act."
+        },
+        {
+          "de": "der geschriebene Text",
+          "en": "the written text",
+          "article": "der",
+          "plural": "die geschriebenen Texte",
+          "pronunciation": "deːɐ̯ ɡəˈʃʁiːbənə tɛkst",
+          "example": "Der gestern geschriebene Text muss noch korrigiert werden.",
+          "exampleEn": "The text written yesterday still needs to be corrected."
+        },
+        {
+          "de": "die betroffenen Personen",
+          "en": "the people affected",
+          "article": "die",
+          "plural": "die betroffenen Personen",
+          "pronunciation": "diː bəˈtʁɔfənən pɛʁˈzoːnən",
+          "example": "Die von der Reform betroffenen Personen erhalten Unterstützung.",
+          "exampleEn": "The people affected by the reform receive support."
+        },
+        {
+          "de": "die zu erledigenden Aufgaben",
+          "en": "the tasks to be completed",
+          "article": "die",
+          "plural": "die zu erledigenden Aufgaben",
+          "pronunciation": "diː tsuː ɛɐ̯ˈleːdɪɡn̩dn̩ ˈaʊ̯fɡaːbn̩",
+          "example": "Die bis Freitag zu erledigenden Aufgaben sind im Anhang aufgeführt.",
+          "exampleEn": "The tasks to be completed by Friday are listed in the appendix."
+        },
+        {
+          "de": "die zunehmende Nachfrage",
+          "en": "the increasing demand",
+          "article": "die",
+          "plural": "die zunehmenden Nachfragen",
+          "pronunciation": "diː ˈtsuːneːməndə ˈnaːxfʁaːɡə",
+          "example": "Die zunehmende Nachfrage nach Fachkräften ist deutlich.",
+          "exampleEn": "The increasing demand for skilled workers is clear."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Each sentence contains one participial phrase. Identify the noun it describes.",
+      "items": [
+        {
+          "de": "Die steigenden Kosten zwingen das Unternehmen zum Handeln.",
+          "en": "The rising costs are forcing the company to act.",
+          "note": "steigenden is Partizip I: the costs are still rising."
+        },
+        {
+          "de": "Der gestern geschriebene Text muss noch korrigiert werden.",
+          "en": "The text written yesterday still needs to be corrected.",
+          "note": "geschriebene is Partizip II: the writing is complete."
+        },
+        {
+          "de": "Die von der Reform betroffenen Personen erhalten Unterstützung.",
+          "en": "The people affected by the reform receive support.",
+          "note": "The extended attribute is von der Reform betroffenen."
+        },
+        {
+          "de": "Die bis Freitag zu erledigenden Aufgaben sind im Anhang aufgeführt.",
+          "en": "The tasks to be completed by Friday are listed in the appendix.",
+          "note": "zu erledigenden expresses an obligation in the passive."
+        },
+        {
+          "de": "Die zunehmende Nachfrage nach Fachkräften ist deutlich.",
+          "en": "The increasing demand for skilled workers is clear.",
+          "note": "zunehmende is active: demand is increasing."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 4,
+      "lede": "Participial phrases pack several unstressed endings together. Keep the stressed syllable strong.",
+      "items": [
+        {
+          "de": "steigend",
+          "hint": "One syllable “shtai-gend”. The ei glides from a to i; the final -end is light.",
+          "en": "rising"
+        },
+        {
+          "de": "geschrieben",
+          "hint": "Stress the second syllable: ge-SCHRIE-ben. The prefix ge- is short, the ie is long.",
+          "en": "written"
+        },
+        {
+          "de": "betroffenen",
+          "hint": "Stress the second syllable: be-TROf-fe-nen. Keep the o short and do not swallow the final -nen.",
+          "en": "affected"
+        },
+        {
+          "de": "erledigenden",
+          "hint": "Stress the second syllable: er-LE-di-gen-den. Say each ending clearly; the word has five syllables.",
+          "en": "to be completed"
+        },
+        {
+          "de": "beschlossene",
+          "hint": "Stress the second syllable: be-SCHLOS-se-ne. The sch is clean and the o is short.",
+          "en": "decided / passed"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "The elegant compressed sentence — and its limits",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Participial attributes are a hallmark of German academic, legal and journalistic writing. They allow a writer to place a definition, a condition or a source directly before the noun, which keeps the main clause free for the argument."
+        },
+        {
+          "kind": "p",
+          "text": "The same structure can become a Schachtelsatz — a sentence nested inside itself. Newspapers and writing guides often advise splitting long attributes into relative clauses. In an exam, one well-built attribute shows control; three in one sentence usually cost clarity."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lede": "An author and an editor decide where a participial phrase helps and where it does not.",
+      "setting": "An editor's office at a publishing house",
+      "lines": [
+        { "speaker": "Redakteurin", "de": "Dieser Satz ist zu lang: „Die von der Kommission nach langen Beratungen beschlossene und von vielen Kritikern abgelehnte Reform …“", "en": "This sentence is too long: “The reform passed by the commission after long deliberations and rejected by many critics …”" },
+        { "speaker": "Autor", "de": "Ich wollte die Informationen kompakt halten.", "en": "I wanted to keep the information compact." },
+        { "speaker": "Redakteurin", "de": "Kompakt ja, aber der Leser verliert den Faden. Teilen Sie den Satz in zwei relative Sätze.", "en": "Compact, yes, but the reader loses the thread. Split the sentence into two relative clauses." },
+        { "speaker": "Autor", "de": "Also: „Die Reform wurde nach langen Beratungen beschlossen. Viele Kritiker lehnen sie ab.“", "en": "So: “The reform was passed after long deliberations. Many critics reject it.”" },
+        { "speaker": "Redakteurin", "de": "Genau. Die kürzere Form „die beschlossene Reform“ reicht an anderer Stelle völlig aus.", "en": "Exactly. The shorter form “the reform that was passed” is enough elsewhere." },
+        { "speaker": "Autor", "de": "Dann überarbeite ich den Absatz und behalte nur die wichtigen Partizipien.", "en": "Then I will revise the paragraph and keep only the important participles." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "heading": "Building an extended attribute",
+      "lede": "The noun comes last. Everything before it describes the noun.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Relative clause", "Participial attribute", "English"],
+          "rows": [
+            ["die Kosten, die steigen", "die steigenden Kosten", "the rising costs"],
+            ["der Text, der geschrieben wurde", "der geschriebene Text", "the text that was written"],
+            ["die Personen, die betroffen sind", "die betroffenen Personen", "the people affected"],
+            ["die Aufgaben, die erledigt werden müssen", "die zu erledigenden Aufgaben", "the tasks to be completed"],
+            ["die Reform, die die Kommission beschlossen hat", "die von der Kommission beschlossene Reform", "the reform passed by the commission"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Start with the noun and its article: die Reform.",
+            "Choose the participle: beschlossen (completed, passive).",
+            "Add the agent or detail before the participle: von der Kommission.",
+            "Add the adjective ending that matches the noun: die von der Kommission beschlossene Reform.",
+            "For an obligation, use zu + Partizip I: die zu erledigenden Aufgaben."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Decoding strategy",
+          "text": "Read the noun first, then ask “which one?”. In die seit Jahren steigenden Kosten, find Kosten, then steigenden, then seit Jahren. The phrase answers: which costs? The ones that have been rising for years."
+        }
+      ],
+      "tip": "If the phrase needs a comma to be understood, it probably needs a relative clause instead."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Check the difference between active -end forms and completed ge- forms.",
+      "exercises": [
+        {
+          "id": "b2m1l3-p1",
+          "type": "mcq",
+          "prompt": "What does “die steigenden Kosten” mean?",
+          "options": [
+            "the costs that have already risen",
+            "the costs that are rising",
+            "the costs that must rise",
+            "the costs of rising"
+          ],
+          "answer": 1,
+          "explanation": "steigend is Partizip I and describes an ongoing, active process."
+        },
+        {
+          "id": "b2m1l3-p2",
+          "type": "mcq",
+          "prompt": "What does “der geschriebene Text” mean?",
+          "options": [
+            "the text that is being written",
+            "the text that has been written",
+            "the text that must be written",
+            "the text about writing"
+          ],
+          "answer": 1,
+          "explanation": "geschrieben is Partizip II: the action is complete."
+        },
+        {
+          "id": "b2m1l3-p3",
+          "type": "mcq",
+          "prompt": "Which phrase means “the tasks to be completed”?",
+          "options": ["die erledigten Aufgaben", "die erledigenden Aufgaben", "die zu erledigenden Aufgaben", "die erledigen Aufgaben"],
+          "answer": 2,
+          "explanation": "zu + Partizip I expresses an obligation: die zu erledigenden Aufgaben."
+        },
+        {
+          "id": "b2m1l3-p4",
+          "type": "mcq",
+          "prompt": "Which extended attribute is correctly formed?",
+          "options": [
+            "die von der Kommission beschlossene Reform",
+            "die von der Kommission beschlossen Reform",
+            "die beschlossene von der Kommission Reform",
+            "die Reform von der Kommission beschlossene"
+          ],
+          "answer": 0,
+          "explanation": "The attribute sits between article and noun, and the participle takes the adjective ending -e."
+        },
+        {
+          "id": "b2m1l3-p5",
+          "type": "mcq",
+          "prompt": "What is the Partizip I of zunehmen?",
+          "options": ["zugenommen", "zunehmend", "zunehmen", "zunehmendet"],
+          "answer": 1,
+          "explanation": "Infinitive + d: zunehmen → zunehmend."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing participle with the correct adjective ending.",
+      "exercises": [
+        {
+          "id": "b2m1l3-g1",
+          "type": "gap",
+          "prompt": "Die ___ Kosten zwingen das Unternehmen zum Handeln.",
+          "answers": ["steigenden"],
+          "explanation": "steigen → steigend; plural nominative after die → steigenden."
+        },
+        {
+          "id": "b2m1l3-g2",
+          "type": "gap",
+          "prompt": "Der gestern ___ Text muss noch korrigiert werden.",
+          "answers": ["geschriebene"],
+          "explanation": "schreiben → geschrieben; masculine nominative after der → geschriebene."
+        },
+        {
+          "id": "b2m1l3-g3",
+          "type": "gap",
+          "prompt": "Die von der Reform ___ Personen erhalten Unterstützung.",
+          "answers": ["betroffenen"],
+          "explanation": "betreffen → betroffen; plural nominative after die → betroffenen."
+        },
+        {
+          "id": "b2m1l3-g4",
+          "type": "gap",
+          "prompt": "Die bis Freitag ___ Aufgaben sind im Anhang aufgeführt.",
+          "answers": ["zu erledigenden"],
+          "explanation": "zu + erledigend + plural ending: die zu erledigenden Aufgaben."
+        },
+        {
+          "id": "b2m1l3-g5",
+          "type": "gap",
+          "prompt": "Die ___ Nachfrage nach Fachkräften ist deutlich.",
+          "answers": ["zunehmende"],
+          "explanation": "zunehmen → zunehmend; feminine nominative after die → zunehmende."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Build each sentence. Keep the participial phrase directly before its noun.",
+      "exercises": [
+        {
+          "id": "b2m1l3-o1",
+          "type": "order",
+          "prompt": "Build: “The rising costs are forcing the company to act.”",
+          "tokens": ["Kosten", "Die", "zum", "steigenden", "Handeln", "zwingen", "Unternehmen", "das"],
+          "answer": "Die steigenden Kosten zwingen das Unternehmen zum Handeln.",
+          "explanation": "Die steigenden Kosten is the subject; the participle sits before the noun."
+        },
+        {
+          "id": "b2m1l3-o2",
+          "type": "order",
+          "prompt": "Build: “The people affected by the reform receive support.”",
+          "tokens": ["erhalten", "Die", "betroffenen", "der", "Reform", "Personen", "von", "Unterstützung"],
+          "answer": "Die von der Reform betroffenen Personen erhalten Unterstützung.",
+          "explanation": "The extended attribute von der Reform betroffenen stands between die and Personen."
+        },
+        {
+          "id": "b2m1l3-o3",
+          "type": "order",
+          "prompt": "Build: “The tasks to be completed by Friday are listed in the appendix.”",
+          "tokens": ["Aufgaben", "Die", "Freitag", "zu", "erledigenden", "bis", "sind", "Anhang", "im", "aufgeführt"],
+          "answer": "Die bis Freitag zu erledigenden Aufgaben sind im Anhang aufgeführt.",
+          "explanation": "bis Freitag modifies the obligation phrase zu erledigenden."
+        },
+        {
+          "id": "b2m1l3-o4",
+          "type": "order",
+          "prompt": "Build: “The text written yesterday still needs to be corrected.”",
+          "tokens": ["korrigiert", "Der", "geschriebene", "muss", "Text", "gestern", "noch", "werden"],
+          "answer": "Der gestern geschriebene Text muss noch korrigiert werden.",
+          "explanation": "gestern modifies the participle geschriebene, which describes Text."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice. The speakers are discussing a formal text.",
+      "speaker": "An editor and an author",
+      "script": [
+        { "speaker": "Redakteurin", "de": "Im ersten Absatz steht: „die von der Reform betroffenen Personen“. Das ist korrekt, aber schwer zu lesen.", "en": "The first paragraph says: “the people affected by the reform”. That is correct but hard to read." },
+        { "speaker": "Autor", "de": "Soll ich daraus einen Relativsatz machen?", "en": "Should I turn it into a relative clause?" },
+        { "speaker": "Redakteurin", "de": "Ja. Schreiben Sie: „die Personen, die von der Reform betroffen sind“.", "en": "Yes. Write: “the people who are affected by the reform”." },
+        { "speaker": "Autor", "de": "Und was ist mit den steigenden Kosten im zweiten Absatz?", "en": "And what about the rising costs in the second paragraph?" },
+        { "speaker": "Redakteurin", "de": "Die Form ist kurz und klar. Die kann bleiben.", "en": "That form is short and clear. It can stay." }
+      ],
+      "questions": [
+        {
+          "id": "b2m1l3-lq1",
+          "type": "mcq",
+          "prompt": "What does the editor want the author to change?",
+          "options": [
+            "the phrase die steigenden Kosten",
+            "the extended attribute die von der Reform betroffenen Personen",
+            "the title of the article",
+            "the length of the second paragraph"
+          ],
+          "answer": 1,
+          "explanation": "She says the phrase is correct but hard to read and suggests a relative clause."
+        },
+        {
+          "id": "b2m1l3-lq2",
+          "type": "mcq",
+          "prompt": "Why can die steigenden Kosten stay?",
+          "options": ["It is a quotation.", "It is short and clear.", "It is grammatically wrong.", "It appears in the title."],
+          "answer": 1,
+          "explanation": "The editor says: Die Form ist kurz und klar. Die kann bleiben."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Practise turning a relative clause into a phrase and back again.",
+      "prompt": "Describe a current development at work or in your studies. Use one present-participle phrase, one past-participle phrase and one zu + participle phrase.",
+      "model": {
+        "de": "In meinem Projekt gibt es drei wichtige Punkte: die steigende Nachfrage nach Beratung, die bereits beschlossenen Änderungen und die bis Monatsende zu erledigenden Aufgaben. Die steigende Nachfrage zeigt, dass wir unser Team erweitern müssen.",
+        "en": "There are three important points in my project: the rising demand for advice, the changes that have already been decided, and the tasks to be completed by the end of the month. The rising demand shows that we need to expand our team."
+      },
+      "tips": [
+        "Say the noun first, then add the attribute: die Aufgaben — die zu erledigenden Aufgaben.",
+        "Keep the participle next to its noun; do not separate them with a long insert.",
+        "Afterwards, say the same idea as a relative clause to check that you understand it."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "These errors usually come from translating the English word order word for word.",
+      "items": [
+        {
+          "wrong": "die Kosten steigende",
+          "right": "die steigenden Kosten",
+          "why": "The participial attribute stands before the noun, not after it."
+        },
+        {
+          "wrong": "die von der Reform betroffen Personen",
+          "right": "die von der Reform betroffenen Personen",
+          "why": "The participle needs the adjective ending: plural nominative after die → -en."
+        },
+        {
+          "wrong": "die zu erledigen Aufgaben",
+          "right": "die zu erledigenden Aufgaben",
+          "why": "The obligation pattern needs the participle form: zu + erledigend + ending."
+        },
+        {
+          "wrong": "der geschriebene Text gestern",
+          "right": "der gestern geschriebene Text",
+          "why": "Modifiers belong inside the attribute, before the participle and the noun."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions. Score 70% or more to unlock the next lesson. You can retake this check as often as you need.",
+      "questions": [
+        {
+          "id": "b2m1l3-a1",
+          "type": "mcq",
+          "prompt": "Which form is Partizip I?",
+          "options": ["geschrieben", "steigend", "gestiegen", "beschlossen"],
+          "answer": 1,
+          "explanation": "Partizip I is formed with -end: steigend."
+        },
+        {
+          "id": "b2m1l3-a2",
+          "type": "mcq",
+          "prompt": "What does “die betroffenen Personen” mean?",
+          "options": [
+            "the people who affect others",
+            "the people who are affected",
+            "the people who will be affected",
+            "the people who must affect"
+          ],
+          "answer": 1,
+          "explanation": "betroffen is Partizip II of betreffen and has a passive sense: affected."
+        },
+        {
+          "id": "b2m1l3-a3",
+          "type": "mcq",
+          "prompt": "Which phrase expresses an obligation?",
+          "options": ["die erledigten Aufgaben", "die erledigenden Aufgaben", "die zu erledigenden Aufgaben", "die Aufgaben erledigen"],
+          "answer": 2,
+          "explanation": "zu + Partizip I expresses what must be done: die zu erledigenden Aufgaben."
+        },
+        {
+          "id": "b2m1l3-a4",
+          "type": "mcq",
+          "prompt": "Which sentence contains a correctly formed extended attribute?",
+          "options": [
+            "Die Reform wurde von der Kommission beschlossen.",
+            "Die von der Kommission beschlossene Reform trat in Kraft.",
+            "Die beschlossene von der Kommission Reform trat in Kraft.",
+            "Die Reform beschlossene von der Kommission trat in Kraft."
+          ],
+          "answer": 1,
+          "explanation": "The extended attribute von der Kommission beschlossene stands between die and Reform."
+        },
+        {
+          "id": "b2m1l3-a5",
+          "type": "mcq",
+          "prompt": "When is a relative clause usually the better choice?",
+          "options": [
+            "When the phrase is only one word long",
+            "When the attribute becomes very long or the text is spoken",
+            "When the noun is feminine",
+            "When the sentence is in the present tense"
+          ],
+          "answer": 1,
+          "explanation": "Long or complex attributes are harder to process; a relative clause restores clarity."
+        },
+        {
+          "id": "b2m1l3-a6",
+          "type": "gap",
+          "prompt": "Die ___ Kosten zwingen das Unternehmen zum Handeln.",
+          "answers": ["steigenden"],
+          "explanation": "steigen → steigend + plural ending -en."
+        },
+        {
+          "id": "b2m1l3-a7",
+          "type": "gap",
+          "prompt": "Der gestern ___ Text muss noch korrigiert werden.",
+          "answers": ["geschriebene"],
+          "explanation": "schreiben → geschrieben + masculine nominative ending -e."
+        },
+        {
+          "id": "b2m1l3-a8",
+          "type": "gap",
+          "prompt": "Die von der Reform ___ Personen erhalten Unterstützung.",
+          "answers": ["betroffenen"],
+          "explanation": "betreffen → betroffen + plural ending -en."
+        },
+        {
+          "id": "b2m1l3-a9",
+          "type": "gap",
+          "prompt": "Die bis Freitag ___ Aufgaben sind im Anhang aufgeführt.",
+          "answers": ["zu erledigenden"],
+          "explanation": "The obligation phrase is zu erledigend + plural ending -en."
+        },
+        {
+          "id": "b2m1l3-a10",
+          "type": "order",
+          "prompt": "Build: “The rising costs are forcing the company to act.”",
+          "tokens": ["Kosten", "Die", "zum", "steigenden", "Handeln", "zwingen", "Unternehmen", "das"],
+          "answer": "Die steigenden Kosten zwingen das Unternehmen zum Handeln.",
+          "explanation": "The participial attribute stands before its noun."
+        },
+        {
+          "id": "b2m1l3-a11",
+          "type": "order",
+          "prompt": "Build: “The people affected by the reform receive support.”",
+          "tokens": ["erhalten", "Die", "betroffenen", "der", "Reform", "Personen", "von", "Unterstützung"],
+          "answer": "Die von der Reform betroffenen Personen erhalten Unterstützung.",
+          "explanation": "The whole phrase von der Reform betroffenen describes Personen."
+        },
+        {
+          "id": "b2m1l3-a12",
+          "type": "mcq",
+          "prompt": "Which relative clause matches “die zu erledigenden Aufgaben”?",
+          "options": [
+            "die Aufgaben, die erledigt wurden",
+            "die Aufgaben, die erledigt werden müssen",
+            "die Aufgaben, die erledigen",
+            "die Aufgaben, die man erledigt hat"
+          ],
+          "answer": 1,
+          "explanation": "zu + Partizip I corresponds to a passive with müssen: tasks that must be completed."
+        }
+      ]
+    }
+  ]
+}

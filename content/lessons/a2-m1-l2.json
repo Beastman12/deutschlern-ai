@@ -1,0 +1,613 @@
+{
+  "id": "a2-m1-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lede": "Read these past forms aloud. Each one is a single word.",
+      "prompt": "Say these sentences aloud. Listen for the short, compact past forms.",
+      "items": [
+        "Ich war gestern sehr müde.",
+        "Wir hatten kein Geld dabei.",
+        "Er konnte nicht kommen.",
+        "Sie musste lange warten."
+      ]
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "The Präteritum is the compact past: one verb, no auxiliary.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "The Präteritum expresses the past with a single conjugated verb in position two. There is no participle at the end. For a small, very frequent group of verbs it is also the normal choice in speech: sein, haben, and the modal verbs können, müssen, wollen, dürfen and sollen."
+        },
+        {
+          "kind": "de",
+          "text": "Als Kind war ich oft in den Bergen.",
+          "en": "As a child I was often in the mountains."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "sein becomes war: ich war, du warst, er war, wir waren.",
+            "haben becomes hatte: ich hatte, du hattest, er hatte, wir hatten.",
+            "Modal verbs lose their umlaut and add -te: können → konnte, müssen → musste.",
+            "With a modal in the past, the main verb stays in the infinitive at the end: Ich konnte nicht kommen."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Why this lesson matters",
+          "text": "You will hear war, hatte, konnte and musste constantly, even in conversations where every other verb is in the Perfekt. They are the backbone of storytelling."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 5,
+      "lede": "Learn these three tables as blocks, not as single forms.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Person", "sein →", "haben →"],
+          "rows": [
+            ["ich", "war", "hatte"],
+            ["du", "warst", "hattest"],
+            ["er / sie / es", "war", "hatte"],
+            ["wir", "waren", "hatten"],
+            ["ihr", "wart", "hattet"],
+            ["sie / Sie", "waren", "hatten"]
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Person", "können →", "müssen →"],
+          "rows": [
+            ["ich", "konnte", "musste"],
+            ["du", "konntest", "musstest"],
+            ["er / sie / es", "konnte", "musste"],
+            ["wir", "konnten", "mussten"],
+            ["ihr", "konntet", "musstet"],
+            ["sie / Sie", "konnten", "mussten"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "ich and er/sie/es have no ending in the Präteritum of modal verbs: ich konnte, er musste.",
+            "The umlaut disappears in the past: können → konnte, müssen → musste, dürfen → durfte.",
+            "A modal verb sends the main verb to the end as an infinitive: Sie musste den Bus nehmen.",
+            "With sein and haben there is no second verb, so the sentence simply ends after the complement: Wir hatten keine Zeit."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Negation",
+          "text": "nicht goes after the past verb: Ich konnte nicht schlafen. Ich hatte keine Zeit. Use kein before a noun, as in keine Zeit."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These four past forms carry a large share of everyday narration.",
+      "items": [
+        {
+          "de": "war",
+          "en": "was (Präteritum of sein)",
+          "pronunciation": "vahr",
+          "example": "Gestern war ich den ganzen Tag zu Hause.",
+          "exampleEn": "Yesterday I was at home all day."
+        },
+        {
+          "de": "hatte",
+          "en": "had (Präteritum of haben)",
+          "pronunciation": "HAT-te",
+          "example": "Ich hatte leider keine Zeit.",
+          "exampleEn": "Unfortunately I had no time."
+        },
+        {
+          "de": "konnte",
+          "en": "could / was able to (Präteritum of können)",
+          "pronunciation": "KON-te",
+          "example": "Er konnte nicht kommen.",
+          "exampleEn": "He could not come."
+        },
+        {
+          "de": "musste",
+          "en": "had to (Präteritum of müssen)",
+          "pronunciation": "MUS-ste",
+          "example": "Sie musste früh aufstehen.",
+          "exampleEn": "She had to get up early."
+        },
+        {
+          "de": "die Kindheit",
+          "en": "the childhood",
+          "article": "die",
+          "plural": "die Kindheiten",
+          "pronunciation": "KINT-hite",
+          "example": "Meine Kindheit war sehr ruhig.",
+          "exampleEn": "My childhood was very quiet."
+        },
+        {
+          "de": "damals",
+          "en": "back then / at that time",
+          "pronunciation": "DAH-mahls",
+          "example": "Damals hatten wir kein Auto.",
+          "exampleEn": "Back then we did not have a car."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "All five sentences tell you something about the past in one verb.",
+      "items": [
+        {
+          "de": "Als Kind war ich oft in den Bergen.",
+          "en": "As a child I was often in the mountains.",
+          "note": "war is the Präteritum of sein."
+        },
+        {
+          "de": "Wir hatten früher einen Hund.",
+          "en": "We used to have a dog.",
+          "note": "hatten is the Präteritum of haben."
+        },
+        {
+          "de": "Ich konnte letzte Nacht nicht schlafen.",
+          "en": "I could not sleep last night.",
+          "note": "The modal is in the past; schlafen stays an infinitive at the end."
+        },
+        {
+          "de": "Sie musste jeden Morgen um sechs aufstehen.",
+          "en": "She had to get up at six every morning.",
+          "note": "aufstehen is separable, but the infinitive stays whole at the end."
+        },
+        {
+          "de": "Damals war alles einfacher.",
+          "en": "Back then everything was simpler.",
+          "note": "damals signals a past period and pairs naturally with the Präteritum."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "Short vowels and crisp endings make these forms easy to recognise.",
+      "items": [
+        {
+          "de": "war",
+          "hint": "Long a, and the w sounds like English v: vahr.",
+          "en": "was"
+        },
+        {
+          "de": "hatte",
+          "hint": "Short a and a clearly doubled t. Hold the t briefly, as in “HAT-te”.",
+          "en": "had"
+        },
+        {
+          "de": "konnte",
+          "hint": "Short o with no umlaut. Do not say “könnte”, which is a different word.",
+          "en": "could"
+        },
+        {
+          "de": "musste",
+          "hint": "Short u and a sharp s: MUS-ste.",
+          "en": "had to"
+        },
+        {
+          "de": "Kindheit",
+          "hint": "Long i in Kind, then a clear h before the -heit ending.",
+          "en": "childhood"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "The tense of stories",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German children's stories traditionally open with Es war einmal — “once upon a time”. The Präteritum is the narrative tense of written German, from novels and fairy tales to newspaper reports."
+        },
+        {
+          "kind": "p",
+          "text": "In speech, war, hatte and the past modals are normal everywhere, even in regions where other verbs almost always appear in the Perfekt. Saying Ich war krank sounds natural in Hamburg and in Vienna alike."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "Two neighbours talk about school days and old habits.",
+      "setting": "In the stairwell of an apartment building",
+      "lines": [
+        { "speaker": "Bruno", "de": "Wo bist du eigentlich zur Schule gegangen?", "en": "Where did you actually go to school?" },
+        { "speaker": "Anna", "de": "In Leipzig. Meine Familie hatte damals eine kleine Wohnung im Zentrum.", "en": "In Leipzig. My family had a small flat in the centre back then." },
+        { "speaker": "Bruno", "de": "Und wie war die Schule?", "en": "And how was school?" },
+        { "speaker": "Anna", "de": "Anstrengend! Ich musste jeden Morgen um sechs aufstehen.", "en": "Exhausting! I had to get up at six every morning." },
+        { "speaker": "Bruno", "de": "Konntest du damals schon gut Englisch?", "en": "Could you already speak good English back then?" },
+        { "speaker": "Anna", "de": "Nein, ich konnte nur ein paar Wörter. Aber ich wollte unbedingt lernen.", "en": "No, I only knew a few words. But I really wanted to learn." },
+        { "speaker": "Bruno", "de": "Und heute arbeitest du mit englischen Kunden, oder?", "en": "And today you work with English-speaking clients, right?" },
+        { "speaker": "Anna", "de": "Genau. Damals habe ich das nicht geglaubt.", "en": "Exactly. Back then I did not believe that." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "One verb, two positions",
+      "lede": "sein and haben stand alone; modal verbs leave room for an infinitive.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Sentence", "English", "Pattern"],
+          "rows": [
+            ["Ich war gestern krank.", "I was ill yesterday.", "past verb in position two, nothing at the end"],
+            ["Wir hatten kein Auto.", "We did not have a car.", "past verb in position two, nothing at the end"],
+            ["Ich konnte nicht schlafen.", "I could not sleep.", "modal in position two, infinitive at the end"],
+            ["Musstest du lange warten?", "Did you have to wait long?", "question starts with the modal"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Keep the main verb in the infinitive: Ich musste arbeiten, not Ich musste gearbeitet.",
+            "Do not add zu after a modal verb: Ich konnte nicht kommen.",
+            "The modal agrees with the subject: ich konnte, du konntest, er konnte.",
+            "Time expressions usually come after the verb: Ich hatte gestern keine Zeit."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Perfekt or Präteritum?",
+          "text": "Use war, hatte and the past modals in speech. For other verbs, the Perfekt is more natural in conversation: Ich habe gearbeitet, not Ich arbeitete."
+        }
+      ],
+      "tip": "When you tell a story, switch to the Präteritum for sein, haben and modals, and keep other verbs in the Perfekt. Mixing them this way is exactly what native speakers do."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Pick the correct past form.",
+      "exercises": [
+        {
+          "id": "m1l2-p1",
+          "type": "mcq",
+          "prompt": "Complete: Wir ___ gestern im Kino.",
+          "options": ["war", "waren", "wart", "wären"],
+          "answer": 1,
+          "explanation": "wir waren is the Präteritum of sein in the first person plural."
+        },
+        {
+          "id": "m1l2-p2",
+          "type": "mcq",
+          "prompt": "Complete: Ich ___ leider keine Zeit.",
+          "options": ["hatte", "hat", "hattest", "hätte"],
+          "answer": 0,
+          "explanation": "ich hatte is the Präteritum of haben. hätte is Konjunktiv II."
+        },
+        {
+          "id": "m1l2-p3",
+          "type": "mcq",
+          "prompt": "Complete: Wir ___ nicht kommen, weil der Zug Verspätung hatte.",
+          "options": ["konnte", "konnten", "könnten", "gekonnt"],
+          "answer": 1,
+          "explanation": "wir konnten is the Präteritum of können. The umlaut belongs to the infinitive and the Konjunktiv II."
+        },
+        {
+          "id": "m1l2-p4",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": ["Sie musste früh aufstehen.", "Sie musste früh aufgestanden.", "Sie musste zu früh aufstehen.", "Sie musst früh aufstehen."],
+          "answer": 0,
+          "explanation": "The modal is in the past and the main verb stays an infinitive at the end, with no zu."
+        },
+        {
+          "id": "m1l2-p5",
+          "type": "mcq",
+          "prompt": "Complete: Er ___ als Kind in Wien.",
+          "options": ["war", "hatte", "ist", "wäre"],
+          "answer": 0,
+          "explanation": "sein describes where he was: er war in Wien."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the missing past form.",
+      "exercises": [
+        {
+          "id": "m1l2-g1",
+          "type": "gap",
+          "prompt": "Ich ___ gestern sehr müde.",
+          "answers": ["war"],
+          "explanation": "sein → ich war."
+        },
+        {
+          "id": "m1l2-g2",
+          "type": "gap",
+          "prompt": "Wir ___ früher einen Hund.",
+          "answers": ["hatten"],
+          "explanation": "haben → wir hatten."
+        },
+        {
+          "id": "m1l2-g3",
+          "type": "gap",
+          "prompt": "Sie ___ gestern nicht kommen.",
+          "answers": ["konnte"],
+          "explanation": "können → sie konnte. The main verb kommen stays an infinitive."
+        },
+        {
+          "id": "m1l2-g4",
+          "type": "gap",
+          "prompt": "Ihr ___ damals viel lernen.",
+          "answers": ["musstet"],
+          "explanation": "müssen → ihr musstet."
+        },
+        {
+          "id": "m1l2-g5",
+          "type": "gap",
+          "prompt": "___ du gestern zu Hause?",
+          "answers": ["Warst"],
+          "explanation": "sein → du warst. A yes/no question starts with the verb."
+        },
+        {
+          "id": "m1l2-g6",
+          "type": "gap",
+          "prompt": "Als Kind ___ ich oft im See schwimmen.",
+          "answers": ["konnte"],
+          "explanation": "können → ich konnte. schwimmen remains an infinitive at the end."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Build the sentence and keep the word order of a past narrative.",
+      "exercises": [
+        {
+          "id": "m1l2-o1",
+          "type": "order",
+          "prompt": "Build: “I was very tired yesterday.”",
+          "tokens": ["müde", "gestern", "war", "Ich", "sehr"],
+          "answer": "Ich war gestern sehr müde.",
+          "explanation": "The past verb is in position two, followed by the time expression and the adjective."
+        },
+        {
+          "id": "m1l2-o2",
+          "type": "order",
+          "prompt": "Build: “We used to have a dog.”",
+          "tokens": ["einen", "hatten", "Hund", "Wir", "früher"],
+          "answer": "Wir hatten früher einen Hund.",
+          "explanation": "hatten is in position two; the accusative object comes after the time word."
+        },
+        {
+          "id": "m1l2-o3",
+          "type": "order",
+          "prompt": "Build: “She could not come.”",
+          "tokens": ["kommen", "konnte", "nicht", "Sie"],
+          "answer": "Sie konnte nicht kommen.",
+          "explanation": "The modal is in position two and the infinitive is at the end."
+        },
+        {
+          "id": "m1l2-o4",
+          "type": "order",
+          "prompt": "Build: “As a child I had to get up early.”",
+          "tokens": ["aufstehen", "musste", "Kind", "Als", "ich", "früh"],
+          "answer": "Als Kind musste ich früh aufstehen.",
+          "explanation": "The time phrase occupies position one, so the verb musste comes next."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice and answer from memory.",
+      "speaker": "Two colleagues in the office",
+      "script": [
+        { "speaker": "Petra", "de": "Guten Morgen, Jan. Wo warst du gestern?", "en": "Good morning, Jan. Where were you yesterday?" },
+        { "speaker": "Jan", "de": "Entschuldigung. Ich hatte einen Arzttermin.", "en": "Sorry. I had a doctor's appointment." },
+        { "speaker": "Petra", "de": "Kein Problem. Konntest du die E-Mails noch lesen?", "en": "No problem. Were you still able to read the emails?" },
+        { "speaker": "Jan", "de": "Ja, aber ich konnte nicht an der Besprechung teilnehmen.", "en": "Yes, but I could not take part in the meeting." },
+        { "speaker": "Petra", "de": "Das musst du nicht erklären. Die Besprechung war sowieso kurz.", "en": "You don't have to explain. The meeting was short anyway." },
+        { "speaker": "Jan", "de": "Danke. Ich hatte wirklich keine Zeit.", "en": "Thanks. I really had no time." }
+      ],
+      "questions": [
+        {
+          "id": "m1l2-lq1",
+          "type": "mcq",
+          "prompt": "Why was Jan away yesterday?",
+          "options": ["He was on holiday.", "He had a doctor's appointment.", "He was ill in bed.", "He had a meeting."],
+          "answer": 1,
+          "explanation": "Jan says: Ich hatte einen Arzttermin — I had a doctor's appointment."
+        },
+        {
+          "id": "m1l2-lq2",
+          "type": "mcq",
+          "prompt": "What could Jan not do?",
+          "options": ["read the emails", "call Petra", "take part in the meeting", "finish his report"],
+          "answer": 2,
+          "explanation": "He says: Ich konnte nicht an der Besprechung teilnehmen."
+        },
+        {
+          "id": "m1l2-lq3",
+          "type": "mcq",
+          "prompt": "What does Petra say about the meeting?",
+          "options": ["It was very long.", "It was cancelled.", "It was important.", "It was short anyway."],
+          "answer": 3,
+          "explanation": "She says: Die Besprechung war sowieso kurz — the meeting was short anyway."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Use the compact past to describe a part of your life.",
+      "prompt": "Talk about your childhood or your first year at school in four sentences. Use war, hatte and at least one past modal.",
+      "model": {
+        "de": "Meine Kindheit war ziemlich ruhig. Wir hatten ein kleines Haus mit einem Garten. Ich konnte jeden Tag draußen spielen, aber ich musste abends um acht zu Hause sein. Damals war ich oft müde, aber sehr glücklich.",
+        "en": "My childhood was quite quiet. We had a small house with a garden. I could play outside every day, but I had to be home at eight in the evening. Back then I was often tired, but very happy."
+      },
+      "tips": [
+        "Keep the modal's main verb in the infinitive at the end: ich musste … sein.",
+        "Use damals and als Kind to set the scene before your first verb.",
+        "Do not add an umlaut to konnte or musste — könnte and müsste mean something different."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 3,
+      "lede": "Small form errors change the meaning or the tense.",
+      "items": [
+        {
+          "wrong": "Ich hatte gestern sehr müde.",
+          "right": "Ich war gestern sehr müde.",
+          "why": "States and conditions use sein, not haben. Compare: Ich hatte Hunger, but Ich war müde."
+        },
+        {
+          "wrong": "Ich konnte nicht zu kommen.",
+          "right": "Ich konnte nicht kommen.",
+          "why": "A modal verb takes a bare infinitive, without zu."
+        },
+        {
+          "wrong": "Wir waren Hunger.",
+          "right": "Wir hatten Hunger.",
+          "why": "German says Hunger haben, not sein. The same pattern applies to Durst, Zeit and Angst."
+        },
+        {
+          "wrong": "Er konntest nicht kommen.",
+          "right": "Er konnte nicht kommen.",
+          "why": "The third person singular of a past modal has no ending: er konnte, er musste."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Ten questions on war, hatte and the past modals. Score 70% or more to pass.",
+      "questions": [
+        {
+          "id": "m1l2-a1",
+          "type": "mcq",
+          "prompt": "What is the Präteritum of haben for du?",
+          "options": ["hat", "hatte", "hattest", "hatten"],
+          "answer": 2,
+          "explanation": "du hattest. The ending -est marks the second person singular."
+        },
+        {
+          "id": "m1l2-a2",
+          "type": "mcq",
+          "prompt": "Complete: Wir ___ gestern keine Zeit.",
+          "options": ["hatten", "waren", "hat", "hätten"],
+          "answer": 0,
+          "explanation": "Zeit haben: wir hatten keine Zeit."
+        },
+        {
+          "id": "m1l2-a3",
+          "type": "mcq",
+          "prompt": "Complete: Als Kind ___ ich nicht schwimmen.",
+          "options": ["konnte", "konnte nicht", "gekonnt", "könnte"],
+          "answer": 0,
+          "explanation": "können → ich konnte. The negation nicht is already in the sentence."
+        },
+        {
+          "id": "m1l2-a4",
+          "type": "mcq",
+          "prompt": "Which sentence is in the Präteritum?",
+          "options": ["Ich habe gearbeitet.", "Ich arbeite viel.", "Ich arbeitete viel.", "Ich werde arbeiten."],
+          "answer": 2,
+          "explanation": "arbeitete is the Präteritum of arbeiten, a single past verb with no auxiliary."
+        },
+        {
+          "id": "m1l2-a5",
+          "type": "gap",
+          "prompt": "Er ___ damals in Berlin.",
+          "answers": ["war"],
+          "explanation": "sein → er war."
+        },
+        {
+          "id": "m1l2-a6",
+          "type": "gap",
+          "prompt": "Sie ___ den ganzen Tag arbeiten.",
+          "answers": ["musste"],
+          "explanation": "müssen → sie musste, with arbeiten as an infinitive at the end."
+        },
+        {
+          "id": "m1l2-a7",
+          "type": "gap",
+          "prompt": "___ ihr gestern zu Hause?",
+          "answers": ["Wart"],
+          "explanation": "sein → ihr wart. The question begins with the verb."
+        },
+        {
+          "id": "m1l2-a8",
+          "type": "order",
+          "prompt": "Build: “We used to have a dog.”",
+          "tokens": ["einen", "hatten", "Hund", "Wir", "früher"],
+          "answer": "Wir hatten früher einen Hund.",
+          "explanation": "The past verb is in position two; früher follows it."
+        },
+        {
+          "id": "m1l2-a9",
+          "type": "order",
+          "prompt": "Build: “I could not come.”",
+          "tokens": ["kommen", "konnte", "nicht", "Ich"],
+          "answer": "Ich konnte nicht kommen.",
+          "explanation": "The modal is in position two and the infinitive is last."
+        },
+        {
+          "id": "m1l2-a10",
+          "type": "order",
+          "prompt": "Build: “She had to get up early.”",
+          "tokens": ["aufstehen", "musste", "früh", "Sie"],
+          "answer": "Sie musste früh aufstehen.",
+          "explanation": "musste is in position two and aufstehen closes the sentence."
+        }
+      ]
+    }
+  ]
+}

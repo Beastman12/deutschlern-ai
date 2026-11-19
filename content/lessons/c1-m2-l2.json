@@ -1,0 +1,680 @@
+{
+  "id": "c1-m2-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "c1-m2-l2-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "c1-m2-l2",
+      "prompt": "Introduce a research topic in one sentence: question, method and why it matters.",
+      "items": [
+        "Im Folgenden werde ich zunächst auf … eingehen.",
+        "die Forschungsfrage",
+        "die Methode",
+        "das Ergebnis"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "c1-m2-l2-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "c1-m2-l2",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "c1-m2-l2-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "c1-m2-l2",
+      "lede": "A research presentation is an argument about what we know and how we know it.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Structure the talk around four elements: Forschungsfrage, Methode, Ergebnisse and Einschränkung. Announce each one explicitly. The audience should never wonder which part of the study they are hearing."
+        },
+        {
+          "kind": "p",
+          "text": "Signpost methods and results with precise verbs: “Die Daten wurden mittels … erhoben”, “Die Auswertung erfolgte …”, “Die Ergebnisse deuten darauf hin, dass …”. Keep interpretation separate from description so the audience can judge the evidence."
+        },
+        {
+          "kind": "note",
+          "title": "Answer questions without defending everything",
+          "text": "If a question exposes a real limitation, acknowledge it: “Das ist eine berechtigte Einschränkung.” Then say what it means for your conclusion."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l2-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "c1-m2-l2",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "research question",
+              "Die Forschungsfrage lautet: …"
+            ],
+            [
+              "method",
+              "Die Daten wurden mittels … erhoben."
+            ],
+            [
+              "result",
+              "Die Ergebnisse deuten darauf hin, dass …"
+            ],
+            [
+              "limitation",
+              "Eine Einschränkung besteht darin, dass …"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "“Mittels” takes the genitive: mittels einer Umfrage.",
+            "“Deuten auf” takes the accusative: Die Ergebnisse deuten auf einen Zusammenhang hin.",
+            "Keep the limitation specific: sample size, period, method, data quality."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l2-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "c1-m2-l2",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "die Forschungsfrage",
+          "en": "research question",
+          "article": "die",
+          "plural": "die Forschungsfragen",
+          "example": "Die Forschungsfrage lautet: Wie nutzen Studierende digitale Lernangebote?",
+          "exampleEn": "The research question is: how do students use digital learning resources?"
+        },
+        {
+          "de": "die Methode",
+          "en": "method",
+          "article": "die",
+          "plural": "die Methoden",
+          "example": "Die Methode ist eine qualitative Inhaltsanalyse.",
+          "exampleEn": "The method is a qualitative content analysis."
+        },
+        {
+          "de": "das Ergebnis",
+          "en": "result",
+          "article": "das",
+          "plural": "die Ergebnisse",
+          "example": "Die Ergebnisse deuten auf einen klaren Zusammenhang hin.",
+          "exampleEn": "The results point to a clear connection."
+        },
+        {
+          "de": "die Einschränkung",
+          "en": "limitation",
+          "article": "die",
+          "plural": "die Einschränkungen",
+          "example": "Eine Einschränkung besteht in der kleinen Stichprobe.",
+          "exampleEn": "One limitation is the small sample."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l2-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "c1-m2-l2",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Die Forschungsfrage lautet: Wie nutzen Studierende digitale Lernangebote?",
+          "en": "The research question is: how do students use digital learning resources?",
+          "note": "Lauten introduces the exact wording of a question."
+        },
+        {
+          "de": "Die Daten wurden mittels einer Umfrage erhoben.",
+          "en": "The data were collected by means of a survey.",
+          "note": "Mittels takes the genitive."
+        },
+        {
+          "de": "Die Ergebnisse deuten darauf hin, dass klare Strukturen wichtig sind.",
+          "en": "The results indicate that clear structures are important.",
+          "note": "Deuten auf … hin is a cautious interpretation."
+        },
+        {
+          "de": "Eine Einschränkung besteht darin, dass die Stichprobe klein ist.",
+          "en": "One limitation is that the sample is small.",
+          "note": "Bestehen in names the limitation precisely."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l2-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "c1-m2-l2",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Forschungsfrage",
+          "hint": "Stress the first syllable: FOR-shungs-fra-ge."
+        },
+        {
+          "de": "die Methode",
+          "hint": "Stress the second syllable: me-TOH-de."
+        },
+        {
+          "de": "die Einschränkung",
+          "hint": "Stress the first syllable: INE-shren-kung."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l2-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "c1-m2-l2",
+      "heading": "Academic presentation style",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German academic audiences expect a clear structure and a visible research question. A talk that begins with a long anecdote and arrives at the question after ten minutes can lose the room."
+        },
+        {
+          "kind": "p",
+          "text": "Questions after the talk are often direct and detailed. It is acceptable to say “Das weiß ich nicht” if you add how you would find out."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l2-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "c1-m2-l2",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A student presents a study at a seminar.",
+      "lines": [
+        {
+          "speaker": "Student",
+          "de": "Die Forschungsfrage lautet: Wie nutzen Studierende digitale Lernangebote?",
+          "en": "The research question is: how do students use digital learning resources?"
+        },
+        {
+          "speaker": "Student",
+          "de": "Die Daten wurden mittels einer Umfrage erhoben.",
+          "en": "The data were collected by means of a survey."
+        },
+        {
+          "speaker": "Dozentin",
+          "de": "Welche Einschränkung sehen Sie?",
+          "en": "What limitation do you see?"
+        },
+        {
+          "speaker": "Student",
+          "de": "Eine Einschränkung besteht in der kleinen Stichprobe. Die Ergebnisse deuten dennoch auf einen klaren Trend hin.",
+          "en": "One limitation is the small sample. Nevertheless, the results point to a clear trend."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l2-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "c1-m2-l2",
+      "heading": "Reporting research",
+      "lede": "Use passive and impersonal forms to describe method and results.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Die Daten wurden erhoben.",
+              "method, passive"
+            ],
+            [
+              "Die Ergebnisse deuten auf … hin.",
+              "cautious interpretation"
+            ],
+            [
+              "Eine Einschränkung besteht in …",
+              "limitation"
+            ],
+            [
+              "Die Forschungsfrage lautet …",
+              "introducing the question"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Separate description from interpretation with phrases such as “Zunächst lässt sich festhalten, dass …” and “Daraus lässt sich ableiten, dass …”. The first reports, the second interprets."
+        }
+      ],
+      "tip": "Say the research question twice: once at the start and once before the conclusion. It keeps the talk focused."
+    },
+    {
+      "id": "c1-m2-l2-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "c1-m2-l2",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "c1-m2-l2-p-m1",
+          "type": "mcq",
+          "prompt": "Die Daten wurden ___ einer Umfrage erhoben.",
+          "options": [
+            "mittels",
+            "durch",
+            "mit",
+            "von"
+          ],
+          "answer": 0,
+          "explanation": "Mittels is a formal preposition that takes the genitive."
+        },
+        {
+          "id": "c1-m2-l2-p-m2",
+          "type": "mcq",
+          "prompt": "Die Ergebnisse deuten ___ einen Zusammenhang hin.",
+          "options": [
+            "auf",
+            "an",
+            "zu",
+            "über"
+          ],
+          "answer": 0,
+          "explanation": "The verb pattern is auf etwas hindeuten."
+        },
+        {
+          "id": "c1-m2-l2-p-m3",
+          "type": "mcq",
+          "prompt": "Which phrase names a limitation?",
+          "options": [
+            "Die Forschungsfrage lautet …",
+            "Eine Einschränkung besteht in …",
+            "Die Ergebnisse zeigen …",
+            "Im Folgenden …"
+          ],
+          "answer": 1,
+          "explanation": "Eine Einschränkung besteht in … introduces a limitation."
+        },
+        {
+          "id": "c1-m2-l2-p-m4",
+          "type": "mcq",
+          "prompt": "Which sentence reports a method impersonally?",
+          "options": [
+            "Ich habe eine Umfrage gemacht.",
+            "Die Daten wurden mittels einer Umfrage erhoben.",
+            "Wir fragten Leute.",
+            "Man hat gefragt."
+          ],
+          "answer": 1,
+          "explanation": "The passive with mittels is precise and impersonal."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l2-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m2-l2",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "c1-m2-l2-p-g1",
+          "type": "gap",
+          "prompt": "Die Daten wurden ___ einer Umfrage erhoben.",
+          "answers": [
+            "mittels"
+          ],
+          "explanation": "Mittels takes the genitive."
+        },
+        {
+          "id": "c1-m2-l2-p-g2",
+          "type": "gap",
+          "prompt": "Die Ergebnisse deuten ___ einen Zusammenhang hin.",
+          "answers": [
+            "auf"
+          ],
+          "explanation": "The verb pattern is auf etwas hindeuten."
+        },
+        {
+          "id": "c1-m2-l2-p-g3",
+          "type": "gap",
+          "prompt": "Eine ___ besteht in der kleinen Stichprobe.",
+          "answers": [
+            "Einschränkung"
+          ],
+          "explanation": "Einschränkung means limitation."
+        },
+        {
+          "id": "c1-m2-l2-p-g4",
+          "type": "gap",
+          "prompt": "Die ___ lautet: Wie lernen Studierende online?",
+          "answers": [
+            "Forschungsfrage"
+          ],
+          "explanation": "Forschungsfrage means research question."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l2-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m2-l2",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "c1-m2-l2-p-o1",
+          "type": "order",
+          "prompt": "Build: “The data were collected by means of a survey.”",
+          "tokens": [
+            "einer",
+            "Die",
+            "wurden",
+            "Daten",
+            "mittels",
+            "Umfrage",
+            "erhoben."
+          ],
+          "answer": "Die Daten wurden mittels einer Umfrage erhoben.",
+          "explanation": "The passive participle erhoben closes the sentence."
+        },
+        {
+          "id": "c1-m2-l2-p-o2",
+          "type": "order",
+          "prompt": "Build: “The results indicate a clear trend.”",
+          "tokens": [
+            "auf",
+            "Die",
+            "einen",
+            "Ergebnisse",
+            "deuten",
+            "klaren",
+            "Trend",
+            "hin."
+          ],
+          "answer": "Die Ergebnisse deuten auf einen klaren Trend hin.",
+          "explanation": "Hindeuten separates: deuten … hin."
+        },
+        {
+          "id": "c1-m2-l2-p-o3",
+          "type": "order",
+          "prompt": "Build: “One limitation is the small sample.”",
+          "tokens": [
+            "der",
+            "Eine",
+            "kleinen",
+            "Einschränkung",
+            "besteht",
+            "in",
+            "Stichprobe."
+          ],
+          "answer": "Eine Einschränkung besteht in der kleinen Stichprobe.",
+          "explanation": "Bestehen in takes the dative."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l2-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "c1-m2-l2",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Ein Forschungsvortrag",
+      "script": [
+        {
+          "speaker": "Forscher",
+          "de": "Die Forschungsfrage lautet: Wie verändert Homeoffice die Zusammenarbeit?",
+          "en": "The research question is: how does working from home change collaboration?"
+        },
+        {
+          "speaker": "Forscher",
+          "de": "Die Daten wurden mittels Interviews mit 25 Teams erhoben.",
+          "en": "The data were collected through interviews with 25 teams."
+        },
+        {
+          "speaker": "Forscher",
+          "de": "Die Ergebnisse deuten darauf hin, dass klare Regeln wichtiger werden.",
+          "en": "The results indicate that clear rules become more important."
+        },
+        {
+          "speaker": "Forscher",
+          "de": "Eine Einschränkung besteht in der kurzen Beobachtungszeit.",
+          "en": "One limitation is the short observation period."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c1-m2-l2-l1",
+          "type": "mcq",
+          "prompt": "How were the data collected?",
+          "options": [
+            "Through a survey",
+            "Through interviews with 25 teams",
+            "Through laboratory tests",
+            "Through company reports"
+          ],
+          "answer": 1,
+          "explanation": "The researcher says the data were collected through interviews with 25 teams."
+        },
+        {
+          "id": "c1-m2-l2-l2",
+          "type": "mcq",
+          "prompt": "What is the limitation?",
+          "options": [
+            "The sample is too large",
+            "The observation period is short",
+            "The method is unclear",
+            "The topic is too broad"
+          ],
+          "answer": 1,
+          "explanation": "The limitation is the short observation period."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l2-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "c1-m2-l2",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Present a small study in four sentences: question, method, result and limitation.",
+      "model": {
+        "de": "Die Forschungsfrage lautet: Wie nutzen Studierende digitale Lernangebote? Die Daten wurden mittels einer Umfrage erhoben. Die Ergebnisse deuten darauf hin, dass klare Strukturen wichtig sind. Eine Einschränkung besteht in der kleinen Stichprobe.",
+        "en": "The research question is: how do students use digital learning resources? The data were collected by means of a survey. The results indicate that clear structures are important. One limitation is the small sample."
+      },
+      "tips": [
+        "Announce each of the four parts explicitly.",
+        "Use the passive for method and data.",
+        "Keep the result separate from the interpretation."
+      ]
+    },
+    {
+      "id": "c1-m2-l2-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "c1-m2-l2",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Die Daten wurden mit einer Umfrage erhoben.",
+          "right": "Die Daten wurden mittels einer Umfrage erhoben.",
+          "why": "Mittels is the precise formal preposition for a method."
+        },
+        {
+          "wrong": "Die Ergebnisse deuten einen Trend hin.",
+          "right": "Die Ergebnisse deuten auf einen Trend hin.",
+          "why": "The full pattern is auf etwas hindeuten."
+        },
+        {
+          "wrong": "Eine Einschränkung ist die kleine Stichprobe besteht.",
+          "right": "Eine Einschränkung besteht in der kleinen Stichprobe.",
+          "why": "Use bestehen in with the dative."
+        }
+      ]
+    },
+    {
+      "id": "c1-m2-l2-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "c1-m2-l2",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "c1-m2-l2-a1",
+          "type": "mcq",
+          "prompt": "Die Daten wurden ___ einer Umfrage erhoben.",
+          "options": [
+            "mittels",
+            "durch",
+            "mit",
+            "von"
+          ],
+          "answer": 0,
+          "explanation": "Mittels is a formal preposition that takes the genitive."
+        },
+        {
+          "id": "c1-m2-l2-a2",
+          "type": "mcq",
+          "prompt": "Die Ergebnisse deuten ___ einen Zusammenhang hin.",
+          "options": [
+            "auf",
+            "an",
+            "zu",
+            "über"
+          ],
+          "answer": 0,
+          "explanation": "The verb pattern is auf etwas hindeuten."
+        },
+        {
+          "id": "c1-m2-l2-a3",
+          "type": "mcq",
+          "prompt": "Which phrase names a limitation?",
+          "options": [
+            "Die Forschungsfrage lautet …",
+            "Eine Einschränkung besteht in …",
+            "Die Ergebnisse zeigen …",
+            "Im Folgenden …"
+          ],
+          "answer": 1,
+          "explanation": "Eine Einschränkung besteht in … introduces a limitation."
+        },
+        {
+          "id": "c1-m2-l2-a4",
+          "type": "mcq",
+          "prompt": "Which sentence reports a method impersonally?",
+          "options": [
+            "Ich habe eine Umfrage gemacht.",
+            "Die Daten wurden mittels einer Umfrage erhoben.",
+            "Wir fragten Leute.",
+            "Man hat gefragt."
+          ],
+          "answer": 1,
+          "explanation": "The passive with mittels is precise and impersonal."
+        },
+        {
+          "id": "c1-m2-l2-a5",
+          "type": "gap",
+          "prompt": "Die Daten wurden ___ einer Umfrage erhoben.",
+          "answers": [
+            "mittels"
+          ],
+          "explanation": "Mittels takes the genitive."
+        },
+        {
+          "id": "c1-m2-l2-a6",
+          "type": "gap",
+          "prompt": "Die Ergebnisse deuten ___ einen Zusammenhang hin.",
+          "answers": [
+            "auf"
+          ],
+          "explanation": "The verb pattern is auf etwas hindeuten."
+        },
+        {
+          "id": "c1-m2-l2-a7",
+          "type": "gap",
+          "prompt": "Eine ___ besteht in der kleinen Stichprobe.",
+          "answers": [
+            "Einschränkung"
+          ],
+          "explanation": "Einschränkung means limitation."
+        },
+        {
+          "id": "c1-m2-l2-a8",
+          "type": "gap",
+          "prompt": "Die ___ lautet: Wie lernen Studierende online?",
+          "answers": [
+            "Forschungsfrage"
+          ],
+          "explanation": "Forschungsfrage means research question."
+        },
+        {
+          "id": "c1-m2-l2-a9",
+          "type": "order",
+          "prompt": "Build: “The data were collected by means of a survey.”",
+          "tokens": [
+            "einer",
+            "Die",
+            "wurden",
+            "Daten",
+            "mittels",
+            "Umfrage",
+            "erhoben."
+          ],
+          "answer": "Die Daten wurden mittels einer Umfrage erhoben.",
+          "explanation": "The passive participle erhoben closes the sentence."
+        },
+        {
+          "id": "c1-m2-l2-a10",
+          "type": "order",
+          "prompt": "Build: “The results indicate a clear trend.”",
+          "tokens": [
+            "auf",
+            "Die",
+            "einen",
+            "Ergebnisse",
+            "deuten",
+            "klaren",
+            "Trend",
+            "hin."
+          ],
+          "answer": "Die Ergebnisse deuten auf einen klaren Trend hin.",
+          "explanation": "Hindeuten separates: deuten … hin."
+        }
+      ]
+    }
+  ]
+}

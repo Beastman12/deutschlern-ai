@@ -1,0 +1,669 @@
+{
+  "id": "b1-m4-l2",
+  "version": 1,
+  "sections": [
+    {
+      "id": "b1-m4-l2-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "b1-m4-l2",
+      "prompt": "You missed part of a meeting. How do you ask a colleague to explain without sounding lost?",
+      "items": [
+        "Können wir das später besprechen?",
+        "die Besprechung",
+        "die Aufgabe",
+        "sich abstimmen"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "b1-m4-l2-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "b1-m4-l2",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "b1-m4-l2-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "b1-m4-l2",
+      "lede": "Workplace German needs clear updates, polite clarification and small talk that keeps relationships intact.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In a meeting, give a short update with a clear structure: “Ich habe den Bericht fertig” or “Bei mir gibt es ein Problem mit …”. Use “Könnten Sie das bitte noch einmal erklären?” to ask for clarification without losing the thread."
+        },
+        {
+          "kind": "p",
+          "text": "Small talk is not optional in German offices. A short “Wie war dein Wochenende?” before the meeting, or “Guten Appetit” at lunch, builds the working relationship. Match the register: du in many teams, Sie in formal ones."
+        },
+        {
+          "kind": "note",
+          "title": "Ask once, precisely",
+          "text": "Instead of “Ich verstehe nicht”, name the part: “Könnten Sie den letzten Punkt noch einmal erklären?” This keeps the meeting moving."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l2-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "b1-m4-l2",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "update",
+              "Ich habe die Aufgabe erledigt."
+            ],
+            [
+              "clarification",
+              "Könnten Sie das bitte noch einmal erklären?"
+            ],
+            [
+              "scheduling",
+              "Können wir das später besprechen?"
+            ],
+            [
+              "small talk",
+              "Wie war dein Wochenende?"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use “sich abstimmen” for coordinating with colleagues: Wir müssen uns noch abstimmen.",
+            "“Die Besprechung” is the standard word for a meeting; “das Meeting” is also common in companies.",
+            "A polite disagreement starts with “Ich sehe das etwas anders”."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l2-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "b1-m4-l2",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "die Besprechung",
+          "en": "meeting",
+          "article": "die",
+          "plural": "die Besprechungen",
+          "example": "Die Besprechung beginnt um zehn Uhr.",
+          "exampleEn": "The meeting begins at ten."
+        },
+        {
+          "de": "die Aufgabe",
+          "en": "task",
+          "article": "die",
+          "plural": "die Aufgaben",
+          "example": "Ich habe meine Aufgabe erledigt.",
+          "exampleEn": "I have completed my task."
+        },
+        {
+          "de": "sich abstimmen",
+          "en": "to coordinate, to agree",
+          "example": "Wir müssen uns noch abstimmen.",
+          "exampleEn": "We still need to coordinate."
+        },
+        {
+          "de": "der Kollege",
+          "en": "colleague",
+          "article": "der",
+          "plural": "die Kollegen",
+          "example": "Mein Kollege hilft mir bei dem Projekt.",
+          "exampleEn": "My colleague is helping me with the project."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l2-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "b1-m4-l2",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Können wir das später besprechen?",
+          "en": "Can we discuss that later?",
+          "note": "A polite way to postpone a topic."
+        },
+        {
+          "de": "Ich habe die Aufgabe erledigt.",
+          "en": "I have completed the task.",
+          "note": "A clear, short status update."
+        },
+        {
+          "de": "Könnten Sie den letzten Punkt noch einmal erklären?",
+          "en": "Could you explain the last point again?",
+          "note": "Name the point you did not understand."
+        },
+        {
+          "de": "Ich sehe das etwas anders.",
+          "en": "I see that somewhat differently.",
+          "note": "A soft way to disagree in a meeting."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l2-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "b1-m4-l2",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Besprechung",
+          "hint": "Stress the second syllable: be-SHPRE-khung."
+        },
+        {
+          "de": "die Aufgabe",
+          "hint": "Stress the first syllable: OWF-ga-be."
+        },
+        {
+          "de": "abstimmen",
+          "hint": "Stress the prefix: AP-shtim-men."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l2-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "b1-m4-l2",
+      "heading": "Meetings and directness",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German meetings often start on time and follow an agenda. Small talk happens before the official start, not during the discussion."
+        },
+        {
+          "kind": "p",
+          "text": "Directness is normal, but it is usually paired with a clear reason. “Das sehe ich anders, weil …” is more constructive than a bare “Nein”."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l2-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "b1-m4-l2",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A short team meeting on Monday morning.",
+      "lines": [
+        {
+          "speaker": "Leiterin",
+          "de": "Guten Morgen. Wie ist der Stand beim Projekt?",
+          "en": "Good morning. What is the status of the project?"
+        },
+        {
+          "speaker": "Kollege",
+          "de": "Ich habe die Aufgabe erledigt. Der Bericht ist fertig.",
+          "en": "I have completed the task. The report is ready."
+        },
+        {
+          "speaker": "Leiterin",
+          "de": "Danke. Können wir das später besprechen?",
+          "en": "Thank you. Can we discuss that later?"
+        },
+        {
+          "speaker": "Kollege",
+          "de": "Ja, gern. Wir müssen uns noch mit dem Team abstimmen.",
+          "en": "Yes, gladly. We still need to coordinate with the team."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l2-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "b1-m4-l2",
+      "heading": "Phrases for meetings",
+      "lede": "Short, structured phrases keep a meeting clear.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Ich habe … erledigt.",
+              "report a completed task"
+            ],
+            [
+              "Könnten Sie … erklären?",
+              "ask for clarification"
+            ],
+            [
+              "Können wir das später besprechen?",
+              "postpone a topic"
+            ],
+            [
+              "Ich sehe das etwas anders, weil …",
+              "disagree politely"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Use “der Stand” for the current status: Wie ist der Stand beim Projekt? The answer can be “Wir sind im Zeitplan” or “Es gibt eine Verzögerung”."
+        }
+      ],
+      "tip": "In a meeting, say the result first, then the detail. Colleagues can stop you if they need more."
+    },
+    {
+      "id": "b1-m4-l2-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "b1-m4-l2",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "b1-m4-l2-p-m1",
+          "type": "mcq",
+          "prompt": "You did not understand a point. What is the best question?",
+          "options": [
+            "Was?",
+            "Könnten Sie den Punkt bitte noch einmal erklären?",
+            "Ich verstehe nichts.",
+            "Sprechen Sie langsamer!"
+          ],
+          "answer": 1,
+          "explanation": "This is specific and polite."
+        },
+        {
+          "id": "b1-m4-l2-p-m2",
+          "type": "mcq",
+          "prompt": "Ich habe die Aufgabe ___.",
+          "options": [
+            "erledigt",
+            "erledigen",
+            "erledige",
+            "erledigung"
+          ],
+          "answer": 0,
+          "explanation": "The perfect tense uses the past participle erledigt."
+        },
+        {
+          "id": "b1-m4-l2-p-m3",
+          "type": "mcq",
+          "prompt": "Können wir das ___ besprechen?",
+          "options": [
+            "später",
+            "spät",
+            "spätestens",
+            "späteren"
+          ],
+          "answer": 0,
+          "explanation": "Später means later."
+        },
+        {
+          "id": "b1-m4-l2-p-m4",
+          "type": "mcq",
+          "prompt": "Which sentence disagrees politely?",
+          "options": [
+            "Nein, falsch.",
+            "Das ist Unsinn.",
+            "Ich sehe das etwas anders, weil …",
+            "Sie haben keine Ahnung."
+          ],
+          "answer": 2,
+          "explanation": "This acknowledges the other view and gives a reason."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l2-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "b1-m4-l2",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "b1-m4-l2-p-g1",
+          "type": "gap",
+          "prompt": "Ich habe die Aufgabe ___.",
+          "answers": [
+            "erledigt"
+          ],
+          "explanation": "The past participle of erledigen is erledigt."
+        },
+        {
+          "id": "b1-m4-l2-p-g2",
+          "type": "gap",
+          "prompt": "Könnten Sie das bitte noch einmal ___?",
+          "answers": [
+            "erklären"
+          ],
+          "explanation": "Erklären means to explain."
+        },
+        {
+          "id": "b1-m4-l2-p-g3",
+          "type": "gap",
+          "prompt": "Wir müssen uns noch mit dem Team ___.",
+          "answers": [
+            "abstimmen"
+          ],
+          "explanation": "Sich abstimmen means to coordinate."
+        },
+        {
+          "id": "b1-m4-l2-p-g4",
+          "type": "gap",
+          "prompt": "Die ___ beginnt um zehn Uhr.",
+          "answers": [
+            "Besprechung"
+          ],
+          "explanation": "Besprechung means meeting."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l2-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "b1-m4-l2",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "b1-m4-l2-p-o1",
+          "type": "order",
+          "prompt": "Build: “Can we discuss that later?”",
+          "tokens": [
+            "das",
+            "Können",
+            "später",
+            "wir",
+            "besprechen?"
+          ],
+          "answer": "Können wir das später besprechen?",
+          "explanation": "The modal opens the question and the infinitive closes it."
+        },
+        {
+          "id": "b1-m4-l2-p-o2",
+          "type": "order",
+          "prompt": "Build: “I have completed the task.”",
+          "tokens": [
+            "die",
+            "Ich",
+            "Aufgabe",
+            "habe",
+            "erledigt."
+          ],
+          "answer": "Ich habe die Aufgabe erledigt.",
+          "explanation": "The participle erledigt stands at the end."
+        },
+        {
+          "id": "b1-m4-l2-p-o3",
+          "type": "order",
+          "prompt": "Build: “Could you explain the last point again?”",
+          "tokens": [
+            "den",
+            "Könnten",
+            "letzten",
+            "Sie",
+            "Punkt",
+            "noch",
+            "einmal",
+            "erklären?"
+          ],
+          "answer": "Könnten Sie den letzten Punkt noch einmal erklären?",
+          "explanation": "The modal is first and the infinitive is last."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l2-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "b1-m4-l2",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "In einer Besprechung",
+      "script": [
+        {
+          "speaker": "Leiter",
+          "de": "Wie ist der Stand beim Bericht?",
+          "en": "What is the status of the report?"
+        },
+        {
+          "speaker": "Mitarbeiterin",
+          "de": "Ich habe die erste Fassung fertig. Sie liegt im Ordner.",
+          "en": "I have finished the first draft. It is in the folder."
+        },
+        {
+          "speaker": "Leiter",
+          "de": "Gut. Können wir das später besprechen?",
+          "en": "Good. Can we discuss that later?"
+        },
+        {
+          "speaker": "Mitarbeiterin",
+          "de": "Ja. Ich muss mich noch mit Herrn Lang abstimmen.",
+          "en": "Yes. I still need to coordinate with Mr Lang."
+        }
+      ],
+      "questions": [
+        {
+          "id": "b1-m4-l2-l1",
+          "type": "mcq",
+          "prompt": "What has the employee finished?",
+          "options": [
+            "The meeting",
+            "The first draft of the report",
+            "The budget",
+            "The presentation"
+          ],
+          "answer": 1,
+          "explanation": "She says she has finished the first draft."
+        },
+        {
+          "id": "b1-m4-l2-l2",
+          "type": "mcq",
+          "prompt": "Who does she still need to coordinate with?",
+          "options": [
+            "The team",
+            "Mr Lang",
+            "The client",
+            "The manager"
+          ],
+          "answer": 1,
+          "explanation": "She says she still needs to coordinate with Mr Lang."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l2-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "b1-m4-l2",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Give a short project update, ask one clarifying question and suggest discussing a detail later.",
+      "model": {
+        "de": "Ich habe die Aufgabe erledigt. Der Bericht ist fast fertig. Könnten Sie den letzten Punkt noch einmal erklären? Können wir das später besprechen?",
+        "en": "I have completed the task. The report is almost ready. Could you explain the last point again? Can we discuss that later?"
+      },
+      "tips": [
+        "Lead with the result, then add detail.",
+        "Use “Könnten Sie …?” for a polite clarification.",
+        "Use “später” to postpone without rejecting the topic."
+      ]
+    },
+    {
+      "id": "b1-m4-l2-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "b1-m4-l2",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Ich habe die Aufgabe erledigen.",
+          "right": "Ich habe die Aufgabe erledigt.",
+          "why": "The perfect tense needs the past participle erledigt."
+        },
+        {
+          "wrong": "Können wir das später besprechen wir?",
+          "right": "Können wir das später besprechen?",
+          "why": "The subject appears once, right after the modal."
+        },
+        {
+          "wrong": "Ich verstehe nicht. Erklären!",
+          "right": "Könnten Sie das bitte noch einmal erklären?",
+          "why": "A bare imperative sounds rude in a meeting; use the polite question form."
+        }
+      ]
+    },
+    {
+      "id": "b1-m4-l2-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "b1-m4-l2",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "b1-m4-l2-a1",
+          "type": "mcq",
+          "prompt": "You did not understand a point. What is the best question?",
+          "options": [
+            "Was?",
+            "Könnten Sie den Punkt bitte noch einmal erklären?",
+            "Ich verstehe nichts.",
+            "Sprechen Sie langsamer!"
+          ],
+          "answer": 1,
+          "explanation": "This is specific and polite."
+        },
+        {
+          "id": "b1-m4-l2-a2",
+          "type": "mcq",
+          "prompt": "Ich habe die Aufgabe ___.",
+          "options": [
+            "erledigt",
+            "erledigen",
+            "erledige",
+            "erledigung"
+          ],
+          "answer": 0,
+          "explanation": "The perfect tense uses the past participle erledigt."
+        },
+        {
+          "id": "b1-m4-l2-a3",
+          "type": "mcq",
+          "prompt": "Können wir das ___ besprechen?",
+          "options": [
+            "später",
+            "spät",
+            "spätestens",
+            "späteren"
+          ],
+          "answer": 0,
+          "explanation": "Später means later."
+        },
+        {
+          "id": "b1-m4-l2-a4",
+          "type": "mcq",
+          "prompt": "Which sentence disagrees politely?",
+          "options": [
+            "Nein, falsch.",
+            "Das ist Unsinn.",
+            "Ich sehe das etwas anders, weil …",
+            "Sie haben keine Ahnung."
+          ],
+          "answer": 2,
+          "explanation": "This acknowledges the other view and gives a reason."
+        },
+        {
+          "id": "b1-m4-l2-a5",
+          "type": "gap",
+          "prompt": "Ich habe die Aufgabe ___.",
+          "answers": [
+            "erledigt"
+          ],
+          "explanation": "The past participle of erledigen is erledigt."
+        },
+        {
+          "id": "b1-m4-l2-a6",
+          "type": "gap",
+          "prompt": "Könnten Sie das bitte noch einmal ___?",
+          "answers": [
+            "erklären"
+          ],
+          "explanation": "Erklären means to explain."
+        },
+        {
+          "id": "b1-m4-l2-a7",
+          "type": "gap",
+          "prompt": "Wir müssen uns noch mit dem Team ___.",
+          "answers": [
+            "abstimmen"
+          ],
+          "explanation": "Sich abstimmen means to coordinate."
+        },
+        {
+          "id": "b1-m4-l2-a8",
+          "type": "gap",
+          "prompt": "Die ___ beginnt um zehn Uhr.",
+          "answers": [
+            "Besprechung"
+          ],
+          "explanation": "Besprechung means meeting."
+        },
+        {
+          "id": "b1-m4-l2-a9",
+          "type": "order",
+          "prompt": "Build: “Can we discuss that later?”",
+          "tokens": [
+            "das",
+            "Können",
+            "später",
+            "wir",
+            "besprechen?"
+          ],
+          "answer": "Können wir das später besprechen?",
+          "explanation": "The modal opens the question and the infinitive closes it."
+        },
+        {
+          "id": "b1-m4-l2-a10",
+          "type": "order",
+          "prompt": "Build: “I have completed the task.”",
+          "tokens": [
+            "die",
+            "Ich",
+            "Aufgabe",
+            "habe",
+            "erledigt."
+          ],
+          "answer": "Ich habe die Aufgabe erledigt.",
+          "explanation": "The participle erledigt stands at the end."
+        }
+      ]
+    }
+  ]
+}

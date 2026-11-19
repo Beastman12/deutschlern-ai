@@ -1,0 +1,607 @@
+{
+  "id": "a1-m2-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "prompt": "Read the pairs aloud. Say the pronoun and the verb as one unit, without a pause.",
+      "items": [
+        "ich bin — du bist",
+        "er ist — wir sind",
+        "ich habe — du hast",
+        "sie hat — wir haben",
+        "Ich bin müde. Ich habe Hunger."
+      ],
+      "lede": "sein and haben are short words, so practise them as rhythm, not as grammar."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to describe yourself and say what you have."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "Two irregular verbs carry a huge share of everyday German: sein (to be) and haben (to have).",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "sein and haben are the most useful verbs in the language, and both are irregular. That means you cannot build them from a pattern; you learn six forms and then use them constantly. In the present tense they need no helper verb: Ich bin müde is simply “I am tired”, not “I do be tired”."
+        },
+        {
+          "kind": "de",
+          "text": "Ich bin Lehrerin und habe zwei Kinder.",
+          "en": "I am a teacher and have two children."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use sein for identity and origin: Ich bin Anna. Wir sind aus Chile.",
+            "Use sein for states and descriptions: Er ist müde. Das Zimmer ist klein.",
+            "Use haben for possession: Ich habe ein Fahrrad. Sie hat einen Hund.",
+            "Age uses sein, not haben: Ich bin dreißig Jahre alt. The word alt is required."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "No article with professions",
+          "text": "In German you say Ich bin Lehrer, not Ich bin ein Lehrer. The same applies to nationalities and religions: Sie ist Ärztin. Er ist Spanier."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "Learn the two tables as whole blocks. They are worth the effort.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Pronoun", "sein", "haben", "English"],
+          "rows": [
+            ["ich", "bin", "habe", "I am / I have"],
+            ["du", "bist", "hast", "you are / you have"],
+            ["er / sie / es", "ist", "hat", "he, she, it is / has"],
+            ["wir", "sind", "haben", "we are / we have"],
+            ["ihr", "seid", "habt", "you all are / have"],
+            ["sie / Sie", "sind", "haben", "they are / you (polite) are"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The ich form of sein is bin, not “be”. The du form is bist.",
+            "ihr seid is the only form with -d. Do not say “ihr sind”.",
+            "wir, sie and Sie share the same forms: sind and haben.",
+            "haben is regular in the plural but irregular in the singular: habe, hast, hat."
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Gender", "Nominative", "Accusative", "Example"],
+          "rows": [
+            ["masculine", "der / ein", "den / einen", "Ich habe einen Bruder."],
+            ["feminine", "die / eine", "die / eine", "Ich habe eine Schwester."],
+            ["neuter", "das / ein", "das / ein", "Ich habe ein Auto."],
+            ["plural", "die / —", "die / —", "Ich habe zwei Hunde."]
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Why einen?",
+          "text": "The thing you have is the direct object, so it takes the accusative. Only masculine changes: der becomes den, and ein becomes einen. Feminine and neuter stay the same."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "Two verbs and four nouns give you a complete family description.",
+      "items": [
+        {
+          "de": "sein",
+          "en": "to be",
+          "pronunciation": "zyne",
+          "example": "Ich bin Student.",
+          "exampleEn": "I am a student."
+        },
+        {
+          "de": "haben",
+          "en": "to have",
+          "pronunciation": "HAH-ben",
+          "example": "Wir haben ein Haus.",
+          "exampleEn": "We have a house."
+        },
+        {
+          "de": "der Bruder",
+          "en": "the brother",
+          "article": "der",
+          "plural": "die Brüder",
+          "pronunciation": "BROO-der",
+          "example": "Mein Bruder ist zwölf Jahre alt.",
+          "exampleEn": "My brother is twelve years old."
+        },
+        {
+          "de": "die Schwester",
+          "en": "the sister",
+          "article": "die",
+          "plural": "die Schwestern",
+          "pronunciation": "SHVES-ter",
+          "example": "Ich habe eine Schwester.",
+          "exampleEn": "I have a sister."
+        },
+        {
+          "de": "das Auto",
+          "en": "the car",
+          "article": "das",
+          "plural": "die Autos",
+          "pronunciation": "OW-toh",
+          "example": "Hast du ein Auto?",
+          "exampleEn": "Do you have a car?"
+        },
+        {
+          "de": "der Hund",
+          "en": "the dog",
+          "article": "der",
+          "plural": "die Hunde",
+          "pronunciation": "hoont",
+          "example": "Sie hat einen Hund.",
+          "exampleEn": "She has a dog."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Notice how often sein describes something and haben shows possession.",
+      "items": [
+        {
+          "de": "Ich bin Lehrerin von Beruf.",
+          "en": "I am a teacher by profession.",
+          "note": "No article before the profession."
+        },
+        {
+          "de": "Wir sind aus der Türkei.",
+          "en": "We are from Turkey.",
+          "note": "die Türkei is feminine, so aus takes the dative der."
+        },
+        {
+          "de": "Er ist sehr müde.",
+          "en": "He is very tired.",
+          "note": "sein also describes temporary states."
+        },
+        {
+          "de": "Ich habe einen Bruder und eine Schwester.",
+          "en": "I have a brother and a sister.",
+          "note": "Bruder is masculine, so ein becomes einen; Schwester is feminine and stays eine."
+        },
+        {
+          "de": "Meine Eltern haben einen Hund.",
+          "en": "My parents have a dog.",
+          "note": "Eltern is plural, so the verb is haben."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 3,
+      "lede": "These forms are short. Clear vowels matter more than speed.",
+      "items": [
+        {
+          "de": "bin",
+          "hint": "A short i, as in English “tin”: bin. Do not stretch it into “bean”.",
+          "en": "am"
+        },
+        {
+          "de": "bist",
+          "hint": "Short i, then a crisp st: bist. The s is sharp.",
+          "en": "are (du)"
+        },
+        {
+          "de": "seid",
+          "hint": "A long, voiced s like English z, then a long i: zeyt. It sounds exactly like seit (“since”), so context decides the meaning.",
+          "en": "are (ihr)"
+        },
+        {
+          "de": "habe",
+          "hint": "HAH-buh. Long a, and the final e is a weak “uh”.",
+          "en": "have (ich)"
+        },
+        {
+          "de": "Bruder",
+          "hint": "BROO-der. Long u; the final -er is soft, not a strong English “er”.",
+          "en": "brother"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "Small questions, useful answers",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Hast du Geschwister? (“Do you have siblings?”) is a normal question among new acquaintances, and so is Woher kommst du? A question about age is also common, but it is more direct than in English: Wie alt bist du? is fine among friends, while Wie alt sind Sie? is safer in formal situations."
+        },
+        {
+          "kind": "p",
+          "text": "When Germans give their age, the word alt is required: Ich bin dreißig Jahre alt. In fast speech you may hear Ich bin dreißig, but a written sentence should keep Jahre alt. Notice that German uses sein here, not haben."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 4,
+      "lede": "Two classmates compare their families. Listen for bin, bist, ist and hat.",
+      "setting": "Break between two German lessons",
+      "lines": [
+        { "speaker": "Lena", "de": "Hallo Tim! Hast du Geschwister?", "en": "Hello Tim! Do you have siblings?" },
+        { "speaker": "Tim", "de": "Ja, ich habe eine Schwester. Sie ist sechzehn.", "en": "Yes, I have a sister. She is sixteen." },
+        { "speaker": "Lena", "de": "Und du? Bist du auch sechzehn?", "en": "And you? Are you sixteen too?" },
+        { "speaker": "Tim", "de": "Nein, ich bin achtzehn. Und du?", "en": "No, I am eighteen. And you?" },
+        { "speaker": "Lena", "de": "Ich habe einen Bruder. Er ist zwölf.", "en": "I have a brother. He is twelve." },
+        { "speaker": "Tim", "de": "Meine Schwester hat auch einen Hund. Er heißt Max.", "en": "My sister also has a dog. His name is Max." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 4,
+      "heading": "sein and haben side by side",
+      "lede": "Compare the two verbs form by form, then add the accusative for haben.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Person", "sein", "haben"],
+          "rows": [
+            ["ich", "bin", "habe"],
+            ["du", "bist", "hast"],
+            ["er / sie / es", "ist", "hat"],
+            ["wir", "sind", "haben"],
+            ["ihr", "seid", "habt"],
+            ["sie / Sie", "sind", "haben"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "A statement starts with the subject and puts the verb second: Ich bin müde. Du hast Zeit.",
+            "A yes/no question puts the verb first: Bist du müde? Hast du Zeit?",
+            "Negate with nicht after the verb: Ich bin nicht müde. Ich habe keine Zeit.",
+            "With haben, the object is in the accusative: einen Bruder, eine Schwester, ein Auto."
+          ]
+        },
+        {
+          "kind": "table",
+          "headers": ["Sentence", "English", "Why"],
+          "rows": [
+            ["Ich bin Student.", "I am a student.", "No article with professions."],
+            ["Sie ist aus der Schweiz.", "She is from Switzerland.", "die Schweiz → aus der Schweiz."],
+            ["Ich habe einen Hund.", "I have a dog.", "der Hund → einen Hund."],
+            ["Wir haben eine Wohnung.", "We have a flat.", "die Wohnung stays eine."]
+          ]
+        }
+      ],
+      "tip": "When you learn a new noun, learn its article too. That article decides whether haben needs einen, eine or ein."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Pick the form that agrees with the pronoun.",
+      "exercises": [
+        {
+          "id": "m2l1-p1",
+          "type": "mcq",
+          "prompt": "Ich ___ aus Portugal.",
+          "options": ["bin", "bist", "ist", "sind"],
+          "answer": 0,
+          "explanation": "The ich form of sein is bin: Ich bin aus Portugal."
+        },
+        {
+          "id": "m2l1-p2",
+          "type": "mcq",
+          "prompt": "___ du Geschwister?",
+          "options": ["Habe", "Hast", "Hat", "Habt"],
+          "answer": 1,
+          "explanation": "du takes hast: Hast du Geschwister?"
+        },
+        {
+          "id": "m2l1-p3",
+          "type": "mcq",
+          "prompt": "Wir ___ Lehrer.",
+          "options": ["bin", "seid", "sind", "ist"],
+          "answer": 2,
+          "explanation": "wir takes sind: Wir sind Lehrer."
+        },
+        {
+          "id": "m2l1-p4",
+          "type": "mcq",
+          "prompt": "Er ___ einen Hund.",
+          "options": ["habe", "hast", "hat", "haben"],
+          "answer": 2,
+          "explanation": "er takes hat: Er hat einen Hund."
+        },
+        {
+          "id": "m2l1-p5",
+          "type": "mcq",
+          "prompt": "Ihr ___ sehr freundlich.",
+          "options": ["sind", "seid", "bist", "ist"],
+          "answer": 1,
+          "explanation": "ihr takes seid: Ihr seid sehr freundlich."
+        },
+        {
+          "id": "m2l1-p6",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": ["Ich habe ein Bruder.", "Ich habe einen Bruder.", "Ich habe eine Bruder.", "Ich bin einen Bruder."],
+          "answer": 1,
+          "explanation": "der Bruder is masculine, so the accusative of ein is einen. Possession uses haben, not sein."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the correct form of sein or haben.",
+      "exercises": [
+        {
+          "id": "m2l1-g1",
+          "type": "gap",
+          "prompt": "Ich ___ 25 Jahre alt.",
+          "answers": ["bin"],
+          "explanation": "Age uses sein: Ich bin 25 Jahre alt."
+        },
+        {
+          "id": "m2l1-g2",
+          "type": "gap",
+          "prompt": "Du ___ eine Schwester.",
+          "answers": ["hast"],
+          "explanation": "The du form of haben is hast."
+        },
+        {
+          "id": "m2l1-g3",
+          "type": "gap",
+          "prompt": "Sie ___ in Berlin.",
+          "answers": ["sind"],
+          "explanation": "wir, sie and Sie all take sind. Here Sie means “they” or polite “you”."
+        },
+        {
+          "id": "m2l1-g4",
+          "type": "gap",
+          "prompt": "Mein Bruder ___ 18 Jahre alt.",
+          "answers": ["ist"],
+          "explanation": "er/sie/es takes ist. Mein Bruder = he."
+        },
+        {
+          "id": "m2l1-g5",
+          "type": "gap",
+          "prompt": "Wir ___ ein Haus.",
+          "answers": ["haben"],
+          "explanation": "wir takes haben: Wir haben ein Haus."
+        },
+        {
+          "id": "m2l1-g6",
+          "type": "gap",
+          "prompt": "___ ihr müde?",
+          "answers": ["Seid"],
+          "explanation": "The yes/no question puts the verb first: Seid ihr müde?"
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Keep the verb in second position in statements.",
+      "exercises": [
+        {
+          "id": "m2l1-o1",
+          "type": "order",
+          "prompt": "Build: “I have a brother.”",
+          "tokens": ["einen", "Ich", "Bruder", "habe"],
+          "answer": "Ich habe einen Bruder.",
+          "explanation": "haben comes second, and the masculine object takes einen."
+        },
+        {
+          "id": "m2l1-o2",
+          "type": "order",
+          "prompt": "Build: “We are from Austria.”",
+          "tokens": ["aus", "Wir", "Österreich", "sind"],
+          "answer": "Wir sind aus Österreich.",
+          "explanation": "sein comes second, then the origin with aus."
+        },
+        {
+          "id": "m2l1-o3",
+          "type": "order",
+          "prompt": "Build: “My sister is ten years old.”",
+          "tokens": ["zehn", "ist", "alt", "Meine", "Jahre", "Schwester"],
+          "answer": "Meine Schwester ist zehn Jahre alt.",
+          "explanation": "Age uses sein + Jahre alt."
+        },
+        {
+          "id": "m2l1-o4",
+          "type": "order",
+          "prompt": "Build: “Do you have a dog?” (informal)",
+          "tokens": ["einen", "Hast", "Hund", "du"],
+          "answer": "Hast du einen Hund?",
+          "explanation": "A yes/no question starts with the verb, and Hund is masculine: einen Hund."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice, then answer from memory.",
+      "speaker": "Two classmates talking about family",
+      "script": [
+        { "speaker": "Lena", "de": "Hallo Tim! Hast du Geschwister?", "en": "Hello Tim! Do you have siblings?" },
+        { "speaker": "Tim", "de": "Ja, ich habe eine Schwester. Sie ist sechzehn.", "en": "Yes, I have a sister. She is sixteen." },
+        { "speaker": "Lena", "de": "Und du? Bist du auch sechzehn?", "en": "And you? Are you sixteen too?" },
+        { "speaker": "Tim", "de": "Nein, ich bin achtzehn. Und du?", "en": "No, I am eighteen. And you?" },
+        { "speaker": "Lena", "de": "Ich habe einen Bruder. Er ist zwölf.", "en": "I have a brother. He is twelve." }
+      ],
+      "questions": [
+        {
+          "id": "m2l1-lq1",
+          "type": "mcq",
+          "prompt": "How old is Tim?",
+          "options": ["Sixteen", "Twelve", "Eighteen", "Twenty"],
+          "answer": 2,
+          "explanation": "Tim says: Ich bin achtzehn — I am eighteen."
+        },
+        {
+          "id": "m2l1-lq2",
+          "type": "mcq",
+          "prompt": "What do we learn about Lena's family?",
+          "options": ["She has a sister.", "She has a brother.", "She has two brothers.", "She has no siblings."],
+          "answer": 1,
+          "explanation": "Lena says: Ich habe einen Bruder. Er ist zwölf."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Describe yourself and one family member in four short sentences.",
+      "prompt": "Say your name, your age, and what you have. Then describe one family member with sein.",
+      "model": {
+        "de": "Ich bin Mia. Ich bin zweiundzwanzig Jahre alt. Ich habe einen Bruder. Er ist Student.",
+        "en": "I am Mia. I am twenty-two years old. I have a brother. He is a student."
+      },
+      "tips": [
+        "Use sein for who you are and how old you are; use haben only for things you possess.",
+        "Check the article of the noun before you choose einen, eine or ein.",
+        "Say the four sentences twice: the second time without looking at the model."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "Most errors with these two verbs come from English word order or a missing word.",
+      "items": [
+        {
+          "wrong": "Ich bin 20 Jahre.",
+          "right": "Ich bin 20 Jahre alt.",
+          "why": "German needs alt after the number of years: Ich bin 20 Jahre alt."
+        },
+        {
+          "wrong": "Ihr sind nett.",
+          "right": "Ihr seid nett.",
+          "why": "The ihr form of sein is seid, not sind. Sind belongs to wir, sie and Sie."
+        },
+        {
+          "wrong": "Ich habe ein Bruder.",
+          "right": "Ich habe einen Bruder.",
+          "why": "Bruder is masculine. In the accusative, ein becomes einen."
+        },
+        {
+          "wrong": "Er hat ein Schwester.",
+          "right": "Er hat eine Schwester.",
+          "why": "Schwester is feminine, so the article is eine in both nominative and accusative."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Eight questions. Score 70% or more to unlock the next lesson.",
+      "questions": [
+        {
+          "id": "m2l1-a1",
+          "type": "mcq",
+          "prompt": "Ich ___ aus Indien.",
+          "options": ["bin", "bist", "ist", "sind"],
+          "answer": 0,
+          "explanation": "The ich form of sein is bin."
+        },
+        {
+          "id": "m2l1-a2",
+          "type": "mcq",
+          "prompt": "___ du einen Bruder?",
+          "options": ["Habe", "Hast", "Hat", "Habt"],
+          "answer": 1,
+          "explanation": "du takes hast: Hast du einen Bruder?"
+        },
+        {
+          "id": "m2l1-a3",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": ["Sie hat eine Schwester.", "Sie hat ein Schwester.", "Sie haben eine Schwester.", "Sie ist eine Schwester."],
+          "answer": 0,
+          "explanation": "sie (she) takes hat, and Schwester is feminine: eine Schwester."
+        },
+        {
+          "id": "m2l1-a4",
+          "type": "mcq",
+          "prompt": "What does „Wir sind müde“ mean?",
+          "options": ["We are tired.", "We have tired.", "They are tired.", "We are late."],
+          "answer": 0,
+          "explanation": "wir sind = we are; müde = tired."
+        },
+        {
+          "id": "m2l1-a5",
+          "type": "gap",
+          "prompt": "Ihr ___ sehr nett.",
+          "answers": ["seid"],
+          "explanation": "The ihr form of sein is seid."
+        },
+        {
+          "id": "m2l1-a6",
+          "type": "gap",
+          "prompt": "Ich ___ einen Hund.",
+          "answers": ["habe"],
+          "explanation": "The ich form of haben is habe."
+        },
+        {
+          "id": "m2l1-a7",
+          "type": "order",
+          "prompt": "Build: “He is ten years old.”",
+          "tokens": ["zehn", "ist", "Jahre", "Er", "alt"],
+          "answer": "Er ist zehn Jahre alt.",
+          "explanation": "Age uses sein + Jahre alt, with the verb in second position."
+        },
+        {
+          "id": "m2l1-a8",
+          "type": "order",
+          "prompt": "Build: “Do you have a car?” (informal)",
+          "tokens": ["ein", "Hast", "Auto", "du"],
+          "answer": "Hast du ein Auto?",
+          "explanation": "Yes/no questions start with the verb. Auto is neuter, so ein stays ein."
+        }
+      ]
+    }
+  ]
+}

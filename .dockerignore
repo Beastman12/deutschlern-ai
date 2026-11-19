@@ -1,0 +1,25 @@
+# Dependencies are installed fresh inside the image.
+node_modules
+npm-debug.log*
+
+# Never bake credentials or local state into an image layer.
+.env
+.env.*
+data/
+backups/
+
+# Test, tooling and documentation files are not needed at runtime.
+tests/
+tools/
+docs/
+coverage/
+test-results/
+playwright-report/
+*.log
+
+# VCS / editor metadata.
+.git
+.gitignore
+.vscode
+.idea
+.DS_Store

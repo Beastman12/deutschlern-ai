@@ -1,0 +1,644 @@
+{
+  "id": "b2-m2-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "prompt": "Read each sentence aloud. Notice how the verb changes when someone else's words are reported.",
+      "items": [
+        "Er ist krank. → Er sagt, er sei krank.",
+        "Sie hat keine Zeit. → Sie sagt, sie habe keine Zeit.",
+        "Die Reform ist notwendig. → Die Ministerin erklärt, die Reform sei notwendig.",
+        "Es gab keine Verletzten. → Laut Angaben der Behörde habe es keine Verletzten gegeben."
+      ],
+      "lede": "Two minutes of reading shows the central contrast: direct statement versus reported statement."
+    },
+    {
+      "id": "objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lede": "By the end of this lesson you will be able to do these things."
+    },
+    {
+      "id": "explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 4,
+      "lede": "Konjunktiv I lets you report what someone said without confirming that it is true.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In news, academic writing and formal minutes, German distinguishes between a fact and a claim. The indicative presents information as true. Konjunktiv I presents it as reported: the writer repeats the content and stays neutral about its truth."
+        },
+        {
+          "kind": "de",
+          "text": "Der Minister sagte, die Reform sei notwendig.",
+          "en": "The minister said that the reform was necessary."
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Konjunktiv I is formed from the infinitive stem: er komme, sie habe, er sei.",
+            "It is most common in the third person singular and plural, which is where reported speech usually sits.",
+            "If a Konjunktiv I form looks exactly like the indicative, German uses Konjunktiv II instead: sie hätten, nicht sie haben.",
+            "Tenses are built with habe or sei plus the participle: er habe gemacht, er sei gekommen."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Distance, not disbelief",
+          "text": "Konjunktiv I does not mean “this is false”. It means “this is what was said”. The writer may believe it completely and still use the Konjunktiv."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 4,
+      "lede": "Learn the third-person forms first. They carry almost all reported speech in real texts.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Verb", "Indicative", "Konjunktiv I", "English"],
+          "rows": [
+            ["sein", "er ist", "er sei", "he is / he be"],
+            ["haben", "sie hat", "sie habe", "she has / she have"],
+            ["werden", "er wird", "er werde", "he becomes / will"],
+            ["kommen", "er kommt", "er komme", "he comes"],
+            ["machen", "sie macht", "sie mache", "she does"],
+            ["können", "er kann", "er könne", "he can"],
+            ["wissen", "sie weiß", "sie wisse", "she knows"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "The endings are -e, -est, -e, -en, -et, -en: ich mache, du machest, er mache, wir machen, ihr machet, sie machen.",
+            "sein is irregular but easy: ich sei, du seiest, er sei, wir seien, ihr seiet, sie seien.",
+            "Reported speech can use a dass-clause (verb-final) or no conjunction (verb in second position): Er sagt, dass er krank sei. / Er sagt, er sei krank.",
+            "If the Konjunktiv I form is identical to the indicative, replace it with Konjunktiv II: Sie sagten, sie hätten keine Zeit.",
+            "For the past, use habe or sei + past participle: er habe gearbeitet, sie sei gekommen."
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "The identity trap",
+          "text": "wir machen, sie machen and ich mache look the same in both moods. In reported speech, writers avoid the ambiguity with Konjunktiv II: sie würden machen, wir hätten."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 4,
+      "lede": "These words frame a report: they tell the reader where the information comes from.",
+      "items": [
+        {
+          "de": "die Aussage",
+          "en": "the statement",
+          "article": "die",
+          "plural": "die Aussagen",
+          "pronunciation": "ˈaʊ̯szaːɡə",
+          "example": "Die Aussage des Zeugen war widersprüchlich.",
+          "exampleEn": "The witness's statement was contradictory."
+        },
+        {
+          "de": "die Angabe",
+          "en": "the information / statement",
+          "article": "die",
+          "plural": "die Angaben",
+          "pronunciation": "ˈanɡaːbə",
+          "example": "Laut Angaben der Behörde gab es keine Verletzten.",
+          "exampleEn": "According to the authority's information, there were no injuries."
+        },
+        {
+          "de": "angeblich",
+          "en": "allegedly",
+          "pronunciation": "ˈanɡeːplɪç",
+          "example": "Der Mitarbeiter war angeblich nicht informiert.",
+          "exampleEn": "The employee was allegedly not informed."
+        },
+        {
+          "de": "die Quelle",
+          "en": "the source",
+          "article": "die",
+          "plural": "die Quellen",
+          "pronunciation": "ˈkvɛlə",
+          "example": "Die Journalistin nannte ihre Quelle nicht.",
+          "exampleEn": "The journalist did not name her source."
+        },
+        {
+          "de": "berichten",
+          "en": "to report",
+          "pronunciation": "bəˈʁɪçtn̩",
+          "example": "Die Zeitung berichtet über die Verhandlungen.",
+          "exampleEn": "The newspaper reports on the negotiations."
+        },
+        {
+          "de": "die Behauptung",
+          "en": "the claim",
+          "article": "die",
+          "plural": "die Behauptungen",
+          "pronunciation": "bəˈhaʊ̯ptʊŋ",
+          "example": "Die Behauptung lässt sich nicht belegen.",
+          "exampleEn": "The claim cannot be substantiated."
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 4,
+      "lede": "Each sentence reports someone else's words. Decide who is speaking and how certain the writer sounds.",
+      "items": [
+        {
+          "de": "Er sagt, er sei krank.",
+          "en": "He says that he is ill.",
+          "note": "sei is Konjunktiv I of sein. The writer reports the claim without confirming it."
+        },
+        {
+          "de": "Die Ministerin erklärte, die Reform sei notwendig.",
+          "en": "The minister explained that the reform was necessary.",
+          "note": "erklärte is past tense, but the reported content stays in Konjunktiv I present."
+        },
+        {
+          "de": "Laut Angaben der Behörde habe es keine Verletzten gegeben.",
+          "en": "According to the authority, there were no injuries.",
+          "note": "habe … gegeben is Konjunktiv I perfect."
+        },
+        {
+          "de": "Sie behauptet, sie habe den Brief nie erhalten.",
+          "en": "She claims that she never received the letter.",
+          "note": "behaupten signals that the writer is reporting a claim, not a confirmed fact."
+        },
+        {
+          "de": "Der Sprecher sagte, man prüfe die Vorwürfe derzeit.",
+          "en": "The spokesperson said that the allegations were currently being examined.",
+          "note": "prüfe is Konjunktiv I of prüfen; man keeps the statement impersonal."
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 4,
+      "lede": "Reported speech contains short, unstressed verb forms. Keep the endings audible.",
+      "items": [
+        {
+          "de": "Konjunktiv",
+          "hint": "Stress the first syllable: KON-junk-tiv. The final v sounds like f.",
+          "en": "subjunctive"
+        },
+        {
+          "de": "sei",
+          "hint": "One syllable, like English “zeye”. Do not add an extra syllable.",
+          "en": "be (Konjunktiv I)"
+        },
+        {
+          "de": "habe",
+          "hint": "Long a: HAA-buh. The final -e is a light schwa, not “ay”.",
+          "en": "have (Konjunktiv I)"
+        },
+        {
+          "de": "Angaben",
+          "hint": "Stress the first syllable: AN-ga-ben. The g is hard, as in English “go”.",
+          "en": "statements / information"
+        },
+        {
+          "de": "Behauptung",
+          "hint": "Stress the second syllable: be-HAUP-tung. The au glides from a to u.",
+          "en": "claim"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "heading": "The mood that keeps journalism neutral",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German news writing uses Konjunktiv I to separate reporting from fact. A sentence such as Die Regierung habe die Entscheidung nicht kommentiert tells the reader that this is the government's position as reported, not a verified fact."
+        },
+        {
+          "kind": "p",
+          "text": "The convention is strong enough that a missing Konjunktiv can look like endorsement. Academic writing uses the same mood for positions taken from literature, and formal minutes use it to record what was said without adopting it."
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lede": "A journalist checks how to report a minister's statement without endorsing it.",
+      "setting": "A newsroom shortly before deadline",
+      "lines": [
+        { "speaker": "Journalist", "de": "Der Minister hat gesagt, die Reform sei notwendig. Kann ich das so schreiben?", "en": "The minister said that the reform was necessary. Can I write it like that?" },
+        { "speaker": "Redakteurin", "de": "Ja, aber prüfe die Quelle. Laut Angaben des Ministeriums sei der Entwurf noch nicht fertig.", "en": "Yes, but check the source. According to the ministry, the draft is not finished yet." },
+        { "speaker": "Journalist", "de": "Und wenn er sagt, er habe die Kritik nicht gelesen?", "en": "And if he says he has not read the criticism?" },
+        { "speaker": "Redakteurin", "de": "Dann schreib: Er sagte, er habe die Kritik nicht gelesen. Der Konjunktiv zeigt, dass wir es nur berichten.", "en": "Then write: He said that he had not read the criticism. The subjunctive shows that we are only reporting it." },
+        { "speaker": "Journalist", "de": "Und die Gegenposition?", "en": "And the opposing position?" },
+        { "speaker": "Redakteurin", "de": "Die Kritiker behaupten, die Reform sei zu teuer. Setz die Quelle direkt dazu.", "en": "The critics claim that the reform is too expensive. Add the source right next to it." }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "heading": "Konjunktiv I and its replacement forms",
+      "lede": "The third person is the core of reported speech. Learn to spot the forms that need a Konjunktiv II replacement.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": ["Person", "machen", "haben", "sein", "Note"],
+          "rows": [
+            ["ich", "mache", "habe", "sei", "mache/habe look indicative"],
+            ["du", "machest", "habest", "seiest", "clearly subjunctive"],
+            ["er/sie/es", "mache", "habe", "sei", "the key reported-speech form"],
+            ["wir", "machen", "haben", "seien", "machen/haben look indicative"],
+            ["ihr", "machet", "habet", "seiet", "clearly subjunctive"],
+            ["sie/Sie", "machen", "haben", "seien", "often replaced by Konjunktiv II"]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "When the Konjunktiv I form equals the indicative, use Konjunktiv II: sie hätten, sie würden machen, ich wäre.",
+            "The replacement is especially common in the first person singular and in the first and third person plural.",
+            "Reported past: er habe gearbeitet, sie sei gekommen. Reported future: er werde kommen.",
+            "Keep the reporting verb in the tense that fits the situation: Er sagte, … / Er sagt, …",
+            "Use laut + dative or angeblich when there is no reporting verb: Laut Angaben der Firma …, Angeblich …"
+          ]
+        },
+        {
+          "kind": "note",
+          "title": "Do not overuse it",
+          "text": "In conversation, Germans often report with the indicative plus “hat gesagt”. Konjunktiv I belongs to written reporting, news and formal speech."
+        }
+      ],
+      "tip": "If the form looks exactly like the normal present tense, it is not doing its job. Switch to Konjunktiv II."
+    },
+    {
+      "id": "mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 4,
+      "lede": "Check forms, meaning and the difference between reporting and asserting.",
+      "exercises": [
+        {
+          "id": "b2m2l1-p1",
+          "type": "mcq",
+          "prompt": "What is the Konjunktiv I form of “er hat”?",
+          "options": ["er hatte", "er habe", "er hätte", "er hat"],
+          "answer": 1,
+          "explanation": "haben → er habe. er hätte is Konjunktiv II."
+        },
+        {
+          "id": "b2m2l1-p2",
+          "type": "mcq",
+          "prompt": "What is the Konjunktiv I form of “sie ist”?",
+          "options": ["sie wäre", "sie sei", "sie seiest", "sie ist"],
+          "answer": 1,
+          "explanation": "sein → sie sei. sie wäre is Konjunktiv II."
+        },
+        {
+          "id": "b2m2l1-p3",
+          "type": "mcq",
+          "prompt": "Which sentence reports a claim neutrally?",
+          "options": [
+            "Er sagt, er ist krank.",
+            "Er sagt, er sei krank.",
+            "Er sagt, er war krank.",
+            "Er sagt, er wäre krank gewesen."
+          ],
+          "answer": 1,
+          "explanation": "Konjunktiv I (sei) signals reported speech without confirming the claim."
+        },
+        {
+          "id": "b2m2l1-p4",
+          "type": "mcq",
+          "prompt": "Why does German sometimes replace Konjunktiv I with Konjunktiv II?",
+          "options": [
+            "Because Konjunktiv I is impolite.",
+            "Because the Konjunktiv I form would be identical to the indicative.",
+            "Because Konjunktiv II is always more formal.",
+            "Because reported speech must be in the past."
+          ],
+          "answer": 1,
+          "explanation": "If the form is ambiguous, Konjunktiv II keeps the reported-speech signal clear."
+        },
+        {
+          "id": "b2m2l1-p5",
+          "type": "mcq",
+          "prompt": "What does “laut Angaben der Behörde” mean?",
+          "options": [
+            "according to the authority's information",
+            "despite the authority's information",
+            "without the authority's information",
+            "against the authority's information"
+          ],
+          "answer": 0,
+          "explanation": "laut + noun means “according to”; Angaben means “information” or “statements”."
+        }
+      ]
+    },
+    {
+      "id": "gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 4,
+      "lede": "Type the correct Konjunktiv I form. Watch the person and the tense.",
+      "exercises": [
+        {
+          "id": "b2m2l1-g1",
+          "type": "gap",
+          "prompt": "Er sagt, er ___ krank.",
+          "answers": ["sei"],
+          "explanation": "sein → er sei (Konjunktiv I)."
+        },
+        {
+          "id": "b2m2l1-g2",
+          "type": "gap",
+          "prompt": "Die Ministerin erklärte, die Reform ___ notwendig.",
+          "answers": ["sei"],
+          "explanation": "The reported content uses Konjunktiv I: die Reform sei notwendig."
+        },
+        {
+          "id": "b2m2l1-g3",
+          "type": "gap",
+          "prompt": "Sie behauptet, sie ___ den Brief nie erhalten.",
+          "answers": ["habe"],
+          "explanation": "haben → sie habe; with the participle erhalten it forms the Konjunktiv I perfect."
+        },
+        {
+          "id": "b2m2l1-g4",
+          "type": "gap",
+          "prompt": "Laut Angaben der Behörde ___ es keine Verletzten gegeben.",
+          "answers": ["habe"],
+          "explanation": "habe … gegeben is the Konjunktiv I perfect of es hat … gegeben."
+        },
+        {
+          "id": "b2m2l1-g5",
+          "type": "gap",
+          "prompt": "Die Firma teilt mit, sie ___ die Stelle neu besetzen.",
+          "answers": ["werde"],
+          "explanation": "werden → sie werde; with the infinitive it expresses a reported future."
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lede": "Build each reported statement. Keep the Konjunktiv form in the second clause.",
+      "exercises": [
+        {
+          "id": "b2m2l1-o1",
+          "type": "order",
+          "prompt": "Build: “He says that he is ill.”",
+          "tokens": ["krank", "Er", "sei", "sagt", "er"],
+          "answer": "Er sagt, er sei krank.",
+          "explanation": "Without dass, the reported clause has the verb in second position: er sei krank."
+        },
+        {
+          "id": "b2m2l1-o2",
+          "type": "order",
+          "prompt": "Build: “The minister explained that the reform was necessary.”",
+          "tokens": ["notwendig", "Die", "sei", "erklärte", "Reform", "die", "Ministerin"],
+          "answer": "Die Ministerin erklärte, die Reform sei notwendig.",
+          "explanation": "erklärte introduces the report; the reported clause uses Konjunktiv I sei."
+        },
+        {
+          "id": "b2m2l1-o3",
+          "type": "order",
+          "prompt": "Build: “According to the authority, there were no injuries.”",
+          "tokens": ["es", "Laut", "keine", "der", "habe", "Angaben", "Verletzten", "Behörde", "gegeben"],
+          "answer": "Laut Angaben der Behörde habe es keine Verletzten gegeben.",
+          "explanation": "laut Angaben + genitive source; the reported clause uses habe … gegeben."
+        },
+        {
+          "id": "b2m2l1-o4",
+          "type": "order",
+          "prompt": "Build: “She claims that she never received the letter.”",
+          "tokens": ["den", "Sie", "habe", "Brief", "behauptet", "sie", "nie", "erhalten"],
+          "answer": "Sie behauptet, sie habe den Brief nie erhalten.",
+          "explanation": "behauptet frames the claim; habe … erhalten is Konjunktiv I perfect."
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lede": "Listen twice. Two sources give different versions of the same story.",
+      "speaker": "A journalist and an editor in a newsroom",
+      "script": [
+        { "speaker": "Journalist", "de": "Der Sprecher des Ministeriums sagte, die Verhandlungen seien abgeschlossen.", "en": "The ministry spokesperson said that the negotiations had been completed." },
+        { "speaker": "Redakteurin", "de": "Hast du das überprüft? Laut Angaben einer zweiten Quelle seien noch Fragen offen.", "en": "Have you verified that? According to a second source, some questions are still open." },
+        { "speaker": "Journalist", "de": "Dann formuliere ich vorsichtig: Die Verhandlungen seien nach Angaben des Ministeriums abgeschlossen.", "en": "Then I will phrase it carefully: the negotiations were completed according to the ministry." },
+        { "speaker": "Redakteurin", "de": "Gut. Und im zweiten Absatz schreibst du, die Ministerin habe die Kritik zurückgewiesen.", "en": "Good. And in the second paragraph you write that the minister had rejected the criticism." },
+        { "speaker": "Journalist", "de": "Ich setze noch die Quelle dazu, damit der Leser den Unterschied erkennt.", "en": "I will add the source so that the reader recognises the difference." }
+      ],
+      "questions": [
+        {
+          "id": "b2m2l1-lq1",
+          "type": "mcq",
+          "prompt": "What does the ministry spokesperson say?",
+          "options": ["The negotiations have failed.", "The negotiations have been completed.", "The minister has resigned.", "The criticism was justified."],
+          "answer": 1,
+          "explanation": "The journalist reports: die Verhandlungen seien abgeschlossen."
+        },
+        {
+          "id": "b2m2l1-lq2",
+          "type": "mcq",
+          "prompt": "Why does the editor mention a second source?",
+          "options": [
+            "Because the first source is not a person",
+            "Because the second source says questions are still open",
+            "Because the minister asked for it",
+            "Because the article is too short"
+          ],
+          "answer": 1,
+          "explanation": "She says: Laut Angaben einer zweiten Quelle seien noch Fragen offen."
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 4,
+      "lede": "Report a conversation you have heard, keeping your own opinion out of it.",
+      "prompt": "Report three statements from a meeting or a news item. Use Konjunktiv I and at least one source phrase such as laut Angaben or angeblich.",
+      "model": {
+        "de": "In der Sitzung sagte die Projektleiterin, der Zeitplan sei realistisch. Ein Kollege entgegnete, die Ressourcen seien knapp. Laut Angaben der Personalabteilung werde die Stelle im Mai besetzt. Ich gebe diese Aussagen nur weiter und bewerte sie nicht.",
+        "en": "In the meeting, the project manager said that the schedule was realistic. A colleague replied that resources were scarce. According to the HR department, the position will be filled in May. I am only passing on these statements and not evaluating them."
+      },
+      "tips": [
+        "Use the third person: er sage, sie habe, er sei. This is where the form is clearest.",
+        "Add the source before or after the claim: Laut Angaben … / … , so die Ministerin.",
+        "If a form sounds exactly like the normal present, switch to Konjunktiv II: sie hätten."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lede": "Reported speech fails in predictable places: person, tense and the replacement form.",
+      "items": [
+        {
+          "wrong": "Er sagt, er ist krank.",
+          "right": "Er sagt, er sei krank.",
+          "why": "Reported speech takes Konjunktiv I. The indicative would present the claim as a fact."
+        },
+        {
+          "wrong": "Sie sagt, sie hat keine Zeit.",
+          "right": "Sie sagt, sie habe keine Zeit.",
+          "why": "hat becomes habe in Konjunktiv I. The third person is the key reported-speech form."
+        },
+        {
+          "wrong": "Sie sagten, sie haben keine Zeit.",
+          "right": "Sie sagten, sie hätten keine Zeit.",
+          "why": "sie haben is identical in indicative and Konjunktiv I, so Konjunktiv II replaces it."
+        },
+        {
+          "wrong": "Er sagte, er ist gekommen.",
+          "right": "Er sagte, er sei gekommen.",
+          "why": "The reported perfect uses Konjunktiv I of sein or haben plus the participle: sei gekommen."
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "passScore": 70,
+      "lede": "Twelve questions. Score 70% or more to unlock the next lesson. You can retake this check as often as you need.",
+      "questions": [
+        {
+          "id": "b2m2l1-a1",
+          "type": "mcq",
+          "prompt": "Which form is Konjunktiv I of “er kommt”?",
+          "options": ["er kam", "er käme", "er komme", "er gekommen"],
+          "answer": 2,
+          "explanation": "kommen → er komme. er käme is Konjunktiv II."
+        },
+        {
+          "id": "b2m2l1-a2",
+          "type": "mcq",
+          "prompt": "Which form is Konjunktiv I of “sie hat”?",
+          "options": ["sie hatte", "sie habe", "sie hätte", "sie gehabt"],
+          "answer": 1,
+          "explanation": "haben → sie habe."
+        },
+        {
+          "id": "b2m2l1-a3",
+          "type": "mcq",
+          "prompt": "What does Konjunktiv I signal in a news report?",
+          "options": [
+            "The information is certainly false.",
+            "The information is reported, not confirmed by the writer.",
+            "The information is a direct quotation.",
+            "The information is an order."
+          ],
+          "answer": 1,
+          "explanation": "Konjunktiv I marks reported speech and keeps the writer neutral about the truth."
+        },
+        {
+          "id": "b2m2l1-a4",
+          "type": "mcq",
+          "prompt": "When is Konjunktiv II used in reported speech?",
+          "options": [
+            "For all polite requests",
+            "When the Konjunktiv I form is identical to the indicative",
+            "Only in the past tense",
+            "Only after laut"
+          ],
+          "answer": 1,
+          "explanation": "Konjunktiv II replaces an ambiguous Konjunktiv I form, especially in the plural."
+        },
+        {
+          "id": "b2m2l1-a5",
+          "type": "mcq",
+          "prompt": "Which sentence uses a correct Konjunktiv I perfect?",
+          "options": [
+            "Er sagte, er hat die Prüfung bestanden.",
+            "Er sagte, er habe die Prüfung bestanden.",
+            "Er sagte, er hätte die Prüfung bestanden gehabt.",
+            "Er sagte, er bestand die Prüfung."
+          ],
+          "answer": 1,
+          "explanation": "The reported perfect is habe + past participle: habe bestanden."
+        },
+        {
+          "id": "b2m2l1-a6",
+          "type": "gap",
+          "prompt": "Er sagt, er ___ krank.",
+          "answers": ["sei"],
+          "explanation": "sein → er sei in Konjunktiv I."
+        },
+        {
+          "id": "b2m2l1-a7",
+          "type": "gap",
+          "prompt": "Sie behauptet, sie ___ den Brief nie erhalten.",
+          "answers": ["habe"],
+          "explanation": "haben → sie habe; habe … erhalten is the reported perfect."
+        },
+        {
+          "id": "b2m2l1-a8",
+          "type": "gap",
+          "prompt": "Laut Angaben der Behörde ___ es keine Verletzten gegeben.",
+          "answers": ["habe"],
+          "explanation": "The reported clause uses Konjunktiv I: habe … gegeben."
+        },
+        {
+          "id": "b2m2l1-a9",
+          "type": "gap",
+          "prompt": "Die Firma teilt mit, sie ___ die Stelle neu besetzen.",
+          "answers": ["werde"],
+          "explanation": "werden → sie werde; with the infinitive it reports a future plan."
+        },
+        {
+          "id": "b2m2l1-a10",
+          "type": "order",
+          "prompt": "Build: “He says that he is ill.”",
+          "tokens": ["krank", "Er", "sei", "sagt", "er"],
+          "answer": "Er sagt, er sei krank.",
+          "explanation": "The reported clause uses Konjunktiv I: er sei krank."
+        },
+        {
+          "id": "b2m2l1-a11",
+          "type": "order",
+          "prompt": "Build: “According to the authority, there were no injuries.”",
+          "tokens": ["es", "Laut", "keine", "der", "habe", "Angaben", "Verletzten", "Behörde", "gegeben"],
+          "answer": "Laut Angaben der Behörde habe es keine Verletzten gegeben.",
+          "explanation": "laut Angaben + source; habe … gegeben is Konjunktiv I perfect."
+        },
+        {
+          "id": "b2m2l1-a12",
+          "type": "mcq",
+          "prompt": "Which reporting verb is most neutral?",
+          "options": ["behaupten", "berichten", "beschuldigen", "versprechen"],
+          "answer": 1,
+          "explanation": "berichten means “to report” and adds no evaluation. behaupten suggests a claim that may be disputed."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "deutschlern-ai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "DeutschLern AI — an AI-powered German learning platform for CEFR levels A1–C2.",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "test": "node --test tests/*.test.js",
+    "test:coverage": "node --experimental-test-coverage --test tests/*.test.js",
+    "test:content": "node --test tests/content.test.js",
+    "test:server": "node --test tests/server.test.js",
+    "test:ui": "node tests/ui-audit.mjs",
+    "test:a11y": "node tests/a11y-audit.mjs",
+    "validate:lesson": "node tests/validate-lesson.mjs",
+    "build:deck": "node tools/build-vocabulary-deck.mjs",
+    "build:exercises": "node tools/build-exercise-bank.mjs",
+    "build:skills": "node tools/build-skill-practice.mjs",
+    "backup": "node scripts/backup.mjs",
+    "verify": "node tests/verify.mjs"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "axe-core": "^4.10.3",
+    "puppeteer-core": "^25.17.0"
+  }
+}

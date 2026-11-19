@@ -1,0 +1,678 @@
+{
+  "id": "c2-m3-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "c2-m3-l3-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "c2-m3-l3",
+      "prompt": "Rewrite a blunt instruction as a polite suggestion suitable for a senior colleague.",
+      "items": [
+        "Wir regen an, den Vorschlag erneut zu prüfen.",
+        "anregen",
+        "erwägen",
+        "die Rückmeldung"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "c2-m3-l3-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "c2-m3-l3",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "c2-m3-l3-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "c2-m3-l3",
+      "lede": "Diplomatic German softens the demand without making the message vague.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "High-stakes professional communication needs to be both clear and face-saving. German offers a range of tools: the subjunctive (“würden”, “könnten”), impersonal constructions (“es wäre hilfreich, wenn …”), and proposals framed as questions (“Wäre es denkbar, dass …?”)."
+        },
+        {
+          "kind": "p",
+          "text": "Soften the form, not the content. “Wir regen an, den Vorschlag erneut zu prüfen” is polite but unambiguous. Pair every suggestion with a reason and a next step so the reader knows what to do."
+        },
+        {
+          "kind": "note",
+          "title": "Formality follows hierarchy and culture",
+          "text": "Use “Sie” and full titles with senior external partners. In an established internal team, “du” with a softened request may be more natural. Match the register you hear around you."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l3-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "c2-m3-l3",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "suggestion",
+              "Wir regen an, den Vorschlag erneut zu prüfen."
+            ],
+            [
+              "consideration",
+              "Wir erwägen, den Zeitplan anzupassen."
+            ],
+            [
+              "feedback",
+              "Wir würden uns über eine Rückmeldung freuen."
+            ],
+            [
+              "approval",
+              "Wir bitten um Ihre Zustimmung zu dem Entwurf."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "“Anregen” is more formal than “vorschlagen” and common in official letters.",
+            "“Erwägen” means to consider seriously; it takes an accusative object or a zu-infinitive.",
+            "“Bitten um” takes the accusative: um Ihre Zustimmung."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l3-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "c2-m3-l3",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "anregen",
+          "en": "to suggest, to propose",
+          "example": "Wir regen an, den Vorschlag erneut zu prüfen.",
+          "exampleEn": "We suggest reviewing the proposal again."
+        },
+        {
+          "de": "erwägen",
+          "en": "to consider",
+          "example": "Wir erwägen, den Zeitplan anzupassen.",
+          "exampleEn": "We are considering adjusting the schedule."
+        },
+        {
+          "de": "die Rückmeldung",
+          "en": "feedback, response",
+          "article": "die",
+          "plural": "die Rückmeldungen",
+          "example": "Wir würden uns über eine Rückmeldung freuen.",
+          "exampleEn": "We would be glad to receive a response."
+        },
+        {
+          "de": "die Zustimmung",
+          "en": "approval, consent",
+          "article": "die",
+          "plural": "die Zustimmungen",
+          "example": "Wir bitten um Ihre Zustimmung zu dem Entwurf.",
+          "exampleEn": "We request your approval of the draft."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l3-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "c2-m3-l3",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Wir regen an, den Vorschlag erneut zu prüfen.",
+          "en": "We suggest reviewing the proposal again.",
+          "note": "Formal suggestion with a zu-infinitive."
+        },
+        {
+          "de": "Wir erwägen, den Zeitplan anzupassen.",
+          "en": "We are considering adjusting the schedule.",
+          "note": "Erwägen signals serious consideration."
+        },
+        {
+          "de": "Wir würden uns über eine Rückmeldung freuen.",
+          "en": "We would be glad to receive a response.",
+          "note": "A polite request for feedback."
+        },
+        {
+          "de": "Wir bitten um Ihre Zustimmung zu dem Entwurf.",
+          "en": "We request your approval of the draft.",
+          "note": "Bitten um takes the accusative."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l3-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "c2-m3-l3",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "anregen",
+          "hint": "Stress the prefix: AN-re-gen."
+        },
+        {
+          "de": "erwägen",
+          "hint": "The ä is long and open: er-VEH-gen."
+        },
+        {
+          "de": "die Rückmeldung",
+          "hint": "Stress the first syllable: RÜK-mel-dung."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l3-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "c2-m3-l3",
+      "heading": "Diplomatic language in German business",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German business letters often combine directness with formal courtesy. A sentence such as “Wir regen an, …” is both polite and clear; it does not need extra softening."
+        },
+        {
+          "kind": "p",
+          "text": "Hierarchy still shapes register. With senior partners, use titles and full forms; with peers, a shorter, warmer tone is acceptable."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l3-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "c2-m3-l3",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A project team writes to a client about a change of plan.",
+      "lines": [
+        {
+          "speaker": "Team",
+          "de": "Wir regen an, den Vorschlag erneut zu prüfen.",
+          "en": "We suggest reviewing the proposal again."
+        },
+        {
+          "speaker": "Kunde",
+          "de": "Aus welchem Grund?",
+          "en": "For what reason?"
+        },
+        {
+          "speaker": "Team",
+          "de": "Die Kosten sind gestiegen. Wir erwägen daher, den Zeitplan anzupassen.",
+          "en": "Costs have risen. We are therefore considering adjusting the schedule."
+        },
+        {
+          "speaker": "Team",
+          "de": "Wir bitten um Ihre Zustimmung zu dem angepassten Entwurf.",
+          "en": "We request your approval of the revised draft."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l3-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "c2-m3-l3",
+      "heading": "Diplomatic structures",
+      "lede": "Soften the form while keeping the message precise.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Wir regen an, … zu …",
+              "formal suggestion"
+            ],
+            [
+              "Wir erwägen, … zu …",
+              "serious consideration"
+            ],
+            [
+              "Wir würden uns über … freuen.",
+              "polite request"
+            ],
+            [
+              "Wir bitten um …",
+              "formal request for approval"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "The subjunctive “würden” and modal “könnten” lower the pressure of a request: Könnten Sie uns bis Freitag eine Rückmeldung geben?"
+        }
+      ],
+      "tip": "Add a reason to every polite request. “Wir bitten um Zustimmung, weil die Frist naht” is easier to answer than a bare request."
+    },
+    {
+      "id": "c2-m3-l3-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "c2-m3-l3",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "c2-m3-l3-p-m1",
+          "type": "mcq",
+          "prompt": "Wir regen an, den Vorschlag erneut zu ___.",
+          "options": [
+            "prüfen",
+            "prüft",
+            "geprüft",
+            "Prüfung"
+          ],
+          "answer": 0,
+          "explanation": "After anregen, use the zu-infinitive: zu prüfen."
+        },
+        {
+          "id": "c2-m3-l3-p-m2",
+          "type": "mcq",
+          "prompt": "Wir bitten ___ Ihre Zustimmung.",
+          "options": [
+            "um",
+            "für",
+            "auf",
+            "über"
+          ],
+          "answer": 0,
+          "explanation": "The verb pattern is bitten um + accusative."
+        },
+        {
+          "id": "c2-m3-l3-p-m3",
+          "type": "mcq",
+          "prompt": "Which sentence is polite but precise?",
+          "options": [
+            "Machen Sie das sofort.",
+            "Wir regen an, den Vorschlag erneut zu prüfen.",
+            "Vielleicht wäre irgendwas besser.",
+            "Das ist schlecht."
+          ],
+          "answer": 1,
+          "explanation": "It softens the form but keeps a clear request."
+        },
+        {
+          "id": "c2-m3-l3-p-m4",
+          "type": "mcq",
+          "prompt": "Wir würden uns über eine ___ freuen.",
+          "options": [
+            "Rückmeldung",
+            "zurückmelden",
+            "gemeldet",
+            "Meldung zurück"
+          ],
+          "answer": 0,
+          "explanation": "The noun is die Rückmeldung."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l3-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "c2-m3-l3",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "c2-m3-l3-p-g1",
+          "type": "gap",
+          "prompt": "Wir ___ an, den Vorschlag erneut zu prüfen.",
+          "answers": [
+            "regen"
+          ],
+          "explanation": "The verb is anregen: wir regen an."
+        },
+        {
+          "id": "c2-m3-l3-p-g2",
+          "type": "gap",
+          "prompt": "Wir würden uns über eine Rückmeldung ___.",
+          "answers": [
+            "freuen"
+          ],
+          "explanation": "The fixed phrase is sich über etwas freuen."
+        },
+        {
+          "id": "c2-m3-l3-p-g3",
+          "type": "gap",
+          "prompt": "Wir bitten um Ihre ___ zu dem Entwurf.",
+          "answers": [
+            "Zustimmung"
+          ],
+          "explanation": "Zustimmung means approval."
+        },
+        {
+          "id": "c2-m3-l3-p-g4",
+          "type": "gap",
+          "prompt": "Wir ___, den Zeitplan anzupassen.",
+          "answers": [
+            "erwägen"
+          ],
+          "explanation": "Erwägen means to consider."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l3-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "c2-m3-l3",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "c2-m3-l3-p-o1",
+          "type": "order",
+          "prompt": "Build: “We suggest reviewing the proposal again.”",
+          "tokens": [
+            "an,",
+            "Wir",
+            "regen",
+            "den",
+            "Vorschlag",
+            "erneut",
+            "zu",
+            "prüfen."
+          ],
+          "answer": "Wir regen an, den Vorschlag erneut zu prüfen.",
+          "explanation": "Anregen separates, and the zu-infinitive closes the clause."
+        },
+        {
+          "id": "c2-m3-l3-p-o2",
+          "type": "order",
+          "prompt": "Build: “We request your approval of the draft.”",
+          "tokens": [
+            "um",
+            "Wir",
+            "bitten",
+            "Ihre",
+            "Zustimmung",
+            "zu",
+            "dem",
+            "Entwurf."
+          ],
+          "answer": "Wir bitten um Ihre Zustimmung zu dem Entwurf.",
+          "explanation": "Bitten um takes the accusative: um Ihre Zustimmung."
+        },
+        {
+          "id": "c2-m3-l3-p-o3",
+          "type": "order",
+          "prompt": "Build: “We would be glad to receive a response.”",
+          "tokens": [
+            "uns",
+            "Wir",
+            "würden",
+            "über",
+            "eine",
+            "Rückmeldung",
+            "freuen."
+          ],
+          "answer": "Wir würden uns über eine Rückmeldung freuen.",
+          "explanation": "Würden plus infinitive forms a polite request."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l3-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "c2-m3-l3",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Eine Nachricht an einen Kunden",
+      "script": [
+        {
+          "speaker": "Projektleitung",
+          "de": "Wir regen an, den Vorschlag erneut zu prüfen.",
+          "en": "We suggest reviewing the proposal again."
+        },
+        {
+          "speaker": "Projektleitung",
+          "de": "Die Kosten sind gestiegen, daher erwägen wir eine Anpassung.",
+          "en": "Costs have risen, so we are considering an adjustment."
+        },
+        {
+          "speaker": "Projektleitung",
+          "de": "Wir bitten um Ihre Zustimmung zu dem neuen Entwurf.",
+          "en": "We request your approval of the new draft."
+        },
+        {
+          "speaker": "Projektleitung",
+          "de": "Wir würden uns über eine Rückmeldung bis Freitag freuen.",
+          "en": "We would be glad to receive a response by Friday."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c2-m3-l3-l1",
+          "type": "mcq",
+          "prompt": "What does the team suggest?",
+          "options": [
+            "Reviewing the proposal again",
+            "Cancelling the project",
+            "Hiring more staff",
+            "Lowering the price"
+          ],
+          "answer": 0,
+          "explanation": "The team suggests reviewing the proposal again."
+        },
+        {
+          "id": "c2-m3-l3-l2",
+          "type": "mcq",
+          "prompt": "When does the team want feedback?",
+          "options": [
+            "By Friday",
+            "By Monday",
+            "Next month",
+            "Immediately"
+          ],
+          "answer": 0,
+          "explanation": "The team asks for a response by Friday."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l3-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "c2-m3-l3",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Write and say a diplomatic message: a suggestion, a reason and a request for approval.",
+      "model": {
+        "de": "Wir regen an, den Zeitplan um eine Woche zu verlängern. Die Tests brauchen mehr Zeit, als geplant war. Wir bitten um Ihre Zustimmung zu dem angepassten Entwurf und würden uns über eine Rückmeldung freuen.",
+        "en": "We suggest extending the schedule by one week. The tests need more time than planned. We request your approval of the revised draft and would be glad to receive a response."
+      },
+      "tips": [
+        "Use “Wir regen an, … zu …” for a formal suggestion.",
+        "Give a concrete reason before the request.",
+        "Close with a polite request for feedback."
+      ]
+    },
+    {
+      "id": "c2-m3-l3-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "c2-m3-l3",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Wir regen an, den Vorschlag erneut prüfen.",
+          "right": "Wir regen an, den Vorschlag erneut zu prüfen.",
+          "why": "The infinitive clause needs zu before the verb."
+        },
+        {
+          "wrong": "Wir bitten für Ihre Zustimmung.",
+          "right": "Wir bitten um Ihre Zustimmung.",
+          "why": "The verb pattern is bitten um, not bitten für."
+        },
+        {
+          "wrong": "Wir würden uns über eine Rückmeldung freuen würden.",
+          "right": "Wir würden uns über eine Rückmeldung freuen.",
+          "why": "Würden appears once, before the infinitive."
+        }
+      ]
+    },
+    {
+      "id": "c2-m3-l3-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "c2-m3-l3",
+      "lede": "A 10-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "c2-m3-l3-a1",
+          "type": "mcq",
+          "prompt": "Wir regen an, den Vorschlag erneut zu ___.",
+          "options": [
+            "prüfen",
+            "prüft",
+            "geprüft",
+            "Prüfung"
+          ],
+          "answer": 0,
+          "explanation": "After anregen, use the zu-infinitive: zu prüfen."
+        },
+        {
+          "id": "c2-m3-l3-a2",
+          "type": "mcq",
+          "prompt": "Wir bitten ___ Ihre Zustimmung.",
+          "options": [
+            "um",
+            "für",
+            "auf",
+            "über"
+          ],
+          "answer": 0,
+          "explanation": "The verb pattern is bitten um + accusative."
+        },
+        {
+          "id": "c2-m3-l3-a3",
+          "type": "mcq",
+          "prompt": "Which sentence is polite but precise?",
+          "options": [
+            "Machen Sie das sofort.",
+            "Wir regen an, den Vorschlag erneut zu prüfen.",
+            "Vielleicht wäre irgendwas besser.",
+            "Das ist schlecht."
+          ],
+          "answer": 1,
+          "explanation": "It softens the form but keeps a clear request."
+        },
+        {
+          "id": "c2-m3-l3-a4",
+          "type": "mcq",
+          "prompt": "Wir würden uns über eine ___ freuen.",
+          "options": [
+            "Rückmeldung",
+            "zurückmelden",
+            "gemeldet",
+            "Meldung zurück"
+          ],
+          "answer": 0,
+          "explanation": "The noun is die Rückmeldung."
+        },
+        {
+          "id": "c2-m3-l3-a5",
+          "type": "gap",
+          "prompt": "Wir ___ an, den Vorschlag erneut zu prüfen.",
+          "answers": [
+            "regen"
+          ],
+          "explanation": "The verb is anregen: wir regen an."
+        },
+        {
+          "id": "c2-m3-l3-a6",
+          "type": "gap",
+          "prompt": "Wir würden uns über eine Rückmeldung ___.",
+          "answers": [
+            "freuen"
+          ],
+          "explanation": "The fixed phrase is sich über etwas freuen."
+        },
+        {
+          "id": "c2-m3-l3-a7",
+          "type": "gap",
+          "prompt": "Wir bitten um Ihre ___ zu dem Entwurf.",
+          "answers": [
+            "Zustimmung"
+          ],
+          "explanation": "Zustimmung means approval."
+        },
+        {
+          "id": "c2-m3-l3-a8",
+          "type": "gap",
+          "prompt": "Wir ___, den Zeitplan anzupassen.",
+          "answers": [
+            "erwägen"
+          ],
+          "explanation": "Erwägen means to consider."
+        },
+        {
+          "id": "c2-m3-l3-a9",
+          "type": "order",
+          "prompt": "Build: “We suggest reviewing the proposal again.”",
+          "tokens": [
+            "an,",
+            "Wir",
+            "regen",
+            "den",
+            "Vorschlag",
+            "erneut",
+            "zu",
+            "prüfen."
+          ],
+          "answer": "Wir regen an, den Vorschlag erneut zu prüfen.",
+          "explanation": "Anregen separates, and the zu-infinitive closes the clause."
+        },
+        {
+          "id": "c2-m3-l3-a10",
+          "type": "order",
+          "prompt": "Build: “We request your approval of the draft.”",
+          "tokens": [
+            "um",
+            "Wir",
+            "bitten",
+            "Ihre",
+            "Zustimmung",
+            "zu",
+            "dem",
+            "Entwurf."
+          ],
+          "answer": "Wir bitten um Ihre Zustimmung zu dem Entwurf.",
+          "explanation": "Bitten um takes the accusative: um Ihre Zustimmung."
+        }
+      ]
+    }
+  ]
+}

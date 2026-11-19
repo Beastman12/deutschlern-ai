@@ -1,0 +1,714 @@
+{
+  "id": "a2-m4-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "a2-m4-l3-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "a2-m4-l3",
+      "prompt": "Say the last appointment you made and one thing you will do next week.",
+      "items": [
+        "Ich möchte einen Termin vereinbaren.",
+        "der Termin",
+        "die Schmerzen",
+        "das Rezept"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "a2-m4-l3-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "a2-m4-l3",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "a2-m4-l3-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "a2-m4-l3",
+      "lede": "Make appointments, describe symptoms and talk about plans with the present tense and werden.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "To make an appointment, use “Ich möchte einen Termin vereinbaren” or “Ich brauche einen Termin”. To move or cancel one, say “Ich muss den Termin verschieben” or “Ich muss den Termin leider absagen”."
+        },
+        {
+          "kind": "p",
+          "text": "At the doctor, describe symptoms with “Ich habe Schmerzen” or “Mir tut der Kopf weh”. For future plans, German often uses the present tense with a time word: Morgen fahre ich nach Berlin. Werden + infinitive is also common for predictions and plans."
+        },
+        {
+          "kind": "note",
+          "title": "Polite on the phone",
+          "text": "Open with “Guten Tag, mein Name ist …” and close with “Vielen Dank, auf Wiederhören.” These two lines make almost any appointment call sound natural."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l3-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "a2-m4-l3",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "einen Termin vereinbaren",
+              "Ich möchte einen Termin vereinbaren."
+            ],
+            [
+              "den Termin verschieben",
+              "Können wir den Termin verschieben?"
+            ],
+            [
+              "Schmerzen haben",
+              "Ich habe starke Schmerzen."
+            ],
+            [
+              "present tense for future",
+              "Morgen fahre ich nach Hamburg."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use einen Termin for the direct object of vereinbaren.",
+            "Mir tut … weh is a common way to name pain: Mir tut der Rücken weh.",
+            "Werden + infinitive is useful for predictions: Es wird morgen regnen."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l3-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "a2-m4-l3",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "der Termin",
+          "en": "appointment",
+          "article": "der",
+          "plural": "die Termine",
+          "example": "Ich habe morgen einen Termin beim Arzt.",
+          "exampleEn": "I have a doctor’s appointment tomorrow."
+        },
+        {
+          "de": "die Schmerzen",
+          "en": "pain",
+          "article": "die",
+          "example": "Ich habe seit gestern Schmerzen.",
+          "exampleEn": "I have had pain since yesterday."
+        },
+        {
+          "de": "das Rezept",
+          "en": "prescription",
+          "article": "das",
+          "plural": "die Rezepte",
+          "example": "Der Arzt schreibt ein Rezept.",
+          "exampleEn": "The doctor writes a prescription."
+        },
+        {
+          "de": "die Fahrkarte",
+          "en": "ticket",
+          "article": "die",
+          "plural": "die Fahrkarten",
+          "example": "Ich kaufe eine Fahrkarte nach Köln.",
+          "exampleEn": "I am buying a ticket to Cologne."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l3-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "a2-m4-l3",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Ich möchte einen Termin vereinbaren.",
+          "en": "I would like to make an appointment.",
+          "note": "The standard opening on the phone."
+        },
+        {
+          "de": "Können wir den Termin auf Freitag verschieben?",
+          "en": "Can we move the appointment to Friday?",
+          "note": "Verschieben means to move to another time."
+        },
+        {
+          "de": "Mir tut der Kopf weh.",
+          "en": "My head hurts.",
+          "note": "The dative mir names the person in pain."
+        },
+        {
+          "de": "Morgen fahre ich nach Berlin.",
+          "en": "Tomorrow I am travelling to Berlin.",
+          "note": "The present tense plus morgen expresses a future plan."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l3-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "a2-m4-l3",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "der Termin",
+          "hint": "Stress the second syllable: ter-MEEN."
+        },
+        {
+          "de": "die Schmerzen",
+          "hint": "The sch is one sound: SHMER-tsen."
+        },
+        {
+          "de": "verschieben",
+          "hint": "The ie is long: fer-SHEE-ben."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l3-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "a2-m4-l3",
+      "heading": "Doctors, appointments and punctuality",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In Germany, you usually need an appointment for a doctor, and many practices ask you to call ahead. “Akutsprechstunde” is a slot for urgent cases without an appointment, but it is not a guarantee."
+        },
+        {
+          "kind": "p",
+          "text": "Punctuality matters. Arrive a few minutes early and bring your insurance card (“Versichertenkarte”). If you cannot come, cancel as early as possible; repeated no-shows can lead to a fee."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l3-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "a2-m4-l3",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "Nora calls a doctor’s practice on Monday morning.",
+      "lines": [
+        {
+          "speaker": "Praxis",
+          "de": "Praxis Dr. Weber, guten Morgen.",
+          "en": "Dr Weber’s practice, good morning."
+        },
+        {
+          "speaker": "Nora",
+          "de": "Guten Tag, ich möchte einen Termin vereinbaren.",
+          "en": "Hello, I would like to make an appointment."
+        },
+        {
+          "speaker": "Praxis",
+          "de": "Waren Sie schon einmal bei uns?",
+          "en": "Have you been to us before?"
+        },
+        {
+          "speaker": "Nora",
+          "de": "Ja. Ich habe seit gestern Schmerzen im Rücken.",
+          "en": "Yes. I have had back pain since yesterday."
+        },
+        {
+          "speaker": "Praxis",
+          "de": "Kommen Sie bitte morgen um neun Uhr.",
+          "en": "Please come tomorrow at nine o’clock."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l3-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "a2-m4-l3",
+      "heading": "Talking about appointments and plans",
+      "lede": "Use polite fixed phrases for appointments and the present tense for near-future plans.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Ich möchte … vereinbaren.",
+              "making an appointment"
+            ],
+            [
+              "Können wir … verschieben?",
+              "moving an appointment"
+            ],
+            [
+              "Ich habe Schmerzen.",
+              "describing symptoms"
+            ],
+            [
+              "Morgen fahre ich …",
+              "future plan with present tense"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Werden + infinitive is another future form: Ich werde morgen zum Arzt gehen. At A2, the present tense with a time word is usually simpler and more natural."
+        }
+      ],
+      "tip": "Learn the phone opening and closing as fixed chunks. They carry most of the politeness in the conversation."
+    },
+    {
+      "id": "a2-m4-l3-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "a2-m4-l3",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "a2-m4-l3-p-m1",
+          "type": "mcq",
+          "prompt": "Ich möchte einen Termin ___.",
+          "options": [
+            "vereinbaren",
+            "vereinbart",
+            "vereinbare",
+            "vereinbarung"
+          ],
+          "answer": 0,
+          "explanation": "The fixed phrase is einen Termin vereinbaren."
+        },
+        {
+          "id": "a2-m4-l3-p-m2",
+          "type": "mcq",
+          "prompt": "___ tut der Kopf weh.",
+          "options": [
+            "Ich",
+            "Mich",
+            "Mir",
+            "Mein"
+          ],
+          "answer": 2,
+          "explanation": "The person in pain is in the dative: Mir tut der Kopf weh."
+        },
+        {
+          "id": "a2-m4-l3-p-m3",
+          "type": "mcq",
+          "prompt": "___ fahre ich nach Berlin.",
+          "options": [
+            "Morgen",
+            "Gestern",
+            "Vorgestern",
+            "Damals"
+          ],
+          "answer": 0,
+          "explanation": "The present tense with morgen expresses a future plan."
+        },
+        {
+          "id": "a2-m4-l3-p-m4",
+          "type": "mcq",
+          "prompt": "Which phrase cancels an appointment?",
+          "options": [
+            "Ich verschiebe den Termin.",
+            "Ich sage den Termin ab.",
+            "Ich vereinbare den Termin.",
+            "Ich bezahle den Termin."
+          ],
+          "answer": 1,
+          "explanation": "Absagen means to cancel."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l3-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "a2-m4-l3",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "a2-m4-l3-p-g1",
+          "type": "gap",
+          "prompt": "Ich möchte einen Termin ___.",
+          "answers": [
+            "vereinbaren"
+          ],
+          "explanation": "Vereinbaren is the verb used with Termin."
+        },
+        {
+          "id": "a2-m4-l3-p-g2",
+          "type": "gap",
+          "prompt": "Können wir den Termin auf Freitag ___?",
+          "answers": [
+            "verschieben"
+          ],
+          "explanation": "Verschieben means to move to another time."
+        },
+        {
+          "id": "a2-m4-l3-p-g3",
+          "type": "gap",
+          "prompt": "Ich habe starke ___.",
+          "answers": [
+            "Schmerzen"
+          ],
+          "explanation": "Schmerzen means pain."
+        },
+        {
+          "id": "a2-m4-l3-p-g4",
+          "type": "gap",
+          "prompt": "Der Arzt schreibt ein ___.",
+          "answers": [
+            "Rezept"
+          ],
+          "explanation": "A prescription is ein Rezept."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l3-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "a2-m4-l3",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "a2-m4-l3-p-o1",
+          "type": "order",
+          "prompt": "Build: “I would like to make an appointment.”",
+          "tokens": [
+            "einen",
+            "Ich",
+            "Termin",
+            "möchte",
+            "vereinbaren."
+          ],
+          "answer": "Ich möchte einen Termin vereinbaren.",
+          "explanation": "The modal möchte is second and the infinitive is at the end."
+        },
+        {
+          "id": "a2-m4-l3-p-o2",
+          "type": "order",
+          "prompt": "Build: “My head hurts.”",
+          "tokens": [
+            "der",
+            "Mir",
+            "Kopf",
+            "tut",
+            "weh."
+          ],
+          "answer": "Mir tut der Kopf weh.",
+          "explanation": "Mir is the dative person, and weh tut closes the sentence."
+        },
+        {
+          "id": "a2-m4-l3-p-o3",
+          "type": "order",
+          "prompt": "Build: “Tomorrow I am travelling to Berlin.”",
+          "tokens": [
+            "nach",
+            "Morgen",
+            "ich",
+            "fahre",
+            "Berlin."
+          ],
+          "answer": "Morgen fahre ich nach Berlin.",
+          "explanation": "The time phrase comes first, so the verb follows immediately."
+        },
+        {
+          "id": "a2-m4-l3-p-o4",
+          "type": "order",
+          "prompt": "Build: “I have pain in my back.”",
+          "tokens": [
+            "im",
+            "Ich",
+            "Schmerzen",
+            "habe",
+            "Rücken."
+          ],
+          "answer": "Ich habe Schmerzen im Rücken.",
+          "explanation": "Schmerzen im Rücken is the standard phrase for back pain."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l3-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "a2-m4-l3",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Am Telefon in der Praxis",
+      "script": [
+        {
+          "speaker": "Patientin",
+          "de": "Guten Tag, ich brauche einen Termin.",
+          "en": "Hello, I need an appointment."
+        },
+        {
+          "speaker": "Praxis",
+          "de": "Haben Sie Schmerzen?",
+          "en": "Do you have pain?"
+        },
+        {
+          "speaker": "Patientin",
+          "de": "Ja, mir tut der Rücken weh.",
+          "en": "Yes, my back hurts."
+        },
+        {
+          "speaker": "Praxis",
+          "de": "Kommen Sie heute um drei Uhr. Bringen Sie Ihre Karte mit.",
+          "en": "Come today at three. Bring your card."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a2-m4-l3-l1",
+          "type": "mcq",
+          "prompt": "What is wrong with the patient?",
+          "options": [
+            "A headache",
+            "Back pain",
+            "A cold",
+            "A broken arm"
+          ],
+          "answer": 1,
+          "explanation": "She says “mir tut der Rücken weh”."
+        },
+        {
+          "id": "a2-m4-l3-l2",
+          "type": "mcq",
+          "prompt": "When is the appointment?",
+          "options": [
+            "Today at three",
+            "Tomorrow at three",
+            "Today at ten",
+            "Tomorrow at nine"
+          ],
+          "answer": 0,
+          "explanation": "The practice says “Kommen Sie heute um drei Uhr.”"
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l3-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "a2-m4-l3",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Call a practice, describe one symptom and arrange an appointment for tomorrow.",
+      "model": {
+        "de": "Guten Tag, mein Name ist Anna Klein. Ich habe Schmerzen im Bein. Ich möchte einen Termin vereinbaren. Geht es morgen um zehn Uhr?",
+        "en": "Hello, my name is Anna Klein. I have pain in my leg. I would like to make an appointment. Is tomorrow at ten possible?"
+      },
+      "tips": [
+        "Open with your name and the reason for the call.",
+        "Use “Ich habe Schmerzen” or “Mir tut … weh”.",
+        "Ask for a specific time with “Geht es …?” to sound natural."
+      ]
+    },
+    {
+      "id": "a2-m4-l3-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "a2-m4-l3",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Ich möchte einen Termin vereinbart.",
+          "right": "Ich möchte einen Termin vereinbaren.",
+          "why": "After a modal verb, use the infinitive."
+        },
+        {
+          "wrong": "Ich habe Schmerz.",
+          "right": "Ich habe Schmerzen.",
+          "why": "German normally uses the plural Schmerzen for pain."
+        },
+        {
+          "wrong": "Morgen ich fahre nach Berlin.",
+          "right": "Morgen fahre ich nach Berlin.",
+          "why": "When the time phrase comes first, the verb stays in second position."
+        }
+      ]
+    },
+    {
+      "id": "a2-m4-l3-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "a2-m4-l3",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "a2-m4-l3-a1",
+          "type": "mcq",
+          "prompt": "Ich möchte einen Termin ___.",
+          "options": [
+            "vereinbaren",
+            "vereinbart",
+            "vereinbare",
+            "vereinbarung"
+          ],
+          "answer": 0,
+          "explanation": "The fixed phrase is einen Termin vereinbaren."
+        },
+        {
+          "id": "a2-m4-l3-a2",
+          "type": "mcq",
+          "prompt": "___ tut der Kopf weh.",
+          "options": [
+            "Ich",
+            "Mich",
+            "Mir",
+            "Mein"
+          ],
+          "answer": 2,
+          "explanation": "The person in pain is in the dative: Mir tut der Kopf weh."
+        },
+        {
+          "id": "a2-m4-l3-a3",
+          "type": "mcq",
+          "prompt": "___ fahre ich nach Berlin.",
+          "options": [
+            "Morgen",
+            "Gestern",
+            "Vorgestern",
+            "Damals"
+          ],
+          "answer": 0,
+          "explanation": "The present tense with morgen expresses a future plan."
+        },
+        {
+          "id": "a2-m4-l3-a4",
+          "type": "mcq",
+          "prompt": "Which phrase cancels an appointment?",
+          "options": [
+            "Ich verschiebe den Termin.",
+            "Ich sage den Termin ab.",
+            "Ich vereinbare den Termin.",
+            "Ich bezahle den Termin."
+          ],
+          "answer": 1,
+          "explanation": "Absagen means to cancel."
+        },
+        {
+          "id": "a2-m4-l3-a5",
+          "type": "gap",
+          "prompt": "Ich möchte einen Termin ___.",
+          "answers": [
+            "vereinbaren"
+          ],
+          "explanation": "Vereinbaren is the verb used with Termin."
+        },
+        {
+          "id": "a2-m4-l3-a6",
+          "type": "gap",
+          "prompt": "Können wir den Termin auf Freitag ___?",
+          "answers": [
+            "verschieben"
+          ],
+          "explanation": "Verschieben means to move to another time."
+        },
+        {
+          "id": "a2-m4-l3-a7",
+          "type": "gap",
+          "prompt": "Ich habe starke ___.",
+          "answers": [
+            "Schmerzen"
+          ],
+          "explanation": "Schmerzen means pain."
+        },
+        {
+          "id": "a2-m4-l3-a8",
+          "type": "gap",
+          "prompt": "Der Arzt schreibt ein ___.",
+          "answers": [
+            "Rezept"
+          ],
+          "explanation": "A prescription is ein Rezept."
+        },
+        {
+          "id": "a2-m4-l3-a9",
+          "type": "order",
+          "prompt": "Build: “I would like to make an appointment.”",
+          "tokens": [
+            "einen",
+            "Ich",
+            "Termin",
+            "möchte",
+            "vereinbaren."
+          ],
+          "answer": "Ich möchte einen Termin vereinbaren.",
+          "explanation": "The modal möchte is second and the infinitive is at the end."
+        },
+        {
+          "id": "a2-m4-l3-a10",
+          "type": "order",
+          "prompt": "Build: “My head hurts.”",
+          "tokens": [
+            "der",
+            "Mir",
+            "Kopf",
+            "tut",
+            "weh."
+          ],
+          "answer": "Mir tut der Kopf weh.",
+          "explanation": "Mir is the dative person, and weh tut closes the sentence."
+        },
+        {
+          "id": "a2-m4-l3-a11",
+          "type": "order",
+          "prompt": "Build: “Tomorrow I am travelling to Berlin.”",
+          "tokens": [
+            "nach",
+            "Morgen",
+            "ich",
+            "fahre",
+            "Berlin."
+          ],
+          "answer": "Morgen fahre ich nach Berlin.",
+          "explanation": "The time phrase comes first, so the verb follows immediately."
+        },
+        {
+          "id": "a2-m4-l3-a12",
+          "type": "order",
+          "prompt": "Build: “I have pain in my back.”",
+          "tokens": [
+            "im",
+            "Ich",
+            "Schmerzen",
+            "habe",
+            "Rücken."
+          ],
+          "answer": "Ich habe Schmerzen im Rücken.",
+          "explanation": "Schmerzen im Rücken is the standard phrase for back pain."
+        }
+      ]
+    }
+  ]
+}

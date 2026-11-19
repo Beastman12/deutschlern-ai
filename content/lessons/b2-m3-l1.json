@@ -1,0 +1,728 @@
+{
+  "id": "b2-m3-l1",
+  "version": 1,
+  "sections": [
+    {
+      "id": "b2-m3-l1-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "b2-m3-l1",
+      "prompt": "Introduce your professional background in three sentences, as if you were in an interview.",
+      "items": [
+        "Ich bringe zwei Jahre Erfahrung im Bereich Marketing mit.",
+        "die Bewerbung",
+        "die Erfahrung",
+        "die Stärke"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "b2-m3-l1-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "b2-m3-l1",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "b2-m3-l1-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "b2-m3-l1",
+      "lede": "An interview answer works best when it follows a clear shape: background, evidence, motivation.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Start with a concise professional summary: “Ich habe drei Jahre Erfahrung im Bereich …” or “Ich arbeite seit 2021 als …”. Then give one concrete example that proves the skill you are claiming. Numbers, projects and results make the answer credible."
+        },
+        {
+          "kind": "p",
+          "text": "Use the STAR pattern for behavioural questions: Situation, Aufgabe (task), Aktion, Resultat. Keep each part short. End with a link to the role: “Deshalb bewerbe ich mich um die Stelle als …”."
+        },
+        {
+          "kind": "note",
+          "title": "Specific beats impressive",
+          "text": "“Ich bin teamfähig” is weak on its own. “In meinem letzten Projekt habe ich mit fünf Kolleginnen aus drei Abteilungen gearbeitet” proves it."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l1-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "b2-m3-l1",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "background",
+              "Ich bringe zwei Jahre Erfahrung im Bereich Marketing mit."
+            ],
+            [
+              "strength",
+              "Meine Stärke ist die strukturierte Arbeitsweise."
+            ],
+            [
+              "example",
+              "In meinem letzten Projekt habe ich …"
+            ],
+            [
+              "motivation",
+              "Deshalb bewerbe ich mich um die Stelle als …"
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Use “mitbringen” for experience: Ich bringe Erfahrung mit.",
+            "Name a weakness honestly and add what you do about it.",
+            "Prepare one concrete example for each strength you mention."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l1-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "b2-m3-l1",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "die Bewerbung",
+          "en": "application",
+          "article": "die",
+          "plural": "die Bewerbungen",
+          "example": "Ich habe meine Bewerbung gestern abgeschickt.",
+          "exampleEn": "I sent my application yesterday."
+        },
+        {
+          "de": "die Erfahrung",
+          "en": "experience",
+          "article": "die",
+          "plural": "die Erfahrungen",
+          "example": "Ich bringe zwei Jahre Erfahrung im Bereich Marketing mit.",
+          "exampleEn": "I bring two years of experience in marketing."
+        },
+        {
+          "de": "die Stärke",
+          "en": "strength",
+          "article": "die",
+          "plural": "die Stärken",
+          "example": "Meine größte Stärke ist die Kommunikation.",
+          "exampleEn": "My greatest strength is communication."
+        },
+        {
+          "de": "die Stelle",
+          "en": "position, job",
+          "article": "die",
+          "plural": "die Stellen",
+          "example": "Die Stelle ist ab Mai zu besetzen.",
+          "exampleEn": "The position is to be filled from May."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l1-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "b2-m3-l1",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Ich bringe zwei Jahre Erfahrung im Bereich Marketing mit.",
+          "en": "I bring two years of experience in marketing.",
+          "note": "Mitbringen separates: bringe … mit."
+        },
+        {
+          "de": "In meinem letzten Projekt habe ich ein Team von fünf Personen geleitet.",
+          "en": "In my last project I led a team of five people.",
+          "note": "A concrete example follows the claim."
+        },
+        {
+          "de": "Meine Stärke ist die strukturierte Arbeitsweise.",
+          "en": "My strength is a structured way of working.",
+          "note": "Name the strength as a noun phrase."
+        },
+        {
+          "de": "Deshalb bewerbe ich mich um die Stelle als Projektmanager.",
+          "en": "That is why I am applying for the position as project manager.",
+          "note": "Bewerben um takes the accusative."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l1-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "b2-m3-l1",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Bewerbung",
+          "hint": "Stress the second syllable: be-VER-bung."
+        },
+        {
+          "de": "die Erfahrung",
+          "hint": "Stress the second syllable: er-FAH-rung."
+        },
+        {
+          "de": "die Stärke",
+          "hint": "The ä is short and open; the r is soft."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l1-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "b2-m3-l1",
+      "heading": "Applications in Germany",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "German applications are usually formal and complete: cover letter, CV, references. A photo is no longer required, but many companies still expect a structured CV with dates and qualifications."
+        },
+        {
+          "kind": "p",
+          "text": "Interviews tend to be factual. Interviewers may ask directly about gaps in your CV. Prepare a short, honest explanation and move quickly to what you learned."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l1-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "b2-m3-l1",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "A job interview for a marketing position.",
+      "lines": [
+        {
+          "speaker": "Interviewerin",
+          "de": "Erzählen Sie uns etwas über Ihren Werdegang.",
+          "en": "Tell us something about your background."
+        },
+        {
+          "speaker": "Bewerber",
+          "de": "Ich bringe zwei Jahre Erfahrung im Bereich Marketing mit.",
+          "en": "I bring two years of experience in marketing."
+        },
+        {
+          "speaker": "Interviewerin",
+          "de": "Was ist Ihre größte Stärke?",
+          "en": "What is your greatest strength?"
+        },
+        {
+          "speaker": "Bewerber",
+          "de": "Meine Stärke ist die strukturierte Arbeitsweise. In meinem letzten Projekt habe ich ein Team von fünf Personen geleitet.",
+          "en": "My strength is a structured way of working. In my last project I led a team of five people."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l1-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "b2-m3-l1",
+      "heading": "Talking about experience",
+      "lede": "Use present perfect for experience and simple past for a specific completed project.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "Ich habe … gearbeitet.",
+              "experience up to now"
+            ],
+            [
+              "Ich habe … geleitet.",
+              "a specific completed project"
+            ],
+            [
+              "Ich bringe … mit.",
+              "a summary of your profile"
+            ],
+            [
+              "Ich bewerbe mich um …",
+              "the position you want"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "Use “seit” with the present tense for ongoing experience: Ich arbeite seit 2021 in diesem Bereich. Use the perfect for a completed period: Ich habe drei Jahre dort gearbeitet."
+        }
+      ],
+      "tip": "Prepare three numbers about your experience — years, team size, results. They make your answer concrete and easy to remember."
+    },
+    {
+      "id": "b2-m3-l1-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "b2-m3-l1",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "b2-m3-l1-p-m1",
+          "type": "mcq",
+          "prompt": "Ich bringe zwei Jahre Erfahrung im Bereich Marketing ___.",
+          "options": [
+            "mit",
+            "auf",
+            "an",
+            "ein"
+          ],
+          "answer": 0,
+          "explanation": "Mitbringen is separable: bringe … mit."
+        },
+        {
+          "id": "b2-m3-l1-p-m2",
+          "type": "mcq",
+          "prompt": "Ich bewerbe mich ___ die Stelle als Projektmanager.",
+          "options": [
+            "für",
+            "um",
+            "auf",
+            "an"
+          ],
+          "answer": 1,
+          "explanation": "Sich bewerben um takes the accusative."
+        },
+        {
+          "id": "b2-m3-l1-p-m3",
+          "type": "mcq",
+          "prompt": "Which answer gives concrete evidence?",
+          "options": [
+            "Ich bin sehr gut.",
+            "Ich arbeite gern.",
+            "In meinem letzten Projekt habe ich ein Team von fünf Personen geleitet.",
+            "Ich bin motiviert."
+          ],
+          "answer": 2,
+          "explanation": "A specific example with a number is stronger than a general claim."
+        },
+        {
+          "id": "b2-m3-l1-p-m4",
+          "type": "mcq",
+          "prompt": "Meine ___ ist die strukturierte Arbeitsweise.",
+          "options": [
+            "Stärke",
+            "Stark",
+            "stark",
+            "Stärken"
+          ],
+          "answer": 0,
+          "explanation": "The noun is die Stärke."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l1-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "b2-m3-l1",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "b2-m3-l1-p-g1",
+          "type": "gap",
+          "prompt": "Ich habe mich ___ die Stelle beworben.",
+          "answers": [
+            "um"
+          ],
+          "explanation": "Sich bewerben um takes the accusative."
+        },
+        {
+          "id": "b2-m3-l1-p-g2",
+          "type": "gap",
+          "prompt": "Ich bringe drei Jahre Erfahrung ___.",
+          "answers": [
+            "mit"
+          ],
+          "explanation": "The separable prefix of mitbringen goes to the end."
+        },
+        {
+          "id": "b2-m3-l1-p-g3",
+          "type": "gap",
+          "prompt": "In meinem letzten Projekt habe ich ein Team ___.",
+          "answers": [
+            "geleitet"
+          ],
+          "explanation": "The past participle of leiten is geleitet."
+        },
+        {
+          "id": "b2-m3-l1-p-g4",
+          "type": "gap",
+          "prompt": "Meine größte ___ ist die Kommunikation.",
+          "answers": [
+            "Stärke"
+          ],
+          "explanation": "Stärke means strength."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l1-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "b2-m3-l1",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "b2-m3-l1-p-o1",
+          "type": "order",
+          "prompt": "Build: “I bring two years of experience in marketing.”",
+          "tokens": [
+            "zwei",
+            "Ich",
+            "Jahre",
+            "bringe",
+            "Erfahrung",
+            "im",
+            "Bereich",
+            "Marketing",
+            "mit."
+          ],
+          "answer": "Ich bringe zwei Jahre Erfahrung im Bereich Marketing mit.",
+          "explanation": "The separable prefix mit closes the sentence."
+        },
+        {
+          "id": "b2-m3-l1-p-o2",
+          "type": "order",
+          "prompt": "Build: “That is why I am applying for the position.”",
+          "tokens": [
+            "bewerbe",
+            "Deshalb",
+            "mich",
+            "ich",
+            "um",
+            "die",
+            "Stelle."
+          ],
+          "answer": "Deshalb bewerbe ich mich um die Stelle.",
+          "explanation": "After deshalb, the verb comes immediately."
+        },
+        {
+          "id": "b2-m3-l1-p-o3",
+          "type": "order",
+          "prompt": "Build: “My strength is communication.”",
+          "tokens": [
+            "ist",
+            "Meine",
+            "die",
+            "Stärke",
+            "Kommunikation."
+          ],
+          "answer": "Meine Stärke ist die Kommunikation.",
+          "explanation": "The noun phrase follows sein."
+        },
+        {
+          "id": "b2-m3-l1-p-o4",
+          "type": "order",
+          "prompt": "Build: “I led a team of five people.”",
+          "tokens": [
+            "ein",
+            "Ich",
+            "Team",
+            "habe",
+            "von",
+            "fünf",
+            "Personen",
+            "geleitet."
+          ],
+          "answer": "Ich habe ein Team von fünf Personen geleitet.",
+          "explanation": "The perfect tense puts the participle at the end."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l1-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "b2-m3-l1",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Ein Bewerbungsgespräch",
+      "script": [
+        {
+          "speaker": "Interviewerin",
+          "de": "Warum möchten Sie bei uns arbeiten?",
+          "en": "Why would you like to work with us?"
+        },
+        {
+          "speaker": "Bewerber",
+          "de": "Ihr Unternehmen ist im Bereich Nachhaltigkeit sehr aktiv. Das passt zu meiner Erfahrung.",
+          "en": "Your company is very active in sustainability. That fits my experience."
+        },
+        {
+          "speaker": "Interviewerin",
+          "de": "Und wo sehen Sie Ihre größte Herausforderung?",
+          "en": "And where do you see your greatest challenge?"
+        },
+        {
+          "speaker": "Bewerber",
+          "de": "Ich muss noch besser Deutsch lernen, deshalb nehme ich jede Woche Unterricht.",
+          "en": "I still need to improve my German, so I take lessons every week."
+        }
+      ],
+      "questions": [
+        {
+          "id": "b2-m3-l1-l1",
+          "type": "mcq",
+          "prompt": "Why does the candidate want to work there?",
+          "options": [
+            "Because of the salary",
+            "Because of the company’s sustainability work",
+            "Because of the location",
+            "Because of the holiday"
+          ],
+          "answer": 1,
+          "explanation": "The candidate mentions the company’s work in sustainability."
+        },
+        {
+          "id": "b2-m3-l1-l2",
+          "type": "mcq",
+          "prompt": "What challenge does the candidate mention?",
+          "options": [
+            "Teamwork",
+            "German",
+            "Time management",
+            "Travel"
+          ],
+          "answer": 1,
+          "explanation": "The candidate says they need to improve their German."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l1-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "b2-m3-l1",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Answer “Erzählen Sie etwas über sich” in four sentences: background, strength, example, motivation.",
+      "model": {
+        "de": "Ich bringe drei Jahre Erfahrung im Bereich Marketing mit. Meine Stärke ist die strukturierte Arbeitsweise. In meinem letzten Projekt habe ich ein Team von fünf Personen geleitet. Deshalb bewerbe ich mich um die Stelle bei Ihnen.",
+        "en": "I bring three years of experience in marketing. My strength is a structured way of working. In my last project I led a team of five people. That is why I am applying for the position with you."
+      },
+      "tips": [
+        "Keep the answer under one minute.",
+        "Use one concrete number or result.",
+        "Finish with a sentence that links back to the role."
+      ]
+    },
+    {
+      "id": "b2-m3-l1-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "b2-m3-l1",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Ich bewerbe mich für die Stelle.",
+          "right": "Ich bewerbe mich um die Stelle.",
+          "why": "The standard verb pattern is sich bewerben um."
+        },
+        {
+          "wrong": "Ich bringe zwei Jahre Erfahrung mit im Marketing.",
+          "right": "Ich bringe zwei Jahre Erfahrung im Bereich Marketing mit.",
+          "why": "The separable prefix mit goes at the very end."
+        },
+        {
+          "wrong": "Ich habe ein Team geleiten.",
+          "right": "Ich habe ein Team geleitet.",
+          "why": "The past participle of leiten is geleitet."
+        }
+      ]
+    },
+    {
+      "id": "b2-m3-l1-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "b2-m3-l1",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "b2-m3-l1-a1",
+          "type": "mcq",
+          "prompt": "Ich bringe zwei Jahre Erfahrung im Bereich Marketing ___.",
+          "options": [
+            "mit",
+            "auf",
+            "an",
+            "ein"
+          ],
+          "answer": 0,
+          "explanation": "Mitbringen is separable: bringe … mit."
+        },
+        {
+          "id": "b2-m3-l1-a2",
+          "type": "mcq",
+          "prompt": "Ich bewerbe mich ___ die Stelle als Projektmanager.",
+          "options": [
+            "für",
+            "um",
+            "auf",
+            "an"
+          ],
+          "answer": 1,
+          "explanation": "Sich bewerben um takes the accusative."
+        },
+        {
+          "id": "b2-m3-l1-a3",
+          "type": "mcq",
+          "prompt": "Which answer gives concrete evidence?",
+          "options": [
+            "Ich bin sehr gut.",
+            "Ich arbeite gern.",
+            "In meinem letzten Projekt habe ich ein Team von fünf Personen geleitet.",
+            "Ich bin motiviert."
+          ],
+          "answer": 2,
+          "explanation": "A specific example with a number is stronger than a general claim."
+        },
+        {
+          "id": "b2-m3-l1-a4",
+          "type": "mcq",
+          "prompt": "Meine ___ ist die strukturierte Arbeitsweise.",
+          "options": [
+            "Stärke",
+            "Stark",
+            "stark",
+            "Stärken"
+          ],
+          "answer": 0,
+          "explanation": "The noun is die Stärke."
+        },
+        {
+          "id": "b2-m3-l1-a5",
+          "type": "gap",
+          "prompt": "Ich habe mich ___ die Stelle beworben.",
+          "answers": [
+            "um"
+          ],
+          "explanation": "Sich bewerben um takes the accusative."
+        },
+        {
+          "id": "b2-m3-l1-a6",
+          "type": "gap",
+          "prompt": "Ich bringe drei Jahre Erfahrung ___.",
+          "answers": [
+            "mit"
+          ],
+          "explanation": "The separable prefix of mitbringen goes to the end."
+        },
+        {
+          "id": "b2-m3-l1-a7",
+          "type": "gap",
+          "prompt": "In meinem letzten Projekt habe ich ein Team ___.",
+          "answers": [
+            "geleitet"
+          ],
+          "explanation": "The past participle of leiten is geleitet."
+        },
+        {
+          "id": "b2-m3-l1-a8",
+          "type": "gap",
+          "prompt": "Meine größte ___ ist die Kommunikation.",
+          "answers": [
+            "Stärke"
+          ],
+          "explanation": "Stärke means strength."
+        },
+        {
+          "id": "b2-m3-l1-a9",
+          "type": "order",
+          "prompt": "Build: “I bring two years of experience in marketing.”",
+          "tokens": [
+            "zwei",
+            "Ich",
+            "Jahre",
+            "bringe",
+            "Erfahrung",
+            "im",
+            "Bereich",
+            "Marketing",
+            "mit."
+          ],
+          "answer": "Ich bringe zwei Jahre Erfahrung im Bereich Marketing mit.",
+          "explanation": "The separable prefix mit closes the sentence."
+        },
+        {
+          "id": "b2-m3-l1-a10",
+          "type": "order",
+          "prompt": "Build: “That is why I am applying for the position.”",
+          "tokens": [
+            "bewerbe",
+            "Deshalb",
+            "mich",
+            "ich",
+            "um",
+            "die",
+            "Stelle."
+          ],
+          "answer": "Deshalb bewerbe ich mich um die Stelle.",
+          "explanation": "After deshalb, the verb comes immediately."
+        },
+        {
+          "id": "b2-m3-l1-a11",
+          "type": "order",
+          "prompt": "Build: “My strength is communication.”",
+          "tokens": [
+            "ist",
+            "Meine",
+            "die",
+            "Stärke",
+            "Kommunikation."
+          ],
+          "answer": "Meine Stärke ist die Kommunikation.",
+          "explanation": "The noun phrase follows sein."
+        },
+        {
+          "id": "b2-m3-l1-a12",
+          "type": "order",
+          "prompt": "Build: “I led a team of five people.”",
+          "tokens": [
+            "ein",
+            "Ich",
+            "Team",
+            "habe",
+            "von",
+            "fünf",
+            "Personen",
+            "geleitet."
+          ],
+          "answer": "Ich habe ein Team von fünf Personen geleitet.",
+          "explanation": "The perfect tense puts the participle at the end."
+        }
+      ]
+    }
+  ]
+}

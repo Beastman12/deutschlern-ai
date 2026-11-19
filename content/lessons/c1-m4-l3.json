@@ -1,0 +1,722 @@
+{
+  "id": "c1-m4-l3",
+  "version": 1,
+  "sections": [
+    {
+      "id": "c1-m4-l3-warmup",
+      "type": "warmup",
+      "title": "Warm-up",
+      "minutes": 2,
+      "lessonId": "c1-m4-l3",
+      "prompt": "Rewrite “we will use the method” in a more formal, nominal style.",
+      "items": [
+        "Die Maßnahme kommt nur unter bestimmten Bedingungen zur Anwendung.",
+        "zur Anwendung kommen",
+        "in Betracht ziehen",
+        "zur Verfügung stellen"
+      ],
+      "lede": "Say each line aloud once. This section is not scored."
+    },
+    {
+      "id": "c1-m4-l3-objectives",
+      "type": "objectives",
+      "title": "Learning objectives",
+      "minutes": 1,
+      "lessonId": "c1-m4-l3",
+      "lede": "These are the three things you will be able to do by the end of the lesson."
+    },
+    {
+      "id": "c1-m4-l3-explanation",
+      "type": "explanation",
+      "title": "The big picture",
+      "minutes": 3,
+      "lessonId": "c1-m4-l3",
+      "lede": "Function verb phrases and nominal structures make professional German dense — and sometimes hard to read.",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A Funktionsverbgefüge pairs a noun with a light verb: zur Anwendung kommen, in Betracht ziehen, zur Verfügung stellen, in Frage stellen. The verb carries little meaning; the noun carries the content. These phrases are common in official and academic German."
+        },
+        {
+          "kind": "p",
+          "text": "They are useful when you need a formal, impersonal tone. They become a problem when they replace a clear verb for no reason. “Die Maßnahme kommt zur Anwendung” is more formal than “Die Maßnahme wird angewendet”, but not always better. Choose based on register and clarity."
+        },
+        {
+          "kind": "note",
+          "title": "Prefer the clear verb unless register demands otherwise",
+          "text": "In a report, “Wir prüfen den Vorschlag” is usually better than “Wir ziehen den Vorschlag in Betracht”. Use the nominal phrase when it adds precision or the right level of formality."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l3-rules",
+      "type": "rules",
+      "title": "Rules & patterns",
+      "minutes": 3,
+      "lessonId": "c1-m4-l3",
+      "lede": "The patterns to keep in mind while you work through the examples.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Pattern",
+            "Example"
+          ],
+          "rows": [
+            [
+              "zur Anwendung kommen",
+              "Die Maßnahme kommt nur unter bestimmten Bedingungen zur Anwendung."
+            ],
+            [
+              "in Betracht ziehen",
+              "Wir ziehen auch andere Lösungen in Betracht."
+            ],
+            [
+              "zur Verfügung stellen",
+              "Das Unternehmen stellt die Daten zur Verfügung."
+            ],
+            [
+              "in Frage stellen",
+              "Die Ergebnisse stellen die bisherige Annahme in Frage."
+            ]
+          ]
+        },
+        {
+          "kind": "list",
+          "items": [
+            "These phrases often use a prepositional phrase with zu or in.",
+            "The noun is usually feminine or neuter and takes a fixed article.",
+            "Do not stack three function verb phrases in one sentence."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l3-vocabulary",
+      "type": "vocabulary",
+      "title": "Vocabulary",
+      "minutes": 3,
+      "lessonId": "c1-m4-l3",
+      "lede": "Listen once, then read the example aloud.",
+      "items": [
+        {
+          "de": "zur Anwendung kommen",
+          "en": "to be applied, to come into use",
+          "example": "Die Maßnahme kommt nur unter bestimmten Bedingungen zur Anwendung.",
+          "exampleEn": "The measure is applied only under certain conditions."
+        },
+        {
+          "de": "in Betracht ziehen",
+          "en": "to consider",
+          "example": "Wir ziehen auch andere Lösungen in Betracht.",
+          "exampleEn": "We are also considering other solutions."
+        },
+        {
+          "de": "zur Verfügung stellen",
+          "en": "to make available",
+          "example": "Das Unternehmen stellt die Daten zur Verfügung.",
+          "exampleEn": "The company makes the data available."
+        },
+        {
+          "de": "in Frage stellen",
+          "en": "to question, to call into question",
+          "example": "Die Ergebnisse stellen die bisherige Annahme in Frage.",
+          "exampleEn": "The results call the previous assumption into question."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l3-examples",
+      "type": "examples",
+      "title": "Example sentences",
+      "minutes": 3,
+      "lessonId": "c1-m4-l3",
+      "lede": "Notice how the pattern behaves in a complete sentence.",
+      "items": [
+        {
+          "de": "Die Maßnahme kommt nur unter bestimmten Bedingungen zur Anwendung.",
+          "en": "The measure is applied only under certain conditions.",
+          "note": "A formal alternative to “wird angewendet”."
+        },
+        {
+          "de": "Wir ziehen auch andere Lösungen in Betracht.",
+          "en": "We are also considering other solutions.",
+          "note": "In Betracht ziehen is a formal “consider”."
+        },
+        {
+          "de": "Das Unternehmen stellt die Daten zur Verfügung.",
+          "en": "The company makes the data available.",
+          "note": "Zur Verfügung stellen is a fixed phrase."
+        },
+        {
+          "de": "Die Ergebnisse stellen die bisherige Annahme in Frage.",
+          "en": "The results call the previous assumption into question.",
+          "note": "In Frage stellen is stronger than “bezweifeln”."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l3-pronunciation",
+      "type": "pronunciation",
+      "title": "Pronunciation",
+      "minutes": 2,
+      "lessonId": "c1-m4-l3",
+      "lede": "Short, focused sound work. Play each item and repeat it twice.",
+      "items": [
+        {
+          "de": "die Anwendung",
+          "hint": "Stress the first syllable: AN-wen-dung."
+        },
+        {
+          "de": "in Betracht",
+          "hint": "The ch is soft: in be-TRACHT."
+        },
+        {
+          "de": "zur Verfügung",
+          "hint": "Stress the second word: tsur fer-FOO-gung."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l3-culture",
+      "type": "culture",
+      "title": "Cultural note",
+      "minutes": 2,
+      "lessonId": "c1-m4-l3",
+      "heading": "Nominal style in professional German",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Function verb phrases are a hallmark of German administrative and academic language. They signal formality and distance, which is appropriate in reports and official letters."
+        },
+        {
+          "kind": "p",
+          "text": "Plain-language movements in Germany and Austria push for clearer official texts. The goal is not to ban these phrases, but to use them only when they help."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l3-dialogue",
+      "type": "dialogue",
+      "title": "Dialogue in context",
+      "minutes": 3,
+      "lessonId": "c1-m4-l3",
+      "lede": "Read the scene, then play it and follow the speakers.",
+      "setting": "Two colleagues edit a formal report.",
+      "lines": [
+        {
+          "speaker": "Kollegin",
+          "de": "Klingt dieser Satz zu umgangssprachlich?",
+          "en": "Does this sentence sound too colloquial?"
+        },
+        {
+          "speaker": "Kollege",
+          "de": "Ja. Statt „wir nutzen die Methode“ schreiben wir „die Methode kommt zur Anwendung“.",
+          "en": "Yes. Instead of “we use the method”, we write “the method is applied”."
+        },
+        {
+          "speaker": "Kollegin",
+          "de": "Und was machen wir mit dem Vorschlag?",
+          "en": "And what do we do with the proposal?"
+        },
+        {
+          "speaker": "Kollege",
+          "de": "Wir ziehen ihn in Betracht, stellen ihn aber nicht in Frage.",
+          "en": "We consider it, but we do not call it into question."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l3-grammar",
+      "type": "grammar",
+      "title": "Grammar spotlight",
+      "minutes": 3,
+      "lessonId": "c1-m4-l3",
+      "heading": "Function verb phrases",
+      "lede": "Noun + light verb: formal, impersonal, often replaceable by a single verb.",
+      "blocks": [
+        {
+          "kind": "table",
+          "headers": [
+            "Form",
+            "Use"
+          ],
+          "rows": [
+            [
+              "zur Anwendung kommen",
+              "angewendet werden"
+            ],
+            [
+              "in Betracht ziehen",
+              "prüfen / erwägen"
+            ],
+            [
+              "zur Verfügung stellen",
+              "bereitstellen"
+            ],
+            [
+              "in Frage stellen",
+              "bezweifeln"
+            ]
+          ]
+        },
+        {
+          "kind": "p",
+          "text": "The noun in a function verb phrase is usually fixed. You cannot replace Anwendung with Nutzung without changing the expression. Learn the whole phrase."
+        }
+      ],
+      "tip": "If a sentence contains three function verb phrases, replace one with a plain verb. The text will be clearer without losing formality."
+    },
+    {
+      "id": "c1-m4-l3-mcq",
+      "type": "mcq",
+      "title": "Choose the right answer",
+      "minutes": 3,
+      "lessonId": "c1-m4-l3",
+      "lede": "Choose the answer that fits the sentence or the rule.",
+      "exercises": [
+        {
+          "id": "c1-m4-l3-p-m1",
+          "type": "mcq",
+          "prompt": "Die Maßnahme kommt nur unter bestimmten Bedingungen zur ___.",
+          "options": [
+            "Anwendung",
+            "Anwenden",
+            "angewendet",
+            "Anwendungen"
+          ],
+          "answer": 0,
+          "explanation": "The fixed phrase is zur Anwendung kommen."
+        },
+        {
+          "id": "c1-m4-l3-p-m2",
+          "type": "mcq",
+          "prompt": "Wir ziehen auch andere Lösungen in ___.",
+          "options": [
+            "Betracht",
+            "Betrachten",
+            "Betrachtung",
+            "betrachtet"
+          ],
+          "answer": 0,
+          "explanation": "The fixed phrase is in Betracht ziehen."
+        },
+        {
+          "id": "c1-m4-l3-p-m3",
+          "type": "mcq",
+          "prompt": "Which sentence is the clearest?",
+          "options": [
+            "Wir nehmen eine Prüfung des Vorschlags vor.",
+            "Wir prüfen den Vorschlag.",
+            "Es erfolgt eine Prüfung des Vorschlags durch uns.",
+            "Der Vorschlag kommt zur Prüfung."
+          ],
+          "answer": 1,
+          "explanation": "The plain verb is the clearest option."
+        },
+        {
+          "id": "c1-m4-l3-p-m4",
+          "type": "mcq",
+          "prompt": "“Die Ergebnisse stellen die Annahme in Frage” means …",
+          "options": [
+            "The results confirm the assumption",
+            "The results question the assumption",
+            "The results ignore the assumption",
+            "The results repeat the assumption"
+          ],
+          "answer": 1,
+          "explanation": "In Frage stellen means to call into question."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l3-gap",
+      "type": "gap",
+      "title": "Complete the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m4-l3",
+      "lede": "Type the missing word or ending. Spelling counts.",
+      "exercises": [
+        {
+          "id": "c1-m4-l3-p-g1",
+          "type": "gap",
+          "prompt": "Die Maßnahme kommt zur ___.",
+          "answers": [
+            "Anwendung"
+          ],
+          "explanation": "The fixed phrase is zur Anwendung kommen."
+        },
+        {
+          "id": "c1-m4-l3-p-g2",
+          "type": "gap",
+          "prompt": "Wir ziehen andere Lösungen in ___.",
+          "answers": [
+            "Betracht"
+          ],
+          "explanation": "The fixed phrase is in Betracht ziehen."
+        },
+        {
+          "id": "c1-m4-l3-p-g3",
+          "type": "gap",
+          "prompt": "Das Unternehmen stellt die Daten zur ___.",
+          "answers": [
+            "Verfügung"
+          ],
+          "explanation": "The fixed phrase is zur Verfügung stellen."
+        },
+        {
+          "id": "c1-m4-l3-p-g4",
+          "type": "gap",
+          "prompt": "Die Ergebnisse stellen die Annahme in ___.",
+          "answers": [
+            "Frage"
+          ],
+          "explanation": "The fixed phrase is in Frage stellen."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l3-order",
+      "type": "order",
+      "title": "Build the sentence",
+      "minutes": 3,
+      "lessonId": "c1-m4-l3",
+      "lede": "Click the words in the order that makes a correct German sentence.",
+      "exercises": [
+        {
+          "id": "c1-m4-l3-p-o1",
+          "type": "order",
+          "prompt": "Build: “The measure is applied only under certain conditions.”",
+          "tokens": [
+            "nur",
+            "Die",
+            "unter",
+            "Maßnahme",
+            "kommt",
+            "bestimmten",
+            "Bedingungen",
+            "zur",
+            "Anwendung."
+          ],
+          "answer": "Die Maßnahme kommt nur unter bestimmten Bedingungen zur Anwendung.",
+          "explanation": "The function verb phrase closes the sentence."
+        },
+        {
+          "id": "c1-m4-l3-p-o2",
+          "type": "order",
+          "prompt": "Build: “We are also considering other solutions.”",
+          "tokens": [
+            "auch",
+            "Wir",
+            "andere",
+            "ziehen",
+            "Lösungen",
+            "in",
+            "Betracht."
+          ],
+          "answer": "Wir ziehen auch andere Lösungen in Betracht.",
+          "explanation": "In Betracht ziehen is the fixed phrase."
+        },
+        {
+          "id": "c1-m4-l3-p-o3",
+          "type": "order",
+          "prompt": "Build: “The company makes the data available.”",
+          "tokens": [
+            "die",
+            "Das",
+            "Daten",
+            "Unternehmen",
+            "stellt",
+            "zur",
+            "Verfügung."
+          ],
+          "answer": "Das Unternehmen stellt die Daten zur Verfügung.",
+          "explanation": "Zur Verfügung stellen is the fixed phrase."
+        },
+        {
+          "id": "c1-m4-l3-p-o4",
+          "type": "order",
+          "prompt": "Build: “The results call the assumption into question.”",
+          "tokens": [
+            "die",
+            "Die",
+            "Annahme",
+            "Ergebnisse",
+            "stellen",
+            "in",
+            "Frage."
+          ],
+          "answer": "Die Ergebnisse stellen die Annahme in Frage.",
+          "explanation": "In Frage stellen is the fixed phrase."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l3-listening",
+      "type": "listening",
+      "title": "Listening",
+      "minutes": 4,
+      "lessonId": "c1-m4-l3",
+      "lede": "Listen twice before you look at the transcript.",
+      "speaker": "Eine Besprechung über einen Bericht",
+      "script": [
+        {
+          "speaker": "Leiterin",
+          "de": "Wann kommt die neue Regelung zur Anwendung?",
+          "en": "When will the new regulation be applied?"
+        },
+        {
+          "speaker": "Mitarbeiter",
+          "de": "Ab Januar, aber nur unter bestimmten Bedingungen.",
+          "en": "From January, but only under certain conditions."
+        },
+        {
+          "speaker": "Leiterin",
+          "de": "Ziehen wir auch Alternativen in Betracht?",
+          "en": "Are we also considering alternatives?"
+        },
+        {
+          "speaker": "Mitarbeiter",
+          "de": "Ja. Die Ergebnisse stellen die bisherige Annahme in Frage.",
+          "en": "Yes. The results call the previous assumption into question."
+        }
+      ],
+      "questions": [
+        {
+          "id": "c1-m4-l3-l1",
+          "type": "mcq",
+          "prompt": "When will the new regulation be applied?",
+          "options": [
+            "From January",
+            "From June",
+            "Immediately",
+            "Next year"
+          ],
+          "answer": 0,
+          "explanation": "The employee says from January."
+        },
+        {
+          "id": "c1-m4-l3-l2",
+          "type": "mcq",
+          "prompt": "What do the results do?",
+          "options": [
+            "Confirm the assumption",
+            "Call the assumption into question",
+            "Ignore the assumption",
+            "Repeat the assumption"
+          ],
+          "answer": 1,
+          "explanation": "The results call the previous assumption into question."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l3-speaking",
+      "type": "speaking",
+      "title": "Speaking",
+      "minutes": 3,
+      "lessonId": "c1-m4-l3",
+      "lede": "Record or say your answer aloud, then compare it with the model.",
+      "prompt": "Rewrite two plain sentences in formal style using function verb phrases, then explain one drawback.",
+      "model": {
+        "de": "Statt „wir nutzen die Methode“ schreibe ich „die Methode kommt zur Anwendung“. Statt „wir prüfen den Vorschlag“ schreibe ich „wir ziehen den Vorschlag in Betracht“. Das klingt formeller, kann aber unklar wirken.",
+        "en": "Instead of “we use the method”, I write “the method is applied”. Instead of “we check the proposal”, I write “we consider the proposal”. That sounds more formal but can seem unclear."
+      },
+      "tips": [
+        "Keep the noun fixed: Anwendung, Betracht, Verfügung, Frage.",
+        "Use function verb phrases once or twice, not in every sentence.",
+        "Say why the formal version might be less clear."
+      ]
+    },
+    {
+      "id": "c1-m4-l3-mistakes",
+      "type": "mistakes",
+      "title": "Common mistakes",
+      "minutes": 2,
+      "lessonId": "c1-m4-l3",
+      "lede": "These are the errors learners most often make with this pattern.",
+      "items": [
+        {
+          "wrong": "Die Maßnahme kommt zur anwendung.",
+          "right": "Die Maßnahme kommt zur Anwendung.",
+          "why": "Nouns are capitalised in German."
+        },
+        {
+          "wrong": "Wir ziehen andere Lösungen in Betracht ziehen.",
+          "right": "Wir ziehen andere Lösungen in Betracht.",
+          "why": "Do not repeat the infinitive in the main clause."
+        },
+        {
+          "wrong": "Die Ergebnisse stellen die Annahme in Frage stellen.",
+          "right": "Die Ergebnisse stellen die Annahme in Frage.",
+          "why": "The separable prefix Frage closes the sentence; no second verb is needed."
+        }
+      ]
+    },
+    {
+      "id": "c1-m4-l3-assessment",
+      "type": "assessment",
+      "title": "Lesson assessment",
+      "minutes": 4,
+      "lessonId": "c1-m4-l3",
+      "lede": "A 12-question check. Score 70% or more to unlock the next lesson.",
+      "passScore": 70,
+      "questions": [
+        {
+          "id": "c1-m4-l3-a1",
+          "type": "mcq",
+          "prompt": "Die Maßnahme kommt nur unter bestimmten Bedingungen zur ___.",
+          "options": [
+            "Anwendung",
+            "Anwenden",
+            "angewendet",
+            "Anwendungen"
+          ],
+          "answer": 0,
+          "explanation": "The fixed phrase is zur Anwendung kommen."
+        },
+        {
+          "id": "c1-m4-l3-a2",
+          "type": "mcq",
+          "prompt": "Wir ziehen auch andere Lösungen in ___.",
+          "options": [
+            "Betracht",
+            "Betrachten",
+            "Betrachtung",
+            "betrachtet"
+          ],
+          "answer": 0,
+          "explanation": "The fixed phrase is in Betracht ziehen."
+        },
+        {
+          "id": "c1-m4-l3-a3",
+          "type": "mcq",
+          "prompt": "Which sentence is the clearest?",
+          "options": [
+            "Wir nehmen eine Prüfung des Vorschlags vor.",
+            "Wir prüfen den Vorschlag.",
+            "Es erfolgt eine Prüfung des Vorschlags durch uns.",
+            "Der Vorschlag kommt zur Prüfung."
+          ],
+          "answer": 1,
+          "explanation": "The plain verb is the clearest option."
+        },
+        {
+          "id": "c1-m4-l3-a4",
+          "type": "mcq",
+          "prompt": "“Die Ergebnisse stellen die Annahme in Frage” means …",
+          "options": [
+            "The results confirm the assumption",
+            "The results question the assumption",
+            "The results ignore the assumption",
+            "The results repeat the assumption"
+          ],
+          "answer": 1,
+          "explanation": "In Frage stellen means to call into question."
+        },
+        {
+          "id": "c1-m4-l3-a5",
+          "type": "gap",
+          "prompt": "Die Maßnahme kommt zur ___.",
+          "answers": [
+            "Anwendung"
+          ],
+          "explanation": "The fixed phrase is zur Anwendung kommen."
+        },
+        {
+          "id": "c1-m4-l3-a6",
+          "type": "gap",
+          "prompt": "Wir ziehen andere Lösungen in ___.",
+          "answers": [
+            "Betracht"
+          ],
+          "explanation": "The fixed phrase is in Betracht ziehen."
+        },
+        {
+          "id": "c1-m4-l3-a7",
+          "type": "gap",
+          "prompt": "Das Unternehmen stellt die Daten zur ___.",
+          "answers": [
+            "Verfügung"
+          ],
+          "explanation": "The fixed phrase is zur Verfügung stellen."
+        },
+        {
+          "id": "c1-m4-l3-a8",
+          "type": "gap",
+          "prompt": "Die Ergebnisse stellen die Annahme in ___.",
+          "answers": [
+            "Frage"
+          ],
+          "explanation": "The fixed phrase is in Frage stellen."
+        },
+        {
+          "id": "c1-m4-l3-a9",
+          "type": "order",
+          "prompt": "Build: “The measure is applied only under certain conditions.”",
+          "tokens": [
+            "nur",
+            "Die",
+            "unter",
+            "Maßnahme",
+            "kommt",
+            "bestimmten",
+            "Bedingungen",
+            "zur",
+            "Anwendung."
+          ],
+          "answer": "Die Maßnahme kommt nur unter bestimmten Bedingungen zur Anwendung.",
+          "explanation": "The function verb phrase closes the sentence."
+        },
+        {
+          "id": "c1-m4-l3-a10",
+          "type": "order",
+          "prompt": "Build: “We are also considering other solutions.”",
+          "tokens": [
+            "auch",
+            "Wir",
+            "andere",
+            "ziehen",
+            "Lösungen",
+            "in",
+            "Betracht."
+          ],
+          "answer": "Wir ziehen auch andere Lösungen in Betracht.",
+          "explanation": "In Betracht ziehen is the fixed phrase."
+        },
+        {
+          "id": "c1-m4-l3-a11",
+          "type": "order",
+          "prompt": "Build: “The company makes the data available.”",
+          "tokens": [
+            "die",
+            "Das",
+            "Daten",
+            "Unternehmen",
+            "stellt",
+            "zur",
+            "Verfügung."
+          ],
+          "answer": "Das Unternehmen stellt die Daten zur Verfügung.",
+          "explanation": "Zur Verfügung stellen is the fixed phrase."
+        },
+        {
+          "id": "c1-m4-l3-a12",
+          "type": "order",
+          "prompt": "Build: “The results call the assumption into question.”",
+          "tokens": [
+            "die",
+            "Die",
+            "Annahme",
+            "Ergebnisse",
+            "stellen",
+            "in",
+            "Frage."
+          ],
+          "answer": "Die Ergebnisse stellen die Annahme in Frage.",
+          "explanation": "In Frage stellen is the fixed phrase."
+        }
+      ]
+    }
+  ]
+}
